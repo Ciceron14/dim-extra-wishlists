@@ -1,4 +1,4 @@
-title:Auto-Updating DIM Wishlist based on Aegis's Endgame Analysis sheet
+title:Aegis's Endgame Analysis -> Special & Power (S Tier only)
 description:Lists all Special & Power weapons rated S tier. All credit goes to Aegis for the source.
 
 //Dead Weight

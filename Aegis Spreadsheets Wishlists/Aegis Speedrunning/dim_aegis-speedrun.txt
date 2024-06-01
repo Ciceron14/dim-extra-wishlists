@@ -1,4 +1,4 @@
-title:Auto-Updating DIM Wishlist based on Aegis's Speedrunner's Shopping List sheet
+title:Aegis's Speedrunner's Shopping List
 description:All credit goes to Aegis for the source.
 
 //Apex Predator
