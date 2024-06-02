@@ -1,4 +1,4 @@
-title:Auto-Updating DIM Wishlist based on Aegis's Endgame Analysis sheet
+title:Aegis's Endgame Analysis -> Only the best weapons of all
 description:Lists all Special & Power weapons rated S tier as well as all Primaries rated as Best in Slot. All credit goes to Aegis for the source.
 
 //Dead Weight
