@@ -95,6 +95,14 @@ dimwishlist:item=-4190932264&perks=
 dimwishlist:item=-3107853529&perks=
 
 
+//Widow's Bite
+//notes:Aegis Recommended alternative(s): Distant Tumulus, IKELOS_SR_v1.0.3, Twilight Oath
+dimwishlist:item=-3312073055&perks=
+
+
+dimwishlist:item=-1271343896&perks=
+
+
 //Omniscient Eye
 //notes:Aegis Recommended alternative(s): Distant Tumulus, IKELOS_SR_v1.0.3, Twilight Oath
 dimwishlist:item=-3454326177&perks=
@@ -120,6 +128,11 @@ dimwishlist:item=-617501162&perks=
 dimwishlist:item=-3258665412&perks=
 
 
+//Zealot's Reward
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-2209003210&perks=
+
+
 //Hollow Words
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-607191995&perks=
@@ -128,6 +141,14 @@ dimwishlist:item=-607191995&perks=
 //Snorri FR5
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-4114929480&perks=
+
+
+//Timelines' Vertex
+//notes:Aegis Recommended alternative(s): Royal Executioner, Cartesian Coordinate
+dimwishlist:item=-1006783454&perks=
+
+
+dimwishlist:item=-3055192515&perks=
 
 
 //The Epicurean
@@ -170,6 +191,14 @@ dimwishlist:item=-3252697558&perks=
 
 
 dimwishlist:item=-1946491241&perks=
+
+
+//Orewing's Maul
+//notes:Aegis Recommended alternative(s): Wilderflight
+dimwishlist:item=-1870979911&perks=
+
+
+dimwishlist:item=-2108920981&perks=
 
 
 //Incisor
@@ -232,6 +261,14 @@ dimwishlist:item=-2453357042&perks=
 dimwishlist:item=-4146702548&perks=
 
 
+//Berenger's Memory
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version, Regnant
+dimwishlist:item=-1983332562&perks=
+
+
+dimwishlist:item=-407621213&perks=
+
+
 //Quickfang
 //notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Crown-Splitter, Double-Edged Answer
 dimwishlist:item=-1180270692&perks=
@@ -245,9 +282,22 @@ dimwishlist:item=-2782325300&perks=
 dimwishlist:item=-2139640995&perks=
 
 
+//Temptation's Hook
+//notes:Aegis Recommended alternative(s): Bequest, Nasreddin, Night Terror, Half-Truths
+dimwishlist:item=-35794111&perks=
+
+
 //Dragoncult Sickle
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-3668817296&perks=
+
+
+//Sola's Scar
+//notes:Aegis Recommended alternative(s): Caretaker, Throne-Cleaver, Negative Space
+dimwishlist:item=-1313528549&perks=
+
+
+dimwishlist:item=-3847137620&perks=
 
 
 //Chivalric Fire
@@ -281,5 +331,10 @@ dimwishlist:item=-2502422775&perks=
 
 
 dimwishlist:item=-3335343363&perks=
+
+
+//Corsair's Wrath
+//notes:Aegis Recommended alternative(s): Cataclysmic, Briar's Contempt
+dimwishlist:item=-2714022207&perks=
 
 

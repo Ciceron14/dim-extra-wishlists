@@ -95,7 +95,7 @@ dimwishlist:item=2884596447&perks=906981559,848860060,1489048135
 
 
 //Succession
-//notes:Aegis Endgame S Tier - [BRAVE version
+//notes:Aegis Endgame S Tier - (BRAVE version)
 
 
 dimwishlist:item=3612338554&perks=1523832109,469285294,2489430594
@@ -166,7 +166,7 @@ dimwishlist:item=2715240478&perks=2869569095,3523296417,4091460919
 
 
 //Forbearance
-//notes:Aegis Endgame S Tier - [BRAVE version
+//notes:Aegis Endgame S Tier - (BRAVE version)
 
 
 
@@ -246,7 +246,7 @@ dimwishlist:item=1218113510&perks=2039302152,2396489472,2120661319
 
 
 //The Mountaintop
-//notes:Aegis Endgame S Tier - [BRAVE version
+//notes:Aegis Endgame S Tier - (BRAVE version)
 
 
 dimwishlist:item=568611922&perks=3300816228,4104185692,2489430594
@@ -275,6 +275,22 @@ dimwishlist:item=4005780578&perks=3300816228,2173046394,2988596335
 dimwishlist:item=1141586039&perks=3300816228,4104185692,2988596335
 dimwishlist:item=1141586039&perks=3300816228,1782407750,2988596335
 dimwishlist:item=1141586039&perks=3300816228,2173046394,2988596335
+
+
+//Nezarec's Whisper
+//notes:Aegis Endgame S Tier
+dimwishlist:item=254636484&perks=3523296417,4104185692,1250481499
+dimwishlist:item=254636484&perks=3523296417,3007133316,1250481499
+dimwishlist:item=254636484&perks=1906147653,4104185692,1250481499
+dimwishlist:item=254636484&perks=1906147653,3007133316,1250481499
+dimwishlist:item=254636484&perks=951095735,4104185692,1250481499
+dimwishlist:item=254636484&perks=951095735,3007133316,1250481499
+dimwishlist:item=254636484&perks=3878366039,4104185692,1250481499
+dimwishlist:item=254636484&perks=3878366039,3007133316,1250481499
+dimwishlist:item=254636484&perks=1556840489,4104185692,1250481499
+dimwishlist:item=254636484&perks=1556840489,3007133316,1250481499
+dimwishlist:item=254636484&perks=3442762221,4104185692,1250481499
+dimwishlist:item=254636484&perks=3442762221,3007133316,1250481499
 
 
 //Retraced Path
@@ -318,7 +334,7 @@ dimwishlist:item=4230965989&perks=2848615171,2541826827,766321425
 
 
 //Hammerhead
-//notes:Aegis Endgame S Tier - [BRAVE version
+//notes:Aegis Endgame S Tier - (BRAVE version)
 
 
 dimwishlist:item=1896309757&perks=3418782618,557221067,2489430594
@@ -456,7 +472,7 @@ dimwishlist:item=3796510434&perks=1820235745,4049631843,
 
 
 //Edge Transit
-//notes:Aegis Endgame S Tier - [BRAVE version
+//notes:Aegis Endgame S Tier - (BRAVE version)
 
 
 dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
@@ -510,7 +526,7 @@ dimwishlist:item=1354727549&perks=2396489472,3523296417,1281216113
 
 
 //Falling Guillotine
-//notes:Aegis Endgame S Tier - [BRAVE version
+//notes:Aegis Endgame S Tier - (BRAVE version)
 
 
 dimwishlist:item=1815105249&perks=2396489472,2077819806,2489430594

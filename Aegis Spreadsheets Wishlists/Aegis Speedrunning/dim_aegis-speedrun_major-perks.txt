@@ -166,6 +166,11 @@ dimwishlist:item=1168625549&perks=4245865861,3751912585
 dimwishlist:item=1168625549&perks=4245865861,331667533
 
 
+//Izanagi's Burden
+//notes:Speedrunner's Priority #1 (Universal use) -> Ranged single target burst
+dimwishlist:item=3211806999&perks=,
+
+
 //Lumina
 //notes:Speedrunner's Priority #1 (Universal use) -> Providing 35% buff
 dimwishlist:item=3512014804&perks=,
@@ -221,6 +226,11 @@ dimwishlist:item=548958835&perks=3431277734,4293542123
 dimwishlist:item=548958835&perks=3431277734,2675184851
 dimwishlist:item=548958835&perks=3431277734,4104185692
 dimwishlist:item=548958835&perks=3431277734,3007133316
+
+
+//Salvation's Grip
+//notes:Speedrunner's Priority #1 (VotD, KF, RoN use) -> Blocking spawn points ; Creating terrain
+dimwishlist:item=370712896&perks=,
 
 
 //The Fourth Horseman
@@ -438,6 +448,11 @@ dimwishlist:item=4255586669&perks=3300816228,960810156
 dimwishlist:item=4255586669&perks=3300816228,1546637391
 
 
+//Eriana's Vow
+//notes:Speedrunner's Priority #2 (VoG, Duality, VotD use) -> Rapid piercing damage ; Destroying oracles ; Death Throes stacking
+dimwishlist:item=3524313097&perks=,
+
+
 //Explosive Personality
 //notes:Speedrunner's Priority #2 (Universal use) -> Ammo efficient add clear
 dimwishlist:item=4096943616&perks=3300816228,4104185692
@@ -600,6 +615,34 @@ dimwishlist:item=570866107&perks=3523296417,957782887
 dimwishlist:item=570866107&perks=3523296417,469285294
 
 
+//The Militia's Birthright
+//notes:Speedrunner's Priority #2 (Universal use) -> Blinding enemies
+
+
+dimwishlist:item=40394833&perks=2039302152,3300816228
+dimwishlist:item=40394833&perks=2039302152,4104185692
+dimwishlist:item=40394833&perks=1556840489,3300816228
+dimwishlist:item=40394833&perks=1556840489,4104185692
+
+
+dimwishlist:item=2378101424&perks=2039302152,3300816228
+dimwishlist:item=2378101424&perks=2039302152,4104185692
+dimwishlist:item=2378101424&perks=1556840489,3300816228
+dimwishlist:item=2378101424&perks=1556840489,4104185692
+
+
+dimwishlist:item=1854753405&perks=2039302152,3300816228
+dimwishlist:item=1854753405&perks=2039302152,4104185692
+dimwishlist:item=1854753405&perks=1556840489,3300816228
+dimwishlist:item=1854753405&perks=1556840489,4104185692
+
+
+dimwishlist:item=4162642204&perks=2039302152,3300816228
+dimwishlist:item=4162642204&perks=2039302152,4104185692
+dimwishlist:item=4162642204&perks=1556840489,3300816228
+dimwishlist:item=4162642204&perks=1556840489,4104185692
+
+
 //The Wardcliff Coil
 //notes:Speedrunner's Priority #2 (The Scarlet Keep, The Shattered Throne use) -> Melting vehicle bosses
 dimwishlist:item=1508896098&perks=,
@@ -673,6 +716,36 @@ dimwishlist:item=2891672170&perks=2869569095,1546637391
 //Xenophage
 //notes:Speedrunner's Priority #2 (Universal use) -> Ranged hitscan bursts
 dimwishlist:item=1395261499&perks=,
+
+
+//Acasia's Dejection
+//notes:Speedrunner's Priority #3 (Universal use) -> Avoiding primary swaps ; Special single shot add clear
+dimwishlist:item=1471212226&perks=1523832109,4104185692
+dimwishlist:item=1471212226&perks=1523832109,3007133316
+dimwishlist:item=1471212226&perks=1523832109,3215448563
+dimwishlist:item=1471212226&perks=1523832109,3299896859
+dimwishlist:item=1471212226&perks=461595545,4104185692
+dimwishlist:item=1471212226&perks=461595545,3007133316
+dimwishlist:item=1471212226&perks=461595545,3215448563
+dimwishlist:item=1471212226&perks=461595545,3299896859
+dimwishlist:item=1471212226&perks=2869569095,4104185692
+dimwishlist:item=1471212226&perks=2869569095,3007133316
+dimwishlist:item=1471212226&perks=2869569095,3215448563
+dimwishlist:item=1471212226&perks=2869569095,3299896859
+
+
+dimwishlist:item=3493494807&perks=1523832109,4104185692
+dimwishlist:item=3493494807&perks=1523832109,3007133316
+dimwishlist:item=3493494807&perks=1523832109,3215448563
+dimwishlist:item=3493494807&perks=1523832109,3299896859
+dimwishlist:item=3493494807&perks=461595545,4104185692
+dimwishlist:item=3493494807&perks=461595545,3007133316
+dimwishlist:item=3493494807&perks=461595545,3215448563
+dimwishlist:item=3493494807&perks=461595545,3299896859
+dimwishlist:item=3493494807&perks=2869569095,4104185692
+dimwishlist:item=3493494807&perks=2869569095,3007133316
+dimwishlist:item=3493494807&perks=2869569095,3215448563
+dimwishlist:item=3493494807&perks=2869569095,3299896859
 
 
 //Conditional Finality
@@ -770,6 +843,20 @@ dimwishlist:item=1606497639&perks=2869569095,2048641572
 dimwishlist:item=2026087437&perks=3300816228,2978966579
 
 
+//Nessa's Oblation
+//notes:Speedrunner's Priority #3 (Universal use) -> Double slug
+dimwishlist:item=135029084&perks=1523832109,1546637391
+dimwishlist:item=135029084&perks=1523832109,3418165135
+dimwishlist:item=135029084&perks=461595545,1546637391
+dimwishlist:item=135029084&perks=461595545,3418165135
+
+
+dimwishlist:item=522366885&perks=1523832109,1546637391
+dimwishlist:item=522366885&perks=1523832109,3418165135
+dimwishlist:item=522366885&perks=461595545,1546637391
+dimwishlist:item=522366885&perks=461595545,3418165135
+
+
 //One Small Step
 //notes:Speedrunner's Priority #3 (Universal use) -> One-two punch
 dimwishlist:item=1016668089&perks=3161816588,2679249093
@@ -787,6 +874,12 @@ dimwishlist:item=2558925366&perks=923806249,2594592626
 dimwishlist:item=2558925366&perks=923806249,2037312142
 dimwishlist:item=2558925366&perks=3422796781,2594592626
 dimwishlist:item=2558925366&perks=3422796781,2037312142
+
+
+//Sojourner's Tale
+//notes:Speedrunner's Priority #3 (Universal use) -> Double slug
+dimwishlist:item=599895591&perks=3300816228,4104185692
+dimwishlist:item=599895591&perks=3300816228,3708227201
 
 
 //Tarnation
