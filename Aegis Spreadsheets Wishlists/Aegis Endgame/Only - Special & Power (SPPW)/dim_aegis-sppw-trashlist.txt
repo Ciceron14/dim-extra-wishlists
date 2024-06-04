@@ -193,6 +193,9 @@ dimwishlist:item=-3252697558&perks=
 dimwishlist:item=-1946491241&perks=
 
 
+dimwishlist:item=-447296102&perks=
+
+
 //Orewing's Maul
 //notes:Aegis Recommended alternative(s): Wilderflight
 dimwishlist:item=-1870979911&perks=
@@ -207,6 +210,12 @@ dimwishlist:item=-4248997900&perks=
 
 
 dimwishlist:item=-2421180981&perks=
+
+
+dimwishlist:item=-1711056134&perks=
+
+
+dimwishlist:item=-2839600459&perks=
 
 
 //Seventh Seraph SAW
