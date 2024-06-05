@@ -1,11 +1,19 @@
-Collection of DIM Wishlists based on Aegis's Spreadsheets
+Collection of DIM Wishlists based on [Aegis](https://linktr.ee/TheAegisRelic)'s Spreadsheets
 
 ## Wishlist Sources
-Endgame Wishlists -> https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/htmlview#
+Endgame Wishlists -> [Endgame Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/)
 
-Speedrun Wishlists -> https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/edit#gid=0
+Speedrun Wishlists -> [Speedrunner's Shopping List](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/)
 
-## Selecting the files you want
+## Recommended Wishlists
+For most players, the following wishlist files are going to be the most helpful.
+
+You can use the other files to get a more tailored wish list in DIM: see the next section.
+- [Endgame - All Weapons](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/All%20Weapon%20Types/dim_aegis_major-perks.txt): Complete list of all rolls from guns rated A or S in the Endgame Analysis spreadsheet.
+- [Endgame Shopping List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/dim_aegis-shopping_major-perks.txt): Current "Shopping List" tab rolls from the Endgame Analysis sheet. Includes the "use case" comments, and exotics.
+- [Speedrunner's Shopping List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt): All rolls from weapons in the Speedrunner's Shopping List sheet, excluding those marked as "N/A". Includes the "use case" comments, and exotics.
+
+## More Specific Wishlists
 ### Weapon Types
 Wishlists for the Endgame Analysis sheet can be split per Weapon Type
 - Primaries only
