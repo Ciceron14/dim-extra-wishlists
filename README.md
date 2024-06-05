@@ -28,7 +28,7 @@ Wishlists that have "exclusive" in their name only look at the best of the best
 ### Perks
 Wishlists will mostly only look at "Major Perks" aka the two main traits of a weapon, as this is what Aegis lists in the Endgame Spreadsheet.
 
-However, the Speedrunner's Shopping List sheet des list barrels and mags, which means you can choose the "major-perks" version or get the full, most exclusive one.
+However, the Speedrunner's Shopping List sheet does list barrels and mags, which means you can choose the "major-perks" version or get the full, most exclusive one.
 
 ## Importing into DIM
 To import the wishlists in this repo, or any other, you need to grab the "raw" URL of the one(s) you want.
