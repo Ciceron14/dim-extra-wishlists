@@ -14,6 +14,8 @@ You can use the other files to get a more tailored wish list in DIM: see the nex
 - [Speedrunner's Shopping List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt): All rolls from weapons in the Speedrunner's Shopping List sheet, excluding those marked as "N/A". Includes the "use case" comments, and exotics.
 
 ## More Specific Wishlists
+### Trash List
+The SPPW (Special & Power weapons) section contains a [Trash List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/Only%20-%20Special%20%26%20Power%20(SPPW)/dim_aegis-sppw-trashlist.txt) that can be used to highlight the weapons you own that are rated D or lower. They will have a comment recommending alternatives in the same weapon type & energy, if any has been rated A or S.
 ### Weapon Types
 Wishlists for the Endgame Analysis sheet can be split per Weapon Type
 - Primaries only
