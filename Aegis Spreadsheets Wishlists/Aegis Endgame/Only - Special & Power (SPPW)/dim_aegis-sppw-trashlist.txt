@@ -1,17 +1,60 @@
 title:Aegis's Endgame Analysis -> Special & Power (Trash)
 description:Lists all Special & Power weapons rated D tier or lower as Trash, provides alternatives if weapons with the same archetype and energy exist at A or S tier. All credit goes to Aegis for the source.
 
-//No Reprieve
-//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
-dimwishlist:item=-2531963421&perks=
+//Riiswalker
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
+dimwishlist:item=-108221785&perks=
 
 
-//Wishbringer
-//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3, Seventh Seraph CQC-12, Without Remorse
-dimwishlist:item=-3190698551&perks=
+dimwishlist:item=-1764868900&perks=
 
 
-dimwishlist:item=-3356526253&perks=
+dimwishlist:item=-557165046&perks=
+
+
+//Ragnhild-D
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
+dimwishlist:item=-4225322581&perks=
+
+
+//Prophet of Doom
+//notes:Aegis Recommended alternative(s): Dead Weight
+dimwishlist:item=-4020742303&perks=
+
+
+//Sojourner's Tale
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-599895591&perks=
+
+
+//Found Verdict
+//notes:Aegis Recommended alternative(s): Dead Weight
+dimwishlist:item=-3197270240&perks=
+
+
+dimwishlist:item=-631439337&perks=
+
+
+//First In, Last Out
+//notes:Aegis Recommended alternative(s): Dead Weight
+dimwishlist:item=-515224227&perks=
+
+
+dimwishlist:item=-3616586446&perks=
+
+
+//Gunnora's Axe
+//notes:Aegis Recommended alternative(s): Dead Weight
+dimwishlist:item=-94729174&perks=
+
+
+dimwishlist:item=-2326716489&perks=
+
+
+dimwishlist:item=-487361141&perks=
+
+
+dimwishlist:item=-411397829&perks=
 
 
 //Fractethyst
@@ -19,16 +62,65 @@ dimwishlist:item=-3356526253&perks=
 dimwishlist:item=-3184681056&perks=
 
 
+//No Reprieve
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-2531963421&perks=
+
+
 //Last Man Standing
-//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3, Seventh Seraph CQC-12, Without Remorse
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
 dimwishlist:item=-755130877&perks=
 
 
 dimwishlist:item=-4287947559&perks=
 
 
+//Astral Horizon
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
+dimwishlist:item=-1697682876&perks=
+
+
+dimwishlist:item=-532746994&perks=
+
+
+dimwishlist:item=-2653171213&perks=
+
+
+dimwishlist:item=-854379020&perks=
+
+
+//Mindbender's Ambition
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-4117693024&perks=
+
+
+dimwishlist:item=-1094005544&perks=
+
+
+dimwishlist:item=-912150785&perks=
+
+
+dimwishlist:item=-1586231351&perks=
+
+
+dimwishlist:item=-2074041946&perks=
+
+
+//Felwinter's Lie
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-1179141605&perks=
+
+
+//Wishbringer
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-3190698551&perks=
+
+
+dimwishlist:item=-3356526253&perks=
+
+
 //The Inquisitor
-//notes:Aegis Recommended alternative(s): Dead Weight, Xenoclast IV
+//notes:Aegis Recommended alternative(s): Dead Weight
 dimwishlist:item=-2185327324&perks=
 
 
@@ -42,28 +134,137 @@ dimwishlist:item=-825554997&perks=
 
 
 //Toil and Trouble
-//notes:Aegis Recommended alternative(s): Heritage, Wastelander M5, One Small Step, Imperial Decree
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
 dimwishlist:item=-2957367743&perks=
 
 
 //Blasphemer
-//notes:Aegis Recommended alternative(s): Heritage, Wastelander M5, One Small Step, Imperial Decree
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
 dimwishlist:item=-2782847179&perks=
 
 
 //Bonechiller
-//notes:Aegis Recommended alternative(s): Retrofuturist, Basso Ostinato, The Deicide
+//notes:Aegis Recommended alternative(s): Basso Ostinato, The Deicide
 dimwishlist:item=-4037745684&perks=
 
 
 //Reckless Endangerment
-//notes:Aegis Recommended alternative(s): Heritage, Wastelander M5, One Small Step, Imperial Decree
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
 dimwishlist:item=-3216652511&perks=
+
+
+//Tranquility
+//notes:Aegis Recommended alternative(s): The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-1645386487&perks=
+
+
+//Defiance of Yasmin
+//notes:Aegis Recommended alternative(s): The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3228096719&perks=
+
+
+dimwishlist:item=-3503019618&perks=
+
+
+//Father's Sins
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-3865728990&perks=
+
+
+//A Distant Pull
+//notes:Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-1769847435&perks=
+
+
+//Locus Locutus
+//notes:Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-4132072834&perks=
+
+
+//Volta Bracket
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-3920310144&perks=
+
+
+//The Long Walk
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-174804902&perks=
+
+
+dimwishlist:item=-3326850591&perks=
+
+
+//Occluded Finality
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-3434507093&perks=
+
+
+dimwishlist:item=-852551895&perks=
+
+
+//Thoughtless
+//notes:Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-4067556514&perks=
+
+
+//Mechabre
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1280894514&perks=
+
+
+dimwishlist:item=-3871226707&perks=
+
+
+//Luna Regolith III
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1948035256&perks=
+
+
+//Last Foray
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1106635211&perks=
+
+
+//Far Future
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-893527433&perks=
+
+
+//Albruna-D
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-676270382&perks=
+
+
+//Bite of the Fox
+//notes:Aegis Recommended alternative(s): The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3169616514&perks=
+
+
+dimwishlist:item=-1403800851&perks=
+
+
+//Silicon Neuroma
+//notes:Aegis Recommended alternative(s): The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-990416096&perks=
+
+
+dimwishlist:item=-3355385170&perks=
+
+
+dimwishlist:item=-1387987271&perks=
 
 
 //Adored
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-4184808992&perks=
+
+
+//Beloved
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-4190932264&perks=
+
+
+dimwishlist:item=-3107853529&perks=
 
 
 //Persuader
@@ -77,6 +278,42 @@ dimwishlist:item=-4083045006&perks=
 dimwishlist:item=-781498181&perks=
 
 
+//Sole Survivor
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1115104187&perks=
+
+
+dimwishlist:item=-1150492185&perks=
+
+
+//Shepherd's Watch
+//notes:Aegis Recommended alternative(s): The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3312073053&perks=
+
+
+dimwishlist:item=-3743729616&perks=
+
+
+//Eye of Sol
+//notes:Aegis Recommended alternative(s): The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3164743584&perks=
+
+
+dimwishlist:item=-3637570176&perks=
+
+
+dimwishlist:item=-1401300690&perks=
+
+
+dimwishlist:item=-2059255495&perks=
+
+
+dimwishlist:item=-627188188&perks=
+
+
+dimwishlist:item=-1321626661&perks=
+
+
 //Mercurial Overreach
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-2073794990&perks=
@@ -87,16 +324,8 @@ dimwishlist:item=-2073794990&perks=
 dimwishlist:item=-3745990145&perks=
 
 
-//Beloved
-//notes:Aegis Recommended alternative(s): Distant Tumulus, IKELOS_SR_v1.0.3, Twilight Oath
-dimwishlist:item=-4190932264&perks=
-
-
-dimwishlist:item=-3107853529&perks=
-
-
 //Widow's Bite
-//notes:Aegis Recommended alternative(s): Distant Tumulus, IKELOS_SR_v1.0.3, Twilight Oath
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-3312073055&perks=
 
 
@@ -104,13 +333,21 @@ dimwishlist:item=-1271343896&perks=
 
 
 //Omniscient Eye
-//notes:Aegis Recommended alternative(s): Distant Tumulus, IKELOS_SR_v1.0.3, Twilight Oath
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-3454326177&perks=
 
 
 //1000 Yard Stare
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-4164201232&perks=
+
+
+//The Domino
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-4272442416&perks=
+
+
+dimwishlist:item=-2800870005&perks=
 
 
 //Apostate
