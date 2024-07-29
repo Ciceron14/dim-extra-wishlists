@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Special & Power
-description:Lists all Special & Power weapons rated A or S tier. All credit goes to Aegis for the source.
+description:Lists all Special & Power weapons rated A or S tier by Aegis.
 
 //IKELOS_SG_v1.0.3
 //notes:Aegis Endgame S Tier

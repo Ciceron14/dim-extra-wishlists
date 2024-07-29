@@ -1,5 +1,5 @@
 title:Aegis's Endgame Shopping List
-description:All credit goes to Aegis for the source.
+description:Currently relevant Endgame Weapons, curated by Aegis.
 
 //Pardon Our Dust
 //notes:Endgame Shopping List - Role: kinetic blinding GL

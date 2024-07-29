@@ -1,5 +1,5 @@
 title:Aegis's Speedrunner's Shopping List (Major Perks only)
-description:Only considers main perks. All credit goes to Aegis for the source.
+description:Only considers main perks. Currently relevant Speedrunning tools, curated by Aegis.
 
 //Apex Predator
 //notes:Speedrunner's Priority #1 (Universal use) -> Burst splash damage

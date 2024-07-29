@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Special & Power (Trash)
-description:Lists all Special & Power weapons rated D tier or lower as Trash, provides alternatives if weapons with the same archetype and energy exist at A or S tier. All credit goes to Aegis for the source.
+description:Collects Special & Power weapons rated D tier or lower by Aegis. Marks them as Trash, and provides S or A tier alternatives if they exist.
 
 //Riiswalker
 //notes:Aegis Recommended alternative(s): Perfect Paradox, Heritage, Imperial Decree, Wastelander M5, Someday, One Small Step
