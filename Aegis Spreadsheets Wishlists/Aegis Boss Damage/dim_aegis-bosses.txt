@@ -147,10 +147,14 @@ dimwishlist:item=193869522&perks=,,,
 
 //Relativism
 //notes:Boss Damage #1 -> Essential for ability damage boosting
+dimwishlist:item=2809120022&perks=,,3751917999,1476923955
+dimwishlist:item=2809120022&perks=,,3751917997,1476923955
 
 
 //Solipsism
 //notes:Boss Damage #1 -> Essential for ability damage boosting
+dimwishlist:item=2273643087&perks=,,183430250,1476923955
+dimwishlist:item=2273643087&perks=,,183430250,1476923957
 
 
 //Still Hunt
