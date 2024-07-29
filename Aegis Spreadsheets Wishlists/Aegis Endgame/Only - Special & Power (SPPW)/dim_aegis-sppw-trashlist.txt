@@ -360,19 +360,67 @@ dimwishlist:item=-2164448701&perks=
 dimwishlist:item=-617501162&perks=
 
 
-//Trinary System
-//notes:Aegis Recommended alternative(s): Royal Executioner, Cartesian Coordinate
-dimwishlist:item=-3258665412&perks=
+//Pressurized Precision
+//notes:Aegis Recommended alternative(s): Scatter Signal
+dimwishlist:item=-1084190509&perks=
 
 
-//Zealot's Reward
-//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
-dimwishlist:item=-2209003210&perks=
+//Iterative Loop
+//notes:Aegis Recommended alternative(s): Techeun Force
+dimwishlist:item=-1289796511&perks=
+
+
+//PLUG ONE.1
+//notes:Aegis Recommended alternative(s): Techeun Force
+dimwishlist:item=-1289000550&perks=
+
+
+dimwishlist:item=-534775659&perks=
+
+
+//Burden of Guilt
+//notes:Aegis Recommended alternative(s): Riptide
+dimwishlist:item=-933455006&perks=
+
+
+dimwishlist:item=-2002522739&perks=
+
+
+//Exile's Curse
+//notes:Aegis Recommended alternative(s): Techeun Force
+dimwishlist:item=-679281855&perks=
+
+
+dimwishlist:item=-276080079&perks=
 
 
 //Hollow Words
-//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+//notes:Aegis Recommended alternative(s): Techeun Force
 dimwishlist:item=-607191995&perks=
+
+
+//The Wizened Rebuke
+//notes:Aegis Recommended alternative(s): Techeun Force
+dimwishlist:item=-2961807684&perks=
+
+
+dimwishlist:item=-930590127&perks=
+
+
+dimwishlist:item=-1999697514&perks=
+
+
+dimwishlist:item=-2290416&perks=
+
+
+//Iota Draconis
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-3044460004&perks=
+
+
+//Dream Breaker
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-2931957300&perks=
 
 
 //Snorri FR5
@@ -380,8 +428,36 @@ dimwishlist:item=-607191995&perks=
 dimwishlist:item=-4114929480&perks=
 
 
+//Aurvandil FR6
+//notes:Aegis Recommended alternative(s): Riptide
+dimwishlist:item=-963710795&perks=
+
+
+//Zealot's Reward
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-2209003210&perks=
+
+
+//Likely Suspect
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1994645182&perks=
+
+
+//Trinary System
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-3258665412&perks=
+
+
+//Main Ingredient
+//notes:Aegis Recommended alternative(s): Techeun Force
+dimwishlist:item=-3445437901&perks=
+
+
+dimwishlist:item=-253196586&perks=
+
+
 //Timelines' Vertex
-//notes:Aegis Recommended alternative(s): Royal Executioner, Cartesian Coordinate
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
 dimwishlist:item=-1006783454&perks=
 
 
@@ -396,34 +472,36 @@ dimwishlist:item=-4124357815&perks=
 dimwishlist:item=-2263839058&perks=
 
 
-//Main Ingredient
-//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
-dimwishlist:item=-3445437901&perks=
-
-
-dimwishlist:item=-253196586&perks=
-
-
 //Coriolis Force
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-3512349612&perks=
 
 
-//Likely Suspect
+//Empty Vessel
+//notes:Aegis Recommended alternative(s): Martyr's Retribution
+dimwishlist:item=-4255586669&perks=
+
+
+//Salvager's Salvo
+//notes:Aegis Recommended alternative(s): Forbearance, Forbearance: BRAVE version
+dimwishlist:item=-2060863616&perks=
+
+
+//Orewing's Maul
 //notes:Aegis has listed no good alternative for this damage & weapon type combo yet
-dimwishlist:item=-1994645182&perks=
+dimwishlist:item=-1870979911&perks=
 
 
-//Wild Style
-//notes:Aegis Recommended alternative(s): Explosive Personality
-dimwishlist:item=-1332123064&perks=
+dimwishlist:item=-2108920981&perks=
 
 
-dimwishlist:item=-959037361&perks=
+//Prodigal Return
+//notes:Aegis Recommended alternative(s): Forbearance, Forbearance: BRAVE version
+dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:Aegis Recommended alternative(s): Wilderflight
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-3252697558&perks=
 
 
@@ -431,14 +509,6 @@ dimwishlist:item=-1946491241&perks=
 
 
 dimwishlist:item=-447296102&perks=
-
-
-//Orewing's Maul
-//notes:Aegis Recommended alternative(s): Wilderflight
-dimwishlist:item=-1870979911&perks=
-
-
-dimwishlist:item=-2108920981&perks=
 
 
 //Incisor
@@ -455,13 +525,41 @@ dimwishlist:item=-1711056134&perks=
 dimwishlist:item=-2839600459&perks=
 
 
+//Planck's Stride
+//notes:Aegis Recommended alternative(s): Song of Ir Yut
+dimwishlist:item=-820890091&perks=
+
+
+//Qullim's Terminus
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1321506184&perks=
+
+
+dimwishlist:item=-3248429089&perks=
+
+
+//Circular Logic
+//notes:Aegis Recommended alternative(s): Pro Memoria, Marcato-45
+dimwishlist:item=-2187717691&perks=
+
+
+//Archon's Thunder
+//notes:Aegis Recommended alternative(s): Speleologist, Unwavering Duty
+dimwishlist:item=-1967303408&perks=
+
+
 //Seventh Seraph SAW
-//notes:Aegis Recommended alternative(s): Song of Ir Yut, Terminus Horizon
+//notes:Aegis Recommended alternative(s): Song of Ir Yut
 dimwishlist:item=-2582755344&perks=
 
 
+//Thermal Erosion
+//notes:Aegis Recommended alternative(s): Speleologist, Unwavering Duty
+dimwishlist:item=-1766088024&perks=
+
+
 //THE SWARM
-//notes:Aegis Recommended alternative(s): Song of Ir Yut, Terminus Horizon
+//notes:Aegis Recommended alternative(s): Song of Ir Yut
 dimwishlist:item=-47772649&perks=
 
 
@@ -475,12 +573,12 @@ dimwishlist:item=-566740455&perks=
 
 
 //Eleatic Principle
-//notes:Aegis Recommended alternative(s): Song of Ir Yut, Terminus Horizon
+//notes:Aegis Recommended alternative(s): Song of Ir Yut
 dimwishlist:item=-105306149&perks=
 
 
 //Tarnation
-//notes:Aegis Recommended alternative(s): Wendigo GL3
+//notes:Aegis Recommended alternative(s): Wendigo GL3, Hullabaloo
 dimwishlist:item=-2721157927&perks=
 
 
@@ -498,12 +596,12 @@ dimwishlist:item=-3565520715&perks=
 
 
 //Blast Battue
-//notes:Aegis Recommended alternative(s): Wendigo GL3
+//notes:Aegis Recommended alternative(s): Wendigo GL3, Hullabaloo
 dimwishlist:item=-2453357042&perks=
 
 
 //Outrageous Fortune
-//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+//notes:Aegis Recommended alternative(s): Marsilion-C
 dimwishlist:item=-4146702548&perks=
 
 
@@ -515,22 +613,46 @@ dimwishlist:item=-1983332562&perks=
 dimwishlist:item=-407621213&perks=
 
 
-//Quickfang
-//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Crown-Splitter, Double-Edged Answer
-dimwishlist:item=-1180270692&perks=
+//Half-Truths
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-3257091166&perks=
 
 
-dimwishlist:item=-2782325300&perks=
+//Caretaker
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-2508948099&perks=
 
 
-//Hero of Ages
-//notes:Aegis Recommended alternative(s): Bequest, Nasreddin, Night Terror, Half-Truths
-dimwishlist:item=-2139640995&perks=
+//Honor's Edge
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-2276266837&perks=
 
 
-//Temptation's Hook
-//notes:Aegis Recommended alternative(s): Bequest, Nasreddin, Night Terror, Half-Truths
-dimwishlist:item=-35794111&perks=
+dimwishlist:item=-2857348871&perks=
+
+
+//Eternity's Edge
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1180270693&perks=
+
+
+dimwishlist:item=-2782325301&perks=
+
+
+//Crown-Splitter
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-1180270694&perks=
+
+
+dimwishlist:item=-2782325302&perks=
+
+
+//Throne-Cleaver
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-569799273&perks=
+
+
+dimwishlist:item=-3371413059&perks=
 
 
 //Dragoncult Sickle
@@ -539,15 +661,33 @@ dimwishlist:item=-3668817296&perks=
 
 
 //Sola's Scar
-//notes:Aegis Recommended alternative(s): Caretaker, Throne-Cleaver, Negative Space
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
 dimwishlist:item=-1313528549&perks=
 
 
 dimwishlist:item=-3847137620&perks=
 
 
+//Quickfang
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-1180270692&perks=
+
+
+dimwishlist:item=-2782325300&perks=
+
+
+//Razor's Edge
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-1796949035&perks=
+
+
+//Hero of Ages
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-2139640995&perks=
+
+
 //Chivalric Fire
-//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Crown-Splitter, Double-Edged Answer
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
 dimwishlist:item=-3438139008&perks=
 
 
@@ -556,8 +696,13 @@ dimwishlist:item=-3438139008&perks=
 dimwishlist:item=-4066778670&perks=
 
 
+//Temptation's Hook
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-35794111&perks=
+
+
 //Royal Entry
-//notes:Aegis Recommended alternative(s): Braytech Osprey
+//notes:Aegis Recommended alternative(s): Braytech Osprey, Faith-Keeper
 dimwishlist:item=-2448907086&perks=
 
 
@@ -569,6 +714,21 @@ dimwishlist:item=-725408022&perks=
 //Subzero Salvo
 //notes:Aegis Recommended alternative(s): Crux Termination IV, The Hothead, Sleepless, Blowout
 dimwishlist:item=-42351395&perks=
+
+
+//Sailspy Pitchglass
+//notes:Aegis has listed no good alternative for this damage & weapon type combo yet
+dimwishlist:item=-1184309824&perks=
+
+
+//Laser Painter
+//notes:Aegis Recommended alternative(s): Scintillation
+dimwishlist:item=-3221722018&perks=
+
+
+//Threaded Needle
+//notes:Aegis Recommended alternative(s): Doomed Petitioner
+dimwishlist:item=-3075224551&perks=
 
 
 //Tarantula
