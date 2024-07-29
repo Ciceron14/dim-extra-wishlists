@@ -1,6 +1,14 @@
 title:Aegis's Boss Damage Equipment
 description:Currently relevant Boss Damage tools, curated by Aegis.
 
+//Celestial Nighthawk
+//notes:Boss Damage #1 -> Highest burst damage super + synergy with Still Hunt
+dimwishlist:item=1667080810&perks=,,,
+
+
+dimwishlist:item=1321354573&perks=,,,
+
+
 //Edge Transit
 //notes:Boss Damage #1 -> Best general heavy damage option, especially in smaller fireteam sizes
 
@@ -129,9 +137,29 @@ dimwishlist:item=2228325504&perks=3525010810,332133599,2869569095,3194351027
 dimwishlist:item=2228325504&perks=3525010810,332133599,2869569095,2275087323
 
 
+//Lucky Pants
+//notes:Boss Damage #1 -> Great option for increasing total damage in sustained hunter strategies
+dimwishlist:item=1245809812&perks=,,,
+
+
+dimwishlist:item=193869522&perks=,,,
+
+
+//Relativism
+//notes:Boss Damage #1 -> Essential for ability damage boosting
+
+
+//Solipsism
+//notes:Boss Damage #1 -> Essential for ability damage boosting
+
+
 //Still Hunt
 //notes:Boss Damage #1 -> Insane burst damage and excellent total damage with no heavy interaction
 dimwishlist:item=2905188646&perks=,,,
+
+
+//Stoicism
+//notes:Boss Damage #1 -> Essential for ability damage boosting
 
 
 //The Navigator
@@ -200,6 +228,11 @@ dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,781192741
 //notes:Boss Damage #2 -> Specialized for extreme burst in setup-friendly environments
 dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919
 dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3194351027
+
+
+//Cuirass of the Falling Star
+//notes:Boss Damage #2 -> Good for bosses with bad crit + projectile hitreg issues (Atraks)
+dimwishlist:item=2321120637&perks=,,,
 
 
 //Dead Weight
@@ -271,6 +304,29 @@ dimwishlist:item=1016668089&perks=1300023272,106909392,3436462433,2679249093
 //Parasite
 //notes:Boss Damage #2 -> Extremely high burst splash damage
 dimwishlist:item=2812324400&perks=,,,
+
+
+//Pyrogale Gauntlets
+//notes:Boss Damage #2 -> Best burst super on titan with setup
+dimwishlist:item=2066430310&perks=,,,
+
+
+//Radiant Dance Machines
+//notes:Boss Damage #2 -> Best rocket dump option across all classes
+dimwishlist:item=1702288800&perks=,,,
+
+
+//Rain of Fire
+//notes:Boss Damage #2 -> Like The Dragon's Shadow but better, excellent for bypassing weapons with no ALH or slow reloads
+dimwishlist:item=1624882687&perks=,,,
+
+
+//Sealed Ahamkara Grasps
+//notes:Boss Damage #2 -> Good for Nighthawk swaps in order to get 2-3 reloads off
+dimwishlist:item=2166230715&perks=,,,
+
+
+dimwishlist:item=1688602431&perks=,,,
 
 
 //Summum Bonum
@@ -422,6 +478,14 @@ dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
 dimwishlist:item=3284383335&perks=,,,
 
 
+//Foetracer
+//notes:Boss Damage #3 -> Good total damage increase to run 3/4 surge split
+dimwishlist:item=1667080809&perks=,,,
+
+
+dimwishlist:item=896224899&perks=,,,
+
+
 //Frozen Orbit
 //notes:Boss Damage #3 -> Good for procing half of Cascade in an Izi Nessa rotation
 dimwishlist:item=3473290087&perks=1840239774,2420895100,3436462433,1546637391
@@ -451,9 +515,22 @@ dimwishlist:item=495442100&perks=3525010810,3301904089,424370782,3708227201
 dimwishlist:item=495442100&perks=3525010810,3301904089,424370782,781192741
 
 
+//Lunafaction Boots
+//notes:Boss Damage #3 -> Necessary for most shotgun damage bosses
+dimwishlist:item=2954558332&perks=,,,
+
+
+dimwishlist:item=4136768282&perks=,,,
+
+
 //Merciless
 //notes:Boss Damage #3 -> Niche ammo-restricted burst damage
 dimwishlist:item=4190156464&perks=,,,
+
+
+//Necrotic Grip
+//notes:Boss Damage #3 -> Small damage bump from one player in a team with multiple Broodweavers, also updates boss health
+dimwishlist:item=2780717641&perks=,,,
 
 
 //Nessa's Oblation
@@ -476,6 +553,11 @@ dimwishlist:item=522366885&perks=1840239774,791862061,1354429876,1546637391
 dimwishlist:item=522366885&perks=1840239774,791862061,1354429876,3418165135
 dimwishlist:item=522366885&perks=1840239774,791862061,848860060,1546637391
 dimwishlist:item=522366885&perks=1840239774,791862061,848860060,3418165135
+
+
+//Star-Eater Scales
+//notes:Boss Damage #3 -> Free +70% to some of the best damage supers in the game
+dimwishlist:item=1001356380&perks=,,,
 
 
 //The Mountaintop
@@ -663,6 +745,14 @@ dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,1546637391
 dimwishlist:item=2883484461&perks=1300023272,106909392,3300816228,3418165135
 
 
+//Verity's Brow
+//notes:Boss Damage #3 -> Lowers almost any grenade cooldown enough to be usable in DPS phases
+dimwishlist:item=2897117448&perks=,,,
+
+
+dimwishlist:item=2428181146&perks=,,,
+
+
 //Whisper of the Worm
 //notes:Boss Damage #3 -> Very consistent damage option
 
@@ -683,6 +773,16 @@ dimwishlist:item=2306182339&perks=3525010810,3301904089,3523296417,1546637391
 dimwishlist:item=2357297366&perks=,,,
 
 
+//Boots of the Assembler
+//notes:Boss Damage #4 -> Niche alternative to using Lumina
+dimwishlist:item=3045642045&perks=,,,
+
+
+//Briarbinds
+//notes:Boss Damage #4 -> Infinite 30% debuff extension
+dimwishlist:item=3234692237&perks=,,,
+
+
 //Cataphract GL3
 //notes:Boss Damage #4 -> Low fireteam count burst damage
 dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919
@@ -698,12 +798,30 @@ dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3751912585
 dimwishlist:item=3865728990&perks=1840239774,106909392,2869569095,957782887
 
 
+//Felwinter's Helm
+//notes:Boss Damage #4 -> Debuff option with lowest damage loss, but extremely situational
+dimwishlist:item=2822465023&perks=,,,
+
+
 //IKELOS_SR_V1.0.3
 //notes:Boss Damage #4 -> Tumulus equivalent with worse damage perks but Fourth Time's the Charm
 dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2896038713
 dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2402480669
 dimwishlist:item=2302346155&perks=1840239774,106909392,848860060,2896038713
 dimwishlist:item=2302346155&perks=1840239774,106909392,848860060,2402480669
+
+
+//Mask of Bakris
+//notes:Boss Damage #4 -> Extremely niche quad surge source for Horseman damage
+dimwishlist:item=1619425569&perks=,,,
+
+
+//Ophidian Aspect
+//notes:Boss Damage #4 -> Warlock's best general swap exotic given no good super damage exotic
+dimwishlist:item=68357813&perks=,,,
+
+
+dimwishlist:item=3627185503&perks=,,,
 
 
 //Ragnhild-D
@@ -766,5 +884,21 @@ dimwishlist:item=1028582252&perks=1300023272,791862061,2621346526,1546637391
 
 
 dimwishlist:item=2443900757&perks=1300023272,791862061,2621346526,1546637391
+
+
+//The Dragon's Shadow
+//notes:Boss Damage #4 -> Provides hunter with a high cooldown triple rocket option that is faster than RDM
+dimwishlist:item=419976108&perks=,,,
+
+
+dimwishlist:item=2766109874&perks=,,,
+
+
+//The Sixth Coyote
+//notes:Boss Damage #4 -> Generally worse than Sealed these days
+dimwishlist:item=4070560771&perks=,,,
+
+
+dimwishlist:item=1474735277&perks=,,,
 
 
