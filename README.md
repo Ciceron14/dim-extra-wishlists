@@ -5,13 +5,15 @@ Endgame Wishlists -> [Endgame Analysis Spreadsheet](https://docs.google.com/spre
 
 Speedrun Wishlists -> [Speedrunner's Shopping List](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/)
 
+Boss Damage Wishlists -> [Boss Damage Spreadsheet](https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/)
+
 ## Recommended Wishlists
 For most players, the following wishlist files are going to be the most helpful.
 
 You can use the other files to get a more tailored wish list in DIM: see the next section.
 - [Endgame - All Weapons](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/All%20Weapon%20Types/dim_aegis_major-perks.txt): Complete list of all rolls from guns rated A or S in the Endgame Analysis spreadsheet.
 - [Endgame Shopping List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/dim_aegis-shopping_major-perks.txt): Current "Shopping List" tab rolls from the Endgame Analysis sheet. Includes the "use case" comments, and exotics.
-- [Speedrunner's Shopping List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt): All rolls from weapons in the Speedrunner's Shopping List sheet, excluding those marked as "N/A". Includes the "use case" comments, and exotics.
+- [Boss Damage Equipment](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt): All weapons (with rolls if relevant) and armor in the Boss Damage 'Equipment' sheet. Includes the "use case" comments, and exotics.
 
 ## More Specific Wishlists
 ### Trash List
