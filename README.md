@@ -18,8 +18,12 @@ You can use the other files to get a more tailored wish list in DIM: see the nex
 ## More Specific Wishlists
 ### Trash List
 The SPPW (Special & Power weapons) section contains a [Trash List](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/Only%20-%20Special%20%26%20Power%20(SPPW)/dim_aegis-sppw-trashlist.txt) that can be used to highlight the weapons you own that are rated D or lower. They will have a comment recommending alternatives in the same weapon type & energy, if any has been rated A or S.
+### Combo List
+The SPPW (Special & Power weapons) section contains a [Combos Wishlist](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame/Only%20-%20Special%20%26%20Power%20(SPPW)/dim_aegis-sppw-combos_major-perks.txt) that can be used for collection purposes. It lists the highest rated Heavy & Special weapons for each type & element (for example, best Stasis Shotgun, etc.)
+
+## Endgame Analysis Split Wishlists
 ### Weapon Types
-Wishlists for the Endgame Analysis sheet can be split per Weapon Type
+Wishlists for the Endgame Analysis Spreadsheet can be split per Weapon Type
 - Primaries only
 - Ammo dependant weapons only
 Or you can use the "All Weapon Types" ones to get all in one wishlist.
@@ -27,6 +31,8 @@ Or you can use the "All Weapon Types" ones to get all in one wishlist.
 Wishlists that have "exclusive" in their name only look at the best of the best
 - Best in Slot primaries
 - S Tier Special & Power weapons
+
+## More General Information
 ### Perks
 Wishlists will mostly only look at "Major Perks" aka the two main traits of a weapon, as this is what Aegis lists in the Endgame Spreadsheet.
 
