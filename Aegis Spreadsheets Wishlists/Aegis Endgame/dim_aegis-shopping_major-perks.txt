@@ -2,13 +2,13 @@ title:Aegis's Endgame Shopping List
 description:Currently relevant Endgame Weapons, curated by Aegis.
 
 //Pardon Our Dust
-//notes:Endgame Shopping List - Role: kinetic blinding GL
+//notes:Aegis Endgame Shopping - Role: kinetic blinding GL
 dimwishlist:item=3849810018&perks=3300816228,3523296417
 dimwishlist:item=3849810018&perks=3300816228,1906147653
 
 
 //The Mountaintop
-//notes:Endgame Shopping List - Role: jumping puzzles, kinetic major burst GL
+//notes:Aegis Endgame Shopping - Role: jumping puzzles, kinetic major burst GL
 
 
 dimwishlist:item=568611922&perks=3300816228,469285294
@@ -24,11 +24,11 @@ dimwishlist:item=4043921923&perks=3300816228,3418165135
 
 
 //Lost Signal
-//notes:Endgame Shopping List - Role: kinetic add clear GL
+//notes:Aegis Endgame Shopping - Role: kinetic add clear GL
 
 
 //Scatter Signal
-//notes:Endgame Shopping List - Role: kinetic damage fusion
+//notes:Aegis Endgame Shopping - Role: kinetic damage fusion
 dimwishlist:item=2558925366&perks=3643424744,2594592626
 dimwishlist:item=2558925366&perks=3643424744,2037312142
 dimwishlist:item=2558925366&perks=2682205016,2594592626
@@ -40,13 +40,13 @@ dimwishlist:item=2558925366&perks=3422796781,2037312142
 
 
 //Riptide
-//notes:Endgame Shopping List - Role: kinetic stun fusion
+//notes:Aegis Endgame Shopping - Role: kinetic stun fusion
 dimwishlist:item=2715240478&perks=3300816228,2978966579
 dimwishlist:item=2715240478&perks=1556840489,2978966579
 
 
 //Warden's Law
-//notes:Endgame Shopping List - Role: kinetic damage HC
+//notes:Aegis Endgame Shopping - Role: kinetic damage HC
 
 
 dimwishlist:item=1821529912&perks=1354429876,1546637391
@@ -74,7 +74,7 @@ dimwishlist:item=3250744600&perks=848860060,3418165135
 
 
 //Midnight Coup
-//notes:Endgame Shopping List - Role: kinetic add clear HC
+//notes:Aegis Endgame Shopping - Role: kinetic add clear HC
 
 
 dimwishlist:item=2763843898&perks=3824105627,4049631843
@@ -106,7 +106,7 @@ dimwishlist:item=2499720827&perks=3038247973,3007133316
 
 
 //Blast Furnace
-//notes:Endgame Shopping List - Role: kinetic add clear pulse
+//notes:Aegis Endgame Shopping - Role: kinetic add clear pulse
 
 
 dimwishlist:item=2372514508&perks=3891536761,3824105627
@@ -138,7 +138,7 @@ dimwishlist:item=2533990645&perks=1549370717,859780267
 
 
 //Wastelander M5
-//notes:Endgame Shopping List - Role: kinetic 12p shotgun
+//notes:Aegis Endgame Shopping - Role: kinetic 12p shotgun
 dimwishlist:item=1679868061&perks=1556840489,2679249093
 dimwishlist:item=1679868061&perks=1556840489,788178929
 dimwishlist:item=1679868061&perks=1556840489,1546637391
@@ -158,7 +158,7 @@ dimwishlist:item=1679868061&perks=536173722,3418165135
 
 
 //Heritage
-//notes:Endgame Shopping List - Role: kinetic major burst shotgun
+//notes:Aegis Endgame Shopping - Role: kinetic major burst shotgun
 dimwishlist:item=4248569242&perks=1523832109,469285294
 dimwishlist:item=4248569242&perks=1523832109,3335686050
 dimwishlist:item=4248569242&perks=461595545,469285294
@@ -170,7 +170,7 @@ dimwishlist:item=4248569242&perks=1906147653,3335686050
 
 
 //The Call
-//notes:Endgame Shopping List - Role: kinetic rocket sidearm
+//notes:Aegis Endgame Shopping - Role: kinetic rocket sidearm
 dimwishlist:item=3947966653&perks=1556840489,2109543898
 dimwishlist:item=3947966653&perks=1556840489,2799030358
 dimwishlist:item=3947966653&perks=1556840489,831391274
@@ -190,7 +190,7 @@ dimwishlist:item=3947966653&perks=3422796781,102912326
 
 
 //The Supremacy
-//notes:Endgame Shopping List - Role: kinetic burst sniper
+//notes:Aegis Endgame Shopping - Role: kinetic burst sniper
 
 
 dimwishlist:item=2884596447&perks=3418782618,3078487919
@@ -212,7 +212,7 @@ dimwishlist:item=2884596447&perks=3442762221,1549370717
 
 
 //Succession
-//notes:Endgame Shopping List - Role: kinetic total sniper
+//notes:Aegis Endgame Shopping - Role: kinetic total sniper
 dimwishlist:item=2990047042&perks=1523832109,469285294
 dimwishlist:item=2990047042&perks=1523832109,3335686050
 dimwishlist:item=2990047042&perks=1523832109,1546637391
@@ -244,7 +244,7 @@ dimwishlist:item=570866107&perks=461595545,3418165135
 
 
 //No Hesitation
-//notes:Endgame Shopping List - Role: kinetic sustain auto
+//notes:Aegis Endgame Shopping - Role: kinetic sustain auto
 dimwishlist:item=1801007332&perks=2980589453,2298656195
 dimwishlist:item=1801007332&perks=2980589453,674546187
 dimwishlist:item=1801007332&perks=2980589453,4293542123
@@ -272,7 +272,7 @@ dimwishlist:item=1801007332&perks=1906147653,3007133316
 
 
 //Forbearance
-//notes:Endgame Shopping List - Role: energy add clear GL
+//notes:Aegis Endgame Shopping - Role: energy add clear GL
 dimwishlist:item=613334176&perks=2010801679,2396489472
 dimwishlist:item=613334176&perks=2010801679,598607952
 dimwishlist:item=613334176&perks=3108830275,2396489472
@@ -314,7 +314,7 @@ dimwishlist:item=2480074702&perks=1906147653,598607952
 
 
 //Techeun Force
-//notes:Endgame Shopping List - Role: energy damage fusion
+//notes:Aegis Endgame Shopping - Role: energy damage fusion
 
 
 dimwishlist:item=3591141932&perks=3418782618,2594592626
@@ -324,7 +324,7 @@ dimwishlist:item=3591141932&perks=1563455254,2037312142
 
 
 //Luna's Howl
-//notes:Endgame Shopping List - Role: energy add clear HC
+//notes:Aegis Endgame Shopping - Role: energy add clear HC
 
 
 dimwishlist:item=2763843899&perks=3017780555,4293542123
@@ -340,7 +340,7 @@ dimwishlist:item=3757612024&perks=4223976499,2675184851
 
 
 //Adhortative
-//notes:Endgame Shopping List - Role: energy add clear pulse
+//notes:Aegis Endgame Shopping - Role: energy add clear pulse
 
 
 dimwishlist:item=2993554824&perks=3017780555,4293542123
@@ -350,7 +350,7 @@ dimwishlist:item=2993554824&perks=4223976499,2675184851
 
 
 //Dead Weight
-//notes:Endgame Shopping List - Role: energy 12p shotgun, energy major burst shotgun
+//notes:Aegis Endgame Shopping - Role: energy 12p shotgun, energy major burst shotgun
 dimwishlist:item=3738678140&perks=1631667848,2679249093
 dimwishlist:item=3738678140&perks=1631667848,3708227201
 dimwishlist:item=3738678140&perks=1631667848,4104185692
@@ -363,7 +363,7 @@ dimwishlist:item=3738678140&perks=3300816228,4104185692
 
 
 //Nessa's Oblation
-//notes:Endgame Shopping List - Role: energy damage shotgun, energy major burst shotugn
+//notes:Aegis Endgame Shopping - Role: energy damage shotgun, energy major burst shotugn
 dimwishlist:item=135029084&perks=1523832109,1546637391
 dimwishlist:item=135029084&perks=1523832109,3418165135
 dimwishlist:item=135029084&perks=461595545,1546637391
@@ -385,13 +385,13 @@ dimwishlist:item=522366885&perks=848860060,3418165135
 
 
 //Father's Sins
-//notes:Endgame Shopping List - Role: energy Cascade sniper
+//notes:Aegis Endgame Shopping - Role: energy Cascade sniper
 dimwishlist:item=3865728990&perks=1556840489,957782887
 dimwishlist:item=3865728990&perks=3442762221,957782887
 
 
 //Indebted Kindness
-//notes:Endgame Shopping List - Role: energy rocket sidearm
+//notes:Aegis Endgame Shopping - Role: energy rocket sidearm
 dimwishlist:item=3381450498&perks=1556840489,2173046394
 dimwishlist:item=3381450498&perks=1556840489,3708227201
 dimwishlist:item=3381450498&perks=951095735,2173046394
@@ -399,7 +399,7 @@ dimwishlist:item=3381450498&perks=951095735,3708227201
 
 
 //Twilight Oath
-//notes:Endgame Shopping List - Role: energy damage sniper
+//notes:Aegis Endgame Shopping - Role: energy damage sniper
 
 
 dimwishlist:item=1874424704&perks=968510818,1546637391
@@ -407,7 +407,7 @@ dimwishlist:item=1874424704&perks=968510818,555281244
 
 
 //Retraced Path
-//notes:Endgame Shopping List - Role: energy QoL trace
+//notes:Aegis Endgame Shopping - Role: energy QoL trace
 dimwishlist:item=548958835&perks=3700496672,3523296417
 dimwishlist:item=548958835&perks=3700496672,1906147653
 dimwishlist:item=548958835&perks=3700496672,4293542123
@@ -419,7 +419,7 @@ dimwishlist:item=548958835&perks=2840833776,2675184851
 
 
 //Edge Transit
-//notes:Endgame Shopping List - Role: damage HGL
+//notes:Aegis Endgame Shopping - Role: damage HGL
 
 
 dimwishlist:item=568611923&perks=968510818,3078487919
@@ -443,7 +443,7 @@ dimwishlist:item=2228325504&perks=331667533,3744057135
 
 
 //Hammerhead
-//notes:Endgame Shopping List - Role: add clear machine gun
+//notes:Aegis Endgame Shopping - Role: add clear machine gun
 
 
 dimwishlist:item=1896309757&perks=3418782618,557221067
@@ -475,13 +475,13 @@ dimwishlist:item=211732170&perks=3425386926,956288240
 
 
 //Semiotician
-//notes:Endgame Shopping List - Role: add clear rocket
+//notes:Aegis Endgame Shopping - Role: add clear rocket
 dimwishlist:item=2922749929&perks=2869569095,1439600632
 dimwishlist:item=2922749929&perks=2869569095,2282937672
 
 
 //Apex Predator
-//notes:Endgame Shopping List - Role: damage rocket
+//notes:Aegis Endgame Shopping - Role: damage rocket
 
 
 dimwishlist:item=1851777734&perks=1523832109,3078487919
@@ -495,7 +495,7 @@ dimwishlist:item=1851777734&perks=461595545,2282937672
 
 
 //Falling Guillotine
-//notes:Endgame Shopping List - Role: damage sword
+//notes:Aegis Endgame Shopping - Role: damage sword
 
 
 dimwishlist:item=1815105249&perks=2396489472,2077819806
@@ -535,109 +535,109 @@ dimwishlist:item=243425374&perks=3007133316,3744057135
 
 
 //Necrochasm
-//notes:Endgame Shopping List - Role: kinetic add clear auto
+//notes:Aegis Endgame Shopping - Role: kinetic add clear auto
 dimwishlist:item=1034055198&perks=,
 
 
 //Witherhoard
-//notes:Endgame Shopping List - Role: kinetic add clear GL
+//notes:Aegis Endgame Shopping - Role: kinetic add clear GL
 dimwishlist:item=2357297366&perks=,
 
 
 //Bastion
-//notes:Endgame Shopping List - Role: kinetic major burst fusion
+//notes:Aegis Endgame Shopping - Role: kinetic major burst fusion
 dimwishlist:item=2415517654&perks=,
 
 
 //Malfeasance
-//notes:Endgame Shopping List - Role: kinetic damage HC
+//notes:Aegis Endgame Shopping - Role: kinetic damage HC
 dimwishlist:item=204878059&perks=,
 
 
 //Lumina
-//notes:Endgame Shopping List - Role: 35% buff
+//notes:Aegis Endgame Shopping - Role: 35% buff
 dimwishlist:item=3512014804&perks=,
 
 
 //Arbalest
-//notes:Endgame Shopping List - Role: guaranteed Barrier
+//notes:Aegis Endgame Shopping - Role: guaranteed Barrier
 dimwishlist:item=2130065553&perks=,
 
 
 //Revision Zero
-//notes:Endgame Shopping List - Role: kinetic add clear pulse, kinetic major burst pulse
+//notes:Aegis Endgame Shopping - Role: kinetic add clear pulse, kinetic major burst pulse
 dimwishlist:item=1473821207&perks=1546637391,1266037486
 
 
 //Outbreak Perfected
-//notes:Endgame Shopping List - Role: kinetic add clear pulse, ammoless damage
+//notes:Aegis Endgame Shopping - Role: kinetic add clear pulse, ammoless damage
 
 
 dimwishlist:item=3824673936&perks=2578928832,
 
 
 //Izanagi's Burden
-//notes:Endgame Shopping List - Role: kinetic burst sniper
+//notes:Aegis Endgame Shopping - Role: kinetic burst sniper
 dimwishlist:item=3211806999&perks=,
 
 
 //Merciless
-//notes:Endgame Shopping List - Role: energy damage fusion
+//notes:Aegis Endgame Shopping - Role: energy damage fusion
 dimwishlist:item=4190156464&perks=,
 
 
 //Sunshot
-//notes:Endgame Shopping List - Role: energy add clear HC
+//notes:Aegis Endgame Shopping - Role: energy add clear HC
 dimwishlist:item=2907129557&perks=,
 
 
 //Graviton Lance
-//notes:Endgame Shopping List - Role: energy add clear pulse
+//notes:Aegis Endgame Shopping - Role: energy add clear pulse
 dimwishlist:item=3628991658&perks=,
 
 
 //The Fourth Horseman
-//notes:Endgame Shopping List - Role: energy burst shotgun
+//notes:Aegis Endgame Shopping - Role: energy burst shotgun
 dimwishlist:item=1665952087&perks=,
 
 
 //Still Hunt
-//notes:Endgame Shopping List - Role: energy burst sniper
+//notes:Aegis Endgame Shopping - Role: energy burst sniper
 dimwishlist:item=2905188646&perks=,
 
 
 //Riskrunner
-//notes:Endgame Shopping List - Role: energy add clear SMG
+//notes:Aegis Endgame Shopping - Role: energy add clear SMG
 dimwishlist:item=3089417789&perks=,
 
 
 //Divinity
-//notes:Endgame Shopping List - Role: guaranteed crit
+//notes:Aegis Endgame Shopping - Role: guaranteed crit
 dimwishlist:item=4103414242&perks=,
 
 
 //Parasite
-//notes:Endgame Shopping List - Role: damage HGL
+//notes:Aegis Endgame Shopping - Role: damage HGL
 dimwishlist:item=2812324400&perks=,
 
 
 //Xenophage
-//notes:Endgame Shopping List - Role: add clear machine gun
+//notes:Aegis Endgame Shopping - Role: add clear machine gun
 dimwishlist:item=1395261499&perks=,
 
 
 //Dragon's Breath
-//notes:Endgame Shopping List - Role: add clear rocket
+//notes:Aegis Endgame Shopping - Role: add clear rocket
 dimwishlist:item=17096506&perks=,
 
 
 //Gjallarhorn
-//notes:Endgame Shopping List - Role: add clear rocket
+//notes:Aegis Endgame Shopping - Role: add clear rocket
 dimwishlist:item=1363886209&perks=,
 
 
 //Legend of Acrius
-//notes:Endgame Shopping List - Role: damage shotgun
+//notes:Aegis Endgame Shopping - Role: damage shotgun
 dimwishlist:item=3580904580&perks=,
 
 
@@ -645,19 +645,19 @@ dimwishlist:item=1744115122&perks=,
 
 
 //Tractor Cannon
-//notes:Endgame Shopping List - Role: 30% debuff
+//notes:Aegis Endgame Shopping - Role: 30% debuff
 dimwishlist:item=3580904581&perks=,
 
 
 //Whisper of the Worm
-//notes:Endgame Shopping List - Role: damage sniper
+//notes:Aegis Endgame Shopping - Role: damage sniper
 
 
 dimwishlist:item=1983149589&perks=777589559,
 
 
 //The Lament
-//notes:Endgame Shopping List - Role: damage sword
+//notes:Aegis Endgame Shopping - Role: damage sword
 dimwishlist:item=3487253372&perks=,
 
 
