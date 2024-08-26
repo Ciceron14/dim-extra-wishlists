@@ -58,7 +58,7 @@ dimwishlist:item=-411397829&perks=
 
 
 //No Reprieve
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2531963421&perks=
 
 
@@ -162,7 +162,7 @@ dimwishlist:item=-3503019618&perks=
 
 
 //Father's Sins
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-3865728990&perks=
 
 
@@ -177,12 +177,12 @@ dimwishlist:item=-4132072834&perks=
 
 
 //Volta Bracket
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-3920310144&perks=
 
 
 //The Long Walk
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-174804902&perks=
 
 
@@ -195,7 +195,7 @@ dimwishlist:item=-4067556514&perks=
 
 
 //Mechabre
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1280894514&perks=
 
 
@@ -203,22 +203,22 @@ dimwishlist:item=-3871226707&perks=
 
 
 //Luna Regolith III
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1948035256&perks=
 
 
 //Last Foray
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1106635211&perks=
 
 
 //Far Future
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-893527433&perks=
 
 
 //Albruna-D
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-676270382&perks=
 
 
@@ -242,12 +242,12 @@ dimwishlist:item=-1387987271&perks=
 
 
 //Adored
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4184808992&perks=
 
 
 //Beloved
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4190932264&perks=
 
 
@@ -255,7 +255,7 @@ dimwishlist:item=-3107853529&perks=
 
 
 //Persuader
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2290863050&perks=
 
 
@@ -266,7 +266,7 @@ dimwishlist:item=-781498181&perks=
 
 
 //Sole Survivor
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1115104187&perks=
 
 
@@ -302,12 +302,12 @@ dimwishlist:item=-1321626661&perks=
 
 
 //Gallu RR3
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-617501162&perks=
 
 
 //Mercurial Overreach
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2073794990&perks=
 
 
@@ -317,7 +317,7 @@ dimwishlist:item=-3745990145&perks=
 
 
 //Widow's Bite
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-3312073055&perks=
 
 
@@ -325,17 +325,17 @@ dimwishlist:item=-1271343896&perks=
 
 
 //Omniscient Eye
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-3454326177&perks=
 
 
 //1000 Yard Stare
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4164201232&perks=
 
 
 //The Domino
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4272442416&perks=
 
 
@@ -343,7 +343,7 @@ dimwishlist:item=-2800870005&perks=
 
 
 //Apostate
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2164448701&perks=
 
 
@@ -411,7 +411,7 @@ dimwishlist:item=-2931957300&perks=
 
 
 //Snorri FR5
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4114929480&perks=
 
 
@@ -421,12 +421,12 @@ dimwishlist:item=-963710795&perks=
 
 
 //Zealot's Reward
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2209003210&perks=
 
 
 //Likely Suspect
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1994645182&perks=
 
 
@@ -452,7 +452,7 @@ dimwishlist:item=-3055192515&perks=
 
 
 //The Epicurean
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4124357815&perks=
 
 
@@ -460,7 +460,7 @@ dimwishlist:item=-2263839058&perks=
 
 
 //Coriolis Force
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-3512349612&perks=
 
 
@@ -475,7 +475,7 @@ dimwishlist:item=-2060863616&perks=
 
 
 //Orewing's Maul
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1870979911&perks=
 
 
@@ -488,7 +488,7 @@ dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-3252697558&perks=
 
 
@@ -504,7 +504,7 @@ dimwishlist:item=-820890091&perks=
 
 
 //Qullim's Terminus
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1321506184&perks=
 
 
@@ -592,7 +592,7 @@ dimwishlist:item=-3257091166&perks=
 
 
 //Caretaker
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2508948099&perks=
 
 
@@ -605,7 +605,7 @@ dimwishlist:item=-2857348871&perks=
 
 
 //Eternity's Edge
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1180270693&perks=
 
 
@@ -621,7 +621,7 @@ dimwishlist:item=-2782325302&perks=
 
 
 //Throne-Cleaver
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-569799273&perks=
 
 
@@ -629,7 +629,7 @@ dimwishlist:item=-3371413059&perks=
 
 
 //Sola's Scar
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1313528549&perks=
 
 
@@ -660,7 +660,7 @@ dimwishlist:item=-3438139008&perks=
 
 
 //Thin Precipice
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-4066778670&perks=
 
 
@@ -685,7 +685,7 @@ dimwishlist:item=-42351395&perks=
 
 
 //Sailspy Pitchglass
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-1184309824&perks=
 
 
@@ -700,7 +700,7 @@ dimwishlist:item=-3075224551&perks=
 
 
 //Tarantula
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo yet
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
 dimwishlist:item=-2502422775&perks=
 
 
