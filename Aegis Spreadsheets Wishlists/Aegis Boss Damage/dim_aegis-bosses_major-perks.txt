@@ -67,12 +67,18 @@ dimwishlist:item=193869522&perks=,
 
 //Relativism
 //notes:Aegis Boss Damage #1 -> Essential for ability damage boosting
+dimwishlist:item=2809120022&perks=1476923953,1476923955
+dimwishlist:item=2809120022&perks=1476923953,1476923956
 dimwishlist:item=2809120022&perks=3751917999,1476923955
+dimwishlist:item=2809120022&perks=3751917999,1476923956
 dimwishlist:item=2809120022&perks=3751917997,1476923955
+dimwishlist:item=2809120022&perks=3751917997,1476923956
 
 
 //Solipsism
 //notes:Aegis Boss Damage #1 -> Essential for ability damage boosting
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+dimwishlist:item=2273643087&perks=1476923953,1476923957
 dimwishlist:item=2273643087&perks=183430250,1476923955
 dimwishlist:item=2273643087&perks=183430250,1476923957
 
@@ -84,6 +90,8 @@ dimwishlist:item=2905188646&perks=,
 
 //Stoicism
 //notes:Aegis Boss Damage #1 -> Essential for ability damage boosting
+dimwishlist:item=266021826&perks=1476923953,1476923955
+dimwishlist:item=266021826&perks=1476923953,1476923956
 
 
 //The Navigator

@@ -624,6 +624,10 @@ dimwishlist:item=304659313&perks=3161816588,4104185692
 dimwishlist:item=304659313&perks=3161816588,960810156
 
 
+dimwishlist:item=2761869150&perks=3161816588,4104185692
+dimwishlist:item=2761869150&perks=3161816588,3007133316
+
+
 //Imperial Decree
 //notes:Aegis Speedrun #2 (Universal use) -> Burst single target damage ; Slow single weapon damage
 
@@ -1064,6 +1068,8 @@ dimwishlist:item=2558925366&perks=3422796781,2037312142
 //notes:Aegis Speedrun #3 (Universal use) -> Double slug
 dimwishlist:item=599895591&perks=3300816228,4104185692
 dimwishlist:item=599895591&perks=3300816228,3708227201
+
+
 
 
 //Tarnation

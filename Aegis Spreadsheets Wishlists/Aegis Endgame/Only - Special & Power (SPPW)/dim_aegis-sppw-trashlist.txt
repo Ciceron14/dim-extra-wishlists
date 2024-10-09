@@ -17,26 +17,21 @@ dimwishlist:item=-557165046&perks=
 dimwishlist:item=-4225322581&perks=
 
 
-//Prophet of Doom
-//notes:Aegis Recommended Endgame alternative(s): Dead Weight
-dimwishlist:item=-4020742303&perks=
-
-
-//Sojourner's Tale
-//notes:Aegis Recommended Endgame alternative(s): IKELOS_SG_v1.0.3
-dimwishlist:item=-599895591&perks=
-
-
 //Found Verdict
-//notes:Aegis Recommended Endgame alternative(s): Dead Weight
+//notes:Aegis Recommended Endgame alternative(s): Arcane Embrace, Dead Weight
 dimwishlist:item=-3197270240&perks=
 
 
 dimwishlist:item=-631439337&perks=
 
 
+//Scavenger's Fate
+//notes:Aegis Recommended Endgame alternative(s): Basso Ostinato, The Deicide
+dimwishlist:item=-2913577176&perks=
+
+
 //First In, Last Out
-//notes:Aegis Recommended Endgame alternative(s): Dead Weight
+//notes:Aegis Recommended Endgame alternative(s): Arcane Embrace, Dead Weight
 dimwishlist:item=-515224227&perks=
 
 
@@ -44,7 +39,7 @@ dimwishlist:item=-3616586446&perks=
 
 
 //Gunnora's Axe
-//notes:Aegis Recommended Endgame alternative(s): Dead Weight
+//notes:Aegis Recommended Endgame alternative(s): Arcane Embrace, Dead Weight
 dimwishlist:item=-94729174&perks=
 
 
@@ -55,6 +50,11 @@ dimwishlist:item=-487361141&perks=
 
 
 dimwishlist:item=-411397829&perks=
+
+
+//Fractethyst
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+dimwishlist:item=-3184681056&perks=
 
 
 //No Reprieve
@@ -115,7 +115,7 @@ dimwishlist:item=-3356526253&perks=
 
 
 //The Inquisitor
-//notes:Aegis Recommended Endgame alternative(s): Dead Weight
+//notes:Aegis Recommended Endgame alternative(s): Arcane Embrace, Dead Weight
 dimwishlist:item=-2185327324&perks=
 
 
@@ -162,7 +162,7 @@ dimwishlist:item=-3503019618&perks=
 
 
 //Father's Sins
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Veleda-F, Sovereignty
 dimwishlist:item=-3865728990&perks=
 
 
@@ -182,7 +182,7 @@ dimwishlist:item=-3920310144&perks=
 
 
 //The Long Walk
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-174804902&perks=
 
 
@@ -202,18 +202,21 @@ dimwishlist:item=-1280894514&perks=
 dimwishlist:item=-3871226707&perks=
 
 
+dimwishlist:item=-2477980485&perks=
+
+
 //Luna Regolith III
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-1948035256&perks=
 
 
 //Last Foray
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-1106635211&perks=
 
 
 //Far Future
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-893527433&perks=
 
 
@@ -247,7 +250,7 @@ dimwishlist:item=-4184808992&perks=
 
 
 //Beloved
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-4190932264&perks=
 
 
@@ -255,7 +258,7 @@ dimwishlist:item=-3107853529&perks=
 
 
 //Persuader
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Veleda-F, Sovereignty
 dimwishlist:item=-2290863050&perks=
 
 
@@ -317,25 +320,20 @@ dimwishlist:item=-3745990145&perks=
 
 
 //Widow's Bite
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-3312073055&perks=
 
 
 dimwishlist:item=-1271343896&perks=
 
 
-//Omniscient Eye
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
-dimwishlist:item=-3454326177&perks=
-
-
 //1000 Yard Stare
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Veleda-F, Sovereignty
 dimwishlist:item=-4164201232&perks=
 
 
 //The Domino
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Omniscient Eye
 dimwishlist:item=-4272442416&perks=
 
 
@@ -353,16 +351,8 @@ dimwishlist:item=-1084190509&perks=
 
 
 //Iterative Loop
-//notes:Aegis Recommended Endgame alternative(s): Techeun Force
+//notes:Aegis Recommended Endgame alternative(s): Techeun Force, PLUG ONE.1
 dimwishlist:item=-1289796511&perks=
-
-
-//PLUG ONE.1
-//notes:Aegis Recommended Endgame alternative(s): Techeun Force
-dimwishlist:item=-1289000550&perks=
-
-
-dimwishlist:item=-534775659&perks=
 
 
 //Burden of Guilt
@@ -374,7 +364,7 @@ dimwishlist:item=-2002522739&perks=
 
 
 //Exile's Curse
-//notes:Aegis Recommended Endgame alternative(s): Techeun Force
+//notes:Aegis Recommended Endgame alternative(s): Techeun Force, PLUG ONE.1
 dimwishlist:item=-679281855&perks=
 
 
@@ -382,12 +372,12 @@ dimwishlist:item=-276080079&perks=
 
 
 //Hollow Words
-//notes:Aegis Recommended Endgame alternative(s): Techeun Force
+//notes:Aegis Recommended Endgame alternative(s): Techeun Force, PLUG ONE.1
 dimwishlist:item=-607191995&perks=
 
 
 //The Wizened Rebuke
-//notes:Aegis Recommended Endgame alternative(s): Techeun Force
+//notes:Aegis Recommended Endgame alternative(s): Techeun Force, PLUG ONE.1
 dimwishlist:item=-2961807684&perks=
 
 
@@ -411,7 +401,7 @@ dimwishlist:item=-2931957300&perks=
 
 
 //Snorri FR5
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Zealot's Reward, Glacioclasm
 dimwishlist:item=-4114929480&perks=
 
 
@@ -420,13 +410,8 @@ dimwishlist:item=-4114929480&perks=
 dimwishlist:item=-963710795&perks=
 
 
-//Zealot's Reward
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
-dimwishlist:item=-2209003210&perks=
-
-
 //Likely Suspect
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Zealot's Reward, Glacioclasm
 dimwishlist:item=-1994645182&perks=
 
 
@@ -436,7 +421,7 @@ dimwishlist:item=-3258665412&perks=
 
 
 //Main Ingredient
-//notes:Aegis Recommended Endgame alternative(s): Techeun Force
+//notes:Aegis Recommended Endgame alternative(s): Techeun Force, PLUG ONE.1
 dimwishlist:item=-3445437901&perks=
 
 
@@ -452,7 +437,7 @@ dimwishlist:item=-3055192515&perks=
 
 
 //The Epicurean
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Zealot's Reward, Glacioclasm
 dimwishlist:item=-4124357815&perks=
 
 
@@ -460,7 +445,7 @@ dimwishlist:item=-2263839058&perks=
 
 
 //Coriolis Force
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Zealot's Reward, Glacioclasm
 dimwishlist:item=-3512349612&perks=
 
 
@@ -504,7 +489,7 @@ dimwishlist:item=-820890091&perks=
 
 
 //Qullim's Terminus
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): Archon's Thunder
 dimwishlist:item=-1321506184&perks=
 
 
@@ -514,11 +499,6 @@ dimwishlist:item=-3248429089&perks=
 //Circular Logic
 //notes:Aegis Recommended Endgame alternative(s): Pro Memoria, Marcato-45
 dimwishlist:item=-2187717691&perks=
-
-
-//Archon's Thunder
-//notes:Aegis Recommended Endgame alternative(s): Speleologist, Unwavering Duty
-dimwishlist:item=-1967303408&perks=
 
 
 //Seventh Seraph SAW
@@ -551,12 +531,12 @@ dimwishlist:item=-105306149&perks=
 
 
 //Tarnation
-//notes:Aegis Recommended Endgame alternative(s): Wendigo GL3, Hullabaloo
+//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet, Hullabaloo
 dimwishlist:item=-2721157927&perks=
 
 
 //Memory Interdict
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Regnant
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic, Regnant
 dimwishlist:item=-3329842376&perks=
 
 
@@ -564,12 +544,12 @@ dimwishlist:item=-3165547384&perks=
 
 
 //Crowd Pleaser
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Regnant
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic, Regnant
 dimwishlist:item=-3565520715&perks=
 
 
 //Blast Battue
-//notes:Aegis Recommended Endgame alternative(s): Wendigo GL3, Hullabaloo
+//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet, Hullabaloo
 dimwishlist:item=-2453357042&perks=
 
 
@@ -579,7 +559,7 @@ dimwishlist:item=-4146702548&perks=
 
 
 //Berenger's Memory
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Regnant
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic, Regnant
 dimwishlist:item=-1983332562&perks=
 
 
@@ -670,7 +650,7 @@ dimwishlist:item=-35794111&perks=
 
 
 //Royal Entry
-//notes:Aegis Recommended Endgame alternative(s): Braytech Osprey, Faith-Keeper
+//notes:Aegis Recommended Endgame alternative(s): Tomorrow's Answer, Braytech Osprey, Faith-Keeper
 dimwishlist:item=-2448907086&perks=
 
 
@@ -695,7 +675,7 @@ dimwishlist:item=-3221722018&perks=
 
 
 //Threaded Needle
-//notes:Aegis Recommended Endgame alternative(s): Doomed Petitioner
+//notes:Aegis Recommended Endgame alternative(s): Mistral Lift, Doomed Petitioner
 dimwishlist:item=-3075224551&perks=
 
 
