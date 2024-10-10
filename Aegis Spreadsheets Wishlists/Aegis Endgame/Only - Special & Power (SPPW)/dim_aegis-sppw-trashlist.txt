@@ -507,7 +507,7 @@ dimwishlist:item=-2582755344&perks=
 
 
 //Thermal Erosion
-//notes:Aegis Recommended Endgame alternative(s): Speleologist, Unwavering Duty
+//notes:Aegis Recommended Endgame alternative(s): Avalanche, Speleologist, Unwavering Duty
 dimwishlist:item=-1766088024&perks=
 
 
@@ -536,7 +536,7 @@ dimwishlist:item=-2721157927&perks=
 
 
 //Memory Interdict
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic, Regnant
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic
 dimwishlist:item=-3329842376&perks=
 
 
@@ -544,7 +544,7 @@ dimwishlist:item=-3165547384&perks=
 
 
 //Crowd Pleaser
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic, Regnant
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic
 dimwishlist:item=-3565520715&perks=
 
 
@@ -559,7 +559,7 @@ dimwishlist:item=-4146702548&perks=
 
 
 //Berenger's Memory
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic, Regnant
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic
 dimwishlist:item=-1983332562&perks=
 
 
