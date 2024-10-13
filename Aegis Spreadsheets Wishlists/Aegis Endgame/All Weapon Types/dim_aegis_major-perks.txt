@@ -2703,6 +2703,11 @@ dimwishlist:item=1447836603&perks=1409206216,4049631843,19542588
 dimwishlist:item=1447836603&perks=1409206216,859780267,19542588
 
 
+//Staccato-46
+//notes:Aegis Extra Note - Great for: Utility
+dimwishlist:item=4019668921&perks=3700496672,3038247973,
+
+
 //Reckless Oracle
 //notes:Aegis Extra Note - Great for: Add clear
 Support
