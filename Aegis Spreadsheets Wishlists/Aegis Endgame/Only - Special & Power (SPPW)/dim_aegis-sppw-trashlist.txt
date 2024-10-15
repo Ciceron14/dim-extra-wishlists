@@ -460,7 +460,7 @@ dimwishlist:item=-2060863616&perks=
 
 
 //Orewing's Maul
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): VS Velocity Baton
 dimwishlist:item=-1870979911&perks=
 
 
@@ -473,7 +473,7 @@ dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+//notes:Aegis Recommended Endgame alternative(s): VS Velocity Baton
 dimwishlist:item=-3252697558&perks=
 
 
@@ -530,13 +530,59 @@ dimwishlist:item=-566740455&perks=
 dimwishlist:item=-105306149&perks=
 
 
+//Love and Death
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+dimwishlist:item=-3690523502&perks=
+
+
+//Swarm of the Raven
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-1972985595&perks=
+
+
+dimwishlist:item=-433905699&perks=
+
+
+//Interference VI
+//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet
+dimwishlist:item=-1443049976&perks=
+
+
+dimwishlist:item=-2257180473&perks=
+
+
+//Typhon GL5
+//notes:Aegis Recommended Endgame alternative(s): VS Chill Inhibitor
+dimwishlist:item=-3568377122&perks=
+
+
+//Dimensional Hypotrochoid
+//notes:Aegis Recommended Endgame alternative(s): VS Chill Inhibitor
+dimwishlist:item=-1311684613&perks=
+
+
+//Cry Mutiny
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+dimwishlist:item=-616582330&perks=
+
+
+//Canis Major
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+dimwishlist:item=-2066434718&perks=
+
+
+//Outrageous Fortune
+//notes:Aegis has not listed any A or S tier weapons for this damage & weapon type combo
+dimwishlist:item=-4146702548&perks=
+
+
 //Tarnation
-//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet, Hullabaloo
+//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet
 dimwishlist:item=-2721157927&perks=
 
 
 //Memory Interdict
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version
 dimwishlist:item=-3329842376&perks=
 
 
@@ -544,22 +590,17 @@ dimwishlist:item=-3165547384&perks=
 
 
 //Crowd Pleaser
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version
 dimwishlist:item=-3565520715&perks=
 
 
 //Blast Battue
-//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet, Hullabaloo
+//notes:Aegis Recommended Endgame alternative(s): Bitter/Sweet
 dimwishlist:item=-2453357042&perks=
 
 
-//Outrageous Fortune
-//notes:Aegis Recommended Endgame alternative(s): Marsilion-C
-dimwishlist:item=-4146702548&perks=
-
-
 //Berenger's Memory
-//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version, Acosmic
+//notes:Aegis Recommended Endgame alternative(s): Edge Transit: BRAVE version
 dimwishlist:item=-1983332562&perks=
 
 
