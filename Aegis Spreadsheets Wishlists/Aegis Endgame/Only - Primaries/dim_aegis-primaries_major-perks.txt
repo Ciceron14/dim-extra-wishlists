@@ -67,6 +67,15 @@ dimwishlist:item=3250744600&perks=1771736209,1546637391,1281216113
 dimwishlist:item=3250744600&perks=1771736209,3418165135,1281216113
 
 
+//VS Pyroelectric Propellant
+//notes:Aegis Extra Note - Great for: Add clear
+Support
+dimwishlist:item=4232480042&perks=684456054,3966416502,
+dimwishlist:item=4232480042&perks=684456054,717070634,
+dimwishlist:item=4232480042&perks=2785334058,3966416502,
+dimwishlist:item=4232480042&perks=2785334058,717070634,
+
+
 //Veiled Threat
 //notes:Aegis Great Alternative - Great for: Add clear
 dimwishlist:item=3685470415&perks=3700496672,2109543898,
