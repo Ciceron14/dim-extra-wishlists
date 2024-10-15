@@ -2442,8 +2442,7 @@ dimwishlist:item=3250744600&perks=1771736209,3418165135,1281216113
 
 
 //VS Pyroelectric Propellant
-//notes:Aegis Extra Note - Great for: Add clear
-Support
+//notes:Aegis Extra Note - Great for: Add clear, Support
 dimwishlist:item=4232480042&perks=684456054,3966416502,
 dimwishlist:item=4232480042&perks=684456054,717070634,
 dimwishlist:item=4232480042&perks=2785334058,3966416502,
@@ -2525,8 +2524,7 @@ dimwishlist:item=1292594730&perks=4223976499,956288240,
 
 
 //The Riposte
-//notes:Aegis Extra Note - Great for: Add clear
-Support
+//notes:Aegis Extra Note - Great for: Add clear, Support
 dimwishlist:item=3754408118&perks=776531651,2048641572,
 dimwishlist:item=3754408118&perks=776531651,1926441324,
 dimwishlist:item=3754408118&perks=2541826827,2048641572,
@@ -2622,8 +2620,7 @@ dimwishlist:item=1447836603&perks=1409206216,859780267,19542588
 
 
 //Reckless Oracle
-//notes:Aegis Extra Note - Great for: Add clear
-Support
+//notes:Aegis Extra Note - Great for: Add clear, Support
 
 
 dimwishlist:item=1992309064&perks=2048641572,4049631843,
