@@ -95,6 +95,14 @@ dimwishlist:item=3388655311&perks=2848615171,4293542123,
 dimwishlist:item=3388655311&perks=2848615171,2675184851,
 
 
+//Trustee
+//notes:Aegis Extra Note - Great for: Add clear
+dimwishlist:item=1392919471&perks=1523832109,4293542123,
+dimwishlist:item=1392919471&perks=1523832109,2675184851,
+dimwishlist:item=1392919471&perks=461595545,4293542123,
+dimwishlist:item=1392919471&perks=461595545,2675184851,
+
+
 //Timeworn Wayfarer
 //notes:Aegis Best In Slot - Great for: Add clear
 dimwishlist:item=1058098236&perks=3017780555,4293542123,253121539
@@ -243,6 +251,11 @@ dimwishlist:item=1447836603&perks=1409206216,2173046394,19542588
 dimwishlist:item=1447836603&perks=1409206216,1720528630,19542588
 dimwishlist:item=1447836603&perks=1409206216,4049631843,19542588
 dimwishlist:item=1447836603&perks=1409206216,859780267,19542588
+
+
+//Staccato-47
+//notes:Aegis Extra Note - Great for: Utility
+dimwishlist:item=4019668921&perks=3700496672,3038247973,
 
 
 //Reckless Oracle
