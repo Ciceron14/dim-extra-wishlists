@@ -3238,10 +3238,14 @@ dimwishlist:item=3998080529&perks=1906147653,3007133316,
 //notes:Aegis Great Alternative - Great for: Add clear
 
 
-dimwishlist:item=3433930495&perks=776531651,,
-dimwishlist:item=3433930495&perks=2541826827,,
-dimwishlist:item=3433930495&perks=2048641572,,
-dimwishlist:item=3433930495&perks=1926441324,,
+dimwishlist:item=3433930495&perks=776531651,2048641572,
+dimwishlist:item=3433930495&perks=776531651,1926441324,
+dimwishlist:item=3433930495&perks=2541826827,2048641572,
+dimwishlist:item=3433930495&perks=2541826827,1926441324,
+dimwishlist:item=3433930495&perks=2048641572,776531651,
+dimwishlist:item=3433930495&perks=2048641572,2541826827,
+dimwishlist:item=3433930495&perks=1926441324,776531651,
+dimwishlist:item=3433930495&perks=1926441324,2541826827,
 
 
 //Fatebringer
@@ -3300,9 +3304,10 @@ dimwishlist:item=501329015&perks=1015611457,1549370717,
 
 //Brya's Love
 //notes:Aegis Great Alternative - Great for: Utility
-dimwishlist:item=2779821308&perks=3700496672,,
-dimwishlist:item=2779821308&perks=2840833776,,
-dimwishlist:item=2779821308&perks=3038247973,,
+dimwishlist:item=2779821308&perks=3700496672,3038247973,
+dimwishlist:item=2779821308&perks=2840833776,3038247973,
+dimwishlist:item=2779821308&perks=3038247973,3700496672,
+dimwishlist:item=2779821308&perks=3038247973,2840833776,
 
 
 //Breakneck
