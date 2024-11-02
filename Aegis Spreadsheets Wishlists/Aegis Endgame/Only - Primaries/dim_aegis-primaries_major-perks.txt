@@ -786,12 +786,6 @@ dimwishlist:item=3962575203&perks=984655331,3414324643,
 dimwishlist:item=3962575203&perks=984655331,2662236651,
 
 
-//Hush
-//notes:Aegis Extra Note - Great for: Utility
-
-
-
-
 //Hung Jury SR4
 //notes:Aegis Great Alternative - Great for: Add clear
 
@@ -874,6 +868,14 @@ dimwishlist:item=3433930495&perks=1926441324,776531651,
 dimwishlist:item=3433930495&perks=1926441324,2541826827,
 
 
+//Fortunate Star
+//notes:Aegis Extra Note - Great for: Add clear
+dimwishlist:item=2326578623&perks=776531651,2048641572,
+dimwishlist:item=2326578623&perks=776531651,1926441324,
+dimwishlist:item=2326578623&perks=2541826827,2048641572,
+dimwishlist:item=2326578623&perks=2541826827,1926441324,
+
+
 //Fatebringer
 //notes:Aegis Great Alternative - Great for: Add clear
 dimwishlist:item=2171478765&perks=3038247973,3824105627,
@@ -906,6 +908,18 @@ dimwishlist:item=1184692845&perks=1183436451,3007133316,
 dimwishlist:item=1184692845&perks=3038247973,2848615171,
 dimwishlist:item=1184692845&perks=3038247973,4104185692,
 dimwishlist:item=1184692845&perks=3038247973,3007133316,
+
+
+//Darkest Before
+//notes:Aegis Extra Note - Great for: Add clear
+
+
+
+
+dimwishlist:item=435821040&perks=3017780555,4293542123,
+dimwishlist:item=435821040&perks=3017780555,2675184851,
+dimwishlist:item=435821040&perks=4223976499,4293542123,
+dimwishlist:item=435821040&perks=4223976499,2675184851,
 
 
 //Corrasion
