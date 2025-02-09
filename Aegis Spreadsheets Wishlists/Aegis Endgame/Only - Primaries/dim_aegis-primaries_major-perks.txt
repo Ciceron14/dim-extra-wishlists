@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Primaries
-description:Lists all Primaries recommended in the sheet. All credit goes to Aegis for the source.
+description:Primaries recommended by Aegis.
 
 //Zaouli's Bane
 //notes:Aegis Best In Slot - Great for: Add clear
@@ -30,7 +30,7 @@ dimwishlist:item=2378785953&perks=2938480696,3418165135,4091460919
 
 
 //Yesterday's Question
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 dimwishlist:item=2300143112&perks=2848615171,2173046394,
 dimwishlist:item=2300143112&perks=2848615171,1720528630,
 
@@ -68,7 +68,7 @@ dimwishlist:item=3250744600&perks=1771736209,3418165135,1281216113
 
 
 //VS Pyroelectric Propellant
-//notes:Aegis Extra Note - Great for: Add clear, Support
+//notes:Aegis Extra - Good for: Add clear, Support
 dimwishlist:item=4232480042&perks=684456054,3966416502,
 dimwishlist:item=4232480042&perks=684456054,717070634,
 dimwishlist:item=4232480042&perks=2785334058,3966416502,
@@ -76,7 +76,7 @@ dimwishlist:item=4232480042&perks=2785334058,717070634,
 
 
 //Veiled Threat
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=3685470415&perks=3700496672,2109543898,
 dimwishlist:item=3685470415&perks=3700496672,2799030358,
 dimwishlist:item=3685470415&perks=2840833776,2109543898,
@@ -88,7 +88,7 @@ dimwishlist:item=3685470415&perks=984655331,2799030358,
 
 
 //Tyranny of Heaven
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 
 
 dimwishlist:item=3388655311&perks=2848615171,4293542123,
@@ -96,7 +96,7 @@ dimwishlist:item=3388655311&perks=2848615171,2675184851,
 
 
 //Trustee
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 dimwishlist:item=1392919471&perks=1523832109,4293542123,
 dimwishlist:item=1392919471&perks=1523832109,2675184851,
 dimwishlist:item=1392919471&perks=461595545,4293542123,
@@ -116,7 +116,7 @@ dimwishlist:item=1058098236&perks=2840833776,2675184851,253121539
 
 
 //The Summoner
-//notes:Aegis Great Alternative - Great for: Add clear, Support
+//notes:Aegis Alternative - Great for: Add clear, Support
 
 
 
@@ -158,7 +158,7 @@ dimwishlist:item=1292594730&perks=4223976499,956288240,
 
 
 //The Riposte
-//notes:Aegis Extra Note - Great for: Add clear, Support
+//notes:Aegis Extra - Good for: Add clear, Support
 dimwishlist:item=3754408118&perks=776531651,2048641572,
 dimwishlist:item=3754408118&perks=776531651,1926441324,
 dimwishlist:item=3754408118&perks=2541826827,2048641572,
@@ -166,7 +166,7 @@ dimwishlist:item=3754408118&perks=2541826827,1926441324,
 
 
 //The Recluse
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 
 
 dimwishlist:item=1050806815&perks=3828510309,2109543898,
@@ -254,12 +254,12 @@ dimwishlist:item=1447836603&perks=1409206216,859780267,19542588
 
 
 //Staccato-47
-//notes:Aegis Extra Note - Great for: Utility
+//notes:Aegis Extra - Good for: Utility
 dimwishlist:item=4019668921&perks=3700496672,3038247973,
 
 
 //Reckless Oracle
-//notes:Aegis Extra Note - Great for: Add clear, Support
+//notes:Aegis Extra - Good for: Add clear, Support
 
 
 dimwishlist:item=1992309064&perks=2048641572,4049631843,
@@ -291,7 +291,7 @@ dimwishlist:item=3292795429&perks=183938251,3431277734,4091460919
 
 
 //Raconteur
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=45643573&perks=201365942,3365897133,
 dimwishlist:item=45643573&perks=201365942,1551736345,
 dimwishlist:item=45643573&perks=201365942,124408337,
@@ -425,7 +425,7 @@ dimwishlist:item=2063217087&perks=984655331,2662236651,1281216113
 
 
 //Posterity
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=3281285075&perks=2173046394,4104185692,
 dimwishlist:item=3281285075&perks=2173046394,3007133316,
 dimwishlist:item=3281285075&perks=1720528630,4104185692,
@@ -541,7 +541,7 @@ dimwishlist:item=1801007332&perks=1906147653,674546187,1988485648
 
 
 //Mykel's Reverence
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=231031173&perks=3418782618,4104185692,
 dimwishlist:item=231031173&perks=3418782618,3007133316,
 dimwishlist:item=231031173&perks=3418782618,831391274,
@@ -563,7 +563,7 @@ dimwishlist:item=1986287028&perks=1563455254,102912326,
 
 
 //Multimach CCX
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 
 
 
@@ -655,7 +655,7 @@ dimwishlist:item=2499720827&perks=3038247973,859780267,2489430594
 
 
 //Maahes HC4
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 dimwishlist:item=1246793994&perks=776531651,2048641572,
 dimwishlist:item=1246793994&perks=776531651,1926441324,
 dimwishlist:item=1246793994&perks=2541826827,2048641572,
@@ -663,7 +663,7 @@ dimwishlist:item=1246793994&perks=2541826827,1926441324,
 
 
 //Maahes HC4
-//notes:Aegis Great Alternative - Great for: Damage
+//notes:Aegis Alternative - Great for: Damage
 dimwishlist:item=1246793994&perks=3828510309,4104185692,
 dimwishlist:item=1246793994&perks=3828510309,3007133316,
 dimwishlist:item=1246793994&perks=1771736209,4104185692,
@@ -675,7 +675,7 @@ dimwishlist:item=1246793994&perks=2938480696,3007133316,
 
 
 //Luna's Howl
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 
 
 dimwishlist:item=2763843899&perks=3017780555,4293542123,
@@ -745,7 +745,7 @@ dimwishlist:item=3951511045&perks=1906147653,102912326,1878756191
 
 
 //Hush
-//notes:Aegis Great Alternative - Great for: Utility
+//notes:Aegis Alternative - Great for: Utility
 
 
 dimwishlist:item=3962575203&perks=3700496672,3365897133,
@@ -787,9 +787,15 @@ dimwishlist:item=3962575203&perks=984655331,2662236651,
 
 
 //Hung Jury SR4
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 
 
+
+
+dimwishlist:item=3832743906&perks=3700496672,3824105627,
+
+
+dimwishlist:item=2883684343&perks=3700496672,3824105627,
 
 
 dimwishlist:item=772231794&perks=3700496672,3824105627,
@@ -798,12 +804,6 @@ dimwishlist:item=772231794&perks=3700496672,3038247973,
 
 dimwishlist:item=4074251943&perks=3700496672,3824105627,
 dimwishlist:item=4074251943&perks=3700496672,3038247973,
-
-
-dimwishlist:item=3832743906&perks=3700496672,3824105627,
-
-
-dimwishlist:item=2883684343&perks=3700496672,3824105627,
 
 
 dimwishlist:item=1453235079&perks=3700496672,3824105627,
@@ -835,7 +835,7 @@ dimwishlist:item=205225492&perks=1549370717,3038247973,
 
 
 //Heliocentric QSc
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=3998080529&perks=3017780555,4293542123,
 dimwishlist:item=3998080529&perks=3017780555,2675184851,
 dimwishlist:item=3998080529&perks=3017780555,4104185692,
@@ -855,21 +855,17 @@ dimwishlist:item=3998080529&perks=1906147653,3007133316,
 
 
 //Gridskipper
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 
 
 dimwishlist:item=3433930495&perks=776531651,2048641572,
 dimwishlist:item=3433930495&perks=776531651,1926441324,
 dimwishlist:item=3433930495&perks=2541826827,2048641572,
 dimwishlist:item=3433930495&perks=2541826827,1926441324,
-dimwishlist:item=3433930495&perks=2048641572,776531651,
-dimwishlist:item=3433930495&perks=2048641572,2541826827,
-dimwishlist:item=3433930495&perks=1926441324,776531651,
-dimwishlist:item=3433930495&perks=1926441324,2541826827,
 
 
 //Fortunate Star
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 dimwishlist:item=2326578623&perks=776531651,2048641572,
 dimwishlist:item=2326578623&perks=776531651,1926441324,
 dimwishlist:item=2326578623&perks=2541826827,2048641572,
@@ -877,7 +873,7 @@ dimwishlist:item=2326578623&perks=2541826827,1926441324,
 
 
 //Fatebringer
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=2171478765&perks=3038247973,3824105627,
 dimwishlist:item=2171478765&perks=3038247973,4104185692,
 
@@ -886,8 +882,20 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627,
 dimwishlist:item=1216319404&perks=3038247973,4104185692,
 
 
+dimwishlist:item=4184168210&perks=3038247973,3824105627,
+dimwishlist:item=4184168210&perks=3038247973,1183436451,
+dimwishlist:item=4184168210&perks=3038247973,4104185692,
+dimwishlist:item=4184168210&perks=3038247973,3007133316,
+
+
+dimwishlist:item=4219826183&perks=3038247973,3824105627,
+dimwishlist:item=4219826183&perks=3038247973,1183436451,
+dimwishlist:item=4219826183&perks=3038247973,4104185692,
+dimwishlist:item=4219826183&perks=3038247973,3007133316,
+
+
 //Doom of Chelchis
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 dimwishlist:item=1937552980&perks=3824105627,2848615171,
 dimwishlist:item=1937552980&perks=3824105627,4104185692,
 dimwishlist:item=1937552980&perks=3824105627,3007133316,
@@ -911,7 +919,7 @@ dimwishlist:item=1184692845&perks=3038247973,3007133316,
 
 
 //Darkest Before
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 
 
 
@@ -923,7 +931,7 @@ dimwishlist:item=435821040&perks=4223976499,2675184851,
 
 
 //Corrasion
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 dimwishlist:item=2126178511&perks=3828510309,2173046394,
 dimwishlist:item=2126178511&perks=3828510309,1720528630,
 dimwishlist:item=2126178511&perks=1771736209,2173046394,
@@ -931,7 +939,7 @@ dimwishlist:item=2126178511&perks=1771736209,1720528630,
 
 
 //Chattering Bone
-//notes:Aegis Great Alternative - Great for: Add clear
+//notes:Aegis Alternative - Great for: Add clear
 
 
 dimwishlist:item=501329015&perks=247725512,3891536761,
@@ -943,11 +951,9 @@ dimwishlist:item=501329015&perks=1015611457,1549370717,
 
 
 //Brya's Love
-//notes:Aegis Great Alternative - Great for: Utility
+//notes:Aegis Alternative - Great for: Utility
 dimwishlist:item=2779821308&perks=3700496672,3038247973,
 dimwishlist:item=2779821308&perks=2840833776,3038247973,
-dimwishlist:item=2779821308&perks=3038247973,3700496672,
-dimwishlist:item=2779821308&perks=3038247973,2840833776,
 
 
 //Breakneck
@@ -1101,7 +1107,7 @@ dimwishlist:item=1051949956&perks=984655331,2799030358,2120661319
 
 
 //Ancient Gospel
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 
 
 dimwishlist:item=963574173&perks=2048641572,3038247973,
@@ -1109,7 +1115,7 @@ dimwishlist:item=963574173&perks=1926441324,3038247973,
 
 
 //Aisha's Care
-//notes:Aegis Extra Note - Great for: Add clear
+//notes:Aegis Extra - Good for: Add clear
 dimwishlist:item=3969379530&perks=923806249,831391274,
 dimwishlist:item=3969379530&perks=923806249,102912326,
 dimwishlist:item=3969379530&perks=3422796781,831391274,

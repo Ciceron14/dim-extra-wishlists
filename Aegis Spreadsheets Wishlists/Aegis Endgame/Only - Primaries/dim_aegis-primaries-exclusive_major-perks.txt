@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Primaries (Best in Slot)
-description:Lists all Primaris rated as Best in Slot. All credit goes to Aegis for the source.
+description:Primaris rated as Best in Slot by Aegis.
 
 //Breakneck
 //notes:Aegis Best In Slot - Great for: Add clear

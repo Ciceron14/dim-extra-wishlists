@@ -1,5 +1,5 @@
 title:Aegis's Boss Damage Equipment (Major Perks only)
-description:Only considers main perks. Currently relevant Boss Damage tools, curated by Aegis.
+description:Currently relevant Boss Damage tools, curated by Aegis.
 
 //Celestial Nighthawk
 //notes:Aegis Boss Damage #1 -> Highest burst damage super + synergy with Still Hunt
@@ -425,12 +425,12 @@ dimwishlist:item=3473290087&perks=3436462433,1546637391
 
 //Imperial Decree
 //notes:Aegis Boss Damage #3 -> Trench swaps on certain loadouts
-
-
 dimwishlist:item=318443586&perks=3300816228,2360754333
 dimwishlist:item=318443586&perks=3300816228,2459015849
 dimwishlist:item=318443586&perks=3300816228,3708227201
 dimwishlist:item=318443586&perks=3300816228,781192741
+
+
 
 
 //Koraxis's Distress
@@ -598,11 +598,23 @@ dimwishlist:item=3234692237&perks=,
 //Cataphract GL3
 //notes:Aegis Boss Damage #4 -> Low fireteam count burst damage
 dimwishlist:item=2738601016&perks=968510818,3078487919
+dimwishlist:item=2738601016&perks=968510818,3744057135
 dimwishlist:item=2738601016&perks=968510818,3751912585
+dimwishlist:item=2738601016&perks=968510818,331667533
+dimwishlist:item=2738601016&perks=424370782,3078487919
+dimwishlist:item=2738601016&perks=424370782,3744057135
+dimwishlist:item=2738601016&perks=424370782,3751912585
+dimwishlist:item=2738601016&perks=424370782,331667533
 
 
 dimwishlist:item=874623537&perks=968510818,3078487919
+dimwishlist:item=874623537&perks=968510818,3744057135
 dimwishlist:item=874623537&perks=968510818,3751912585
+dimwishlist:item=874623537&perks=968510818,331667533
+dimwishlist:item=874623537&perks=424370782,3078487919
+dimwishlist:item=874623537&perks=424370782,3744057135
+dimwishlist:item=874623537&perks=424370782,3751912585
+dimwishlist:item=874623537&perks=424370782,331667533
 
 
 //Father's Sins
