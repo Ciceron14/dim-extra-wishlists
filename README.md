@@ -1,6 +1,6 @@
 Collection of DIM Wishlists based on [Aegis](https://linktr.ee/TheAegisRelic)'s Spreadsheets
 
-Last Update: Heresy (No Dungeon, waiting on Manifest update from Bungie)
+Last Update: Heresy & New Dungeon
 
 ## Wishlist Sources
 Endgame Wishlists -> [Endgame Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/)
