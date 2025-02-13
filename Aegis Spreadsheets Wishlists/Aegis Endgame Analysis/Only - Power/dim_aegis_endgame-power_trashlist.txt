@@ -1,0 +1,219 @@
+title:Aegis's Endgame Analysis -> Power (Trash List)
+description:Power weapons rated D tier or lower by Aegis are marked as Trash. S or A tier alternatives are given if they exist.
+
+//Qullim's Terminus
+//notes:Aegis Recommended alternative(s): Archon's Thunder
+dimwishlist:item=-1321506184&perks=
+dimwishlist:item=-3248429089&perks=
+
+
+//Circular Logic
+//notes:Aegis Recommended alternative(s): Pro Memoria, Marcato-45
+dimwishlist:item=-2187717691&perks=
+
+
+//Seventh Seraph SAW
+//notes:Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+dimwishlist:item=-2582755344&perks=
+
+
+//Thermal Erosion
+//notes:Aegis Recommended alternative(s): Avalanche, Speleologist, Unwavering Duty
+dimwishlist:item=-1766088024&perks=
+
+
+//THE SWARM
+//notes:Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+dimwishlist:item=-47772649&perks=
+dimwishlist:item=-3836861464&perks=
+dimwishlist:item=-2759590322&perks=
+dimwishlist:item=-566740455&perks=
+
+
+//Eleatic Principle
+//notes:Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+dimwishlist:item=-105306149&perks=
+
+
+//Love and Death
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3690523502&perks=
+
+
+//Swarm of the Raven
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-1972985595&perks=
+dimwishlist:item=-433905699&perks=
+
+
+//Interference VI
+//notes:Aegis Recommended alternative(s): Bitter/Sweet
+dimwishlist:item=-1443049976&perks=
+dimwishlist:item=-2257180473&perks=
+
+
+//Typhon GL5
+//notes:Aegis Recommended alternative(s): VS Chill Inhibitor
+dimwishlist:item=-3568377122&perks=
+
+
+//Cry Mutiny
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-616582330&perks=
+
+
+//Canis Major
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2066434718&perks=
+
+
+//Outrageous Fortune
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-4146702548&perks=
+
+
+//Tarnation
+//notes:Aegis Recommended alternative(s): Bitter/Sweet
+dimwishlist:item=-2721157927&perks=
+
+
+//Memory Interdict
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-3165547384&perks=
+dimwishlist:item=-3329842376&perks=
+
+
+//Crowd Pleaser
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-3565520715&perks=
+
+
+//Blast Battue
+//notes:Aegis Recommended alternative(s): Bitter/Sweet
+dimwishlist:item=-2453357042&perks=
+
+
+//Berenger's Memory
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-407621213&perks=
+dimwishlist:item=-1983332562&perks=
+
+
+//Half-Truths
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-3257091166&perks=
+
+
+//Caretaker
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2508948099&perks=
+
+
+//Honor's Edge
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-2276266837&perks=
+dimwishlist:item=-2857348871&perks=
+
+
+//Eternity's Edge
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2782325301&perks=
+dimwishlist:item=-1180270693&perks=
+
+
+//Crown-Splitter
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-2782325302&perks=
+dimwishlist:item=-1180270694&perks=
+
+
+//Throne-Cleaver
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3371413059&perks=
+dimwishlist:item=-569799273&perks=
+
+
+//Dragoncult Sickle
+//notes:Aegis Recommended alternative(s): Abyssal Edge
+dimwishlist:item=-3668817296&perks=
+
+
+//Sola's Scar
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1313528549&perks=
+dimwishlist:item=-3847137620&perks=
+
+
+//Quickfang
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-2782325300&perks=
+dimwishlist:item=-1180270692&perks=
+
+
+//Razor's Edge
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-1796949035&perks=
+
+
+//Hero of Ages
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-2139640995&perks=
+
+
+//Chivalric Fire
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-3438139008&perks=
+
+
+//Temptation's Hook
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-35794111&perks=
+dimwishlist:item=-1587953057&perks=
+
+
+//Thin Precipice
+//notes:Aegis Recommended alternative(s): Abyssal Edge
+dimwishlist:item=-4066778670&perks=
+
+
+//Royal Entry
+//notes:Aegis Recommended alternative(s): Tomorrow's Answer, Braytech Osprey, Faith-Keeper
+dimwishlist:item=-2448907086&perks=
+
+
+//Ascendancy
+//notes:Aegis Recommended alternative(s): Hezen Vengeance, Apex Predator
+dimwishlist:item=-725408022&perks=
+
+
+//Subzero Salvo
+//notes:Aegis Recommended alternative(s): Crux Termination IV, The Hothead, Sleepless, Blowout
+dimwishlist:item=-42351395&perks=
+
+
+//Sailspy Pitchglass
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1184309824&perks=
+
+
+//Laser Painter
+//notes:Aegis Recommended alternative(s): Scintillation
+dimwishlist:item=-3221722018&perks=
+
+
+//Threaded Needle
+//notes:Aegis Recommended alternative(s): Mistral Lift, Doomed Petitioner
+dimwishlist:item=-3075224551&perks=
+
+
+//Tarantula
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3335343363&perks=
+dimwishlist:item=-2502422775&perks=
+
+
+//Corsair's Wrath
+//notes:Aegis Recommended alternative(s): Cataclysmic, Briar's Contempt
+dimwishlist:item=-2714022207&perks=
+
+

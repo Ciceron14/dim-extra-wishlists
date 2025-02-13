@@ -1,0 +1,1364 @@
+title:Aegis's Endgame Analysis -> Only the best weapons
+description:Lists all Special & Power weapons rated S tier as well as all Primaries rated as Best in Slot. Ratings taken from Aegis spreadsheets.
+
+//Rufus's Fury
+//notes:Aegis Recommended alternative(s): Adamantite
+dimwishlist:item=-484515708&perks=
+dimwishlist:item=-342514437&perks=
+
+
+//Come to Pass
+//notes:Aegis Recommended alternative(s): VS Pyroelectric Propellant
+dimwishlist:item=-927567426&perks=
+
+
+//Lethal Abundance
+//notes:Aegis Recommended alternative(s): Adamantite
+dimwishlist:item=-2189073092&perks=
+dimwishlist:item=-3428407746&perks=
+
+
+//Old Sterling
+//notes:Aegis Recommended alternative(s): Adamantite
+dimwishlist:item=-3678653083&perks=
+
+
+//The Last Breath
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-507038823&perks=
+dimwishlist:item=-1503609584&perks=
+
+
+//Sweet Sorrow
+//notes:Aegis Recommended alternative(s): VS Pyroelectric Propellant
+dimwishlist:item=-1248372789&perks=
+
+
+//Arctic Haze
+//notes:Aegis Recommended alternative(s): No Hesitation, Abyss Defiant, The Summoner
+dimwishlist:item=-20935540&perks=
+
+
+//Perpetualis
+//notes:Aegis Recommended alternative(s): Adamantite
+dimwishlist:item=-392008588&perks=
+
+
+//Chrysura Melo
+//notes:Aegis Recommended alternative(s): No Hesitation, Abyss Defiant, The Summoner
+dimwishlist:item=-1337707096&perks=
+
+
+//The Forward Path
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1690783811&perks=
+dimwishlist:item=-2014642399&perks=
+
+
+//Seventh Seraph Carbine
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1561006927&perks=
+dimwishlist:item=-4070357005&perks=
+
+
+//Duty Bound
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-435216110&perks=
+dimwishlist:item=-1135050595&perks=
+dimwishlist:item=-1457979868&perks=
+
+
+//Sorrow's Verse
+//notes:Aegis Recommended alternative(s): VS Pyroelectric Propellant
+dimwishlist:item=-2496875173&perks=
+
+
+//Arc Logic
+//notes:Aegis Recommended alternative(s): VS Pyroelectric Propellant
+dimwishlist:item=-2723909519&perks=
+
+
+//Lodbrok-C
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2328531378&perks=
+
+
+//Gnawing Hunger
+//notes:Aegis Recommended alternative(s): Reckless Oracle, The Riposte, Age-Old Bond
+dimwishlist:item=-821154603&perks=
+
+
+//Firefright
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2778013407&perks=
+
+
+//The Number
+//notes:Aegis Recommended alternative(s): VS Pyroelectric Propellant
+dimwishlist:item=-2492081469&perks=
+dimwishlist:item=-3854359821&perks=
+
+
+//Scathelocke
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-602618796&perks=
+dimwishlist:item=-3762467078&perks=
+
+
+//Imperial Needle
+//notes:Aegis Recommended alternative(s): Anamnesis, Fortunate Star
+dimwishlist:item=-3460122497&perks=
+
+
+//Lethophobia
+//notes:Aegis Recommended alternative(s): Anamnesis, Fortunate Star
+dimwishlist:item=-3710082365&perks=
+
+
+//Lunulata-4B
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2513965917&perks=
+
+
+//Biting Winds
+//notes:Aegis Recommended alternative(s): Accrued Redemption
+dimwishlist:item=-1621657423&perks=
+
+
+//Whispering Slab
+//notes:Aegis Recommended alternative(s): Accrued Redemption
+dimwishlist:item=-211938782&perks=
+dimwishlist:item=-690341468&perks=
+
+
+//Whistler's Whim
+//notes:Aegis Recommended alternative(s): Accrued Redemption
+dimwishlist:item=-1574601402&perks=
+dimwishlist:item=-711889599&perks=
+dimwishlist:item=-3165143747&perks=
+dimwishlist:item=-161675590&perks=
+
+
+//Neoptolemus II
+//notes:Aegis Recommended alternative(s): Accrued Redemption
+dimwishlist:item=-2848549302&perks=
+
+
+//The Palindrome
+//notes:Aegis Recommended alternative(s): Posterity, Sightline Survey
+dimwishlist:item=-432476743&perks=
+dimwishlist:item=-1481892490&perks=
+dimwishlist:item=-2876244791&perks=
+dimwishlist:item=-4077588826&perks=
+
+
+//Igneous Hammer
+//notes:Aegis Recommended alternative(s): Zaouli's Bane
+dimwishlist:item=-2351180975&perks=
+dimwishlist:item=-2527666306&perks=
+dimwishlist:item=-1973107014&perks=
+dimwishlist:item=-2314610827&perks=
+
+
+//Something New
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1856262127&perks=
+dimwishlist:item=-3240434620&perks=
+dimwishlist:item=-586671776&perks=
+
+
+//Judgment
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1476654960&perks=
+dimwishlist:item=-2850415209&perks=
+dimwishlist:item=-2969415423&perks=
+
+
+//Eyasluna
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-235827225&perks=
+
+
+//Better Devils
+//notes:Aegis Recommended alternative(s): Unloved
+dimwishlist:item=-1048266744&perks=
+dimwishlist:item=-153979397&perks=
+dimwishlist:item=-4152016199&perks=
+
+
+//Targeted Redaction
+//notes:Aegis Recommended alternative(s): Word of Crota, Maahes HC4, Exalted Truth, Ancient Gospel
+dimwishlist:item=-3890055324&perks=
+
+
+//Combined Action
+//notes:Aegis Recommended alternative(s): Posterity, Sightline Survey
+dimwishlist:item=-1331824604&perks=
+
+
+//Round Robin
+//notes:Aegis Recommended alternative(s): Unloved
+dimwishlist:item=-2034215657&perks=
+
+
+//Rose
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-2429822976&perks=
+dimwishlist:item=-882778888&perks=
+
+
+//Cantata-57
+//notes:Aegis Recommended alternative(s): Posterity, Sightline Survey
+dimwishlist:item=-372697604&perks=
+
+
+//Optative
+//notes:Aegis Recommended alternative(s): Word of Crota, Maahes HC4, Exalted Truth, Ancient Gospel
+dimwishlist:item=-2138599001&perks=
+dimwishlist:item=-2817683783&perks=
+
+
+//IKELOS_HC_V1.0.3
+//notes:Aegis Recommended alternative(s): Word of Crota, Maahes HC4, Exalted Truth, Ancient Gospel
+dimwishlist:item=-1731355324&perks=
+
+
+//Austringer
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-3055790362&perks=
+dimwishlist:item=-2429822977&perks=
+
+
+//Malediction
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-3337727085&perks=
+
+
+//Bottom Dollar
+//notes:Aegis Recommended alternative(s): Word of Crota, Maahes HC4, Exalted Truth, Ancient Gospel
+dimwishlist:item=-1046651176&perks=
+
+
+//Crimil's Dagger
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-3649055823&perks=
+dimwishlist:item=-4292849692&perks=
+dimwishlist:item=-198854575&perks=
+
+
+//True Prophecy
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-408440598&perks=
+dimwishlist:item=-2742838700&perks=
+
+
+//Annual Skate
+//notes:Aegis Recommended alternative(s): Zaouli's Bane
+dimwishlist:item=-6857689&perks=
+dimwishlist:item=-2145476623&perks=
+
+
+//D.F.A.
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-575830664&perks=
+dimwishlist:item=-2006308129&perks=
+dimwishlist:item=-4238497225&perks=
+
+
+//Seventh Seraph Officer Revolver
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-3037520408&perks=
+dimwishlist:item=-1555959830&perks=
+
+
+//Frontier's Cry
+//notes:Aegis Recommended alternative(s): Zaouli's Bane
+dimwishlist:item=-1141547457&perks=
+
+
+//Survivor's Epitaph
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-310708513&perks=
+
+
+//Loud Lullaby
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-3924212056&perks=
+
+
+//Spare Rations
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-3116356268&perks=
+dimwishlist:item=-3236112986&perks=
+
+
+//Nature of the Beast
+//notes:Aegis Recommended alternative(s): Posterity, Sightline Survey
+dimwishlist:item=-1835747805&perks=
+dimwishlist:item=-468276817&perks=
+
+
+//Crisis Inverted
+//notes:Aegis Recommended alternative(s): Posterity, Sightline Survey
+dimwishlist:item=-2888266564&perks=
+
+
+//Finite Impactor
+//notes:Aegis Recommended alternative(s): Posterity, Sightline Survey
+dimwishlist:item=-3813153080&perks=
+dimwishlist:item=-701922966&perks=
+
+
+//Pure Poetry
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-2671639706&perks=
+
+
+//Dire Promise
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-582335600&perks=
+dimwishlist:item=-2742838701&perks=
+
+
+//The Steady Hand
+//notes:Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+dimwishlist:item=-2220884262&perks=
+dimwishlist:item=-1189790632&perks=
+
+
+//Kept Confidence
+//notes:Aegis Recommended alternative(s): Unloved
+dimwishlist:item=-1875512595&perks=
+
+
+//Psi Hermetic V
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-358788212&perks=
+
+
+//Insidious
+//notes:Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+dimwishlist:item=-3428521585&perks=
+dimwishlist:item=-786352912&perks=
+
+
+//Smite of Merain
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-2221264583&perks=
+dimwishlist:item=-3407395594&perks=
+
+
+//Syncopation-53
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2856514843&perks=
+
+
+//New Purpose
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1780464822&perks=
+
+
+//Relentless
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1187594590&perks=
+dimwishlist:item=-435821041&perks=
+
+
+//Belisarius-D
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2313726158&perks=
+
+
+//Different Times
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3016891299&perks=
+
+
+//Ogma PR6
+//notes:Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+dimwishlist:item=-2342054803&perks=
+
+
+//Nightshade
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-339163900&perks=
+dimwishlist:item=-792755504&perks=
+dimwishlist:item=-1974641289&perks=
+
+
+//Outlast
+//notes:Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+dimwishlist:item=-299665907&perks=
+dimwishlist:item=-1678205741&perks=
+
+
+//Yesteryear
+//notes:Aegis Recommended alternative(s): Gridskipper, Joxer's Longsword, Claws of the Wolf, Elsie's Rifle
+dimwishlist:item=-1141927949&perks=
+
+
+//Autumn Wind
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-3110377595&perks=
+dimwishlist:item=-1674742470&perks=
+
+
+//The Third Axiom
+//notes:Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+dimwishlist:item=-4156253727&perks=
+
+
+//Veles-X
+//notes:Aegis Recommended alternative(s): Gridskipper, Joxer's Longsword, Claws of the Wolf, Elsie's Rifle
+dimwishlist:item=-2276328320&perks=
+
+
+//Scalar Potential
+//notes:Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+dimwishlist:item=-2563668388&perks=
+
+
+//Piece of Mind
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-2097055732&perks=
+
+
+//Cold Denial
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-1216130969&perks=
+dimwishlist:item=-558794124&perks=
+
+
+//Stars in Shadow
+//notes:Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+dimwishlist:item=-2050789284&perks=
+
+
+//Horror's Least
+//notes:Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+dimwishlist:item=-216983039&perks=
+dimwishlist:item=-1924276978&perks=
+dimwishlist:item=-1071542914&perks=
+
+
+//Last Perdition
+//notes:Aegis Recommended alternative(s): Gridskipper, Joxer's Longsword, Claws of the Wolf, Elsie's Rifle
+dimwishlist:item=-962412079&perks=
+dimwishlist:item=-188882152&perks=
+
+
+//The Time-Worn Spire
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-3593598010&perks=
+dimwishlist:item=-4425887&perks=
+
+
+//Jian 7 Rifle
+//notes:Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+dimwishlist:item=-625672050&perks=
+dimwishlist:item=-1162247618&perks=
+
+
+//Legal Action II
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-3409645497&perks=
+dimwishlist:item=-1760543913&perks=
+
+
+//Forge's Pledge
+//notes:Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+dimwishlist:item=-1076810832&perks=
+
+
+//Premonition
+//notes:Aegis Recommended alternative(s): Gridskipper, Joxer's Longsword, Claws of the Wolf, Elsie's Rifle
+dimwishlist:item=-208088207&perks=
+
+
+//Hailing Confusion
+//notes:Aegis Recommended alternative(s): Blast Furnace
+dimwishlist:item=-2870169846&perks=
+
+
+//The Guiding Sight
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1641430382&perks=
+dimwishlist:item=-3890960908&perks=
+dimwishlist:item=-1161561386&perks=
+dimwishlist:item=-417100299&perks=
+
+
+//Glissando-47
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-222606050&perks=
+
+
+//Pointed Inquiry
+//notes:Aegis Recommended alternative(s): Vouchsafe, Doom of Chelchis
+dimwishlist:item=-297296830&perks=
+
+
+//Aisha's Embrace
+//notes:Aegis Recommended alternative(s): Vouchsafe, Doom of Chelchis
+dimwishlist:item=-2638190703&perks=
+dimwishlist:item=-3245493570&perks=
+
+
+//Night Watch
+//notes:Aegis Recommended alternative(s): Hung Jury SR4, Randy's Throwing Knife, Patron of Lost Causes
+dimwishlist:item=-3504336176&perks=
+
+
+//Tears of Contrition
+//notes:Aegis Recommended alternative(s): Hung Jury SR4, Randy's Throwing Knife, Patron of Lost Causes
+dimwishlist:item=-1366394399&perks=
+
+
+//Talons of the Eagle
+//notes:Aegis Recommended alternative(s): Hung Jury SR4, Randy's Throwing Knife, Patron of Lost Causes
+dimwishlist:item=-1982711279&perks=
+
+
+//Contingency Plan
+//notes:Aegis Recommended alternative(s): Unworthy, Tarnished Mettle
+dimwishlist:item=-577528837&perks=
+dimwishlist:item=-2625782213&perks=
+
+
+//Royal Chase
+//notes:Aegis Recommended alternative(s): Vouchsafe, Doom of Chelchis
+dimwishlist:item=-2776503072&perks=
+
+
+//Eternal Blazon
+//notes:Aegis Recommended alternative(s): Unworthy, Tarnished Mettle
+dimwishlist:item=-3514096004&perks=
+dimwishlist:item=-1927800278&perks=
+
+
+//Adverse Possession IX
+//notes:Aegis Recommended alternative(s): Unworthy, Tarnished Mettle
+dimwishlist:item=-1531295694&perks=
+dimwishlist:item=-1890332078&perks=
+
+
+//Last Rite
+//notes:Aegis Recommended alternative(s): Hung Jury SR4, Randy's Throwing Knife, Patron of Lost Causes
+dimwishlist:item=-542573208&perks=
+
+
+//Pleiades Corrector
+//notes:Aegis Recommended alternative(s): Trustee, Timeworn Wayfarer, Vision of Confluence
+dimwishlist:item=-3556999246&perks=
+dimwishlist:item=-1342668638&perks=
+
+
+//The Scholar
+//notes:Aegis Recommended alternative(s): Hung Jury SR4, Randy's Throwing Knife, Patron of Lost Causes
+dimwishlist:item=-2386979999&perks=
+dimwishlist:item=-2478792241&perks=
+
+
+//Lonesome
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2199171672&perks=
+
+
+//Enigma's Draw
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2581162758&perks=
+dimwishlist:item=-1723380073&perks=
+
+
+//Controlling Vision
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-48361212&perks=
+dimwishlist:item=-423343404&perks=
+
+
+//Spoiler Alert
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2588048270&perks=
+dimwishlist:item=-819358961&perks=
+
+
+//Redback-5SI
+//notes:Aegis Recommended alternative(s): Heliocentric QSc, Drang (Baroque)
+dimwishlist:item=-1687353095&perks=
+
+
+//Farewell
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-541188001&perks=
+
+
+//A Swift Verdict
+//notes:Aegis Recommended alternative(s): Insurmountable
+dimwishlist:item=-1626503676&perks=
+dimwishlist:item=-3854037061&perks=
+
+
+//The Last Dance
+//notes:Aegis Recommended alternative(s): Division, Anonymous Autumn, Brigand's Law
+dimwishlist:item=-3967155859&perks=
+dimwishlist:item=-1699493316&perks=
+dimwishlist:item=-2009277538&perks=
+
+
+//Fioritura-59
+//notes:Aegis Recommended alternative(s): Insurmountable
+dimwishlist:item=-2566006935&perks=
+
+
+//The Fool's Remedy
+//notes:Aegis Recommended alternative(s): Heliocentric QSc, Drang (Baroque)
+dimwishlist:item=-65611680&perks=
+dimwishlist:item=-3424403076&perks=
+
+
+//Forgiveness
+//notes:Aegis Recommended alternative(s): Division, Anonymous Autumn, Brigand's Law
+dimwishlist:item=-2345794502&perks=
+dimwishlist:item=-2405619467&perks=
+
+
+//Empirical Evidence
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2607304614&perks=
+
+
+//High Albedo
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1197486957&perks=
+
+
+//Prolonged Engagement
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2349907931&perks=
+
+
+//Unending Tempest
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2510526114&perks=
+
+
+//Blood Feud
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1509167284&perks=
+
+
+//Unforgiven
+//notes:Aegis Recommended alternative(s): The Recluse, The Title, Shayura's Wrath
+dimwishlist:item=-3000847393&perks=
+
+
+//Cold Front
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-1506719573&perks=
+dimwishlist:item=-2814093983&perks=
+dimwishlist:item=-3206190066&perks=
+
+
+//Mirror Imago
+//notes:Aegis Recommended alternative(s): Imminence
+dimwishlist:item=-302039451&perks=
+dimwishlist:item=-3877448149&perks=
+dimwishlist:item=-4116546788&perks=
+
+
+// The Immortal
+//notes:Aegis Recommended alternative(s): Imminence
+
+
+//Synchronic Roulette
+//notes:Aegis Recommended alternative(s): Imminence
+dimwishlist:item=-811403305&perks=
+
+
+//Borrowed Time
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-875848769&perks=
+
+
+//Forensic Nightmare
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1526296434&perks=
+
+
+//Submission
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-3886416794&perks=
+dimwishlist:item=-1941816543&perks=
+
+
+//Funnelweb
+//notes:Aegis Recommended alternative(s): The Recluse, The Title, Shayura's Wrath
+dimwishlist:item=-3341893443&perks=
+
+
+//Out of Bounds
+//notes:Aegis Recommended alternative(s): Noxious Vetiver
+dimwishlist:item=-2988121501&perks=
+
+
+//Escape Velocity
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-1459443448&perks=
+dimwishlist:item=-1786797708&perks=
+
+
+//Boondoggle Mk. 55
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-32287609&perks=
+
+
+//Stochastic Variable
+//notes:Aegis Recommended alternative(s): Noxious Vetiver
+dimwishlist:item=-2272470786&perks=
+dimwishlist:item=-1339362514&perks=
+
+
+//Death Adder
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2742490609&perks=
+dimwishlist:item=-2517599010&perks=
+
+
+//Rapacious Appetite
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1081724548&perks=
+
+
+//Extraordinary Rendition
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-1097616550&perks=
+
+
+//Pizzicato-22
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-4100775158&perks=
+
+
+//Enyo-D
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-1601177201&perks=
+
+
+//Friction Fire
+//notes:Aegis Recommended alternative(s): Multimach CCX
+dimwishlist:item=-1513993763&perks=
+
+
+//Seventh Seraph VY-7
+//notes:Aegis Recommended alternative(s): Noxious Vetiver
+dimwishlist:item=-766323545&perks=
+
+
+//Every Waking Moment
+//notes:Aegis Recommended alternative(s): The Recluse, The Title, Shayura's Wrath
+dimwishlist:item=-4277547616&perks=
+
+
+//Riiswalker
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-108221785&perks=
+dimwishlist:item=-1764868900&perks=
+dimwishlist:item=-557165046&perks=
+
+
+//The Inquisitor
+//notes:Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
+dimwishlist:item=-2185327324&perks=
+dimwishlist:item=-2307365&perks=
+dimwishlist:item=-2653171212&perks=
+dimwishlist:item=-825554997&perks=
+
+
+//Ragnhild-D
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-4225322581&perks=
+
+
+//Scavenger's Fate
+//notes:Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+dimwishlist:item=-2913577176&perks=
+
+
+//First In, Last Out
+//notes:Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
+dimwishlist:item=-3616586446&perks=
+dimwishlist:item=-515224227&perks=
+
+
+//Gunnora's Axe
+//notes:Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
+dimwishlist:item=-411397829&perks=
+dimwishlist:item=-94729174&perks=
+dimwishlist:item=-2326716489&perks=
+dimwishlist:item=-487361141&perks=
+
+
+//Fractethyst
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3184681056&perks=
+
+
+//No Reprieve
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2531963421&perks=
+
+
+//Last Man Standing
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-755130877&perks=
+dimwishlist:item=-4287947559&perks=
+
+
+//Astral Horizon
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-532746994&perks=
+dimwishlist:item=-2653171213&perks=
+dimwishlist:item=-854379020&perks=
+dimwishlist:item=-1697682876&perks=
+
+
+//Mindbender's Ambition
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-1094005544&perks=
+dimwishlist:item=-912150785&perks=
+dimwishlist:item=-1586231351&perks=
+dimwishlist:item=-2074041946&perks=
+dimwishlist:item=-4117693024&perks=
+
+
+//Felwinter's Lie
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-1179141605&perks=
+
+
+//Wishbringer
+//notes:Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-3190698551&perks=
+dimwishlist:item=-3356526253&perks=
+
+
+//Toil and Trouble
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-2957367743&perks=
+
+
+//Blasphemer
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-2782847179&perks=
+
+
+//Bonechiller
+//notes:Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+dimwishlist:item=-4037745684&perks=
+
+
+//Reckless Endangerment
+//notes:Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-3216652511&perks=
+
+
+//Tranquility
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-1645386487&perks=
+
+
+//Defiance of Yasmin
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3228096719&perks=
+dimwishlist:item=-3503019618&perks=
+
+
+//Father's Sins
+//notes:Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-3865728990&perks=
+
+
+//A Distant Pull
+//notes:Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-1769847435&perks=
+
+
+//Locus Locutus
+//notes:Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-4132072834&perks=
+
+
+//Volta Bracket
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3920310144&perks=
+
+
+//The Long Walk
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-3326850591&perks=
+dimwishlist:item=-174804902&perks=
+
+
+//Thoughtless
+//notes:Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-4067556514&perks=
+
+
+//Mechabre
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1280894514&perks=
+dimwishlist:item=-3871226707&perks=
+dimwishlist:item=-2477980485&perks=
+
+
+//Luna Regolith III
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-1948035256&perks=
+
+
+//Last Foray
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-1106635211&perks=
+
+
+//Far Future
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-893527433&perks=
+
+
+//Albruna-D
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-676270382&perks=
+
+
+//Bite of the Fox
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-1403800851&perks=
+dimwishlist:item=-3169616514&perks=
+
+
+//Silicon Neuroma
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3355385170&perks=
+dimwishlist:item=-1387987271&perks=
+dimwishlist:item=-990416096&perks=
+
+
+//Adored
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-4184808992&perks=
+
+
+//Beloved
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-3107853529&perks=
+dimwishlist:item=-4190932264&perks=
+
+
+//Persuader
+//notes:Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-2290863050&perks=
+dimwishlist:item=-4083045006&perks=
+dimwishlist:item=-781498181&perks=
+
+
+//Sole Survivor
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1115104187&perks=
+dimwishlist:item=-1150492185&perks=
+
+
+//Shepherd's Watch
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3743729616&perks=
+dimwishlist:item=-3312073053&perks=
+
+
+//Eye of Sol
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3637570176&perks=
+dimwishlist:item=-3164743584&perks=
+dimwishlist:item=-1401300690&perks=
+dimwishlist:item=-2059255495&perks=
+dimwishlist:item=-627188188&perks=
+dimwishlist:item=-1321626661&perks=
+
+
+//Gallu RR3
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-617501162&perks=
+
+
+//Mercurial Overreach
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2073794990&perks=
+
+
+//Long Shadow
+//notes:Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3745990145&perks=
+
+
+//Widow's Bite
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-1271343896&perks=
+dimwishlist:item=-3312073055&perks=
+
+
+//1000 Yard Stare
+//notes:Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-4164201232&perks=
+
+
+//The Domino
+//notes:Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-4272442416&perks=
+dimwishlist:item=-2800870005&perks=
+
+
+//Apostate
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2164448701&perks=
+
+
+//Pressurized Precision
+//notes:Aegis Recommended alternative(s): Scatter Signal
+dimwishlist:item=-1084190509&perks=
+
+
+//Iterative Loop
+//notes:Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-1289796511&perks=
+
+
+//Burden of Guilt
+//notes:Aegis Recommended alternative(s): Riptide
+dimwishlist:item=-933455006&perks=
+dimwishlist:item=-2002522739&perks=
+
+
+//Exile's Curse
+//notes:Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-276080079&perks=
+dimwishlist:item=-679281855&perks=
+
+
+//Hollow Words
+//notes:Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-607191995&perks=
+dimwishlist:item=-342027677&perks=
+
+
+//The Wizened Rebuke
+//notes:Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-1999697514&perks=
+dimwishlist:item=-2290416&perks=
+dimwishlist:item=-2961807684&perks=
+dimwishlist:item=-930590127&perks=
+
+
+//Iota Draconis
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-3044460004&perks=
+
+
+//Dream Breaker
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-2931957300&perks=
+
+
+//Snorri FR5
+//notes:Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-4114929480&perks=
+
+
+//Aurvandil FR6
+//notes:Aegis Recommended alternative(s): Riptide
+dimwishlist:item=-963710795&perks=
+
+
+//Likely Suspect
+//notes:Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-1994645182&perks=
+
+
+//Trinary System
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-3258665412&perks=
+
+
+//Main Ingredient
+//notes:Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-3445437901&perks=
+dimwishlist:item=-253196586&perks=
+
+
+//Timelines' Vertex
+//notes:Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-1006783454&perks=
+dimwishlist:item=-3055192515&perks=
+
+
+//The Epicurean
+//notes:Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-2263839058&perks=
+dimwishlist:item=-4124357815&perks=
+
+
+//Coriolis Force
+//notes:Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-3512349612&perks=
+
+
+//Empty Vessel
+//notes:Aegis Recommended alternative(s): Martyr's Retribution
+dimwishlist:item=-4255586669&perks=
+
+
+//Salvager's Salvo
+//notes:Aegis Recommended alternative(s): Psychopomp, Forbearance, Forbearance: BRAVE version
+dimwishlist:item=-2060863616&perks=
+
+
+//Orewing's Maul
+//notes:Aegis Recommended alternative(s): VS Velocity Baton
+dimwishlist:item=-1870979911&perks=
+dimwishlist:item=-2108920981&perks=
+
+
+//Prodigal Return
+//notes:Aegis Recommended alternative(s): Psychopomp, Forbearance, Forbearance: BRAVE version
+dimwishlist:item=-268260373&perks=
+
+
+//Truthteller
+//notes:Aegis Recommended alternative(s): VS Velocity Baton
+dimwishlist:item=-1946491241&perks=
+dimwishlist:item=-3252697558&perks=
+dimwishlist:item=-447296102&perks=
+
+
+//Incisor
+//notes:Aegis Recommended alternative(s): Unsworn
+dimwishlist:item=-4248997900&perks=
+dimwishlist:item=-2421180981&perks=
+dimwishlist:item=-1711056134&perks=
+dimwishlist:item=-2839600459&perks=
+
+
+//Qullim's Terminus
+//notes:Aegis Recommended alternative(s): Archon's Thunder
+dimwishlist:item=-1321506184&perks=
+dimwishlist:item=-3248429089&perks=
+
+
+//Circular Logic
+//notes:Aegis Recommended alternative(s): Pro Memoria, Marcato-45
+dimwishlist:item=-2187717691&perks=
+
+
+//Seventh Seraph SAW
+//notes:Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+dimwishlist:item=-2582755344&perks=
+
+
+//Thermal Erosion
+//notes:Aegis Recommended alternative(s): Avalanche, Speleologist, Unwavering Duty
+dimwishlist:item=-1766088024&perks=
+
+
+//THE SWARM
+//notes:Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+dimwishlist:item=-47772649&perks=
+dimwishlist:item=-3836861464&perks=
+dimwishlist:item=-2759590322&perks=
+dimwishlist:item=-566740455&perks=
+
+
+//Eleatic Principle
+//notes:Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+dimwishlist:item=-105306149&perks=
+
+
+//Love and Death
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3690523502&perks=
+
+
+//Swarm of the Raven
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-1972985595&perks=
+dimwishlist:item=-433905699&perks=
+
+
+//Interference VI
+//notes:Aegis Recommended alternative(s): Bitter/Sweet
+dimwishlist:item=-1443049976&perks=
+dimwishlist:item=-2257180473&perks=
+
+
+//Typhon GL5
+//notes:Aegis Recommended alternative(s): VS Chill Inhibitor
+dimwishlist:item=-3568377122&perks=
+
+
+//Cry Mutiny
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-616582330&perks=
+
+
+//Canis Major
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2066434718&perks=
+
+
+//Outrageous Fortune
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-4146702548&perks=
+
+
+//Tarnation
+//notes:Aegis Recommended alternative(s): Bitter/Sweet
+dimwishlist:item=-2721157927&perks=
+
+
+//Memory Interdict
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-3165547384&perks=
+dimwishlist:item=-3329842376&perks=
+
+
+//Crowd Pleaser
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-3565520715&perks=
+
+
+//Blast Battue
+//notes:Aegis Recommended alternative(s): Bitter/Sweet
+dimwishlist:item=-2453357042&perks=
+
+
+//Berenger's Memory
+//notes:Aegis Recommended alternative(s): Edge Transit: BRAVE version
+dimwishlist:item=-407621213&perks=
+dimwishlist:item=-1983332562&perks=
+
+
+//Half-Truths
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-3257091166&perks=
+
+
+//Caretaker
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2508948099&perks=
+
+
+//Honor's Edge
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-2276266837&perks=
+dimwishlist:item=-2857348871&perks=
+
+
+//Eternity's Edge
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2782325301&perks=
+dimwishlist:item=-1180270693&perks=
+
+
+//Crown-Splitter
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-2782325302&perks=
+dimwishlist:item=-1180270694&perks=
+
+
+//Throne-Cleaver
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3371413059&perks=
+dimwishlist:item=-569799273&perks=
+
+
+//Dragoncult Sickle
+//notes:Aegis Recommended alternative(s): Abyssal Edge
+dimwishlist:item=-3668817296&perks=
+
+
+//Sola's Scar
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1313528549&perks=
+dimwishlist:item=-3847137620&perks=
+
+
+//Quickfang
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-2782325300&perks=
+dimwishlist:item=-1180270692&perks=
+
+
+//Razor's Edge
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-1796949035&perks=
+
+
+//Hero of Ages
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-2139640995&perks=
+
+
+//Chivalric Fire
+//notes:Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
+dimwishlist:item=-3438139008&perks=
+
+
+//Temptation's Hook
+//notes:Aegis Recommended alternative(s): Summum Bonum, Bequest
+dimwishlist:item=-35794111&perks=
+dimwishlist:item=-1587953057&perks=
+
+
+//Thin Precipice
+//notes:Aegis Recommended alternative(s): Abyssal Edge
+dimwishlist:item=-4066778670&perks=
+
+
+//Royal Entry
+//notes:Aegis Recommended alternative(s): Tomorrow's Answer, Braytech Osprey, Faith-Keeper
+dimwishlist:item=-2448907086&perks=
+
+
+//Ascendancy
+//notes:Aegis Recommended alternative(s): Hezen Vengeance, Apex Predator
+dimwishlist:item=-725408022&perks=
+
+
+//Subzero Salvo
+//notes:Aegis Recommended alternative(s): Crux Termination IV, The Hothead, Sleepless, Blowout
+dimwishlist:item=-42351395&perks=
+
+
+//Sailspy Pitchglass
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1184309824&perks=
+
+
+//Laser Painter
+//notes:Aegis Recommended alternative(s): Scintillation
+dimwishlist:item=-3221722018&perks=
+
+
+//Threaded Needle
+//notes:Aegis Recommended alternative(s): Mistral Lift, Doomed Petitioner
+dimwishlist:item=-3075224551&perks=
+
+
+//Tarantula
+//notes:Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3335343363&perks=
+dimwishlist:item=-2502422775&perks=
+
+
+//Corsair's Wrath
+//notes:Aegis Recommended alternative(s): Cataclysmic, Briar's Contempt
+dimwishlist:item=-2714022207&perks=
+
+

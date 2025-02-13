@@ -4,15 +4,11 @@ description:Currently relevant Boss Damage tools, curated by Aegis.
 //Celestial Nighthawk
 //notes:Aegis Boss Damage #1 -> Highest burst damage super + synergy with Still Hunt
 dimwishlist:item=1667080810&perks=,
-
-
 dimwishlist:item=1321354573&perks=,
 
 
 //Edge Transit
 //notes:Aegis Boss Damage #1 -> Best general heavy damage option, especially in smaller fireteam sizes
-
-
 dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=3751912585,3744057135
 dimwishlist:item=568611923&perks=3751912585,3194351027
@@ -33,8 +29,6 @@ dimwishlist:item=568611923&perks=2869569095,3078487919
 dimwishlist:item=568611923&perks=2869569095,3744057135
 dimwishlist:item=568611923&perks=2869569095,3194351027
 dimwishlist:item=568611923&perks=2869569095,2275087323
-
-
 dimwishlist:item=2228325504&perks=3751912585,3078487919
 dimwishlist:item=2228325504&perks=3751912585,3744057135
 dimwishlist:item=2228325504&perks=3751912585,3194351027
@@ -60,8 +54,6 @@ dimwishlist:item=2228325504&perks=2869569095,2275087323
 //Lucky Pants
 //notes:Aegis Boss Damage #1 -> Great option for increasing total damage in sustained hunter strategies
 dimwishlist:item=1245809812&perks=,
-
-
 dimwishlist:item=193869522&perks=,
 
 
@@ -106,26 +98,18 @@ dimwishlist:item=3580904581&perks=,
 
 //Warden's Law
 //notes:Aegis Boss Damage #1 -> Best legendary hand cannon for Lucky Pants damage
-
-
 dimwishlist:item=1821529912&perks=1354429876,1546637391
 dimwishlist:item=1821529912&perks=1354429876,3418165135
 dimwishlist:item=1821529912&perks=848860060,1546637391
 dimwishlist:item=1821529912&perks=848860060,3418165135
-
-
 dimwishlist:item=267089201&perks=1354429876,1546637391
 dimwishlist:item=267089201&perks=1354429876,3418165135
 dimwishlist:item=267089201&perks=848860060,1546637391
 dimwishlist:item=267089201&perks=848860060,3418165135
-
-
 dimwishlist:item=2152484073&perks=1354429876,1546637391
 dimwishlist:item=2152484073&perks=1354429876,3418165135
 dimwishlist:item=2152484073&perks=848860060,1546637391
 dimwishlist:item=2152484073&perks=848860060,3418165135
-
-
 dimwishlist:item=3250744600&perks=1354429876,1546637391
 dimwishlist:item=3250744600&perks=1354429876,3418165135
 dimwishlist:item=3250744600&perks=848860060,1546637391
@@ -134,8 +118,6 @@ dimwishlist:item=3250744600&perks=848860060,3418165135
 
 //Apex Predator
 //notes:Aegis Boss Damage #2 -> Best overall rocket damage
-
-
 dimwishlist:item=1851777734&perks=1523832109,3078487919
 dimwishlist:item=1851777734&perks=1523832109,3744057135
 dimwishlist:item=1851777734&perks=1523832109,3194351027
@@ -256,8 +238,6 @@ dimwishlist:item=1624882687&perks=,
 //Sealed Ahamkara Grasps
 //notes:Aegis Boss Damage #2 -> Good for Nighthawk swaps in order to get 2-3 reloads off
 dimwishlist:item=2166230715&perks=,
-
-
 dimwishlist:item=1688602431&perks=,
 
 
@@ -278,8 +258,6 @@ dimwishlist:item=3569407878&perks=3993379141,3913600130
 dimwishlist:item=3569407878&perks=1164602481,3640170453
 dimwishlist:item=3569407878&perks=1164602481,1817983009
 dimwishlist:item=3569407878&perks=1164602481,3913600130
-
-
 dimwishlist:item=2001697739&perks=1749209109,3640170453
 dimwishlist:item=2001697739&perks=1749209109,1817983009
 dimwishlist:item=2001697739&perks=1749209109,3913600130
@@ -304,8 +282,6 @@ dimwishlist:item=1665952087&perks=,
 
 //The Supremacy
 //notes:Aegis Boss Damage #2 -> Best ranged legendary damage option by far, great for Cascade as well
-
-
 dimwishlist:item=2884596447&perks=3418782618,3891536761
 dimwishlist:item=2884596447&perks=3418782618,1549370717
 dimwishlist:item=2884596447&perks=3418782618,3078487919
@@ -342,8 +318,6 @@ dimwishlist:item=1332123064&perks=424370782,3078487919
 dimwishlist:item=1332123064&perks=424370782,3744057135
 dimwishlist:item=1332123064&perks=424370782,1546637391
 dimwishlist:item=1332123064&perks=424370782,3418165135
-
-
 dimwishlist:item=959037361&perks=1523832109,3078487919
 dimwishlist:item=959037361&perks=1523832109,3744057135
 dimwishlist:item=959037361&perks=1523832109,1546637391
@@ -400,8 +374,6 @@ dimwishlist:item=1719687748&perks=3563868667,781192741
 
 //Distant Tumulus
 //notes:Aegis Boss Damage #3 -> Best energy swap DPS sniper
-
-
 dimwishlist:item=2807687156&perks=2284787283,1771339417
 
 
@@ -413,8 +385,6 @@ dimwishlist:item=3284383335&perks=,
 //Foetracer
 //notes:Aegis Boss Damage #3 -> Good total damage increase to run 3/4 surge split
 dimwishlist:item=1667080809&perks=,
-
-
 dimwishlist:item=896224899&perks=,
 
 
@@ -431,16 +401,12 @@ dimwishlist:item=318443586&perks=3300816228,3708227201
 dimwishlist:item=318443586&perks=3300816228,781192741
 
 
-
-
 //Koraxis's Distress
 //notes:Aegis Boss Damage #3 -> Low fireteam count burst damage
 dimwishlist:item=2972949637&perks=968510818,3708227201
 dimwishlist:item=2972949637&perks=968510818,781192741
 dimwishlist:item=2972949637&perks=424370782,3708227201
 dimwishlist:item=2972949637&perks=424370782,781192741
-
-
 dimwishlist:item=495442100&perks=968510818,3708227201
 dimwishlist:item=495442100&perks=968510818,781192741
 dimwishlist:item=495442100&perks=424370782,3708227201
@@ -450,8 +416,6 @@ dimwishlist:item=495442100&perks=424370782,781192741
 //Lunafaction Boots
 //notes:Aegis Boss Damage #3 -> Necessary for most shotgun damage bosses
 dimwishlist:item=2954558332&perks=,
-
-
 dimwishlist:item=4136768282&perks=,
 
 
@@ -475,8 +439,6 @@ dimwishlist:item=135029084&perks=1354429876,1546637391
 dimwishlist:item=135029084&perks=1354429876,3418165135
 dimwishlist:item=135029084&perks=848860060,1546637391
 dimwishlist:item=135029084&perks=848860060,3418165135
-
-
 dimwishlist:item=522366885&perks=1523832109,1546637391
 dimwishlist:item=522366885&perks=1523832109,3418165135
 dimwishlist:item=522366885&perks=461595545,1546637391
@@ -494,8 +456,6 @@ dimwishlist:item=1001356380&perks=,
 
 //The Mountaintop
 //notes:Aegis Boss Damage #3 -> Niche swap option for small burst damage
-
-
 dimwishlist:item=568611922&perks=3300816228,469285294
 dimwishlist:item=568611922&perks=3300816228,3335686050
 dimwishlist:item=568611922&perks=3300816228,1546637391
@@ -516,8 +476,6 @@ dimwishlist:item=568611922&perks=1906147653,469285294
 dimwishlist:item=568611922&perks=1906147653,3335686050
 dimwishlist:item=568611922&perks=1906147653,1546637391
 dimwishlist:item=568611922&perks=1906147653,3418165135
-
-
 dimwishlist:item=4043921923&perks=3300816228,469285294
 dimwishlist:item=4043921923&perks=3300816228,3335686050
 dimwishlist:item=4043921923&perks=3300816228,1546637391
@@ -542,8 +500,6 @@ dimwishlist:item=4043921923&perks=1906147653,3418165135
 
 //Twilight Oath
 //notes:Aegis Boss Damage #3 -> Easily accessible version of Distant Tumulus
-
-
 dimwishlist:item=1874424704&perks=968510818,1546637391
 
 
@@ -560,15 +516,11 @@ dimwishlist:item=2883484461&perks=3300816228,3418165135
 //Verity's Brow
 //notes:Aegis Boss Damage #3 -> Lowers almost any grenade cooldown enough to be usable in DPS phases
 dimwishlist:item=2897117448&perks=,
-
-
 dimwishlist:item=2428181146&perks=,
 
 
 //Whisper of the Worm
 //notes:Aegis Boss Damage #3 -> Very consistent damage option
-
-
 dimwishlist:item=1983149589&perks=777589559,1067908860
 
 
@@ -605,8 +557,6 @@ dimwishlist:item=2738601016&perks=424370782,3078487919
 dimwishlist:item=2738601016&perks=424370782,3744057135
 dimwishlist:item=2738601016&perks=424370782,3751912585
 dimwishlist:item=2738601016&perks=424370782,331667533
-
-
 dimwishlist:item=874623537&perks=968510818,3078487919
 dimwishlist:item=874623537&perks=968510818,3744057135
 dimwishlist:item=874623537&perks=968510818,3751912585
@@ -643,8 +593,6 @@ dimwishlist:item=1619425569&perks=,
 //Ophidian Aspect
 //notes:Aegis Boss Damage #4 -> Warlock's best general swap exotic given no good super damage exotic
 dimwishlist:item=68357813&perks=,
-
-
 dimwishlist:item=3627185503&perks=,
 
 
@@ -657,10 +605,6 @@ dimwishlist:item=4225322581&perks=3300816228,3007133316
 //Riiswalker
 //notes:Aegis Boss Damage #4 -> Best kinetic lightweight swap option
 dimwishlist:item=108221785&perks=706527188,1546637391
-
-
-
-
 
 
 //Seventh Seraph CQC-12
@@ -705,24 +649,18 @@ dimwishlist:item=92459755&perks=4071163871,331667533
 //The Comedian
 //notes:Aegis Boss Damage #4 -> Pellet swaps on Tractor
 dimwishlist:item=1028582252&perks=2621346526,1546637391
-
-
 dimwishlist:item=2443900757&perks=2621346526,1546637391
 
 
 //The Dragon's Shadow
 //notes:Aegis Boss Damage #4 -> Provides hunter with a high cooldown triple rocket option that is faster than RDM
 dimwishlist:item=419976108&perks=,
-
-
 dimwishlist:item=2766109874&perks=,
 
 
 //The Sixth Coyote
 //notes:Aegis Boss Damage #4 -> Generally worse than Sealed these days
 dimwishlist:item=4070560771&perks=,
-
-
 dimwishlist:item=1474735277&perks=,
 
 
