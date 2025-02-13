@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Only the best weapons
-description:Lists all weapons rated S tier by Aegis.
+description:Lists all weapons rated S.
 
 //No Hesitation
 //notes:Aegis Endgame S Tier

@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Power (Trash List)
-description:Power weapons rated D tier or lower by Aegis are marked as Trash. S or A tier alternatives are given if they exist.
+description:Power weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Qullim's Terminus
 //notes:D Tier. Aegis Recommended alternative(s): Archon's Thunder

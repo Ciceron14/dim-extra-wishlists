@@ -1,5 +1,5 @@
 title:Aegis's Speedrunner's Shopping List (Major Perks only)
-description:Currently relevant Speedrunning tools, curated by Aegis.
+description:Listing the most relevant Speedrunning tools at the moment.
 
 //Aberrant Action
 //notes:Aegis Speedrun #1 (Universal use) -> Avoiding primary swaps ; Ammo efficient fast add clear

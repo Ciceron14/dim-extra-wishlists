@@ -1,5 +1,5 @@
 title:Aegis's Endgame Shopping List
-description:Currently relevant Endgame Weapons, curated by Aegis.
+description:Listing the most relevant Endgame Weapons at the moment.
 
 //VS Chill Inhibitor
 //notes:Aegis Endgame Shopping {high Priority}  - Role: DPS HGL

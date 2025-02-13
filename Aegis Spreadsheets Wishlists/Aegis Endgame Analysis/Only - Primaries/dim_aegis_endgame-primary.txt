@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Primaries
-description:Primary weapons rated A or S tier by Aegis.
+description:Primary weapons rated A or S tier.
 
 //No Hesitation
 //notes:Aegis Endgame S Tier

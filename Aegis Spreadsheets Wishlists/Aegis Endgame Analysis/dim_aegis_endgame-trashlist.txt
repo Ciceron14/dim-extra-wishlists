@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Trashlist
-description:Weapons rated D tier or lower by Aegis are marked as Trash. S or A tier alternatives are given if they exist.
+description:Weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Rufus's Fury
 //notes:D Tier. Aegis Recommended alternative(s): Adamantite

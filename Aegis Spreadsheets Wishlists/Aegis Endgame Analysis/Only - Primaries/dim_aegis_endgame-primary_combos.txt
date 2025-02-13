@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Primaries (Type & Element Combos)
-description:Highest rated Primary weapon for each 'Type + Element' combo according to Aegis.
+description:Highest rated Primary weapon for each 'Type + Element' combo.
 
 //No Hesitation
 //notes:Aegis Best Solar Auto: S Tier

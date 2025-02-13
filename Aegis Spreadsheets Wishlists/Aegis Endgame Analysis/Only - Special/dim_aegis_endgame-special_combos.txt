@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Special (Type & Element Combos)
-description:Highest rated Special weapon for each 'Type + Element' combo according to Aegis.
+description:Highest rated Special weapon for each 'Type + Element' combo.
 
 //Perfect Paradox
 //notes:Aegis Best Kinetic Shotgun: S Tier

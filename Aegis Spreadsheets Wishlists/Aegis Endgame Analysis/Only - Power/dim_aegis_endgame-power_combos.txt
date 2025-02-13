@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Power (Type & Element Combos)
-description:Highest rated Power weapon for each 'Type + Element' combo according to Aegis.
+description:Highest rated Power weapon for each 'Type + Element' combo.
 
 //Commemoration
 //notes:Aegis Best Void LMG: S Tier

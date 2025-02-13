@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Special (Trash List)
-description:Special weapons rated D tier or lower by Aegis are marked as Trash. S or A tier alternatives are given if they exist.
+description:Special weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Riiswalker
 //notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step

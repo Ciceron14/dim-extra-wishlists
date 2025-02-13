@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Power
-description:Power weapons rated A or S tier by Aegis.
+description:Power weapons rated A or S tier.
 
 //Commemoration
 //notes:Aegis Endgame S Tier

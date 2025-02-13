@@ -1,5 +1,5 @@
 title:Aegis's Boss Damage Equipment
-description:Currently relevant Boss Damage tools, curated by Aegis.
+description:Listing the most relevant Boss Damage tools at the moment.
 
 //Celestial Nighthawk
 //notes:Aegis Boss Damage #1 -> Highest burst damage super + synergy with Still Hunt
