@@ -31,11 +31,11 @@ Wishlists that have "exclusive" in their name only look at S tier rated weapons.
 ### Trash Lists
 Each slot in the Endgame Analysis section contains a Trash List that can be used to highlight the weapons you own that are rated D or lower. They will have a comment recommending alternatives in the same weapon type & energy, if any has been rated A or S.
 
-[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%Analysis/dim_aegis_endgame-trashlist.txt) or grab an ammo type-specific one from the folders.
+[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt) or grab an ammo type-specific one from the folders.
 ### Combo List
 The Endgame Analysis sections contain Combo Wishlists that can be used for collection purposes. They list the highest rated weapon for each type & element (for example, best Stasis Shotgun, etc.)
 
-[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%Analysis/dim_aegis_endgame-combos.txt) or grab an ammo type-specific one from the folders.
+[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt) or grab an ammo type-specific one from the folders.
 
 
 ## More General Information
