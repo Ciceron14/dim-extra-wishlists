@@ -1,4 +1,4 @@
-title:Aegis's Endgame Analysis -> Combos
+title:Aegis's Endgame Analysis -> Archetypes
 description:Highest rated weapon for each Archetype.
 
 //No Hesitation
