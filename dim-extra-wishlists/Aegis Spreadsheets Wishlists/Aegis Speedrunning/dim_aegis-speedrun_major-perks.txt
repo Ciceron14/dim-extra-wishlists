@@ -1,0 +1,1354 @@
+title:Aegis's Speedrunner's Shopping List (Major Perks only)
+description:Listing the most relevant Speedrunning tools at the moment.
+
+//Aberrant Action
+//notes:Aegis Speedrun #1 (Universal use) -> Avoiding primary swaps ; Ammo efficient fast add clear
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+dimwishlist:item=2198166292&perks=3017780555,2675184851
+dimwishlist:item=2198166292&perks=4223976499,4293542123
+dimwishlist:item=2198166292&perks=4223976499,2675184851
+dimwishlist:item=2198166292&perks=2869569095,4293542123
+dimwishlist:item=2198166292&perks=2869569095,2675184851
+
+
+//Gjallarhorn
+//notes:Aegis Speedrun #1 (Universal use) -> Tracking splash damage ; Granting Wolfpack rounds
+dimwishlist:item=1363886209&perks=,
+
+
+//IKELOS_SG_V1.0.3
+//notes:Aegis Speedrun #1 (RoN, Prophecy use) -> Burst single target damage ; One-two punch
+dimwishlist:item=1168625549&perks=1631667848,3708227201
+dimwishlist:item=1168625549&perks=1631667848,781192741
+dimwishlist:item=1168625549&perks=1631667848,2679249093
+dimwishlist:item=1168625549&perks=1631667848,788178929
+dimwishlist:item=1168625549&perks=1631667848,3751912585
+dimwishlist:item=1168625549&perks=1631667848,331667533
+dimwishlist:item=1168625549&perks=691659142,3708227201
+dimwishlist:item=1168625549&perks=691659142,781192741
+dimwishlist:item=1168625549&perks=691659142,2679249093
+dimwishlist:item=1168625549&perks=691659142,788178929
+dimwishlist:item=1168625549&perks=691659142,3751912585
+dimwishlist:item=1168625549&perks=691659142,331667533
+dimwishlist:item=1168625549&perks=536173722,3708227201
+dimwishlist:item=1168625549&perks=536173722,781192741
+dimwishlist:item=1168625549&perks=536173722,2679249093
+dimwishlist:item=1168625549&perks=536173722,788178929
+dimwishlist:item=1168625549&perks=536173722,3751912585
+dimwishlist:item=1168625549&perks=536173722,331667533
+dimwishlist:item=1168625549&perks=1820235745,3708227201
+dimwishlist:item=1168625549&perks=1820235745,781192741
+dimwishlist:item=1168625549&perks=1820235745,2679249093
+dimwishlist:item=1168625549&perks=1820235745,788178929
+dimwishlist:item=1168625549&perks=1820235745,3751912585
+dimwishlist:item=1168625549&perks=1820235745,331667533
+dimwishlist:item=1168625549&perks=4245865861,3708227201
+dimwishlist:item=1168625549&perks=4245865861,781192741
+dimwishlist:item=1168625549&perks=4245865861,2679249093
+dimwishlist:item=1168625549&perks=4245865861,788178929
+dimwishlist:item=1168625549&perks=4245865861,3751912585
+dimwishlist:item=1168625549&perks=4245865861,331667533
+
+
+//Izanagi's Burden
+//notes:Aegis Speedrun #1 (Universal use) -> Ranged single target burst
+dimwishlist:item=3211806999&perks=,
+
+
+//Perfect Paradox
+//notes:Aegis Speedrun #1 (Universal use) -> Burst single target damage ; One-two punch
+dimwishlist:item=3393519051&perks=2869569095,2679249093
+dimwishlist:item=3393519051&perks=2869569095,2360754333
+dimwishlist:item=1298672084&perks=2869569095,2679249093
+dimwishlist:item=1298672084&perks=2869569095,788178929
+dimwishlist:item=1298672084&perks=2869569095,2360754333
+dimwishlist:item=1298672084&perks=2869569095,2459015849
+dimwishlist:item=1298672084&perks=691659142,2679249093
+dimwishlist:item=1298672084&perks=691659142,788178929
+dimwishlist:item=1298672084&perks=691659142,2360754333
+dimwishlist:item=1298672084&perks=691659142,2459015849
+dimwishlist:item=1298672084&perks=536173722,2679249093
+dimwishlist:item=1298672084&perks=536173722,788178929
+dimwishlist:item=1298672084&perks=536173722,2360754333
+dimwishlist:item=1298672084&perks=536173722,2459015849
+
+
+//Salvation's Grip
+//notes:Aegis Speedrun #1 (VotD, KF, RoN use) -> Blocking spawn points ; Creating terrain
+dimwishlist:item=370712896&perks=,
+
+
+//The Fourth Horseman
+//notes:Aegis Speedrun #1 (Universal use) -> Imprecise single target burst
+dimwishlist:item=1665952087&perks=,
+
+
+//The Mountaintop
+//notes:Aegis Speedrun #1 (Universal use) -> Boosting jump height
+dimwishlist:item=3993415705&perks=,
+dimwishlist:item=568611922&perks=,
+dimwishlist:item=4043921923&perks=,
+
+
+//The Mountaintop
+//notes:Aegis Speedrun #1 (BRAVE version) (Universal use) -> Boosting jump height ; Augmenting boss damage
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3300816228,3335686050
+dimwishlist:item=568611922&perks=3300816228,4104185692
+dimwishlist:item=568611922&perks=3300816228,3007133316
+dimwishlist:item=568611922&perks=3643424744,469285294
+dimwishlist:item=568611922&perks=3643424744,3335686050
+dimwishlist:item=568611922&perks=3643424744,4104185692
+dimwishlist:item=568611922&perks=3643424744,3007133316
+dimwishlist:item=568611922&perks=2682205016,469285294
+dimwishlist:item=568611922&perks=2682205016,3335686050
+dimwishlist:item=568611922&perks=2682205016,4104185692
+dimwishlist:item=568611922&perks=2682205016,3007133316
+dimwishlist:item=568611922&perks=3523296417,469285294
+dimwishlist:item=568611922&perks=3523296417,3335686050
+dimwishlist:item=568611922&perks=3523296417,4104185692
+dimwishlist:item=568611922&perks=3523296417,3007133316
+dimwishlist:item=568611922&perks=1906147653,469285294
+dimwishlist:item=568611922&perks=1906147653,3335686050
+dimwishlist:item=568611922&perks=1906147653,4104185692
+dimwishlist:item=568611922&perks=1906147653,3007133316
+dimwishlist:item=568611922&perks=1556840489,469285294
+dimwishlist:item=568611922&perks=1556840489,3335686050
+dimwishlist:item=568611922&perks=1556840489,4104185692
+dimwishlist:item=568611922&perks=1556840489,3007133316
+dimwishlist:item=568611922&perks=3442762221,469285294
+dimwishlist:item=568611922&perks=3442762221,3335686050
+dimwishlist:item=568611922&perks=3442762221,4104185692
+dimwishlist:item=568611922&perks=3442762221,3007133316
+dimwishlist:item=4043921923&perks=3300816228,469285294
+dimwishlist:item=4043921923&perks=3300816228,3335686050
+dimwishlist:item=4043921923&perks=3300816228,4104185692
+dimwishlist:item=4043921923&perks=3300816228,3007133316
+dimwishlist:item=4043921923&perks=3643424744,469285294
+dimwishlist:item=4043921923&perks=3643424744,3335686050
+dimwishlist:item=4043921923&perks=3643424744,4104185692
+dimwishlist:item=4043921923&perks=3643424744,3007133316
+dimwishlist:item=4043921923&perks=2682205016,469285294
+dimwishlist:item=4043921923&perks=2682205016,3335686050
+dimwishlist:item=4043921923&perks=2682205016,4104185692
+dimwishlist:item=4043921923&perks=2682205016,3007133316
+dimwishlist:item=4043921923&perks=3523296417,469285294
+dimwishlist:item=4043921923&perks=3523296417,3335686050
+dimwishlist:item=4043921923&perks=3523296417,4104185692
+dimwishlist:item=4043921923&perks=3523296417,3007133316
+dimwishlist:item=4043921923&perks=1906147653,469285294
+dimwishlist:item=4043921923&perks=1906147653,3335686050
+dimwishlist:item=4043921923&perks=1906147653,4104185692
+dimwishlist:item=4043921923&perks=1906147653,3007133316
+dimwishlist:item=4043921923&perks=1556840489,469285294
+dimwishlist:item=4043921923&perks=1556840489,3335686050
+dimwishlist:item=4043921923&perks=1556840489,4104185692
+dimwishlist:item=4043921923&perks=1556840489,3007133316
+dimwishlist:item=4043921923&perks=3442762221,469285294
+dimwishlist:item=4043921923&perks=3442762221,3335686050
+dimwishlist:item=4043921923&perks=3442762221,4104185692
+dimwishlist:item=4043921923&perks=3442762221,3007133316
+
+
+//The Slammer
+//notes:Aegis Speedrun #1 (Universal use) -> Movement ; Overload stunning
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+dimwishlist:item=2889501828&perks=2077819806,405677814
+dimwishlist:item=2889501828&perks=2077819806,3523296417
+dimwishlist:item=2889501828&perks=2077819806,1906147653
+dimwishlist:item=2889501828&perks=1618208178,3650930298
+dimwishlist:item=2889501828&perks=1618208178,405677814
+dimwishlist:item=2889501828&perks=1618208178,3523296417
+dimwishlist:item=2889501828&perks=1618208178,1906147653
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+dimwishlist:item=1354727549&perks=2077819806,405677814
+dimwishlist:item=1354727549&perks=2077819806,3523296417
+dimwishlist:item=1354727549&perks=2077819806,1906147653
+dimwishlist:item=1354727549&perks=1618208178,3650930298
+dimwishlist:item=1354727549&perks=1618208178,405677814
+dimwishlist:item=1354727549&perks=1618208178,3523296417
+dimwishlist:item=1354727549&perks=1618208178,1906147653
+
+
+//The Supremacy
+//notes:Aegis Speedrun #1 (Universal use) -> Quick ranged hitscan kills ; Augmenting boss damage
+dimwishlist:item=2884596447&perks=3418782618,3891536761
+dimwishlist:item=2884596447&perks=3418782618,1549370717
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+dimwishlist:item=2884596447&perks=3418782618,3744057135
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+dimwishlist:item=2884596447&perks=3418782618,848860060
+dimwishlist:item=2884596447&perks=1563455254,3891536761
+dimwishlist:item=2884596447&perks=1563455254,1549370717
+dimwishlist:item=2884596447&perks=1563455254,3078487919
+dimwishlist:item=2884596447&perks=1563455254,3744057135
+dimwishlist:item=2884596447&perks=1563455254,1354429876
+dimwishlist:item=2884596447&perks=1563455254,848860060
+dimwishlist:item=2884596447&perks=957782887,3891536761
+dimwishlist:item=2884596447&perks=957782887,1549370717
+dimwishlist:item=2884596447&perks=957782887,3078487919
+dimwishlist:item=2884596447&perks=957782887,3744057135
+dimwishlist:item=2884596447&perks=957782887,1354429876
+dimwishlist:item=2884596447&perks=957782887,848860060
+dimwishlist:item=2884596447&perks=1556840489,3891536761
+dimwishlist:item=2884596447&perks=1556840489,1549370717
+dimwishlist:item=2884596447&perks=1556840489,3078487919
+dimwishlist:item=2884596447&perks=1556840489,3744057135
+dimwishlist:item=2884596447&perks=1556840489,1354429876
+dimwishlist:item=2884596447&perks=1556840489,848860060
+dimwishlist:item=2884596447&perks=3442762221,3891536761
+dimwishlist:item=2884596447&perks=3442762221,1549370717
+dimwishlist:item=2884596447&perks=3442762221,3078487919
+dimwishlist:item=2884596447&perks=3442762221,3744057135
+dimwishlist:item=2884596447&perks=3442762221,1354429876
+dimwishlist:item=2884596447&perks=3442762221,848860060
+dimwishlist:item=2884596447&perks=3978468247,3891536761
+dimwishlist:item=2884596447&perks=3978468247,1549370717
+dimwishlist:item=2884596447&perks=3978468247,3078487919
+dimwishlist:item=2884596447&perks=3978468247,3744057135
+dimwishlist:item=2884596447&perks=3978468247,1354429876
+dimwishlist:item=2884596447&perks=3978468247,848860060
+dimwishlist:item=2884596447&perks=906981559,3891536761
+dimwishlist:item=2884596447&perks=906981559,1549370717
+dimwishlist:item=2884596447&perks=906981559,3078487919
+dimwishlist:item=2884596447&perks=906981559,3744057135
+dimwishlist:item=2884596447&perks=906981559,1354429876
+dimwishlist:item=2884596447&perks=906981559,848860060
+
+
+//Tinasha's Mastery
+//notes:Aegis Speedrun #1 (Universal use) -> Avoiding primary swaps ; Ammo efficient fast add clear
+dimwishlist:item=480368036&perks=1421772400,2978966579
+dimwishlist:item=480368036&perks=1421772400,344235611
+dimwishlist:item=480368036&perks=1421772400,2109543898
+dimwishlist:item=480368036&perks=1421772400,2799030358
+dimwishlist:item=480368036&perks=1421772400,3708227201
+dimwishlist:item=480368036&perks=1421772400,781192741
+dimwishlist:item=480368036&perks=3291427296,2978966579
+dimwishlist:item=480368036&perks=3291427296,344235611
+dimwishlist:item=480368036&perks=3291427296,2109543898
+dimwishlist:item=480368036&perks=3291427296,2799030358
+dimwishlist:item=480368036&perks=3291427296,3708227201
+dimwishlist:item=480368036&perks=3291427296,781192741
+dimwishlist:item=480368036&perks=563069569,2978966579
+dimwishlist:item=480368036&perks=563069569,344235611
+dimwishlist:item=480368036&perks=563069569,2109543898
+dimwishlist:item=480368036&perks=563069569,2799030358
+dimwishlist:item=480368036&perks=563069569,3708227201
+dimwishlist:item=480368036&perks=563069569,781192741
+dimwishlist:item=480368036&perks=2167611941,2978966579
+dimwishlist:item=480368036&perks=2167611941,344235611
+dimwishlist:item=480368036&perks=2167611941,2109543898
+dimwishlist:item=480368036&perks=2167611941,2799030358
+dimwishlist:item=480368036&perks=2167611941,3708227201
+dimwishlist:item=480368036&perks=2167611941,781192741
+
+
+//Tomorrow's Answer
+//notes:Aegis Speedrun #1 (Universal use) -> Burst splash damage
+dimwishlist:item=3009199534&perks=3987942396,3078487919
+dimwishlist:item=3009199534&perks=3987942396,3744057135
+dimwishlist:item=3009199534&perks=3987942396,3194351027
+dimwishlist:item=3009199534&perks=3987942396,2275087323
+dimwishlist:item=3009199534&perks=2817499044,3078487919
+dimwishlist:item=3009199534&perks=2817499044,3744057135
+dimwishlist:item=3009199534&perks=2817499044,3194351027
+dimwishlist:item=3009199534&perks=2817499044,2275087323
+dimwishlist:item=303107619&perks=3987942396,3078487919
+dimwishlist:item=303107619&perks=3987942396,3744057135
+dimwishlist:item=303107619&perks=3987942396,3194351027
+dimwishlist:item=303107619&perks=3987942396,2275087323
+dimwishlist:item=303107619&perks=2817499044,3078487919
+dimwishlist:item=303107619&perks=2817499044,3744057135
+dimwishlist:item=303107619&perks=2817499044,3194351027
+dimwishlist:item=303107619&perks=2817499044,2275087323
+
+
+//Tractor Cannon
+//notes:Aegis Speedrun #1 (Universal use) -> Swappable 10s 30% debuff ; Enemy displacement
+dimwishlist:item=3580904581&perks=,
+
+
+//Trinity Ghoul
+//notes:Aegis Speedrun #1 (Universal use) -> Low health rapid add clear
+dimwishlist:item=814876685&perks=,
+
+
+//VS Chill Inhibitor
+//notes:Aegis Speedrun #1 (Universal use) -> Non-rocket burst damage
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3744057135
+dimwishlist:item=1762785662&perks=3987942396,3194351027
+dimwishlist:item=1762785662&perks=3987942396,2275087323
+dimwishlist:item=1762785662&perks=3987942396,3708227201
+dimwishlist:item=1762785662&perks=3987942396,781192741
+dimwishlist:item=1762785662&perks=2817499044,3078487919
+dimwishlist:item=1762785662&perks=2817499044,3744057135
+dimwishlist:item=1762785662&perks=2817499044,3194351027
+dimwishlist:item=1762785662&perks=2817499044,2275087323
+dimwishlist:item=1762785662&perks=2817499044,3708227201
+dimwishlist:item=1762785662&perks=2817499044,781192741
+dimwishlist:item=1762785662&perks=3751912585,3078487919
+dimwishlist:item=1762785662&perks=3751912585,3744057135
+dimwishlist:item=1762785662&perks=3751912585,3194351027
+dimwishlist:item=1762785662&perks=3751912585,2275087323
+dimwishlist:item=1762785662&perks=3751912585,3708227201
+dimwishlist:item=1762785662&perks=3751912585,781192741
+dimwishlist:item=1762785662&perks=331667533,3078487919
+dimwishlist:item=1762785662&perks=331667533,3744057135
+dimwishlist:item=1762785662&perks=331667533,3194351027
+dimwishlist:item=1762785662&perks=331667533,2275087323
+dimwishlist:item=1762785662&perks=331667533,3708227201
+dimwishlist:item=1762785662&perks=331667533,781192741
+
+
+//Alethonym
+//notes:Aegis Speedrun #2 (Universal use) -> Primary ammo jump boosting
+dimwishlist:item=2350354266&perks=,
+
+
+//Anarchy
+//notes:Aegis Speedrun #2 (VoG, DSC use) -> Trapping spawns
+dimwishlist:item=2376481550&perks=,
+
+
+//Arcane Embrace
+//notes:Aegis Speedrun #2 (Universal use) -> Special burst damage
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,332733060
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+dimwishlist:item=3649985571&perks=1354429876,781192741
+dimwishlist:item=3649985571&perks=848860060,555281244
+dimwishlist:item=3649985571&perks=848860060,332733060
+dimwishlist:item=3649985571&perks=848860060,3708227201
+dimwishlist:item=3649985571&perks=848860060,781192741
+dimwishlist:item=3649985571&perks=1421772400,555281244
+dimwishlist:item=3649985571&perks=1421772400,332733060
+dimwishlist:item=3649985571&perks=1421772400,3708227201
+dimwishlist:item=3649985571&perks=1421772400,781192741
+dimwishlist:item=3649985571&perks=3291427296,555281244
+dimwishlist:item=3649985571&perks=3291427296,332733060
+dimwishlist:item=3649985571&perks=3291427296,3708227201
+dimwishlist:item=3649985571&perks=3291427296,781192741
+dimwishlist:item=3649985571&perks=1631667848,555281244
+dimwishlist:item=3649985571&perks=1631667848,332733060
+dimwishlist:item=3649985571&perks=1631667848,3708227201
+dimwishlist:item=3649985571&perks=1631667848,781192741
+
+
+//Bitter/Sweet
+//notes:Aegis Speedrun #2 (Universal use) -> Non-rocket burst damage
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3744057135
+dimwishlist:item=2599338625&perks=2817499044,3078487919
+dimwishlist:item=2599338625&perks=2817499044,3744057135
+
+
+//Chronophage
+//notes:Aegis Speedrun #2 (Universal use) -> Avoiding primary swaps ; Special single shot add clear ; Shooting bricks
+dimwishlist:item=1886840007&perks=3700496672,2048641572
+dimwishlist:item=1886840007&perks=3700496672,1926441324
+dimwishlist:item=1886840007&perks=2840833776,2048641572
+dimwishlist:item=1886840007&perks=2840833776,1926441324
+
+
+//Critical Anomaly
+//notes:Aegis Speedrun #2 (Universal use) -> Artifact-independent Overload
+dimwishlist:item=445197843&perks=2978966579,3640170453
+dimwishlist:item=445197843&perks=2978966579,1817983009
+dimwishlist:item=445197843&perks=344235611,3640170453
+dimwishlist:item=445197843&perks=344235611,1817983009
+dimwishlist:item=445197843&perks=3418782618,3640170453
+dimwishlist:item=445197843&perks=3418782618,1817983009
+dimwishlist:item=445197843&perks=1563455254,3640170453
+dimwishlist:item=445197843&perks=1563455254,1817983009
+dimwishlist:item=172461430&perks=2978966579,3640170453
+dimwishlist:item=172461430&perks=2978966579,1817983009
+dimwishlist:item=172461430&perks=344235611,3640170453
+dimwishlist:item=172461430&perks=344235611,1817983009
+dimwishlist:item=172461430&perks=3418782618,3640170453
+dimwishlist:item=172461430&perks=3418782618,1817983009
+dimwishlist:item=172461430&perks=1563455254,3640170453
+dimwishlist:item=172461430&perks=1563455254,1817983009
+
+
+//Dead Weight
+//notes:Aegis Speedrun #2 (Universal use) -> One-two punch ; Major burst ; Fast single weapon damage
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+dimwishlist:item=3738678140&perks=1631667848,3708227201
+dimwishlist:item=3738678140&perks=1631667848,4104185692
+dimwishlist:item=3738678140&perks=1631667848,1546637391
+dimwishlist:item=3738678140&perks=3300816228,2679249093
+dimwishlist:item=3738678140&perks=3300816228,3708227201
+dimwishlist:item=3738678140&perks=3300816228,4104185692
+dimwishlist:item=3738678140&perks=3300816228,1546637391
+dimwishlist:item=3738678140&perks=1556840489,2679249093
+dimwishlist:item=3738678140&perks=1556840489,3708227201
+dimwishlist:item=3738678140&perks=1556840489,4104185692
+dimwishlist:item=3738678140&perks=1556840489,1546637391
+
+
+//Edge Transit
+//notes:Aegis Speedrun #2 (BRAVE version) (Universal use) -> Burst boss damage
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=968510818,3744057135
+dimwishlist:item=568611923&perks=968510818,3993379141
+dimwishlist:item=568611923&perks=968510818,1164602481
+dimwishlist:item=568611923&perks=424370782,3078487919
+dimwishlist:item=568611923&perks=424370782,3744057135
+dimwishlist:item=568611923&perks=424370782,3993379141
+dimwishlist:item=568611923&perks=424370782,1164602481
+dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=3751912585,3744057135
+dimwishlist:item=568611923&perks=3751912585,3993379141
+dimwishlist:item=568611923&perks=3751912585,1164602481
+dimwishlist:item=568611923&perks=331667533,3078487919
+dimwishlist:item=568611923&perks=331667533,3744057135
+dimwishlist:item=568611923&perks=331667533,3993379141
+dimwishlist:item=568611923&perks=331667533,1164602481
+dimwishlist:item=2228325504&perks=968510818,3078487919
+dimwishlist:item=2228325504&perks=968510818,3744057135
+dimwishlist:item=2228325504&perks=968510818,3993379141
+dimwishlist:item=2228325504&perks=968510818,1164602481
+dimwishlist:item=2228325504&perks=424370782,3078487919
+dimwishlist:item=2228325504&perks=424370782,3744057135
+dimwishlist:item=2228325504&perks=424370782,3993379141
+dimwishlist:item=2228325504&perks=424370782,1164602481
+dimwishlist:item=2228325504&perks=3751912585,3078487919
+dimwishlist:item=2228325504&perks=3751912585,3744057135
+dimwishlist:item=2228325504&perks=3751912585,3993379141
+dimwishlist:item=2228325504&perks=3751912585,1164602481
+dimwishlist:item=2228325504&perks=331667533,3078487919
+dimwishlist:item=2228325504&perks=331667533,3744057135
+dimwishlist:item=2228325504&perks=331667533,3993379141
+dimwishlist:item=2228325504&perks=331667533,1164602481
+
+
+//Eriana's Vow
+//notes:Aegis Speedrun #2 (VoG, Duality, VotD use) -> Rapid piercing damage ; Destroying oracles ; Death Throes stacking ; Long range hitscan Barrier
+dimwishlist:item=3524313097&perks=,
+
+
+//Ex Diris
+//notes:Aegis Speedrun #2 (Universal use) -> Dying quickly
+dimwishlist:item=3821409356&perks=,
+
+
+//Heritage
+//notes:Aegis Speedrun #2 (Universal use) -> Single target burst ; Double slug
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=1523832109,3335686050
+dimwishlist:item=4248569242&perks=461595545,469285294
+dimwishlist:item=4248569242&perks=461595545,3335686050
+
+
+//Imperial Decree
+//notes:Aegis Speedrun #2 (Universal use) -> Burst single target damage ; Slow single weapon damage
+dimwishlist:item=318443586&perks=3300816228,2360754333
+dimwishlist:item=318443586&perks=3300816228,2459015849
+dimwishlist:item=318443586&perks=3300816228,3708227201
+dimwishlist:item=318443586&perks=3300816228,781192741
+
+
+//Indebted Kindness
+//notes:Aegis Speedrun #2 (Universal use) -> Avoiding primary swaps ; Ammo efficient fast add clear
+dimwishlist:item=3381450498&perks=951095735,3708227201
+dimwishlist:item=3381450498&perks=951095735,2173046394
+dimwishlist:item=3381450498&perks=1556840489,3708227201
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+
+
+//Koraxis's Distress
+//notes:Aegis Speedrun #2 (GoS, LW use) -> Situational non-rocket burst
+dimwishlist:item=2972949637&perks=968510818,3708227201
+dimwishlist:item=2972949637&perks=968510818,781192741
+dimwishlist:item=2972949637&perks=424370782,3708227201
+dimwishlist:item=2972949637&perks=424370782,781192741
+dimwishlist:item=2972949637&perks=1523832109,3708227201
+dimwishlist:item=2972949637&perks=1523832109,781192741
+dimwishlist:item=2972949637&perks=461595545,3708227201
+dimwishlist:item=2972949637&perks=461595545,781192741
+dimwishlist:item=495442100&perks=968510818,3708227201
+dimwishlist:item=495442100&perks=968510818,781192741
+dimwishlist:item=495442100&perks=424370782,3708227201
+dimwishlist:item=495442100&perks=424370782,781192741
+dimwishlist:item=495442100&perks=1523832109,3708227201
+dimwishlist:item=495442100&perks=1523832109,781192741
+dimwishlist:item=495442100&perks=461595545,3708227201
+dimwishlist:item=495442100&perks=461595545,781192741
+
+
+//Liturgy
+//notes:Aegis Speedrun #2 (Universal use) -> Blinding Overload option ; Filling ranged swap rotation
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+dimwishlist:item=2599338624&perks=2039302152,344235611
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+dimwishlist:item=2599338624&perks=3987942396,344235611
+dimwishlist:item=2599338624&perks=2817499044,2978966579
+dimwishlist:item=2599338624&perks=2817499044,344235611
+
+
+//Lost Signal
+//notes:Aegis Speedrun #2 (Universal use) -> Trapping doors ; Building Transcendence
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+dimwishlist:item=1197771438&perks=3300816228,3418165135
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,859780267
+dimwishlist:item=1197771438&perks=3300816228,3523296417
+dimwishlist:item=1197771438&perks=3300816228,1906147653
+
+
+//Lumina
+//notes:Aegis Speedrun #2 (Universal use) -> Providing 35% buff ; Long distance grapple travel
+dimwishlist:item=3512014804&perks=,
+
+
+//Martyr's Retribution
+//notes:Aegis Speedrun #2 (Universal use) -> Ammo efficient add clear
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=3017780555,2675184851
+dimwishlist:item=2584830733&perks=3017780555,1015611457
+dimwishlist:item=2584830733&perks=4223976499,4293542123
+dimwishlist:item=2584830733&perks=4223976499,2675184851
+dimwishlist:item=2584830733&perks=4223976499,1015611457
+dimwishlist:item=2584830733&perks=3523296417,4293542123
+dimwishlist:item=2584830733&perks=3523296417,2675184851
+dimwishlist:item=2584830733&perks=3523296417,1015611457
+dimwishlist:item=2584830733&perks=1906147653,4293542123
+dimwishlist:item=2584830733&perks=1906147653,2675184851
+dimwishlist:item=2584830733&perks=1906147653,1015611457
+dimwishlist:item=2584830733&perks=3300816228,4293542123
+dimwishlist:item=2584830733&perks=3300816228,2675184851
+dimwishlist:item=2584830733&perks=3300816228,1015611457
+
+
+//Omniscient Eye
+//notes:Aegis Speedrun #2 (Universal use) -> Augmenting damage
+dimwishlist:item=147444292&perks=1354429876,555281244
+dimwishlist:item=147444292&perks=1354429876,332733060
+dimwishlist:item=147444292&perks=1354429876,1546637391
+dimwishlist:item=147444292&perks=1354429876,3418165135
+dimwishlist:item=147444292&perks=848860060,555281244
+dimwishlist:item=147444292&perks=848860060,332733060
+dimwishlist:item=147444292&perks=848860060,1546637391
+dimwishlist:item=147444292&perks=848860060,3418165135
+dimwishlist:item=147444292&perks=3987942396,555281244
+dimwishlist:item=147444292&perks=3987942396,332733060
+dimwishlist:item=147444292&perks=3987942396,1546637391
+dimwishlist:item=147444292&perks=3987942396,3418165135
+dimwishlist:item=147444292&perks=2817499044,555281244
+dimwishlist:item=147444292&perks=2817499044,332733060
+dimwishlist:item=147444292&perks=2817499044,1546637391
+dimwishlist:item=147444292&perks=2817499044,3418165135
+
+
+//Parasite
+//notes:Aegis Speedrun #2 (Universal use) -> Extremely high burst
+dimwishlist:item=2812324400&perks=,
+
+
+//Path of Least Resistance
+//notes:Aegis Speedrun #2 (Universal use) -> Avoiding primary swaps ; Special single shot add clear ; Shooting bricks
+dimwishlist:item=2827764482&perks=3700496672,2173046394
+dimwishlist:item=2827764482&perks=3700496672,1720528630
+dimwishlist:item=2827764482&perks=3700496672,438098033
+dimwishlist:item=2827764482&perks=3700496672,2748801589
+dimwishlist:item=2827764482&perks=2840833776,2173046394
+dimwishlist:item=2827764482&perks=2840833776,1720528630
+dimwishlist:item=2827764482&perks=2840833776,438098033
+dimwishlist:item=2827764482&perks=2840833776,2748801589
+
+
+//Retraced Path
+//notes:Aegis Speedrun #2 (Universal use) -> Avoiding primary swaps ; Special single shot add clear ; Shooting bricks
+dimwishlist:item=548958835&perks=3700496672,3523296417
+dimwishlist:item=548958835&perks=3700496672,1906147653
+dimwishlist:item=548958835&perks=3700496672,4293542123
+dimwishlist:item=548958835&perks=3700496672,2675184851
+dimwishlist:item=548958835&perks=3700496672,4104185692
+dimwishlist:item=548958835&perks=3700496672,3007133316
+dimwishlist:item=548958835&perks=2840833776,3523296417
+dimwishlist:item=548958835&perks=2840833776,1906147653
+dimwishlist:item=548958835&perks=2840833776,4293542123
+dimwishlist:item=548958835&perks=2840833776,2675184851
+dimwishlist:item=548958835&perks=2840833776,4104185692
+dimwishlist:item=548958835&perks=2840833776,3007133316
+dimwishlist:item=548958835&perks=1820235745,3523296417
+dimwishlist:item=548958835&perks=1820235745,1906147653
+dimwishlist:item=548958835&perks=1820235745,4293542123
+dimwishlist:item=548958835&perks=1820235745,2675184851
+dimwishlist:item=548958835&perks=1820235745,4104185692
+dimwishlist:item=548958835&perks=1820235745,3007133316
+dimwishlist:item=548958835&perks=4245865861,3523296417
+dimwishlist:item=548958835&perks=4245865861,1906147653
+dimwishlist:item=548958835&perks=4245865861,4293542123
+dimwishlist:item=548958835&perks=4245865861,2675184851
+dimwishlist:item=548958835&perks=4245865861,4104185692
+dimwishlist:item=548958835&perks=4245865861,3007133316
+dimwishlist:item=548958835&perks=1048183818,3523296417
+dimwishlist:item=548958835&perks=1048183818,1906147653
+dimwishlist:item=548958835&perks=1048183818,4293542123
+dimwishlist:item=548958835&perks=1048183818,2675184851
+dimwishlist:item=548958835&perks=1048183818,4104185692
+dimwishlist:item=548958835&perks=1048183818,3007133316
+dimwishlist:item=548958835&perks=3431277734,3523296417
+dimwishlist:item=548958835&perks=3431277734,1906147653
+dimwishlist:item=548958835&perks=3431277734,4293542123
+dimwishlist:item=548958835&perks=3431277734,2675184851
+dimwishlist:item=548958835&perks=3431277734,4104185692
+dimwishlist:item=548958835&perks=3431277734,3007133316
+
+
+//The Call
+//notes:Aegis Speedrun #2 (Universal use) -> Avoiding primary swaps ; Ammo efficient fast add clear
+dimwishlist:item=3947966653&perks=923806249,2109543898
+dimwishlist:item=3947966653&perks=923806249,2799030358
+dimwishlist:item=3947966653&perks=923806249,2610012052
+dimwishlist:item=3947966653&perks=923806249,4049631843
+dimwishlist:item=3947966653&perks=923806249,859780267
+dimwishlist:item=3947966653&perks=3422796781,2109543898
+dimwishlist:item=3947966653&perks=3422796781,2799030358
+dimwishlist:item=3947966653&perks=3422796781,2610012052
+dimwishlist:item=3947966653&perks=3422796781,4049631843
+dimwishlist:item=3947966653&perks=3422796781,859780267
+dimwishlist:item=3947966653&perks=1556840489,2109543898
+dimwishlist:item=3947966653&perks=1556840489,2799030358
+dimwishlist:item=3947966653&perks=1556840489,2610012052
+dimwishlist:item=3947966653&perks=1556840489,4049631843
+dimwishlist:item=3947966653&perks=1556840489,859780267
+dimwishlist:item=3947966653&perks=3442762221,2109543898
+dimwishlist:item=3947966653&perks=3442762221,2799030358
+dimwishlist:item=3947966653&perks=3442762221,2610012052
+dimwishlist:item=3947966653&perks=3442762221,4049631843
+dimwishlist:item=3947966653&perks=3442762221,859780267
+dimwishlist:item=3947966653&perks=3523296417,2109543898
+dimwishlist:item=3947966653&perks=3523296417,2799030358
+dimwishlist:item=3947966653&perks=3523296417,2610012052
+dimwishlist:item=3947966653&perks=3523296417,4049631843
+dimwishlist:item=3947966653&perks=3523296417,859780267
+dimwishlist:item=3947966653&perks=1906147653,2109543898
+dimwishlist:item=3947966653&perks=1906147653,2799030358
+dimwishlist:item=3947966653&perks=1906147653,2610012052
+dimwishlist:item=3947966653&perks=1906147653,4049631843
+dimwishlist:item=3947966653&perks=1906147653,859780267
+
+
+//The Wardcliff Coil
+//notes:Aegis Speedrun #2 (The Scarlet Keep, The Shattered Throne use) -> Melting vehicle bosses
+dimwishlist:item=1508896098&perks=,
+
+
+//Tusk of the Boar
+//notes:Aegis Speedrun #2 (Universal use) -> Ammo efficient add clear
+dimwishlist:item=1218113510&perks=2039302152,2396489472
+dimwishlist:item=1218113510&perks=2039302152,598607952
+dimwishlist:item=1218113510&perks=2039302152,3993379141
+dimwishlist:item=1218113510&perks=2039302152,1164602481
+dimwishlist:item=1218113510&perks=923806249,2396489472
+dimwishlist:item=1218113510&perks=923806249,598607952
+dimwishlist:item=1218113510&perks=923806249,3993379141
+dimwishlist:item=1218113510&perks=923806249,1164602481
+dimwishlist:item=1218113510&perks=3422796781,2396489472
+dimwishlist:item=1218113510&perks=3422796781,598607952
+dimwishlist:item=1218113510&perks=3422796781,3993379141
+dimwishlist:item=1218113510&perks=3422796781,1164602481
+
+
+//Until Its Return
+//notes:Aegis Speedrun #2 (Universal use) -> Burst single target damage
+dimwishlist:item=2883484461&perks=3643424744,3708227201
+dimwishlist:item=2883484461&perks=3643424744,781192741
+dimwishlist:item=2883484461&perks=3643424744,3751912585
+dimwishlist:item=2883484461&perks=3643424744,331667533
+dimwishlist:item=2883484461&perks=2682205016,3708227201
+dimwishlist:item=2883484461&perks=2682205016,781192741
+dimwishlist:item=2883484461&perks=2682205016,3751912585
+dimwishlist:item=2883484461&perks=2682205016,331667533
+dimwishlist:item=2883484461&perks=3300816228,3708227201
+dimwishlist:item=2883484461&perks=3300816228,781192741
+dimwishlist:item=2883484461&perks=3300816228,3751912585
+dimwishlist:item=2883484461&perks=3300816228,331667533
+
+
+//VS Velocity Baton
+//notes:Aegis Speedrun #2 (Universal use) -> Trapping doors ; Orb generation
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=3523296417,984655331
+dimwishlist:item=1762785663&perks=3523296417,2048641572
+dimwishlist:item=1762785663&perks=3523296417,1926441324
+dimwishlist:item=1762785663&perks=1906147653,243981275
+dimwishlist:item=1762785663&perks=1906147653,984655331
+dimwishlist:item=1762785663&perks=1906147653,2048641572
+dimwishlist:item=1762785663&perks=1906147653,1926441324
+dimwishlist:item=1762785663&perks=776531651,243981275
+dimwishlist:item=1762785663&perks=776531651,984655331
+dimwishlist:item=1762785663&perks=776531651,2048641572
+dimwishlist:item=1762785663&perks=776531651,1926441324
+dimwishlist:item=1762785663&perks=2541826827,243981275
+dimwishlist:item=1762785663&perks=2541826827,984655331
+dimwishlist:item=1762785663&perks=2541826827,2048641572
+dimwishlist:item=1762785663&perks=2541826827,1926441324
+
+
+//Wicked Sister
+//notes:Aegis Speedrun #2 (Universal use) -> Non-rocket burst damage
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3744057135
+dimwishlist:item=2039776723&perks=2817499044,3078487919
+dimwishlist:item=2039776723&perks=2817499044,3744057135
+
+
+//Xenophage
+//notes:Aegis Speedrun #2 (Universal use) -> Ranged hitscan bursts
+dimwishlist:item=1395261499&perks=,
+
+
+//Acasia's Dejection
+//notes:Aegis Speedrun #3 (Universal use) -> Avoiding primary swaps ; Special single shot add clear
+dimwishlist:item=1471212226&perks=1523832109,4104185692
+dimwishlist:item=1471212226&perks=1523832109,3007133316
+dimwishlist:item=1471212226&perks=1523832109,3215448563
+dimwishlist:item=1471212226&perks=1523832109,3299896859
+dimwishlist:item=1471212226&perks=461595545,4104185692
+dimwishlist:item=1471212226&perks=461595545,3007133316
+dimwishlist:item=1471212226&perks=461595545,3215448563
+dimwishlist:item=1471212226&perks=461595545,3299896859
+dimwishlist:item=1471212226&perks=2869569095,4104185692
+dimwishlist:item=1471212226&perks=2869569095,3007133316
+dimwishlist:item=1471212226&perks=2869569095,3215448563
+dimwishlist:item=1471212226&perks=2869569095,3299896859
+dimwishlist:item=3493494807&perks=1523832109,4104185692
+dimwishlist:item=3493494807&perks=1523832109,3007133316
+dimwishlist:item=3493494807&perks=1523832109,3215448563
+dimwishlist:item=3493494807&perks=1523832109,3299896859
+dimwishlist:item=3493494807&perks=461595545,4104185692
+dimwishlist:item=3493494807&perks=461595545,3007133316
+dimwishlist:item=3493494807&perks=461595545,3215448563
+dimwishlist:item=3493494807&perks=461595545,3299896859
+dimwishlist:item=3493494807&perks=2869569095,4104185692
+dimwishlist:item=3493494807&perks=2869569095,3007133316
+dimwishlist:item=3493494807&perks=2869569095,3215448563
+dimwishlist:item=3493494807&perks=2869569095,3299896859
+
+
+//Apex Predator
+//notes:Aegis Speedrun #3 (Universal use) -> Burst splash damage
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+dimwishlist:item=1851777734&perks=1523832109,3744057135
+dimwishlist:item=1851777734&perks=1523832109,1439600632
+dimwishlist:item=1851777734&perks=1523832109,2282937672
+dimwishlist:item=1851777734&perks=1523832109,3708227201
+dimwishlist:item=1851777734&perks=1523832109,781192741
+dimwishlist:item=1851777734&perks=461595545,3078487919
+dimwishlist:item=1851777734&perks=461595545,3744057135
+dimwishlist:item=1851777734&perks=461595545,1439600632
+dimwishlist:item=1851777734&perks=461595545,2282937672
+dimwishlist:item=1851777734&perks=461595545,3708227201
+dimwishlist:item=1851777734&perks=461595545,781192741
+
+
+//Bastion
+//notes:Aegis Speedrun #3 (DSC, Prophecy, Lake of Shadows, etc. use) -> Object destruction ; Intrinsic Unstoppable ; Ranged long duration 12P
+dimwishlist:item=2415517654&perks=,
+
+
+//Cataphract GL3
+//notes:Aegis Speedrun #3 (N/A use) -> Non-rocket burst damage
+dimwishlist:item=2738601016&perks=968510818,3078487919
+dimwishlist:item=2738601016&perks=968510818,3744057135
+dimwishlist:item=2738601016&perks=968510818,3751912585
+dimwishlist:item=2738601016&perks=968510818,331667533
+dimwishlist:item=2738601016&perks=424370782,3078487919
+dimwishlist:item=2738601016&perks=424370782,3744057135
+dimwishlist:item=2738601016&perks=424370782,3751912585
+dimwishlist:item=2738601016&perks=424370782,331667533
+dimwishlist:item=2738601016&perks=3300816228,3078487919
+dimwishlist:item=2738601016&perks=3300816228,3744057135
+dimwishlist:item=2738601016&perks=3300816228,3751912585
+dimwishlist:item=2738601016&perks=3300816228,331667533
+dimwishlist:item=874623537&perks=968510818,3078487919
+dimwishlist:item=874623537&perks=968510818,3744057135
+dimwishlist:item=874623537&perks=968510818,3751912585
+dimwishlist:item=874623537&perks=968510818,331667533
+dimwishlist:item=874623537&perks=424370782,3078487919
+dimwishlist:item=874623537&perks=424370782,3744057135
+dimwishlist:item=874623537&perks=424370782,3751912585
+dimwishlist:item=874623537&perks=424370782,331667533
+dimwishlist:item=874623537&perks=3300816228,3078487919
+dimwishlist:item=874623537&perks=3300816228,3744057135
+dimwishlist:item=874623537&perks=3300816228,3751912585
+dimwishlist:item=874623537&perks=3300816228,331667533
+
+
+//Cold Comfort
+//notes:Aegis Speedrun #3 (Universal use) -> Burst splash damage
+dimwishlist:item=839786290&perks=968510818,3078487919
+
+
+//Crux Termination IV
+//notes:Aegis Speedrun #3 (GMs use) -> Niche boss damage ; Burst splash damage
+dimwishlist:item=1719687748&perks=3161816588,3708227201
+dimwishlist:item=1719687748&perks=3161816588,781192741
+dimwishlist:item=1719687748&perks=3161816588,1439600632
+dimwishlist:item=1719687748&perks=3161816588,2282937672
+dimwishlist:item=1719687748&perks=1523832109,3708227201
+dimwishlist:item=1719687748&perks=1523832109,781192741
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=1523832109,2282937672
+dimwishlist:item=1719687748&perks=461595545,3708227201
+dimwishlist:item=1719687748&perks=461595545,781192741
+dimwishlist:item=1719687748&perks=461595545,1439600632
+dimwishlist:item=1719687748&perks=461595545,2282937672
+dimwishlist:item=1719687748&perks=2284787283,3708227201
+dimwishlist:item=1719687748&perks=2284787283,781192741
+dimwishlist:item=1719687748&perks=2284787283,1439600632
+dimwishlist:item=1719687748&perks=2284787283,2282937672
+dimwishlist:item=1719687748&perks=3563868667,3708227201
+dimwishlist:item=1719687748&perks=3563868667,781192741
+dimwishlist:item=1719687748&perks=3563868667,1439600632
+dimwishlist:item=1719687748&perks=3563868667,2282937672
+
+
+//Deafening Whisper
+//notes:Aegis Speedrun #3 (Universal use) -> Ammo efficient add clear
+dimwishlist:item=981718087&perks=2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,3300816228
+dimwishlist:item=981718087&perks=2010801679,3108830275
+
+
+//Defiance of Yasmin
+//notes:Aegis Speedrun #3 (Universal use) -> Shoot to loot kinetic ; Augmenting damage
+dimwishlist:item=3228096719&perks=3700496672,1821614984
+dimwishlist:item=3228096719&perks=3700496672,1942880504
+dimwishlist:item=3228096719&perks=3700496672,1771339417
+dimwishlist:item=3228096719&perks=3700496672,395388285
+dimwishlist:item=3228096719&perks=2840833776,1821614984
+dimwishlist:item=3228096719&perks=2840833776,1942880504
+dimwishlist:item=3228096719&perks=2840833776,1771339417
+dimwishlist:item=3228096719&perks=2840833776,395388285
+dimwishlist:item=3228096719&perks=2621346526,1821614984
+dimwishlist:item=3228096719&perks=2621346526,1942880504
+dimwishlist:item=3228096719&perks=2621346526,1771339417
+dimwishlist:item=3228096719&perks=2621346526,395388285
+dimwishlist:item=3228096719&perks=2495011826,1821614984
+dimwishlist:item=3228096719&perks=2495011826,1942880504
+dimwishlist:item=3228096719&perks=2495011826,1771339417
+dimwishlist:item=3228096719&perks=2495011826,395388285
+dimwishlist:item=3228096719&perks=1556840489,1821614984
+dimwishlist:item=3228096719&perks=1556840489,1942880504
+dimwishlist:item=3228096719&perks=1556840489,1771339417
+dimwishlist:item=3228096719&perks=1556840489,395388285
+dimwishlist:item=3228096719&perks=3442762221,1821614984
+dimwishlist:item=3228096719&perks=3442762221,1942880504
+dimwishlist:item=3228096719&perks=3442762221,1771339417
+dimwishlist:item=3228096719&perks=3442762221,395388285
+dimwishlist:item=3503019618&perks=3700496672,1821614984
+dimwishlist:item=3503019618&perks=3700496672,1942880504
+dimwishlist:item=3503019618&perks=3700496672,1771339417
+dimwishlist:item=3503019618&perks=3700496672,395388285
+dimwishlist:item=3503019618&perks=2840833776,1821614984
+dimwishlist:item=3503019618&perks=2840833776,1942880504
+dimwishlist:item=3503019618&perks=2840833776,1771339417
+dimwishlist:item=3503019618&perks=2840833776,395388285
+dimwishlist:item=3503019618&perks=2621346526,1821614984
+dimwishlist:item=3503019618&perks=2621346526,1942880504
+dimwishlist:item=3503019618&perks=2621346526,1771339417
+dimwishlist:item=3503019618&perks=2621346526,395388285
+dimwishlist:item=3503019618&perks=2495011826,1821614984
+dimwishlist:item=3503019618&perks=2495011826,1942880504
+dimwishlist:item=3503019618&perks=2495011826,1771339417
+dimwishlist:item=3503019618&perks=2495011826,395388285
+dimwishlist:item=3503019618&perks=1556840489,1821614984
+dimwishlist:item=3503019618&perks=1556840489,1942880504
+dimwishlist:item=3503019618&perks=1556840489,1771339417
+dimwishlist:item=3503019618&perks=1556840489,395388285
+dimwishlist:item=3503019618&perks=3442762221,1821614984
+dimwishlist:item=3503019618&perks=3442762221,1942880504
+dimwishlist:item=3503019618&perks=3442762221,1771339417
+dimwishlist:item=3503019618&perks=3442762221,395388285
+
+
+//Divinity
+//notes:Aegis Speedrun #3 (GMs use) -> 15% debuff with crit bubble ; Intrinsic overload
+dimwishlist:item=4103414242&perks=,
+
+
+//Forbearance
+//notes:Aegis Speedrun #3 (Universal use) -> Ammo efficient add clear
+dimwishlist:item=613334176&perks=2010801679,2396489472
+dimwishlist:item=613334176&perks=2010801679,598607952
+dimwishlist:item=613334176&perks=2010801679,3592538738
+dimwishlist:item=613334176&perks=2010801679,2675361166
+dimwishlist:item=613334176&perks=3108830275,2396489472
+dimwishlist:item=613334176&perks=3108830275,598607952
+dimwishlist:item=613334176&perks=3108830275,3592538738
+dimwishlist:item=613334176&perks=3108830275,2675361166
+dimwishlist:item=613334176&perks=855168139,2396489472
+dimwishlist:item=613334176&perks=855168139,598607952
+dimwishlist:item=613334176&perks=855168139,3592538738
+dimwishlist:item=613334176&perks=855168139,2675361166
+dimwishlist:item=613334176&perks=3096702027,2396489472
+dimwishlist:item=613334176&perks=3096702027,598607952
+dimwishlist:item=613334176&perks=3096702027,3592538738
+dimwishlist:item=613334176&perks=3096702027,2675361166
+dimwishlist:item=613334176&perks=1658784563,2396489472
+dimwishlist:item=613334176&perks=1658784563,598607952
+dimwishlist:item=613334176&perks=1658784563,3592538738
+dimwishlist:item=613334176&perks=1658784563,2675361166
+dimwishlist:item=4038592169&perks=2010801679,2396489472
+dimwishlist:item=4038592169&perks=2010801679,598607952
+dimwishlist:item=4038592169&perks=2010801679,3592538738
+dimwishlist:item=4038592169&perks=2010801679,2675361166
+dimwishlist:item=4038592169&perks=3108830275,2396489472
+dimwishlist:item=4038592169&perks=3108830275,598607952
+dimwishlist:item=4038592169&perks=3108830275,3592538738
+dimwishlist:item=4038592169&perks=3108830275,2675361166
+dimwishlist:item=4038592169&perks=855168139,2396489472
+dimwishlist:item=4038592169&perks=855168139,598607952
+dimwishlist:item=4038592169&perks=855168139,3592538738
+dimwishlist:item=4038592169&perks=855168139,2675361166
+dimwishlist:item=4038592169&perks=3096702027,2396489472
+dimwishlist:item=4038592169&perks=3096702027,598607952
+dimwishlist:item=4038592169&perks=3096702027,3592538738
+dimwishlist:item=4038592169&perks=3096702027,2675361166
+dimwishlist:item=4038592169&perks=1658784563,2396489472
+dimwishlist:item=4038592169&perks=1658784563,598607952
+dimwishlist:item=4038592169&perks=1658784563,3592538738
+dimwishlist:item=4038592169&perks=1658784563,2675361166
+dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,598607952
+dimwishlist:item=568611921&perks=2010801679,3592538738
+dimwishlist:item=568611921&perks=2010801679,2675361166
+dimwishlist:item=568611921&perks=3108830275,2396489472
+dimwishlist:item=568611921&perks=3108830275,598607952
+dimwishlist:item=568611921&perks=3108830275,3592538738
+dimwishlist:item=568611921&perks=3108830275,2675361166
+dimwishlist:item=568611921&perks=855168139,2396489472
+dimwishlist:item=568611921&perks=855168139,598607952
+dimwishlist:item=568611921&perks=855168139,3592538738
+dimwishlist:item=568611921&perks=855168139,2675361166
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+dimwishlist:item=2480074702&perks=2010801679,598607952
+dimwishlist:item=2480074702&perks=2010801679,3592538738
+dimwishlist:item=2480074702&perks=2010801679,2675361166
+dimwishlist:item=2480074702&perks=3108830275,2396489472
+dimwishlist:item=2480074702&perks=3108830275,598607952
+dimwishlist:item=2480074702&perks=3108830275,3592538738
+dimwishlist:item=2480074702&perks=3108830275,2675361166
+dimwishlist:item=2480074702&perks=855168139,2396489472
+dimwishlist:item=2480074702&perks=855168139,598607952
+dimwishlist:item=2480074702&perks=855168139,3592538738
+dimwishlist:item=2480074702&perks=855168139,2675361166
+
+
+//Forbearance
+//notes:Aegis Speedrun #3 (BRAVE version) (Universal use) -> Ammo efficient add clear
+dimwishlist:item=613334176&perks=2010801679,2396489472
+dimwishlist:item=613334176&perks=2010801679,598607952
+dimwishlist:item=613334176&perks=3108830275,2396489472
+dimwishlist:item=613334176&perks=3108830275,598607952
+dimwishlist:item=613334176&perks=855168139,2396489472
+dimwishlist:item=613334176&perks=855168139,598607952
+dimwishlist:item=4038592169&perks=2010801679,2396489472
+dimwishlist:item=4038592169&perks=2010801679,598607952
+dimwishlist:item=4038592169&perks=3108830275,2396489472
+dimwishlist:item=4038592169&perks=3108830275,598607952
+dimwishlist:item=4038592169&perks=855168139,2396489472
+dimwishlist:item=4038592169&perks=855168139,598607952
+dimwishlist:item=568611921&perks=3523296417,2396489472
+dimwishlist:item=568611921&perks=3523296417,598607952
+dimwishlist:item=568611921&perks=3523296417,2109543898
+dimwishlist:item=568611921&perks=3523296417,2799030358
+dimwishlist:item=568611921&perks=1906147653,2396489472
+dimwishlist:item=568611921&perks=1906147653,598607952
+dimwishlist:item=568611921&perks=1906147653,2109543898
+dimwishlist:item=568611921&perks=1906147653,2799030358
+dimwishlist:item=568611921&perks=2010801679,2396489472
+dimwishlist:item=568611921&perks=2010801679,598607952
+dimwishlist:item=568611921&perks=2010801679,2109543898
+dimwishlist:item=568611921&perks=2010801679,2799030358
+dimwishlist:item=568611921&perks=3108830275,2396489472
+dimwishlist:item=568611921&perks=3108830275,598607952
+dimwishlist:item=568611921&perks=3108830275,2109543898
+dimwishlist:item=568611921&perks=3108830275,2799030358
+dimwishlist:item=568611921&perks=855168139,2396489472
+dimwishlist:item=568611921&perks=855168139,598607952
+dimwishlist:item=568611921&perks=855168139,2109543898
+dimwishlist:item=568611921&perks=855168139,2799030358
+dimwishlist:item=2480074702&perks=3523296417,2396489472
+dimwishlist:item=2480074702&perks=3523296417,598607952
+dimwishlist:item=2480074702&perks=3523296417,2109543898
+dimwishlist:item=2480074702&perks=3523296417,2799030358
+dimwishlist:item=2480074702&perks=1906147653,2396489472
+dimwishlist:item=2480074702&perks=1906147653,598607952
+dimwishlist:item=2480074702&perks=1906147653,2109543898
+dimwishlist:item=2480074702&perks=1906147653,2799030358
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+dimwishlist:item=2480074702&perks=2010801679,598607952
+dimwishlist:item=2480074702&perks=2010801679,2109543898
+dimwishlist:item=2480074702&perks=2010801679,2799030358
+dimwishlist:item=2480074702&perks=3108830275,2396489472
+dimwishlist:item=2480074702&perks=3108830275,598607952
+dimwishlist:item=2480074702&perks=3108830275,2109543898
+dimwishlist:item=2480074702&perks=3108830275,2799030358
+dimwishlist:item=2480074702&perks=855168139,2396489472
+dimwishlist:item=2480074702&perks=855168139,598607952
+dimwishlist:item=2480074702&perks=855168139,2109543898
+dimwishlist:item=2480074702&perks=855168139,2799030358
+
+
+//Fortissimo-11
+//notes:Aegis Speedrun #3 (Universal use) -> Double slug
+dimwishlist:item=2821430069&perks=4071163871,1546637391
+dimwishlist:item=2821430069&perks=4071163871,3708227201
+dimwishlist:item=2821430069&perks=4071163871,4104185692
+dimwishlist:item=2821430069&perks=3523296417,1546637391
+dimwishlist:item=2821430069&perks=3523296417,3708227201
+dimwishlist:item=2821430069&perks=3523296417,4104185692
+dimwishlist:item=2821430069&perks=1354429876,1546637391
+dimwishlist:item=2821430069&perks=1354429876,3708227201
+dimwishlist:item=2821430069&perks=1354429876,4104185692
+
+
+//Harsh Language
+//notes:Aegis Speedrun #3 (Universal use) -> Ammo efficient add clear
+dimwishlist:item=1606497639&perks=3592538738,776531651
+dimwishlist:item=1606497639&perks=3592538738,2048641572
+dimwishlist:item=1606497639&perks=2869569095,776531651
+dimwishlist:item=1606497639&perks=2869569095,2048641572
+
+
+//Ignition Code
+//notes:Aegis Speedrun #3 (Universal use) -> Blinding enemies
+dimwishlist:item=304659313&perks=3161816588,3523296417
+dimwishlist:item=304659313&perks=3161816588,4104185692
+dimwishlist:item=304659313&perks=3161816588,960810156
+dimwishlist:item=2761869150&perks=3161816588,4104185692
+dimwishlist:item=2761869150&perks=3161816588,3007133316
+
+
+//Legato-11
+//notes:Aegis Speedrun #3 (Universal use) -> Double slug ; Damage rotation fill
+dimwishlist:item=3753063346&perks=3300816228,1546637391
+dimwishlist:item=3753063346&perks=3300816228,3418165135
+dimwishlist:item=3753063346&perks=3300816228,3751912585
+dimwishlist:item=3753063346&perks=3300816228,331667533
+
+
+//Marsilion-C
+//notes:Aegis Speedrun #3 (SE use) -> Non-rocket burst damage
+dimwishlist:item=867154247&perks=968510818,3751912585
+dimwishlist:item=867154247&perks=968510818,331667533
+dimwishlist:item=867154247&perks=968510818,2888557110
+dimwishlist:item=867154247&perks=968510818,1905598698
+dimwishlist:item=867154247&perks=424370782,3751912585
+dimwishlist:item=867154247&perks=424370782,331667533
+dimwishlist:item=867154247&perks=424370782,2888557110
+dimwishlist:item=867154247&perks=424370782,1905598698
+
+
+//Nessa's Oblation
+//notes:Aegis Speedrun #3 (Universal use) -> Double slug
+dimwishlist:item=135029084&perks=1523832109,1546637391
+dimwishlist:item=135029084&perks=1523832109,3418165135
+dimwishlist:item=135029084&perks=461595545,1546637391
+dimwishlist:item=135029084&perks=461595545,3418165135
+dimwishlist:item=522366885&perks=1523832109,1546637391
+dimwishlist:item=522366885&perks=1523832109,3418165135
+dimwishlist:item=522366885&perks=461595545,1546637391
+dimwishlist:item=522366885&perks=461595545,3418165135
+
+
+//New Pacific Epitaph
+//notes:Aegis Speedrun #3 (Universal use) -> Ammo efficient add clear
+dimwishlist:item=1125217994&perks=3523296417,3201496230
+dimwishlist:item=1125217994&perks=1556840489,3201496230
+dimwishlist:item=1125217994&perks=3108830275,3201496230
+
+
+//One Small Step
+//notes:Aegis Speedrun #3 (Universal use) -> One-two punch
+dimwishlist:item=1016668089&perks=3161816588,2679249093
+dimwishlist:item=1016668089&perks=1556840489,2679249093
+dimwishlist:item=1016668089&perks=3436462433,2679249093
+
+
+//Pardon Our Dust
+//notes:Aegis Speedrun #3 (Universal use) -> Blinding enemies ; Augmenting boss damage
+dimwishlist:item=3849810018&perks=3300816228,3523296417
+dimwishlist:item=3849810018&perks=3300816228,1906147653
+dimwishlist:item=3849810018&perks=3300816228,1546637391
+dimwishlist:item=3849810018&perks=3300816228,3418165135
+
+
+//Seventh Seraph CQC-12
+//notes:Aegis Speedrun #3 (Universal use) -> Double pellet ; Killing majors
+dimwishlist:item=1821724780&perks=3300816228,1546637391
+
+
+//Sovereignty
+//notes:Aegis Speedrun #3 (Universal use) -> Artifact-independent weaken
+dimwishlist:item=3818198556&perks=3523296417,1134488199
+dimwishlist:item=3818198556&perks=3523296417,2904194311
+dimwishlist:item=3818198556&perks=1906147653,1134488199
+dimwishlist:item=3818198556&perks=1906147653,2904194311
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+dimwishlist:item=3818198556&perks=3038247973,2904194311
+
+
+//Succession
+//notes:Aegis Speedrun #3 (Universal use) -> Quick ranged hitscan kills ; Death Throes stacking
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,3418165135
+dimwishlist:item=2990047042&perks=1523832109,957782887
+dimwishlist:item=2990047042&perks=1523832109,469285294
+dimwishlist:item=2990047042&perks=1523832109,3335686050
+dimwishlist:item=2990047042&perks=1523832109,1774574192
+dimwishlist:item=2990047042&perks=1523832109,777774560
+dimwishlist:item=2990047042&perks=461595545,1546637391
+dimwishlist:item=2990047042&perks=461595545,3418165135
+dimwishlist:item=2990047042&perks=461595545,957782887
+dimwishlist:item=2990047042&perks=461595545,469285294
+dimwishlist:item=2990047042&perks=461595545,3335686050
+dimwishlist:item=2990047042&perks=461595545,1774574192
+dimwishlist:item=2990047042&perks=461595545,777774560
+dimwishlist:item=2990047042&perks=3523296417,1546637391
+dimwishlist:item=2990047042&perks=3523296417,3418165135
+dimwishlist:item=2990047042&perks=3523296417,957782887
+dimwishlist:item=2990047042&perks=3523296417,469285294
+dimwishlist:item=2990047042&perks=3523296417,3335686050
+dimwishlist:item=2990047042&perks=3523296417,1774574192
+dimwishlist:item=2990047042&perks=3523296417,777774560
+dimwishlist:item=2990047042&perks=1906147653,1546637391
+dimwishlist:item=2990047042&perks=1906147653,3418165135
+dimwishlist:item=2990047042&perks=1906147653,957782887
+dimwishlist:item=2990047042&perks=1906147653,469285294
+dimwishlist:item=2990047042&perks=1906147653,3335686050
+dimwishlist:item=2990047042&perks=1906147653,1774574192
+dimwishlist:item=2990047042&perks=1906147653,777774560
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+dimwishlist:item=3612338554&perks=1523832109,3418165135
+dimwishlist:item=3612338554&perks=1523832109,957782887
+dimwishlist:item=3612338554&perks=1523832109,469285294
+dimwishlist:item=3612338554&perks=1523832109,3335686050
+dimwishlist:item=3612338554&perks=461595545,1546637391
+dimwishlist:item=3612338554&perks=461595545,3418165135
+dimwishlist:item=3612338554&perks=461595545,957782887
+dimwishlist:item=3612338554&perks=461595545,469285294
+dimwishlist:item=3612338554&perks=461595545,3335686050
+dimwishlist:item=3612338554&perks=3523296417,1546637391
+dimwishlist:item=3612338554&perks=3523296417,3418165135
+dimwishlist:item=3612338554&perks=3523296417,957782887
+dimwishlist:item=3612338554&perks=3523296417,469285294
+dimwishlist:item=3612338554&perks=3523296417,3335686050
+dimwishlist:item=3612338554&perks=1906147653,1546637391
+dimwishlist:item=3612338554&perks=1906147653,3418165135
+dimwishlist:item=3612338554&perks=1906147653,957782887
+dimwishlist:item=3612338554&perks=1906147653,469285294
+dimwishlist:item=3612338554&perks=1906147653,3335686050
+dimwishlist:item=570866107&perks=1523832109,1546637391
+dimwishlist:item=570866107&perks=1523832109,3418165135
+dimwishlist:item=570866107&perks=1523832109,957782887
+dimwishlist:item=570866107&perks=1523832109,469285294
+dimwishlist:item=570866107&perks=1523832109,3335686050
+dimwishlist:item=570866107&perks=461595545,1546637391
+dimwishlist:item=570866107&perks=461595545,3418165135
+dimwishlist:item=570866107&perks=461595545,957782887
+dimwishlist:item=570866107&perks=461595545,469285294
+dimwishlist:item=570866107&perks=461595545,3335686050
+dimwishlist:item=570866107&perks=3523296417,1546637391
+dimwishlist:item=570866107&perks=3523296417,3418165135
+dimwishlist:item=570866107&perks=3523296417,957782887
+dimwishlist:item=570866107&perks=3523296417,469285294
+dimwishlist:item=570866107&perks=3523296417,3335686050
+dimwishlist:item=570866107&perks=1906147653,1546637391
+dimwishlist:item=570866107&perks=1906147653,3418165135
+dimwishlist:item=570866107&perks=1906147653,957782887
+dimwishlist:item=570866107&perks=1906147653,469285294
+dimwishlist:item=570866107&perks=1906147653,3335686050
+
+
+//Summum Bonum
+//notes:Aegis Speedrun #3 (SE use) -> Melee range boss damage
+dimwishlist:item=3569407878&perks=1749209109,3640170453
+dimwishlist:item=3569407878&perks=1749209109,1817983009
+dimwishlist:item=3569407878&perks=1749209109,3913600130
+dimwishlist:item=3569407878&perks=1749209109,3708227201
+dimwishlist:item=3569407878&perks=1749209109,781192741
+dimwishlist:item=3569407878&perks=243981275,3640170453
+dimwishlist:item=3569407878&perks=243981275,1817983009
+dimwishlist:item=3569407878&perks=243981275,3913600130
+dimwishlist:item=3569407878&perks=243981275,3708227201
+dimwishlist:item=3569407878&perks=243981275,781192741
+dimwishlist:item=3569407878&perks=984655331,3640170453
+dimwishlist:item=3569407878&perks=984655331,1817983009
+dimwishlist:item=3569407878&perks=984655331,3913600130
+dimwishlist:item=3569407878&perks=984655331,3708227201
+dimwishlist:item=3569407878&perks=984655331,781192741
+dimwishlist:item=3569407878&perks=3993379141,3640170453
+dimwishlist:item=3569407878&perks=3993379141,1817983009
+dimwishlist:item=3569407878&perks=3993379141,3913600130
+dimwishlist:item=3569407878&perks=3993379141,3708227201
+dimwishlist:item=3569407878&perks=3993379141,781192741
+dimwishlist:item=3569407878&perks=1164602481,3640170453
+dimwishlist:item=3569407878&perks=1164602481,1817983009
+dimwishlist:item=3569407878&perks=1164602481,3913600130
+dimwishlist:item=3569407878&perks=1164602481,3708227201
+dimwishlist:item=3569407878&perks=1164602481,781192741
+dimwishlist:item=2001697739&perks=1749209109,3640170453
+dimwishlist:item=2001697739&perks=1749209109,1817983009
+dimwishlist:item=2001697739&perks=1749209109,3913600130
+dimwishlist:item=2001697739&perks=1749209109,3708227201
+dimwishlist:item=2001697739&perks=1749209109,781192741
+dimwishlist:item=2001697739&perks=243981275,3640170453
+dimwishlist:item=2001697739&perks=243981275,1817983009
+dimwishlist:item=2001697739&perks=243981275,3913600130
+dimwishlist:item=2001697739&perks=243981275,3708227201
+dimwishlist:item=2001697739&perks=243981275,781192741
+dimwishlist:item=2001697739&perks=984655331,3640170453
+dimwishlist:item=2001697739&perks=984655331,1817983009
+dimwishlist:item=2001697739&perks=984655331,3913600130
+dimwishlist:item=2001697739&perks=984655331,3708227201
+dimwishlist:item=2001697739&perks=984655331,781192741
+dimwishlist:item=2001697739&perks=3993379141,3640170453
+dimwishlist:item=2001697739&perks=3993379141,1817983009
+dimwishlist:item=2001697739&perks=3993379141,3913600130
+dimwishlist:item=2001697739&perks=3993379141,3708227201
+dimwishlist:item=2001697739&perks=3993379141,781192741
+dimwishlist:item=2001697739&perks=1164602481,3640170453
+dimwishlist:item=2001697739&perks=1164602481,1817983009
+dimwishlist:item=2001697739&perks=1164602481,3913600130
+dimwishlist:item=2001697739&perks=1164602481,3708227201
+dimwishlist:item=2001697739&perks=1164602481,781192741
+
+
+//Tarnation
+//notes:Aegis Speedrun #3 (Last Wish use) -> Vault add clear
+dimwishlist:item=2721157927&perks=2869569095,960810156
+dimwishlist:item=2721157927&perks=2869569095,1077019636
+
+
+//The Militia's Birthright
+//notes:Aegis Speedrun #3 (Universal use) -> Blinding enemies
+dimwishlist:item=40394833&perks=2039302152,3300816228
+dimwishlist:item=40394833&perks=2039302152,4104185692
+dimwishlist:item=40394833&perks=1556840489,3300816228
+dimwishlist:item=40394833&perks=1556840489,4104185692
+dimwishlist:item=2378101424&perks=2039302152,3300816228
+dimwishlist:item=2378101424&perks=2039302152,4104185692
+dimwishlist:item=2378101424&perks=1556840489,3300816228
+dimwishlist:item=2378101424&perks=1556840489,4104185692
+dimwishlist:item=1854753405&perks=2039302152,3300816228
+dimwishlist:item=1854753405&perks=2039302152,4104185692
+dimwishlist:item=1854753405&perks=1556840489,3300816228
+dimwishlist:item=1854753405&perks=1556840489,4104185692
+dimwishlist:item=4162642204&perks=2039302152,3300816228
+dimwishlist:item=4162642204&perks=2039302152,4104185692
+dimwishlist:item=4162642204&perks=1556840489,3300816228
+dimwishlist:item=4162642204&perks=1556840489,4104185692
+
+
+//The Other Half
+//notes:Aegis Speedrun #3 (Universal use) -> Movement
+dimwishlist:item=3257091167&perks=2077819806,3708227201
+dimwishlist:item=3257091167&perks=2077819806,781192741
+dimwishlist:item=3257091167&perks=2077819806,4104185692
+dimwishlist:item=3257091167&perks=2077819806,3007133316
+dimwishlist:item=3257091167&perks=2077819806,1546637391
+dimwishlist:item=3257091167&perks=2077819806,3418165135
+dimwishlist:item=3257091167&perks=1618208178,3708227201
+dimwishlist:item=3257091167&perks=1618208178,781192741
+dimwishlist:item=3257091167&perks=1618208178,4104185692
+dimwishlist:item=3257091167&perks=1618208178,3007133316
+dimwishlist:item=3257091167&perks=1618208178,1546637391
+dimwishlist:item=3257091167&perks=1618208178,3418165135
+
+
+//Twilight Oath
+//notes:Aegis Speedrun #3 (Universal use) -> Augmenting damage
+dimwishlist:item=1874424704&perks=968510818,1546637391
+
+
+//Veleda-F
+//notes:Aegis Speedrun #3 (Universal use) -> Artifact-independent weaken
+dimwishlist:item=4200122994&perks=1421772400,1134488199
+dimwishlist:item=4200122994&perks=1421772400,2904194311
+dimwishlist:item=4200122994&perks=3291427296,1134488199
+dimwishlist:item=4200122994&perks=3291427296,2904194311
+dimwishlist:item=4200122994&perks=1821614984,1134488199
+dimwishlist:item=4200122994&perks=1821614984,2904194311
+dimwishlist:item=4200122994&perks=1942880504,1134488199
+dimwishlist:item=4200122994&perks=1942880504,2904194311
+
+
+//Wastelander M5
+//notes:Aegis Speedrun #3 (Universal use) -> One-two punch ; Major burst
+dimwishlist:item=1679868061&perks=1556840489,2679249093
+dimwishlist:item=1679868061&perks=1556840489,788178929
+dimwishlist:item=1679868061&perks=1556840489,1546637391
+dimwishlist:item=1679868061&perks=1556840489,3418165135
+dimwishlist:item=1679868061&perks=3442762221,2679249093
+dimwishlist:item=1679868061&perks=3442762221,788178929
+dimwishlist:item=1679868061&perks=3442762221,1546637391
+dimwishlist:item=1679868061&perks=3442762221,3418165135
+
+
+//Wild Style
+//notes:Aegis Speedrun #3 (Universal use) -> Filling ranged swap rotation
+dimwishlist:item=1332123064&perks=1523832109,3078487919
+dimwishlist:item=1332123064&perks=1523832109,3744057135
+dimwishlist:item=1332123064&perks=1523832109,1546637391
+dimwishlist:item=1332123064&perks=1523832109,3418165135
+dimwishlist:item=1332123064&perks=461595545,3078487919
+dimwishlist:item=1332123064&perks=461595545,3744057135
+dimwishlist:item=1332123064&perks=461595545,1546637391
+dimwishlist:item=1332123064&perks=461595545,3418165135
+dimwishlist:item=959037361&perks=1523832109,3078487919
+dimwishlist:item=959037361&perks=1523832109,3744057135
+dimwishlist:item=959037361&perks=1523832109,1546637391
+dimwishlist:item=959037361&perks=1523832109,3418165135
+dimwishlist:item=959037361&perks=461595545,3078487919
+dimwishlist:item=959037361&perks=461595545,3744057135
+dimwishlist:item=959037361&perks=461595545,1546637391
+dimwishlist:item=959037361&perks=461595545,3418165135
+
+
+//Wilderflight
+//notes:Aegis Speedrun #3 (Universal use) -> Blinding enemies ; Filling ranged swap rotation
+dimwishlist:item=2306182339&perks=3300816228,4104185692
+dimwishlist:item=2306182339&perks=3300816228,1546637391
+dimwishlist:item=2306182339&perks=3300816228,1556840489
+dimwishlist:item=2306182339&perks=3523296417,4104185692
+dimwishlist:item=2306182339&perks=3523296417,1546637391
+dimwishlist:item=2306182339&perks=3523296417,1556840489
+
+
+//Witherhoard
+//notes:Aegis Speedrun #3 (Universal use) -> Trapping spawns
+dimwishlist:item=2357297366&perks=,
+
+
+//Without Remorse
+//notes:Aegis Speedrun #3 (Universal use) -> One-two punch ; Pellet swapping
+dimwishlist:item=1478986057&perks=4071163871,2679249093
+dimwishlist:item=1478986057&perks=4071163871,788178929
+dimwishlist:item=1478986057&perks=4071163871,1546637391
+dimwishlist:item=1478986057&perks=4071163871,3418165135
+dimwishlist:item=1478986057&perks=2869569095,2679249093
+dimwishlist:item=1478986057&perks=2869569095,788178929
+dimwishlist:item=1478986057&perks=2869569095,1546637391
+dimwishlist:item=1478986057&perks=2869569095,3418165135
+
+
+//Xenoclast IV
+//notes:Aegis Speedrun #3 (Universal use) -> One-two punch ; Pellet swapping
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+dimwishlist:item=2891672170&perks=1631667848,1546637391
+dimwishlist:item=2891672170&perks=1556840489,2679249093
+dimwishlist:item=2891672170&perks=1556840489,1546637391
+dimwishlist:item=2891672170&perks=3300816228,2679249093
+dimwishlist:item=2891672170&perks=3300816228,1546637391
+dimwishlist:item=2891672170&perks=2869569095,2679249093
+dimwishlist:item=2891672170&perks=2869569095,1546637391
+
+

@@ -1,0 +1,390 @@
+title:Aegis's Endgame Analysis -> Special (Trash List)
+description:Special weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
+
+//Riiswalker
+//notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-108221785&perks=
+dimwishlist:item=-1764868900&perks=
+dimwishlist:item=-557165046&perks=
+
+
+//The Inquisitor
+//notes:D Tier. Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
+dimwishlist:item=-2185327324&perks=
+dimwishlist:item=-2307365&perks=
+dimwishlist:item=-2653171212&perks=
+dimwishlist:item=-825554997&perks=
+
+
+//Ragnhild-D
+//notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-4225322581&perks=
+
+
+//Scavenger's Fate
+//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+dimwishlist:item=-2913577176&perks=
+
+
+//First In, Last Out
+//notes:D Tier. Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
+dimwishlist:item=-3616586446&perks=
+dimwishlist:item=-515224227&perks=
+
+
+//Gunnora's Axe
+//notes:D Tier. Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
+dimwishlist:item=-411397829&perks=
+dimwishlist:item=-94729174&perks=
+dimwishlist:item=-2326716489&perks=
+dimwishlist:item=-487361141&perks=
+
+
+//Fractethyst
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3184681056&perks=
+
+
+//No Reprieve
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2531963421&perks=
+
+
+//Last Man Standing
+//notes:E Tier. Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-755130877&perks=
+dimwishlist:item=-4287947559&perks=
+
+
+//Astral Horizon
+//notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-532746994&perks=
+dimwishlist:item=-2653171213&perks=
+dimwishlist:item=-854379020&perks=
+dimwishlist:item=-1697682876&perks=
+
+
+//Mindbender's Ambition
+//notes:E Tier. Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-1094005544&perks=
+dimwishlist:item=-912150785&perks=
+dimwishlist:item=-1586231351&perks=
+dimwishlist:item=-2074041946&perks=
+dimwishlist:item=-4117693024&perks=
+
+
+//Felwinter's Lie
+//notes:E Tier. Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-1179141605&perks=
+
+
+//Wishbringer
+//notes:F Tier. Aegis Recommended alternative(s): IKELOS_SG_v1.0.3
+dimwishlist:item=-3190698551&perks=
+dimwishlist:item=-3356526253&perks=
+
+
+//Toil and Trouble
+//notes:F Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-2957367743&perks=
+
+
+//Blasphemer
+//notes:F Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-2782847179&perks=
+
+
+//Bonechiller
+//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+dimwishlist:item=-4037745684&perks=
+
+
+//Reckless Endangerment
+//notes:F Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
+dimwishlist:item=-3216652511&perks=
+
+
+//Tranquility
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-1645386487&perks=
+
+
+//Defiance of Yasmin
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3228096719&perks=
+dimwishlist:item=-3503019618&perks=
+
+
+//Father's Sins
+//notes:D Tier. Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-3865728990&perks=
+
+
+//A Distant Pull
+//notes:D Tier. Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-1769847435&perks=
+
+
+//Locus Locutus
+//notes:D Tier. Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-4132072834&perks=
+
+
+//Volta Bracket
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-3920310144&perks=
+
+
+//The Long Walk
+//notes:D Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-3326850591&perks=
+dimwishlist:item=-174804902&perks=
+
+
+//Thoughtless
+//notes:D Tier. Aegis Recommended alternative(s): Critical Anomaly, Irukandji
+dimwishlist:item=-4067556514&perks=
+
+
+//Mechabre
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1280894514&perks=
+dimwishlist:item=-3871226707&perks=
+dimwishlist:item=-2477980485&perks=
+
+
+//Luna Regolith III
+//notes:D Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-1948035256&perks=
+
+
+//Last Foray
+//notes:D Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-1106635211&perks=
+
+
+//Far Future
+//notes:D Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-893527433&perks=
+
+
+//Albruna-D
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-676270382&perks=
+
+
+//Bite of the Fox
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-1403800851&perks=
+dimwishlist:item=-3169616514&perks=
+
+
+//Silicon Neuroma
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3355385170&perks=
+dimwishlist:item=-1387987271&perks=
+dimwishlist:item=-990416096&perks=
+
+
+//Adored
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-4184808992&perks=
+
+
+//Beloved
+//notes:E Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-3107853529&perks=
+dimwishlist:item=-4190932264&perks=
+
+
+//Persuader
+//notes:E Tier. Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-2290863050&perks=
+dimwishlist:item=-4083045006&perks=
+dimwishlist:item=-781498181&perks=
+
+
+//Sole Survivor
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-1115104187&perks=
+dimwishlist:item=-1150492185&perks=
+
+
+//Shepherd's Watch
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3743729616&perks=
+dimwishlist:item=-3312073053&perks=
+
+
+//Eye of Sol
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3637570176&perks=
+dimwishlist:item=-3164743584&perks=
+dimwishlist:item=-1401300690&perks=
+dimwishlist:item=-2059255495&perks=
+dimwishlist:item=-627188188&perks=
+dimwishlist:item=-1321626661&perks=
+
+
+//Gallu RR3
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-617501162&perks=
+
+
+//Mercurial Overreach
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2073794990&perks=
+
+
+//Long Shadow
+//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, The Supremacy, Succession: BRAVE version, Succession
+dimwishlist:item=-3745990145&perks=
+
+
+//Widow's Bite
+//notes:F Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-1271343896&perks=
+dimwishlist:item=-3312073055&perks=
+
+
+//1000 Yard Stare
+//notes:F Tier. Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-4164201232&perks=
+
+
+//The Domino
+//notes:F Tier. Aegis Recommended alternative(s): Keen Thistle, Omniscient Eye
+dimwishlist:item=-4272442416&perks=
+dimwishlist:item=-2800870005&perks=
+
+
+//Apostate
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+dimwishlist:item=-2164448701&perks=
+
+
+//Pressurized Precision
+//notes:D Tier. Aegis Recommended alternative(s): Scatter Signal
+dimwishlist:item=-1084190509&perks=
+
+
+//Iterative Loop
+//notes:D Tier. Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-1289796511&perks=
+
+
+//Burden of Guilt
+//notes:D Tier. Aegis Recommended alternative(s): Riptide
+dimwishlist:item=-933455006&perks=
+dimwishlist:item=-2002522739&perks=
+
+
+//Exile's Curse
+//notes:D Tier. Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-276080079&perks=
+dimwishlist:item=-679281855&perks=
+
+
+//Hollow Words
+//notes:E Tier. Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-607191995&perks=
+dimwishlist:item=-342027677&perks=
+
+
+//The Wizened Rebuke
+//notes:E Tier. Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-1999697514&perks=
+dimwishlist:item=-2290416&perks=
+dimwishlist:item=-2961807684&perks=
+dimwishlist:item=-930590127&perks=
+
+
+//Iota Draconis
+//notes:E Tier. Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-3044460004&perks=
+
+
+//Dream Breaker
+//notes:E Tier. Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-2931957300&perks=
+
+
+//Snorri FR5
+//notes:E Tier. Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-4114929480&perks=
+
+
+//Aurvandil FR6
+//notes:E Tier. Aegis Recommended alternative(s): Riptide
+dimwishlist:item=-963710795&perks=
+
+
+//Likely Suspect
+//notes:F Tier. Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-1994645182&perks=
+
+
+//Trinary System
+//notes:F Tier. Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-3258665412&perks=
+
+
+//Main Ingredient
+//notes:F Tier. Aegis Recommended alternative(s): Techeun Force, PLUG ONE.1
+dimwishlist:item=-3445437901&perks=
+dimwishlist:item=-253196586&perks=
+
+
+//Timelines' Vertex
+//notes:F Tier. Aegis Recommended alternative(s): Royal Executioner, Axial Lacuna, Cartesian Coordinate
+dimwishlist:item=-1006783454&perks=
+dimwishlist:item=-3055192515&perks=
+
+
+//The Epicurean
+//notes:F Tier. Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-2263839058&perks=
+dimwishlist:item=-4124357815&perks=
+
+
+//Coriolis Force
+//notes:F Tier. Aegis Recommended alternative(s): Zealot's Reward, Glacioclasm, Afterlight
+dimwishlist:item=-3512349612&perks=
+
+
+//Empty Vessel
+//notes:D Tier. Aegis Recommended alternative(s): Martyr's Retribution
+dimwishlist:item=-4255586669&perks=
+
+
+//Salvager's Salvo
+//notes:D Tier. Aegis Recommended alternative(s): Psychopomp, Forbearance, Forbearance: BRAVE version
+dimwishlist:item=-2060863616&perks=
+
+
+//Orewing's Maul
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton
+dimwishlist:item=-1870979911&perks=
+dimwishlist:item=-2108920981&perks=
+
+
+//Prodigal Return
+//notes:E Tier. Aegis Recommended alternative(s): Psychopomp, Forbearance, Forbearance: BRAVE version
+dimwishlist:item=-268260373&perks=
+
+
+//Truthteller
+//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton
+dimwishlist:item=-1946491241&perks=
+dimwishlist:item=-3252697558&perks=
+dimwishlist:item=-447296102&perks=
+
+
+//Incisor
+//notes:D Tier. Aegis Recommended alternative(s): Unsworn
+dimwishlist:item=-4248997900&perks=
+dimwishlist:item=-2421180981&perks=
+dimwishlist:item=-1711056134&perks=
+dimwishlist:item=-2839600459&perks=
+
+
