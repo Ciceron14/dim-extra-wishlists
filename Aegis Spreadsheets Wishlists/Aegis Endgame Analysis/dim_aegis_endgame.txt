@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> All Weapons
-description:Lists all Special & Power weapons rated A or S tier as well as all Primaries recommended in the sheet. Ratings taken from Aegis spreadsheets.
+description:Lists all weapons rated A or S tier by Aegis.
 
 //No Hesitation
 //notes:Aegis Endgame S Tier

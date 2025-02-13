@@ -1,5 +1,5 @@
 title:Aegis's Endgame Analysis -> Only the best weapons
-description:Lists all Special & Power weapons rated S tier as well as all Primaries rated as Best in Slot. Ratings taken from Aegis spreadsheets.
+description:Lists all weapons rated S tier by Aegis.
 
 //No Hesitation
 //notes:Aegis Endgame S Tier

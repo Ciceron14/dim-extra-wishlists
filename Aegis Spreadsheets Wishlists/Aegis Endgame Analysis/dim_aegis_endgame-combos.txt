@@ -1,5 +1,5 @@
-title:Aegis's Endgame Analysis -> Only the best weapons
-description:Lists all Special & Power weapons rated S tier as well as all Primaries rated as Best in Slot. Ratings taken from Aegis spreadsheets.
+title:Aegis's Endgame Analysis -> Combos
+description:Highest rated weapon for each 'Type + Element' combo according to Aegis
 
 //No Hesitation
 //notes:Aegis Best Solar Auto: S Tier
