@@ -24,7 +24,7 @@ dimwishlist:item=-3678653083&perks=
 
 
 //The Last Breath
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-507038823&perks=
 dimwishlist:item=-1503609584&perks=
 
@@ -50,19 +50,19 @@ dimwishlist:item=-1337707096&perks=
 
 
 //The Forward Path
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-1690783811&perks=
 dimwishlist:item=-2014642399&perks=
 
 
 //Seventh Seraph Carbine
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-1561006927&perks=
 dimwishlist:item=-4070357005&perks=
 
 
 //Duty Bound
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-435216110&perks=
 dimwishlist:item=-1135050595&perks=
 dimwishlist:item=-1457979868&perks=
@@ -79,7 +79,7 @@ dimwishlist:item=-2723909519&perks=
 
 
 //Lodbrok-C
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-2328531378&perks=
 
 
@@ -89,7 +89,7 @@ dimwishlist:item=-821154603&perks=
 
 
 //Firefright
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-2778013407&perks=
 
 
@@ -100,7 +100,7 @@ dimwishlist:item=-3854359821&perks=
 
 
 //Scathelocke
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Autos
 dimwishlist:item=-602618796&perks=
 dimwishlist:item=-3762467078&perks=
 
@@ -116,7 +116,7 @@ dimwishlist:item=-3710082365&perks=
 
 
 //Lunulata-4B
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Bows
 dimwishlist:item=-2513965917&perks=
 
 
@@ -161,21 +161,21 @@ dimwishlist:item=-2314610827&perks=
 
 
 //Something New
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
 dimwishlist:item=-1856262127&perks=
 dimwishlist:item=-3240434620&perks=
 dimwishlist:item=-586671776&perks=
 
 
 //Judgment
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
 dimwishlist:item=-1476654960&perks=
 dimwishlist:item=-2850415209&perks=
 dimwishlist:item=-2969415423&perks=
 
 
 //Eyasluna
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
 dimwishlist:item=-235827225&perks=
 
 
@@ -332,7 +332,7 @@ dimwishlist:item=-1875512595&perks=
 
 
 //Psi Hermetic V
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Pulses
 dimwishlist:item=-358788212&perks=
 
 
@@ -349,28 +349,28 @@ dimwishlist:item=-3407395594&perks=
 
 
 //Syncopation-53
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Pulses
 dimwishlist:item=-2856514843&perks=
 
 
 //New Purpose
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Pulses
 dimwishlist:item=-1780464822&perks=
 
 
 //Relentless
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
 dimwishlist:item=-1187594590&perks=
 dimwishlist:item=-435821041&perks=
 
 
 //Belisarius-D
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
 dimwishlist:item=-2313726158&perks=
 
 
 //Different Times
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
 dimwishlist:item=-3016891299&perks=
 
 
@@ -380,7 +380,7 @@ dimwishlist:item=-2342054803&perks=
 
 
 //Nightshade
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
 dimwishlist:item=-339163900&perks=
 dimwishlist:item=-792755504&perks=
 dimwishlist:item=-1974641289&perks=
@@ -481,7 +481,7 @@ dimwishlist:item=-2870169846&perks=
 
 
 //The Guiding Sight
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Scouts
 dimwishlist:item=-1641430382&perks=
 dimwishlist:item=-3890960908&perks=
 dimwishlist:item=-1161561386&perks=
@@ -489,7 +489,7 @@ dimwishlist:item=-417100299&perks=
 
 
 //Glissando-47
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Scouts
 dimwishlist:item=-222606050&perks=
 
 
@@ -560,24 +560,24 @@ dimwishlist:item=-2478792241&perks=
 
 
 //Lonesome
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-2199171672&perks=
 
 
 //Enigma's Draw
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-2581162758&perks=
 dimwishlist:item=-1723380073&perks=
 
 
 //Controlling Vision
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-48361212&perks=
 dimwishlist:item=-423343404&perks=
 
 
 //Spoiler Alert
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-2588048270&perks=
 dimwishlist:item=-819358961&perks=
 
@@ -588,7 +588,7 @@ dimwishlist:item=-1687353095&perks=
 
 
 //Farewell
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-541188001&perks=
 
 
@@ -623,27 +623,27 @@ dimwishlist:item=-2405619467&perks=
 
 
 //Empirical Evidence
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-2607304614&perks=
 
 
 //High Albedo
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Kinetic Sidearms
 dimwishlist:item=-1197486957&perks=
 
 
 //Prolonged Engagement
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis SMGs
 dimwishlist:item=-2349907931&perks=
 
 
 //Unending Tempest
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis SMGs
 dimwishlist:item=-2510526114&perks=
 
 
 //Blood Feud
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis SMGs
 dimwishlist:item=-1509167284&perks=
 
 
@@ -676,12 +676,12 @@ dimwishlist:item=-811403305&perks=
 
 
 //Borrowed Time
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar SMGs
 dimwishlist:item=-875848769&perks=
 
 
 //Forensic Nightmare
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis SMGs
 dimwishlist:item=-1526296434&perks=
 
 
@@ -719,13 +719,13 @@ dimwishlist:item=-1339362514&perks=
 
 
 //Death Adder
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar SMGs
 dimwishlist:item=-2742490609&perks=
 dimwishlist:item=-2517599010&perks=
 
 
 //Rapacious Appetite
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis SMGs
 dimwishlist:item=-1081724548&perks=
 
 
@@ -799,12 +799,12 @@ dimwishlist:item=-487361141&perks=
 
 
 //Fractethyst
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Shotguns
 dimwishlist:item=-3184681056&perks=
 
 
 //No Reprieve
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Shotguns
 dimwishlist:item=-2531963421&perks=
 
 
@@ -889,7 +889,7 @@ dimwishlist:item=-4132072834&perks=
 
 
 //Volta Bracket
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Snipers
 dimwishlist:item=-3920310144&perks=
 
 
@@ -905,7 +905,7 @@ dimwishlist:item=-4067556514&perks=
 
 
 //Mechabre
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-1280894514&perks=
 dimwishlist:item=-3871226707&perks=
 dimwishlist:item=-2477980485&perks=
@@ -927,7 +927,7 @@ dimwishlist:item=-893527433&perks=
 
 
 //Albruna-D
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-676270382&perks=
 
 
@@ -945,7 +945,7 @@ dimwishlist:item=-990416096&perks=
 
 
 //Adored
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-4184808992&perks=
 
 
@@ -963,7 +963,7 @@ dimwishlist:item=-781498181&perks=
 
 
 //Sole Survivor
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-1115104187&perks=
 dimwishlist:item=-1150492185&perks=
 
@@ -985,12 +985,12 @@ dimwishlist:item=-1321626661&perks=
 
 
 //Gallu RR3
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-617501162&perks=
 
 
 //Mercurial Overreach
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-2073794990&perks=
 
 
@@ -1017,7 +1017,7 @@ dimwishlist:item=-2800870005&perks=
 
 
 //Apostate
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-2164448701&perks=
 
 
@@ -1181,7 +1181,7 @@ dimwishlist:item=-105306149&perks=
 
 
 //Love and Death
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
 dimwishlist:item=-3690523502&perks=
 
 
@@ -1203,17 +1203,17 @@ dimwishlist:item=-3568377122&perks=
 
 
 //Cry Mutiny
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
 dimwishlist:item=-616582330&perks=
 
 
 //Canis Major
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
 dimwishlist:item=-2066434718&perks=
 
 
 //Outrageous Fortune
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
 dimwishlist:item=-4146702548&perks=
 
 
@@ -1250,7 +1250,7 @@ dimwishlist:item=-3257091166&perks=
 
 
 //Caretaker
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
 dimwishlist:item=-2508948099&perks=
 
 
@@ -1261,7 +1261,7 @@ dimwishlist:item=-2857348871&perks=
 
 
 //Eternity's Edge
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
 dimwishlist:item=-2782325301&perks=
 dimwishlist:item=-1180270693&perks=
 
@@ -1273,7 +1273,7 @@ dimwishlist:item=-1180270694&perks=
 
 
 //Throne-Cleaver
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
 dimwishlist:item=-3371413059&perks=
 dimwishlist:item=-569799273&perks=
 
@@ -1284,7 +1284,7 @@ dimwishlist:item=-3668817296&perks=
 
 
 //Sola's Scar
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
 dimwishlist:item=-1313528549&perks=
 dimwishlist:item=-3847137620&perks=
 
@@ -1337,7 +1337,7 @@ dimwishlist:item=-42351395&perks=
 
 
 //Sailspy Pitchglass
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc LFRs
 dimwishlist:item=-1184309824&perks=
 
 
@@ -1352,7 +1352,7 @@ dimwishlist:item=-3075224551&perks=
 
 
 //Tarantula
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc LFRs
 dimwishlist:item=-3335343363&perks=
 dimwishlist:item=-2502422775&perks=
 

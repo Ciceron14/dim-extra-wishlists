@@ -41,12 +41,12 @@ dimwishlist:item=-487361141&perks=
 
 
 //Fractethyst
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Shotguns
 dimwishlist:item=-3184681056&perks=
 
 
 //No Reprieve
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Shotguns
 dimwishlist:item=-2531963421&perks=
 
 
@@ -131,7 +131,7 @@ dimwishlist:item=-4132072834&perks=
 
 
 //Volta Bracket
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Snipers
 dimwishlist:item=-3920310144&perks=
 
 
@@ -147,7 +147,7 @@ dimwishlist:item=-4067556514&perks=
 
 
 //Mechabre
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-1280894514&perks=
 dimwishlist:item=-3871226707&perks=
 dimwishlist:item=-2477980485&perks=
@@ -169,7 +169,7 @@ dimwishlist:item=-893527433&perks=
 
 
 //Albruna-D
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-676270382&perks=
 
 
@@ -187,7 +187,7 @@ dimwishlist:item=-990416096&perks=
 
 
 //Adored
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-4184808992&perks=
 
 
@@ -205,7 +205,7 @@ dimwishlist:item=-781498181&perks=
 
 
 //Sole Survivor
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-1115104187&perks=
 dimwishlist:item=-1150492185&perks=
 
@@ -227,12 +227,12 @@ dimwishlist:item=-1321626661&perks=
 
 
 //Gallu RR3
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-617501162&perks=
 
 
 //Mercurial Overreach
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-2073794990&perks=
 
 
@@ -259,7 +259,7 @@ dimwishlist:item=-2800870005&perks=
 
 
 //Apostate
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for this damage & weapon type combo
+//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc Snipers
 dimwishlist:item=-2164448701&perks=
 
 
