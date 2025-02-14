@@ -20,17 +20,17 @@ Not looking to mess around with the different folders and just want something qu
 Select one of the options below, Copy it, and Paste it to DIM Settings. You can always remove parts of them, or add to them later!
 
 #### Everything Good
-_A & S Tier Endgame Weapons + Boss Damage Equipement + Endgame Shopping List_
+_A & S Tier Endgame Weapons + Boss Damage Equipment + Endgame Shopping List_
 ```
 https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt
 ```
 #### Only The Greats
-_S Tier Endgame Weapons + Boss Damage Equipement + Endgame Shopping List_
+_S Tier Endgame Weapons + Boss Damage Equipment + Endgame Shopping List_
 ```
 https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-exclusive.txt
 ```
 #### Hoarder's Package
-_A & S Tier Endgame Weapons + Boss Damage Equipement + Endgame Shopping List + Best in Element&Type + Best in Archetype + Trash List_
+_A & S Tier Endgame Weapons + Boss Damage Equipment + Endgame Shopping List + Best in Element&Type + Best in Archetype + Trash List_
 ```
 https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt
 ```
