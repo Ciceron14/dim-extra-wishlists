@@ -1,7 +1,5 @@
 Collection of DIM Wishlists based on [Aegis](https://linktr.ee/TheAegisRelic)'s Spreadsheets
 
-# Warning: 2025/02/13 - File structure has been revamped with Aegis now rating all Primaries. You may need to switch to new URLs: find updated links & guide below.
-
 ## Wishlist Sources
 Endgame Analysis Wishlists -> [Endgame Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/)
 
