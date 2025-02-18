@@ -144,14 +144,6 @@ dimwishlist:item=-161675590&perks=
 dimwishlist:item=-2848549302&perks=
 
 
-//The Palindrome
-//notes:D Tier. Aegis Recommended alternative(s): Posterity, Sightline Survey
-dimwishlist:item=-432476743&perks=
-dimwishlist:item=-1481892490&perks=
-dimwishlist:item=-2876244791&perks=
-dimwishlist:item=-4077588826&perks=
-
-
 //Igneous Hammer
 //notes:D Tier. Aegis Recommended alternative(s): Zaouli's Bane
 dimwishlist:item=-2351180975&perks=
@@ -1321,18 +1313,34 @@ dimwishlist:item=-1587953057&perks=
 dimwishlist:item=-4066778670&perks=
 
 
+//Palmyra-B
+//notes:D Tier. Aegis Recommended alternative(s): Cold Comfort
+dimwishlist:item=-3489657138&perks=
+
+
+//Heretic
+//notes:D Tier. Aegis Recommended alternative(s): Crux Termination IV
+dimwishlist:item=-3067821200&perks=
+
+
+//Shining Sphere
+//notes:D Tier. Aegis Recommended alternative(s): Crux Termination IV
+dimwishlist:item=-432716552&perks=
+dimwishlist:item=-136525518&perks=
+
+
 //Royal Entry
-//notes:D Tier. Aegis Recommended alternative(s): Tomorrow's Answer, Braytech Osprey, Faith-Keeper
+//notes:E Tier. Aegis Recommended alternative(s): Tomorrow's Answer
 dimwishlist:item=-2448907086&perks=
 
 
 //Ascendancy
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, Apex Predator
+//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, Apex Predator
 dimwishlist:item=-725408022&perks=
 
 
 //Subzero Salvo
-//notes:D Tier. Aegis Recommended alternative(s): Crux Termination IV, The Hothead, Sleepless, Blowout
+//notes:E Tier. Aegis Recommended alternative(s): Crux Termination IV
 dimwishlist:item=-42351395&perks=
 
 

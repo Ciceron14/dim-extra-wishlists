@@ -144,14 +144,6 @@ dimwishlist:item=-161675590&perks=
 dimwishlist:item=-2848549302&perks=
 
 
-//The Palindrome
-//notes:D Tier. Aegis Recommended alternative(s): Posterity, Sightline Survey
-dimwishlist:item=-432476743&perks=
-dimwishlist:item=-1481892490&perks=
-dimwishlist:item=-2876244791&perks=
-dimwishlist:item=-4077588826&perks=
-
-
 //Igneous Hammer
 //notes:D Tier. Aegis Recommended alternative(s): Zaouli's Bane
 dimwishlist:item=-2351180975&perks=

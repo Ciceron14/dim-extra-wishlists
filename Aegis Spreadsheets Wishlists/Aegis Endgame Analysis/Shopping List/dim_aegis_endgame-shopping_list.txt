@@ -1,8 +1,117 @@
 title:Aegis's Endgame Shopping List
 description:Listing the most relevant Endgame Weapons at the moment.
 
+//Hezen Vengeance
+//notes:Aegis Endgame Shopping {high Priority}  - Role: DPS rocket
+dimwishlist:item=2265407516&perks=3987942396,3078487919
+dimwishlist:item=2265407516&perks=3987942396,3744057135
+dimwishlist:item=2265407516&perks=3987942396,1089671869
+dimwishlist:item=2265407516&perks=3987942396,496047945
+dimwishlist:item=2265407516&perks=2817499044,3078487919
+dimwishlist:item=2265407516&perks=2817499044,3744057135
+dimwishlist:item=2265407516&perks=2817499044,1089671869
+dimwishlist:item=2265407516&perks=2817499044,496047945
+dimwishlist:item=2265407516&perks=1275731761,3078487919
+dimwishlist:item=2265407516&perks=1275731761,3744057135
+dimwishlist:item=2265407516&perks=1275731761,1089671869
+dimwishlist:item=2265407516&perks=1275731761,496047945
+dimwishlist:item=3623686757&perks=3987942396,3078487919
+dimwishlist:item=3623686757&perks=3987942396,3744057135
+dimwishlist:item=3623686757&perks=3987942396,1089671869
+dimwishlist:item=3623686757&perks=3987942396,496047945
+dimwishlist:item=3623686757&perks=2817499044,3078487919
+dimwishlist:item=3623686757&perks=2817499044,3744057135
+dimwishlist:item=3623686757&perks=2817499044,1089671869
+dimwishlist:item=3623686757&perks=2817499044,496047945
+dimwishlist:item=3623686757&perks=1275731761,3078487919
+dimwishlist:item=3623686757&perks=1275731761,3744057135
+dimwishlist:item=3623686757&perks=1275731761,1089671869
+dimwishlist:item=3623686757&perks=1275731761,496047945
+
+
+//Tractor Cannon
+//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic debuff
+dimwishlist:item=3580904581&perks=,
+
+
+//Choir of One
+//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic multitool
+dimwishlist:item=3698448090&perks=1931951169,
+dimwishlist:item=3698448090&perks=1931951170,
+
+
+//The Queenbreaker
+//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic total heavy
+
+
+//VS Velocity Baton
+//notes:Aegis Endgame Shopping {high Priority}  - Role: orb gen GL
+dimwishlist:item=1762785663&perks=776531651,2048641572
+dimwishlist:item=1762785663&perks=776531651,1926441324
+dimwishlist:item=1762785663&perks=776531651,243981275
+dimwishlist:item=1762785663&perks=776531651,984655331
+dimwishlist:item=1762785663&perks=776531651,3078487919
+dimwishlist:item=1762785663&perks=776531651,3744057135
+dimwishlist:item=1762785663&perks=2541826827,2048641572
+dimwishlist:item=1762785663&perks=2541826827,1926441324
+dimwishlist:item=1762785663&perks=2541826827,243981275
+dimwishlist:item=1762785663&perks=2541826827,984655331
+dimwishlist:item=1762785663&perks=2541826827,3078487919
+dimwishlist:item=1762785663&perks=2541826827,3744057135
+dimwishlist:item=1762785663&perks=3523296417,2048641572
+dimwishlist:item=1762785663&perks=3523296417,1926441324
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=3523296417,984655331
+dimwishlist:item=1762785663&perks=3523296417,3078487919
+dimwishlist:item=1762785663&perks=3523296417,3744057135
+dimwishlist:item=1762785663&perks=1906147653,2048641572
+dimwishlist:item=1762785663&perks=1906147653,1926441324
+dimwishlist:item=1762785663&perks=1906147653,243981275
+dimwishlist:item=1762785663&perks=1906147653,984655331
+dimwishlist:item=1762785663&perks=1906147653,3078487919
+dimwishlist:item=1762785663&perks=1906147653,3744057135
+
+
+//No Hesitation
+//notes:Aegis Endgame Shopping {high Priority}  - Role: support auto
+dimwishlist:item=1801007332&perks=2980589453,4293542123
+dimwishlist:item=1801007332&perks=2980589453,2675184851
+dimwishlist:item=1801007332&perks=2980589453,2298656195
+dimwishlist:item=1801007332&perks=2980589453,674546187
+dimwishlist:item=1801007332&perks=2980589453,243981275
+dimwishlist:item=1801007332&perks=2980589453,984655331
+dimwishlist:item=1801007332&perks=4063561849,4293542123
+dimwishlist:item=1801007332&perks=4063561849,2675184851
+dimwishlist:item=1801007332&perks=4063561849,2298656195
+dimwishlist:item=1801007332&perks=4063561849,674546187
+dimwishlist:item=1801007332&perks=4063561849,243981275
+dimwishlist:item=1801007332&perks=4063561849,984655331
+
+
+//Lost Signal
+//notes:Aegis Endgame Shopping {high Priority}  - Role: Transcendence GL
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+dimwishlist:item=1197771438&perks=3300816228,3418165135
+dimwishlist:item=1197771438&perks=3300816228,3523296417
+dimwishlist:item=1197771438&perks=3300816228,1906147653
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,859780267
+dimwishlist:item=1197771438&perks=1556840489,1546637391
+dimwishlist:item=1197771438&perks=1556840489,3418165135
+dimwishlist:item=1197771438&perks=1556840489,3523296417
+dimwishlist:item=1197771438&perks=1556840489,1906147653
+dimwishlist:item=1197771438&perks=1556840489,4049631843
+dimwishlist:item=1197771438&perks=1556840489,859780267
+dimwishlist:item=1197771438&perks=3442762221,1546637391
+dimwishlist:item=1197771438&perks=3442762221,3418165135
+dimwishlist:item=1197771438&perks=3442762221,3523296417
+dimwishlist:item=1197771438&perks=3442762221,1906147653
+dimwishlist:item=1197771438&perks=3442762221,4049631843
+dimwishlist:item=1197771438&perks=3442762221,859780267
+
+
 //VS Chill Inhibitor
-//notes:Aegis Endgame Shopping {high Priority}  - Role: DPS HGL
+//notes:Aegis Endgame Shopping {medium Priority}  - Role: DPS HGL
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3987942396,3744057135
 dimwishlist:item=1762785662&perks=3987942396,3194351027
@@ -41,128 +150,20 @@ dimwishlist:item=1762785662&perks=984655331,3708227201
 dimwishlist:item=1762785662&perks=984655331,781192741
 
 
-//Leviathan's Breath
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic consistent heavy
-dimwishlist:item=2591746970&perks=,
-
-
-//Tractor Cannon
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic debuff
-dimwishlist:item=3580904581&perks=,
-
-
-//Sunshot
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic energy primary
-dimwishlist:item=2907129557&perks=,
-
-
-//Choir of One
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic multitool
-dimwishlist:item=3698448090&perks=1931951169,
-dimwishlist:item=3698448090&perks=1931951170,
-
-
-//Whisper of the Worm
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic total heavy
-dimwishlist:item=1983149589&perks=777589559,
-
-
-//Tinasha's Mastery
-//notes:Aegis Endgame Shopping {high Priority}  - Role: kinetic rocket sidearm
-dimwishlist:item=480368036&perks=1421772400,2978966579
-dimwishlist:item=480368036&perks=1421772400,344235611
-dimwishlist:item=480368036&perks=1421772400,3708227201
-dimwishlist:item=480368036&perks=1421772400,781192741
-dimwishlist:item=480368036&perks=1421772400,2109543898
-dimwishlist:item=480368036&perks=1421772400,2799030358
-dimwishlist:item=480368036&perks=3291427296,2978966579
-dimwishlist:item=480368036&perks=3291427296,344235611
-dimwishlist:item=480368036&perks=3291427296,3708227201
-dimwishlist:item=480368036&perks=3291427296,781192741
-dimwishlist:item=480368036&perks=3291427296,2109543898
-dimwishlist:item=480368036&perks=3291427296,2799030358
-dimwishlist:item=480368036&perks=951095735,2978966579
-dimwishlist:item=480368036&perks=951095735,344235611
-dimwishlist:item=480368036&perks=951095735,3708227201
-dimwishlist:item=480368036&perks=951095735,781192741
-dimwishlist:item=480368036&perks=951095735,2109543898
-dimwishlist:item=480368036&perks=951095735,2799030358
-dimwishlist:item=480368036&perks=3878366039,2978966579
-dimwishlist:item=480368036&perks=3878366039,344235611
-dimwishlist:item=480368036&perks=3878366039,3708227201
-dimwishlist:item=480368036&perks=3878366039,781192741
-dimwishlist:item=480368036&perks=3878366039,2109543898
-dimwishlist:item=480368036&perks=3878366039,2799030358
-dimwishlist:item=480368036&perks=3993379141,2978966579
-dimwishlist:item=480368036&perks=3993379141,344235611
-dimwishlist:item=480368036&perks=3993379141,3708227201
-dimwishlist:item=480368036&perks=3993379141,781192741
-dimwishlist:item=480368036&perks=3993379141,2109543898
-dimwishlist:item=480368036&perks=3993379141,2799030358
-dimwishlist:item=480368036&perks=1164602481,2978966579
-dimwishlist:item=480368036&perks=1164602481,344235611
-dimwishlist:item=480368036&perks=1164602481,3708227201
-dimwishlist:item=480368036&perks=1164602481,781192741
-dimwishlist:item=480368036&perks=1164602481,2109543898
-dimwishlist:item=480368036&perks=1164602481,2799030358
-
-
-//VS Velocity Baton
-//notes:Aegis Endgame Shopping {high Priority}  - Role: orb gen GL
-dimwishlist:item=1762785663&perks=776531651,2048641572
-dimwishlist:item=1762785663&perks=776531651,1926441324
-dimwishlist:item=1762785663&perks=776531651,243981275
-dimwishlist:item=1762785663&perks=776531651,984655331
-dimwishlist:item=1762785663&perks=776531651,3078487919
-dimwishlist:item=1762785663&perks=776531651,3744057135
-dimwishlist:item=1762785663&perks=2541826827,2048641572
-dimwishlist:item=1762785663&perks=2541826827,1926441324
-dimwishlist:item=1762785663&perks=2541826827,243981275
-dimwishlist:item=1762785663&perks=2541826827,984655331
-dimwishlist:item=1762785663&perks=2541826827,3078487919
-dimwishlist:item=1762785663&perks=2541826827,3744057135
-dimwishlist:item=1762785663&perks=3523296417,2048641572
-dimwishlist:item=1762785663&perks=3523296417,1926441324
-dimwishlist:item=1762785663&perks=3523296417,243981275
-dimwishlist:item=1762785663&perks=3523296417,984655331
-dimwishlist:item=1762785663&perks=3523296417,3078487919
-dimwishlist:item=1762785663&perks=3523296417,3744057135
-dimwishlist:item=1762785663&perks=1906147653,2048641572
-dimwishlist:item=1762785663&perks=1906147653,1926441324
-dimwishlist:item=1762785663&perks=1906147653,243981275
-dimwishlist:item=1762785663&perks=1906147653,984655331
-dimwishlist:item=1762785663&perks=1906147653,3078487919
-dimwishlist:item=1762785663&perks=1906147653,3744057135
-
-
-//Lost Signal
-//notes:Aegis Endgame Shopping {high Priority}  - Role: Transcendence GL
-dimwishlist:item=1197771438&perks=3300816228,1546637391
-dimwishlist:item=1197771438&perks=3300816228,3418165135
-dimwishlist:item=1197771438&perks=3300816228,3523296417
-dimwishlist:item=1197771438&perks=3300816228,1906147653
-dimwishlist:item=1197771438&perks=3300816228,4049631843
-dimwishlist:item=1197771438&perks=3300816228,859780267
-dimwishlist:item=1197771438&perks=1556840489,1546637391
-dimwishlist:item=1197771438&perks=1556840489,3418165135
-dimwishlist:item=1197771438&perks=1556840489,3523296417
-dimwishlist:item=1197771438&perks=1556840489,1906147653
-dimwishlist:item=1197771438&perks=1556840489,4049631843
-dimwishlist:item=1197771438&perks=1556840489,859780267
-dimwishlist:item=1197771438&perks=3442762221,1546637391
-dimwishlist:item=1197771438&perks=3442762221,3418165135
-dimwishlist:item=1197771438&perks=3442762221,3523296417
-dimwishlist:item=1197771438&perks=3442762221,1906147653
-dimwishlist:item=1197771438&perks=3442762221,4049631843
-dimwishlist:item=1197771438&perks=3442762221,859780267
-
-
-//Heliocentric QSc
+//Word of Crota
 //notes:Aegis Endgame Shopping {medium Priority}  - Role: energy primary
-dimwishlist:item=3998080529&perks=3017780555,4293542123
-dimwishlist:item=3998080529&perks=3017780555,2675184851
-dimwishlist:item=3998080529&perks=4223976499,4293542123
-dimwishlist:item=3998080529&perks=4223976499,2675184851
+dimwishlist:item=120706239&perks=2848615171,2048641572
+dimwishlist:item=120706239&perks=2848615171,1926441324
+dimwishlist:item=120706239&perks=776531651,2048641572
+dimwishlist:item=120706239&perks=776531651,1926441324
+dimwishlist:item=120706239&perks=2541826827,2048641572
+dimwishlist:item=120706239&perks=2541826827,1926441324
+dimwishlist:item=3926103986&perks=2848615171,2048641572
+dimwishlist:item=3926103986&perks=2848615171,1926441324
+dimwishlist:item=3926103986&perks=776531651,2048641572
+dimwishlist:item=3926103986&perks=776531651,1926441324
+dimwishlist:item=3926103986&perks=2541826827,2048641572
+dimwishlist:item=3926103986&perks=2541826827,1926441324
 
 
 //Aberrant Action
@@ -183,9 +184,19 @@ dimwishlist:item=1363886209&perks=,
 dimwishlist:item=2812324400&perks=,
 
 
+//Leviathan's Breath
+//notes:Aegis Endgame Shopping {medium Priority}  - Role: exotic consistent heavy
+dimwishlist:item=2591746970&perks=,
+
+
 //Ergo Sum
 //notes:Aegis Endgame Shopping {medium Priority}  - Role: exotic DR add clear
 dimwishlist:item=1681583613&perks=3949068808,
+
+
+//Sunshot
+//notes:Aegis Endgame Shopping {medium Priority}  - Role: exotic energy primary
+dimwishlist:item=2907129557&perks=,
 
 
 //Buried Bloodline
@@ -230,44 +241,80 @@ dimwishlist:item=1298672084&perks=4071163871,1546637391
 dimwishlist:item=1298672084&perks=4071163871,3418165135
 
 
-//The Supremacy
+//Praedyth's Revenge
 //notes:Aegis Endgame Shopping {medium Priority}  - Role: kinetic damage sniper
-dimwishlist:item=2884596447&perks=3418782618,3891536761
-dimwishlist:item=2884596447&perks=3418782618,1549370717
-dimwishlist:item=2884596447&perks=3418782618,3078487919
-dimwishlist:item=2884596447&perks=3418782618,3744057135
-dimwishlist:item=2884596447&perks=3418782618,1354429876
-dimwishlist:item=2884596447&perks=3418782618,848860060
-dimwishlist:item=2884596447&perks=1563455254,3891536761
-dimwishlist:item=2884596447&perks=1563455254,1549370717
-dimwishlist:item=2884596447&perks=1563455254,3078487919
-dimwishlist:item=2884596447&perks=1563455254,3744057135
-dimwishlist:item=2884596447&perks=1563455254,1354429876
-dimwishlist:item=2884596447&perks=1563455254,848860060
-dimwishlist:item=2884596447&perks=1556840489,3891536761
-dimwishlist:item=2884596447&perks=1556840489,1549370717
-dimwishlist:item=2884596447&perks=1556840489,3078487919
-dimwishlist:item=2884596447&perks=1556840489,3744057135
-dimwishlist:item=2884596447&perks=1556840489,1354429876
-dimwishlist:item=2884596447&perks=1556840489,848860060
-dimwishlist:item=2884596447&perks=3442762221,3891536761
-dimwishlist:item=2884596447&perks=3442762221,1549370717
-dimwishlist:item=2884596447&perks=3442762221,3078487919
-dimwishlist:item=2884596447&perks=3442762221,3744057135
-dimwishlist:item=2884596447&perks=3442762221,1354429876
-dimwishlist:item=2884596447&perks=3442762221,848860060
-dimwishlist:item=2884596447&perks=3978468247,3891536761
-dimwishlist:item=2884596447&perks=3978468247,1549370717
-dimwishlist:item=2884596447&perks=3978468247,3078487919
-dimwishlist:item=2884596447&perks=3978468247,3744057135
-dimwishlist:item=2884596447&perks=3978468247,1354429876
-dimwishlist:item=2884596447&perks=3978468247,848860060
-dimwishlist:item=2884596447&perks=906981559,3891536761
-dimwishlist:item=2884596447&perks=906981559,1549370717
-dimwishlist:item=2884596447&perks=906981559,3078487919
-dimwishlist:item=2884596447&perks=906981559,3744057135
-dimwishlist:item=2884596447&perks=906981559,1354429876
-dimwishlist:item=2884596447&perks=906981559,848860060
+dimwishlist:item=3844610113&perks=1354429876,1089671869
+dimwishlist:item=3844610113&perks=1354429876,496047945
+dimwishlist:item=3844610113&perks=1354429876,3078487919
+dimwishlist:item=3844610113&perks=1354429876,3744057135
+dimwishlist:item=3844610113&perks=848860060,1089671869
+dimwishlist:item=3844610113&perks=848860060,496047945
+dimwishlist:item=3844610113&perks=848860060,3078487919
+dimwishlist:item=3844610113&perks=848860060,3744057135
+dimwishlist:item=3844610113&perks=3891536761,1089671869
+dimwishlist:item=3844610113&perks=3891536761,496047945
+dimwishlist:item=3844610113&perks=3891536761,3078487919
+dimwishlist:item=3844610113&perks=3891536761,3744057135
+dimwishlist:item=3844610113&perks=1549370717,1089671869
+dimwishlist:item=3844610113&perks=1549370717,496047945
+dimwishlist:item=3844610113&perks=1549370717,3078487919
+dimwishlist:item=3844610113&perks=1549370717,3744057135
+dimwishlist:item=2362652544&perks=1354429876,1089671869
+dimwishlist:item=2362652544&perks=1354429876,496047945
+dimwishlist:item=2362652544&perks=1354429876,3078487919
+dimwishlist:item=2362652544&perks=1354429876,3744057135
+dimwishlist:item=2362652544&perks=848860060,1089671869
+dimwishlist:item=2362652544&perks=848860060,496047945
+dimwishlist:item=2362652544&perks=848860060,3078487919
+dimwishlist:item=2362652544&perks=848860060,3744057135
+dimwishlist:item=2362652544&perks=3891536761,1089671869
+dimwishlist:item=2362652544&perks=3891536761,496047945
+dimwishlist:item=2362652544&perks=3891536761,3078487919
+dimwishlist:item=2362652544&perks=3891536761,3744057135
+dimwishlist:item=2362652544&perks=1549370717,1089671869
+dimwishlist:item=2362652544&perks=1549370717,496047945
+dimwishlist:item=2362652544&perks=1549370717,3078487919
+dimwishlist:item=2362652544&perks=1549370717,3744057135
+
+
+//Tinasha's Mastery
+//notes:Aegis Endgame Shopping {medium Priority}  - Role: kinetic rocket sidearm
+dimwishlist:item=480368036&perks=1421772400,2978966579
+dimwishlist:item=480368036&perks=1421772400,344235611
+dimwishlist:item=480368036&perks=1421772400,3708227201
+dimwishlist:item=480368036&perks=1421772400,781192741
+dimwishlist:item=480368036&perks=1421772400,2109543898
+dimwishlist:item=480368036&perks=1421772400,2799030358
+dimwishlist:item=480368036&perks=3291427296,2978966579
+dimwishlist:item=480368036&perks=3291427296,344235611
+dimwishlist:item=480368036&perks=3291427296,3708227201
+dimwishlist:item=480368036&perks=3291427296,781192741
+dimwishlist:item=480368036&perks=3291427296,2109543898
+dimwishlist:item=480368036&perks=3291427296,2799030358
+dimwishlist:item=480368036&perks=951095735,2978966579
+dimwishlist:item=480368036&perks=951095735,344235611
+dimwishlist:item=480368036&perks=951095735,3708227201
+dimwishlist:item=480368036&perks=951095735,781192741
+dimwishlist:item=480368036&perks=951095735,2109543898
+dimwishlist:item=480368036&perks=951095735,2799030358
+dimwishlist:item=480368036&perks=3878366039,2978966579
+dimwishlist:item=480368036&perks=3878366039,344235611
+dimwishlist:item=480368036&perks=3878366039,3708227201
+dimwishlist:item=480368036&perks=3878366039,781192741
+dimwishlist:item=480368036&perks=3878366039,2109543898
+dimwishlist:item=480368036&perks=3878366039,2799030358
+dimwishlist:item=480368036&perks=3993379141,2978966579
+dimwishlist:item=480368036&perks=3993379141,344235611
+dimwishlist:item=480368036&perks=3993379141,3708227201
+dimwishlist:item=480368036&perks=3993379141,781192741
+dimwishlist:item=480368036&perks=3993379141,2109543898
+dimwishlist:item=480368036&perks=3993379141,2799030358
+dimwishlist:item=480368036&perks=1164602481,2978966579
+dimwishlist:item=480368036&perks=1164602481,344235611
+dimwishlist:item=480368036&perks=1164602481,3708227201
+dimwishlist:item=480368036&perks=1164602481,781192741
+dimwishlist:item=480368036&perks=1164602481,2109543898
+dimwishlist:item=480368036&perks=1164602481,2799030358
 
 
 //Pro Memoria
@@ -388,22 +435,6 @@ dimwishlist:item=1354727549&perks=1618208178,3523296417
 dimwishlist:item=1354727549&perks=1618208178,1906147653
 
 
-//No Hesitation
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: support auto
-dimwishlist:item=1801007332&perks=2980589453,4293542123
-dimwishlist:item=1801007332&perks=2980589453,2675184851
-dimwishlist:item=1801007332&perks=2980589453,2298656195
-dimwishlist:item=1801007332&perks=2980589453,674546187
-dimwishlist:item=1801007332&perks=2980589453,243981275
-dimwishlist:item=1801007332&perks=2980589453,984655331
-dimwishlist:item=1801007332&perks=4063561849,4293542123
-dimwishlist:item=1801007332&perks=4063561849,2675184851
-dimwishlist:item=1801007332&perks=4063561849,2298656195
-dimwishlist:item=1801007332&perks=4063561849,674546187
-dimwishlist:item=1801007332&perks=4063561849,243981275
-dimwishlist:item=1801007332&perks=4063561849,984655331
-
-
 //Tomorrow's Answer
 //notes:Aegis Endgame Shopping {low Priority}  - Role: add clear rocket
 dimwishlist:item=3009199534&perks=1421772400,1439600632
@@ -419,26 +450,6 @@ dimwishlist:item=303107619&perks=3291427296,2282937672
 //Outbreak Perfected
 //notes:Aegis Endgame Shopping {low Priority}  - Role: ammoless damage
 dimwishlist:item=3824673936&perks=2578928832,
-
-
-//Tomorrow's Answer
-//notes:Aegis Endgame Shopping {low Priority}  - Role: DPS rocket
-dimwishlist:item=3009199534&perks=3987942396,3078487919
-dimwishlist:item=3009199534&perks=3987942396,3744057135
-dimwishlist:item=3009199534&perks=3987942396,3194351027
-dimwishlist:item=3009199534&perks=3987942396,2275087323
-dimwishlist:item=3009199534&perks=2817499044,3078487919
-dimwishlist:item=3009199534&perks=2817499044,3744057135
-dimwishlist:item=3009199534&perks=2817499044,3194351027
-dimwishlist:item=3009199534&perks=2817499044,2275087323
-dimwishlist:item=303107619&perks=3987942396,3078487919
-dimwishlist:item=303107619&perks=3987942396,3744057135
-dimwishlist:item=303107619&perks=3987942396,3194351027
-dimwishlist:item=303107619&perks=3987942396,2275087323
-dimwishlist:item=303107619&perks=2817499044,3078487919
-dimwishlist:item=303107619&perks=2817499044,3744057135
-dimwishlist:item=303107619&perks=2817499044,3194351027
-dimwishlist:item=303107619&perks=2817499044,2275087323
 
 
 //Summum Bonum
@@ -748,24 +759,12 @@ dimwishlist:item=2558925366&perks=2682205016,2594592626
 dimwishlist:item=2558925366&perks=2682205016,2037312142
 
 
-//Warden's Law
+//Unloved
 //notes:Aegis Endgame Shopping {low Priority}  - Role: kinetic LP HC
-dimwishlist:item=1821529912&perks=3828510309,1546637391
-dimwishlist:item=1821529912&perks=3828510309,3418165135
-dimwishlist:item=1821529912&perks=1771736209,1546637391
-dimwishlist:item=1821529912&perks=1771736209,3418165135
-dimwishlist:item=267089201&perks=3828510309,1546637391
-dimwishlist:item=267089201&perks=3828510309,3418165135
-dimwishlist:item=267089201&perks=1771736209,1546637391
-dimwishlist:item=267089201&perks=1771736209,3418165135
-dimwishlist:item=2152484073&perks=3828510309,1546637391
-dimwishlist:item=2152484073&perks=3828510309,3418165135
-dimwishlist:item=2152484073&perks=1771736209,1546637391
-dimwishlist:item=2152484073&perks=1771736209,3418165135
-dimwishlist:item=3250744600&perks=3828510309,1546637391
-dimwishlist:item=3250744600&perks=3828510309,3418165135
-dimwishlist:item=3250744600&perks=1771736209,1546637391
-dimwishlist:item=3250744600&perks=1771736209,3418165135
+dimwishlist:item=2485881870&perks=247725512,1089671869
+dimwishlist:item=2485881870&perks=247725512,496047945
+dimwishlist:item=2485881870&perks=2938480696,1089671869
+dimwishlist:item=2485881870&perks=2938480696,496047945
 
 
 //Multimach CCX
