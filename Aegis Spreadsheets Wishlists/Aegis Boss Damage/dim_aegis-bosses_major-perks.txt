@@ -2,13 +2,13 @@ title:Aegis's Boss Damage Equipment (Major Perks only)
 description:Listing the most relevant Boss Damage tools at the moment.
 
 //Celestial Nighthawk
-//notes:Aegis Boss Damage #1 -> Highest burst damage super + synergy with Still Hunt
+//notes:Aegis Boss Damage Shopping #1 -> Highest burst damage super + synergy with Still Hunt
 dimwishlist:item=1667080810&perks=,
 dimwishlist:item=1321354573&perks=,
 
 
 //Edge Transit
-//notes:Aegis Boss Damage #1 -> Best general heavy damage option, especially in smaller fireteam sizes
+//notes:Aegis Boss Damage Shopping #1 -> Best general heavy damage option, especially in smaller fireteam sizes
 dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=3751912585,3744057135
 dimwishlist:item=568611923&perks=3751912585,3194351027
@@ -52,13 +52,13 @@ dimwishlist:item=2228325504&perks=2869569095,2275087323
 
 
 //Lucky Pants
-//notes:Aegis Boss Damage #1 -> Great option for increasing total damage in sustained hunter strategies
+//notes:Aegis Boss Damage Shopping #1 -> Great option for increasing total damage in sustained hunter strategies
 dimwishlist:item=1245809812&perks=,
 dimwishlist:item=193869522&perks=,
 
 
 //Relativism
-//notes:Aegis Boss Damage #1 -> Essential for ability damage boosting
+//notes:Aegis Boss Damage Shopping #1 -> Essential for ability damage boosting
 dimwishlist:item=2809120022&perks=1476923953,1476923955
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 dimwishlist:item=2809120022&perks=3751917999,1476923955
@@ -68,7 +68,7 @@ dimwishlist:item=2809120022&perks=3751917997,1476923956
 
 
 //Solipsism
-//notes:Aegis Boss Damage #1 -> Essential for ability damage boosting
+//notes:Aegis Boss Damage Shopping #1 -> Essential for ability damage boosting
 dimwishlist:item=2273643087&perks=1476923953,1476923955
 dimwishlist:item=2273643087&perks=1476923953,1476923957
 dimwishlist:item=2273643087&perks=183430250,1476923955
@@ -76,28 +76,28 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 
 
 //Still Hunt
-//notes:Aegis Boss Damage #1 -> Insane burst damage and excellent total damage with no heavy interaction
+//notes:Aegis Boss Damage Shopping #1 -> Insane burst damage and excellent total damage with no heavy interaction
 dimwishlist:item=2905188646&perks=,
 
 
 //Stoicism
-//notes:Aegis Boss Damage #1 -> Essential for ability damage boosting
+//notes:Aegis Boss Damage Shopping #1 -> Essential for ability damage boosting
 dimwishlist:item=266021826&perks=1476923953,1476923955
 dimwishlist:item=266021826&perks=1476923953,1476923956
 
 
 //The Navigator
-//notes:Aegis Boss Damage #1 -> Essential for grapple melee damage
+//notes:Aegis Boss Damage Shopping #1 -> Essential for grapple melee damage
 dimwishlist:item=1441805468&perks=,
 
 
 //Tractor Cannon
-//notes:Aegis Boss Damage #1 -> Most generally applicable debuff
+//notes:Aegis Boss Damage Shopping #1 -> Most generally applicable debuff
 dimwishlist:item=3580904581&perks=,
 
 
 //Warden's Law
-//notes:Aegis Boss Damage #1 -> Best legendary hand cannon for Lucky Pants damage
+//notes:Aegis Boss Damage Shopping #1 -> Best legendary hand cannon for Lucky Pants damage
 dimwishlist:item=1821529912&perks=1354429876,1546637391
 dimwishlist:item=1821529912&perks=1354429876,3418165135
 dimwishlist:item=1821529912&perks=848860060,1546637391
@@ -117,7 +117,7 @@ dimwishlist:item=3250744600&perks=848860060,3418165135
 
 
 //Apex Predator
-//notes:Aegis Boss Damage #2 -> Best overall rocket damage
+//notes:Aegis Boss Damage Shopping #2 -> Best overall rocket damage
 dimwishlist:item=1851777734&perks=1523832109,3078487919
 dimwishlist:item=1851777734&perks=1523832109,3744057135
 dimwishlist:item=1851777734&perks=1523832109,3194351027
@@ -133,24 +133,24 @@ dimwishlist:item=1851777734&perks=461595545,781192741
 
 
 //Bequest
-//notes:Aegis Boss Damage #2 -> Best Surrounded sword
+//notes:Aegis Boss Damage Shopping #2 -> Best Surrounded sword
 dimwishlist:item=3366545721&perks=1749209109,3708227201
 dimwishlist:item=3366545721&perks=1749209109,781192741
 
 
 //Cold Comfort
-//notes:Aegis Boss Damage #2 -> Specialized for extreme burst in setup-friendly environments
+//notes:Aegis Boss Damage Shopping #2 -> Specialized for extreme burst in setup-friendly environments
 dimwishlist:item=839786290&perks=968510818,3078487919
 dimwishlist:item=839786290&perks=968510818,3194351027
 
 
 //Cuirass of the Falling Star
-//notes:Aegis Boss Damage #2 -> Good for bosses with bad crit + projectile hitreg issues (Atraks)
+//notes:Aegis Boss Damage Shopping #2 -> Good for bosses with bad crit + projectile hitreg issues (Atraks)
 dimwishlist:item=2321120637&perks=,
 
 
 //Dead Weight
-//notes:Aegis Boss Damage #2 -> Underrated rapid-fire option with ALH, but without enhanced Surrounded
+//notes:Aegis Boss Damage Shopping #2 -> Underrated rapid-fire option with ALH, but without enhanced Surrounded
 dimwishlist:item=3738678140&perks=3300816228,3708227201
 dimwishlist:item=3738678140&perks=3300816228,1546637391
 dimwishlist:item=3738678140&perks=3300816228,2679249093
@@ -163,22 +163,22 @@ dimwishlist:item=3738678140&perks=2869569095,2679249093
 
 
 //Dragon's Breath
-//notes:Aegis Boss Damage #2 -> Great solo total damage option for ignition rotations
+//notes:Aegis Boss Damage Shopping #2 -> Great solo total damage option for ignition rotations
 dimwishlist:item=17096506&perks=,
 
 
 //Eriana's Vow
-//notes:Aegis Boss Damage #2 -> Non-primary Lucky Pants hand cannon that beats everything but blighted Malfeasance
+//notes:Aegis Boss Damage Shopping #2 -> Non-primary Lucky Pants hand cannon that beats everything but blighted Malfeasance
 dimwishlist:item=3524313097&perks=,
 
 
 //Gjallarhorn
-//notes:Aegis Boss Damage #2 -> Essential for rocket buffing
+//notes:Aegis Boss Damage Shopping #2 -> Essential for rocket buffing
 dimwishlist:item=1363886209&perks=,
 
 
 //IKELOS_SG_V1.0.3
-//notes:Aegis Boss Damage #2 -> Slightly surpasses slug swapping with enhanced Surrounded
+//notes:Aegis Boss Damage Shopping #2 -> Slightly surpasses slug swapping with enhanced Surrounded
 dimwishlist:item=1168625549&perks=1631667848,2679249093
 dimwishlist:item=1168625549&perks=1631667848,788178929
 dimwishlist:item=1168625549&perks=1631667848,3708227201
@@ -188,22 +188,22 @@ dimwishlist:item=1168625549&perks=1631667848,331667533
 
 
 //Izanagi's Burden
-//notes:Aegis Boss Damage #2 -> Loses DPS against shotgun dumping but hone time is great for filling ALH/Recon downtime
+//notes:Aegis Boss Damage Shopping #2 -> Loses DPS against shotgun dumping but hone time is great for filling ALH/Recon downtime
 dimwishlist:item=3211806999&perks=,
 
 
 //Lumina
-//notes:Aegis Boss Damage #2 -> Portable 35% buff for 10s for ally and shooter
+//notes:Aegis Boss Damage Shopping #2 -> Portable 35% buff for 10s for ally and shooter
 dimwishlist:item=3512014804&perks=,
 
 
 //Malfeasance
-//notes:Aegis Boss Damage #2 -> Good situational burst paired with Lucky Pants
+//notes:Aegis Boss Damage Shopping #2 -> Good situational burst paired with Lucky Pants
 dimwishlist:item=204878059&perks=,
 
 
 //No Hesitation
-//notes:Aegis Boss Damage #2 -> Free 10% universally stackable buff + healing source
+//notes:Aegis Boss Damage Shopping #2 -> Free 10% universally stackable buff + healing source
 dimwishlist:item=1801007332&perks=2980589453,4293542123
 dimwishlist:item=1801007332&perks=2980589453,2675184851
 dimwishlist:item=1801007332&perks=4063561849,4293542123
@@ -211,38 +211,38 @@ dimwishlist:item=1801007332&perks=4063561849,2675184851
 
 
 //One Small Step
-//notes:Aegis Boss Damage #2 -> High total ammo count One-Two Punch shotgun
+//notes:Aegis Boss Damage Shopping #2 -> High total ammo count One-Two Punch shotgun
 dimwishlist:item=1016668089&perks=3436462433,2679249093
 
 
 //Parasite
-//notes:Aegis Boss Damage #2 -> Extremely high burst splash damage
+//notes:Aegis Boss Damage Shopping #2 -> Extremely high burst splash damage
 dimwishlist:item=2812324400&perks=,
 
 
 //Pyrogale Gauntlets
-//notes:Aegis Boss Damage #2 -> Best burst super on titan with setup
+//notes:Aegis Boss Damage Shopping #2 -> Best burst super on titan with setup
 dimwishlist:item=2066430310&perks=,
 
 
 //Radiant Dance Machines
-//notes:Aegis Boss Damage #2 -> Best rocket dump option across all classes
+//notes:Aegis Boss Damage Shopping #2 -> Best rocket dump option across all classes
 dimwishlist:item=1702288800&perks=,
 
 
 //Rain of Fire
-//notes:Aegis Boss Damage #2 -> Like The Dragon's Shadow but better, excellent for bypassing weapons with no ALH or slow reloads
+//notes:Aegis Boss Damage Shopping #2 -> Like The Dragon's Shadow but better, excellent for bypassing weapons with no ALH or slow reloads
 dimwishlist:item=1624882687&perks=,
 
 
 //Sealed Ahamkara Grasps
-//notes:Aegis Boss Damage #2 -> Good for Nighthawk swaps in order to get 2-3 reloads off
+//notes:Aegis Boss Damage Shopping #2 -> Good for Nighthawk swaps in order to get 2-3 reloads off
 dimwishlist:item=2166230715&perks=,
 dimwishlist:item=1688602431&perks=,
 
 
 //Summum Bonum
-//notes:Aegis Boss Damage #2 -> Best general sword
+//notes:Aegis Boss Damage Shopping #2 -> Best general sword
 dimwishlist:item=3569407878&perks=1749209109,3640170453
 dimwishlist:item=3569407878&perks=1749209109,1817983009
 dimwishlist:item=3569407878&perks=1749209109,3913600130
@@ -276,12 +276,12 @@ dimwishlist:item=2001697739&perks=1164602481,3913600130
 
 
 //The Fourth Horseman
-//notes:Aegis Boss Damage #2 -> Good for rotations that benefit from stowed reloads (Impetus)
+//notes:Aegis Boss Damage Shopping #2 -> Good for rotations that benefit from stowed reloads (Impetus)
 dimwishlist:item=1665952087&perks=,
 
 
 //The Supremacy
-//notes:Aegis Boss Damage #2 -> Best ranged legendary damage option by far, great for Cascade as well
+//notes:Aegis Boss Damage Shopping #2 -> Best ranged legendary damage option by far, great for Cascade as well
 dimwishlist:item=2884596447&perks=3418782618,3891536761
 dimwishlist:item=2884596447&perks=3418782618,1549370717
 dimwishlist:item=2884596447&perks=3418782618,3078487919
@@ -293,7 +293,7 @@ dimwishlist:item=2884596447&perks=1563455254,3744057135
 
 
 //Wastelander M5
-//notes:Aegis Boss Damage #2 -> Decent alternative to Riiswalker with One-Two Punch and worse draw animation
+//notes:Aegis Boss Damage Shopping #2 -> Decent alternative to Riiswalker with One-Two Punch and worse draw animation
 dimwishlist:item=1679868061&perks=,1546637391
 dimwishlist:item=1679868061&perks=,3418165135
 dimwishlist:item=1679868061&perks=,2679249093
@@ -301,7 +301,7 @@ dimwishlist:item=1679868061&perks=,788178929
 
 
 //Wild Style
-//notes:Aegis Boss Damage #2 -> Best swap BGL
+//notes:Aegis Boss Damage Shopping #2 -> Best swap BGL
 dimwishlist:item=1332123064&perks=1523832109,3078487919
 dimwishlist:item=1332123064&perks=1523832109,3744057135
 dimwishlist:item=1332123064&perks=1523832109,1546637391
@@ -337,7 +337,7 @@ dimwishlist:item=959037361&perks=424370782,3418165135
 
 
 //Without Remorse
-//notes:Aegis Boss Damage #2 -> Interchangeable with Xenoclast, just no ALH
+//notes:Aegis Boss Damage Shopping #2 -> Interchangeable with Xenoclast, just no ALH
 dimwishlist:item=1478986057&perks=2869569095,1546637391
 dimwishlist:item=1478986057&perks=2869569095,3418165135
 dimwishlist:item=1478986057&perks=2869569095,2679249093
@@ -349,7 +349,7 @@ dimwishlist:item=1478986057&perks=4071163871,788178929
 
 
 //Crux Termination IV
-//notes:Aegis Boss Damage #3 -> Unique rolls for decent universal rocket damage
+//notes:Aegis Boss Damage Shopping #3 -> Unique rolls for decent universal rocket damage
 dimwishlist:item=1719687748&perks=3161816588,3194351027
 dimwishlist:item=1719687748&perks=3161816588,2275087323
 dimwishlist:item=1719687748&perks=3161816588,3708227201
@@ -373,28 +373,28 @@ dimwishlist:item=1719687748&perks=3563868667,781192741
 
 
 //Distant Tumulus
-//notes:Aegis Boss Damage #3 -> Best energy swap DPS sniper
+//notes:Aegis Boss Damage Shopping #3 -> Best energy swap DPS sniper
 dimwishlist:item=2807687156&perks=2284787283,1771339417
 
 
 //Euphony
-//notes:Aegis Boss Damage #3 -> Solid total damage sustained special ammo option
+//notes:Aegis Boss Damage Shopping #3 -> Solid total damage sustained special ammo option
 dimwishlist:item=3284383335&perks=,
 
 
 //Foetracer
-//notes:Aegis Boss Damage #3 -> Good total damage increase to run 3/4 surge split
+//notes:Aegis Boss Damage Shopping #3 -> Good total damage increase to run 3/4 surge split
 dimwishlist:item=1667080809&perks=,
 dimwishlist:item=896224899&perks=,
 
 
 //Frozen Orbit
-//notes:Aegis Boss Damage #3 -> Good for procing half of Cascade in an Izi Nessa rotation
+//notes:Aegis Boss Damage Shopping #3 -> Good for procing half of Cascade in an Izi Nessa rotation
 dimwishlist:item=3473290087&perks=3436462433,1546637391
 
 
 //Imperial Decree
-//notes:Aegis Boss Damage #3 -> Trench swaps on certain loadouts
+//notes:Aegis Boss Damage Shopping #3 -> Trench swaps on certain loadouts
 dimwishlist:item=318443586&perks=3300816228,2360754333
 dimwishlist:item=318443586&perks=3300816228,2459015849
 dimwishlist:item=318443586&perks=3300816228,3708227201
@@ -402,7 +402,7 @@ dimwishlist:item=318443586&perks=3300816228,781192741
 
 
 //Koraxis's Distress
-//notes:Aegis Boss Damage #3 -> Low fireteam count burst damage
+//notes:Aegis Boss Damage Shopping #3 -> Low fireteam count burst damage
 dimwishlist:item=2972949637&perks=968510818,3708227201
 dimwishlist:item=2972949637&perks=968510818,781192741
 dimwishlist:item=2972949637&perks=424370782,3708227201
@@ -414,23 +414,23 @@ dimwishlist:item=495442100&perks=424370782,781192741
 
 
 //Lunafaction Boots
-//notes:Aegis Boss Damage #3 -> Necessary for most shotgun damage bosses
+//notes:Aegis Boss Damage Shopping #3 -> Necessary for most shotgun damage bosses
 dimwishlist:item=2954558332&perks=,
 dimwishlist:item=4136768282&perks=,
 
 
 //Merciless
-//notes:Aegis Boss Damage #3 -> Niche ammo-restricted burst damage
+//notes:Aegis Boss Damage Shopping #3 -> Niche ammo-restricted burst damage
 dimwishlist:item=4190156464&perks=,
 
 
 //Necrotic Grip
-//notes:Aegis Boss Damage #3 -> Small damage bump from one player in a team with multiple Broodweavers, also updates boss health
+//notes:Aegis Boss Damage Shopping #3 -> Small damage bump from one player in a team with multiple Broodweavers, also updates boss health
 dimwishlist:item=2780717641&perks=,
 
 
 //Nessa's Oblation
-//notes:Aegis Boss Damage #3 -> Good for procing half of Cascade in an Izi Nessa rotation
+//notes:Aegis Boss Damage Shopping #3 -> Good for procing half of Cascade in an Izi Nessa rotation
 dimwishlist:item=135029084&perks=1523832109,1546637391
 dimwishlist:item=135029084&perks=1523832109,3418165135
 dimwishlist:item=135029084&perks=461595545,1546637391
@@ -450,12 +450,12 @@ dimwishlist:item=522366885&perks=848860060,3418165135
 
 
 //Star-Eater Scales
-//notes:Aegis Boss Damage #3 -> Free +70% to some of the best damage supers in the game
+//notes:Aegis Boss Damage Shopping #3 -> Free +70% to some of the best damage supers in the game
 dimwishlist:item=1001356380&perks=,
 
 
 //The Mountaintop
-//notes:Aegis Boss Damage #3 -> Niche swap option for small burst damage
+//notes:Aegis Boss Damage Shopping #3 -> Niche swap option for small burst damage
 dimwishlist:item=568611922&perks=3300816228,469285294
 dimwishlist:item=568611922&perks=3300816228,3335686050
 dimwishlist:item=568611922&perks=3300816228,1546637391
@@ -499,12 +499,12 @@ dimwishlist:item=4043921923&perks=1906147653,3418165135
 
 
 //Twilight Oath
-//notes:Aegis Boss Damage #3 -> Easily accessible version of Distant Tumulus
+//notes:Aegis Boss Damage Shopping #3 -> Easily accessible version of Distant Tumulus
 dimwishlist:item=1874424704&perks=968510818,1546637391
 
 
 //Until Its Return
-//notes:Aegis Boss Damage #3 -> Excellent burst damage legendary shotgun
+//notes:Aegis Boss Damage Shopping #3 -> Excellent burst damage legendary shotgun
 dimwishlist:item=2883484461&perks=3300816228,3708227201
 dimwishlist:item=2883484461&perks=3300816228,781192741
 dimwishlist:item=2883484461&perks=3300816228,3751912585
@@ -514,18 +514,18 @@ dimwishlist:item=2883484461&perks=3300816228,3418165135
 
 
 //Verity's Brow
-//notes:Aegis Boss Damage #3 -> Lowers almost any grenade cooldown enough to be usable in DPS phases
+//notes:Aegis Boss Damage Shopping #3 -> Lowers almost any grenade cooldown enough to be usable in DPS phases
 dimwishlist:item=2897117448&perks=,
 dimwishlist:item=2428181146&perks=,
 
 
 //Whisper of the Worm
-//notes:Aegis Boss Damage #3 -> Very consistent damage option
+//notes:Aegis Boss Damage Shopping #3 -> Very consistent damage option
 dimwishlist:item=1983149589&perks=777589559,1067908860
 
 
 //Wilderflight
-//notes:Aegis Boss Damage #3 -> Alternative swap BGL
+//notes:Aegis Boss Damage Shopping #3 -> Alternative swap BGL
 dimwishlist:item=2306182339&perks=3300816228,4104185692
 dimwishlist:item=2306182339&perks=3300816228,1546637391
 dimwishlist:item=2306182339&perks=3523296417,4104185692
@@ -533,22 +533,22 @@ dimwishlist:item=2306182339&perks=3523296417,1546637391
 
 
 //Witherhoard
-//notes:Aegis Boss Damage #3 -> Mostly phased out in team DPS settings where options like Izi do more damage and can be stacked
+//notes:Aegis Boss Damage Shopping #3 -> Mostly phased out in team DPS settings where options like Izi do more damage and can be stacked
 dimwishlist:item=2357297366&perks=,
 
 
 //Boots of the Assembler
-//notes:Aegis Boss Damage #4 -> Niche alternative to using Lumina
+//notes:Aegis Boss Damage Shopping #4 -> Niche alternative to using Lumina
 dimwishlist:item=3045642045&perks=,
 
 
 //Briarbinds
-//notes:Aegis Boss Damage #4 -> Infinite 30% debuff extension
+//notes:Aegis Boss Damage Shopping #4 -> Infinite 30% debuff extension
 dimwishlist:item=3234692237&perks=,
 
 
 //Cataphract GL3
-//notes:Aegis Boss Damage #4 -> Low fireteam count burst damage
+//notes:Aegis Boss Damage Shopping #4 -> Low fireteam count burst damage
 dimwishlist:item=2738601016&perks=968510818,3078487919
 dimwishlist:item=2738601016&perks=968510818,3744057135
 dimwishlist:item=2738601016&perks=968510818,3751912585
@@ -568,17 +568,17 @@ dimwishlist:item=874623537&perks=424370782,331667533
 
 
 //Father's Sins
-//notes:Aegis Boss Damage #4 -> Void option to proc Cascade Point for Edge Transit
+//notes:Aegis Boss Damage Shopping #4 -> Void option to proc Cascade Point for Edge Transit
 dimwishlist:item=3865728990&perks=2869569095,957782887
 
 
 //Felwinter's Helm
-//notes:Aegis Boss Damage #4 -> Debuff option with lowest damage loss, but extremely situational
+//notes:Aegis Boss Damage Shopping #4 -> Debuff option with lowest damage loss, but extremely situational
 dimwishlist:item=2822465023&perks=,
 
 
 //IKELOS_SR_V1.0.3
-//notes:Aegis Boss Damage #4 -> Tumulus equivalent with worse damage perks but Fourth Time's the Charm
+//notes:Aegis Boss Damage Shopping #4 -> Tumulus equivalent with worse damage perks but Fourth Time's the Charm
 dimwishlist:item=2302346155&perks=1354429876,2896038713
 dimwishlist:item=2302346155&perks=1354429876,2402480669
 dimwishlist:item=2302346155&perks=848860060,2896038713
@@ -586,34 +586,34 @@ dimwishlist:item=2302346155&perks=848860060,2402480669
 
 
 //Mask of Bakris
-//notes:Aegis Boss Damage #4 -> Extremely niche quad surge source for Horseman damage
+//notes:Aegis Boss Damage Shopping #4 -> Extremely niche quad surge source for Horseman damage
 dimwishlist:item=1619425569&perks=,
 
 
 //Ophidian Aspect
-//notes:Aegis Boss Damage #4 -> Warlock's best general swap exotic given no good super damage exotic
+//notes:Aegis Boss Damage Shopping #4 -> Warlock's best general swap exotic given no good super damage exotic
 dimwishlist:item=68357813&perks=,
 dimwishlist:item=3627185503&perks=,
 
 
 //Ragnhild-D
-//notes:Aegis Boss Damage #4 -> Regular pellet swaps
+//notes:Aegis Boss Damage Shopping #4 -> Regular pellet swaps
 dimwishlist:item=4225322581&perks=3300816228,4104185692
 dimwishlist:item=4225322581&perks=3300816228,3007133316
 
 
 //Riiswalker
-//notes:Aegis Boss Damage #4 -> Best kinetic lightweight swap option
+//notes:Aegis Boss Damage Shopping #4 -> Best kinetic lightweight swap option
 dimwishlist:item=108221785&perks=706527188,1546637391
 
 
 //Seventh Seraph CQC-12
-//notes:Aegis Boss Damage #4 -> Similar to Xenoclast and Remorse, just less farmable
+//notes:Aegis Boss Damage Shopping #4 -> Similar to Xenoclast and Remorse, just less farmable
 dimwishlist:item=1821724780&perks=3300816228,1546637391
 
 
 //Supercluster
-//notes:Aegis Boss Damage #4 -> Interesting slug option post-kinetic change
+//notes:Aegis Boss Damage Shopping #4 -> Interesting slug option post-kinetic change
 dimwishlist:item=92459755&perks=1523832109,1546637391
 dimwishlist:item=92459755&perks=1523832109,3418165135
 dimwishlist:item=92459755&perks=1523832109,3708227201
@@ -647,19 +647,19 @@ dimwishlist:item=92459755&perks=4071163871,331667533
 
 
 //The Comedian
-//notes:Aegis Boss Damage #4 -> Pellet swaps on Tractor
+//notes:Aegis Boss Damage Shopping #4 -> Pellet swaps on Tractor
 dimwishlist:item=1028582252&perks=2621346526,1546637391
 dimwishlist:item=2443900757&perks=2621346526,1546637391
 
 
 //The Dragon's Shadow
-//notes:Aegis Boss Damage #4 -> Provides hunter with a high cooldown triple rocket option that is faster than RDM
+//notes:Aegis Boss Damage Shopping #4 -> Provides hunter with a high cooldown triple rocket option that is faster than RDM
 dimwishlist:item=419976108&perks=,
 dimwishlist:item=2766109874&perks=,
 
 
 //The Sixth Coyote
-//notes:Aegis Boss Damage #4 -> Generally worse than Sealed these days
+//notes:Aegis Boss Damage Shopping #4 -> Generally worse than Sealed these days
 dimwishlist:item=4070560771&perks=,
 dimwishlist:item=1474735277&perks=,
 
