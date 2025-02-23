@@ -321,22 +321,6 @@ dimwishlist:item=355922321&perks=247725512,2848615171
 dimwishlist:item=355922321&perks=247725512,3038247973
 
 
-//Timeworn Wayfarer
-//notes:Aegis Endgame S Tier. Best With 'Radiolaria Transposer' Origin Trait.
-dimwishlist:item=1058098236&perks=3017780555,4293542123
-dimwishlist:item=1058098236&perks=3017780555,2675184851
-dimwishlist:item=1058098236&perks=4223976499,4293542123
-dimwishlist:item=1058098236&perks=4223976499,2675184851
-dimwishlist:item=1058098236&perks=3700496672,4293542123
-dimwishlist:item=1058098236&perks=3700496672,2675184851
-dimwishlist:item=1058098236&perks=2840833776,4293542123
-dimwishlist:item=1058098236&perks=2840833776,2675184851
-dimwishlist:item=1058098236&perks=25606670,4293542123
-dimwishlist:item=1058098236&perks=25606670,2675184851
-dimwishlist:item=1058098236&perks=3143051906,4293542123
-dimwishlist:item=1058098236&perks=3143051906,2675184851
-
-
 //Insurmountable
 //notes:Aegis Endgame S Tier. Best With 'Dark Ether Reaper' Origin Trait.
 dimwishlist:item=414045521&perks=776531651,2048641572

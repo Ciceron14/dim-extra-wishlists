@@ -652,7 +652,7 @@ dimwishlist:item=205225492&perks=1771736209,859780267
 
 
 //Timeworn Wayfarer
-//notes:Aegis Top Aggressive Scout: S Tier. Best With 'Radiolaria Transposer' Origin Trait.
+//notes:Aegis Top Aggressive Scout: B Tier. Best With 'Radiolaria Transposer' Origin Trait.
 dimwishlist:item=1058098236&perks=3017780555,4293542123
 dimwishlist:item=1058098236&perks=3017780555,2675184851
 dimwishlist:item=1058098236&perks=4223976499,4293542123

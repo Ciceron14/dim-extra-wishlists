@@ -540,7 +540,7 @@ dimwishlist:item=-542573208&perks=
 
 
 //Pleiades Corrector
-//notes:F Tier. Aegis Recommended alternative(s): Trustee, Timeworn Wayfarer, Vision of Confluence
+//notes:F Tier. Aegis Recommended alternative(s): Trustee, Vision of Confluence
 dimwishlist:item=-3556999246&perks=
 dimwishlist:item=-1342668638&perks=
 
