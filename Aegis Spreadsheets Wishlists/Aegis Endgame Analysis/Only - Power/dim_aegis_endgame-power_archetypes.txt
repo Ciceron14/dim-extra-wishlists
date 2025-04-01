@@ -418,17 +418,12 @@ dimwishlist:item=2001697739&perks=1164602481,3708227201
 dimwishlist:item=2001697739&perks=1164602481,781192741
 
 
-//Ill Omen
-//notes:Aegis Top Caster Sword: A Tier. Best With 'Radiolaria Transposer' Origin Trait.
-dimwishlist:item=3794274730&perks=1749209109,3913600130
-dimwishlist:item=3794274730&perks=1749209109,3708227201
-dimwishlist:item=3794274730&perks=1749209109,781192741
-dimwishlist:item=3794274730&perks=243981275,3913600130
-dimwishlist:item=3794274730&perks=243981275,3708227201
-dimwishlist:item=3794274730&perks=243981275,781192741
-dimwishlist:item=3794274730&perks=984655331,3913600130
-dimwishlist:item=3794274730&perks=984655331,3708227201
-dimwishlist:item=3794274730&perks=984655331,781192741
+//Temptation's Hook
+//notes:Aegis Top Caster Sword: A Tier. Best With 'Paracausal Fluid' Origin Trait.
+dimwishlist:item=35794111&perks=1749209109,3913600130
+dimwishlist:item=1587953057&perks=1749209109,3913600130
+dimwishlist:item=1587953057&perks=243981275,3913600130
+dimwishlist:item=1587953057&perks=984655331,3913600130
 
 
 //Goldtusk

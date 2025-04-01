@@ -100,7 +100,7 @@ dimwishlist:item=-1983332562&perks=
 
 
 //Half-Truths
-//notes:D Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest
+//notes:D Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest, Temptation's Hook
 dimwishlist:item=-3257091166&perks=
 
 
@@ -110,7 +110,7 @@ dimwishlist:item=-2508948099&perks=
 
 
 //Honor's Edge
-//notes:D Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest
+//notes:D Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest, Temptation's Hook
 dimwishlist:item=-2276266837&perks=
 dimwishlist:item=-2857348871&perks=
 
@@ -156,19 +156,13 @@ dimwishlist:item=-1796949035&perks=
 
 
 //Hero of Ages
-//notes:E Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest
+//notes:E Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest, Temptation's Hook
 dimwishlist:item=-2139640995&perks=
 
 
 //Chivalric Fire
 //notes:F Tier. Aegis Recommended alternative(s): Falling Guillotine: BRAVE version, The Other Half, Geodetic HSm
 dimwishlist:item=-3438139008&perks=
-
-
-//Temptation's Hook
-//notes:F Tier. Aegis Recommended alternative(s): Summum Bonum, Bequest
-dimwishlist:item=-35794111&perks=
-dimwishlist:item=-1587953057&perks=
 
 
 //Thin Precipice

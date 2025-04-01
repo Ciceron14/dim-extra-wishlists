@@ -823,6 +823,14 @@ dimwishlist:item=3366545721&perks=1749209109,1546637391
 dimwishlist:item=3366545721&perks=1749209109,3418165135
 
 
+//Temptation's Hook
+//notes:Aegis Endgame A Tier. Best With 'Paracausal Fluid' Origin Trait.
+dimwishlist:item=35794111&perks=1749209109,3913600130
+dimwishlist:item=1587953057&perks=1749209109,3913600130
+dimwishlist:item=1587953057&perks=243981275,3913600130
+dimwishlist:item=1587953057&perks=984655331,3913600130
+
+
 //Abyssal Edge
 //notes:Aegis Endgame A Tier. Best With 'Willing Vessel' Origin Trait.
 dimwishlist:item=547165496&perks=1749209109,1089671869
