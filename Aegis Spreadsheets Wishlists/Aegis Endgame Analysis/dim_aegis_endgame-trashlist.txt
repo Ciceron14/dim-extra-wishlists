@@ -164,10 +164,8 @@ dimwishlist:item=-586671776&perks=
 dimwishlist:item=-1476654960&perks=
 dimwishlist:item=-2850415209&perks=
 dimwishlist:item=-2969415423&perks=
-dimwishlist:item=-3164166855&perks=
-dimwishlist:item=-2907694858&perks=
-dimwishlist:item=-1635931988&perks=
-dimwishlist:item=-2909639533&perks=
+dimwishlist:item=-2226572694&perks=
+dimwishlist:item=-1773934241&perks=
 
 
 //Eyasluna
@@ -358,10 +356,10 @@ dimwishlist:item=-1780464822&perks=
 //notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
 dimwishlist:item=-1187594590&perks=
 dimwishlist:item=-435821041&perks=
-dimwishlist:item=-3340037896&perks=
-dimwishlist:item=-94414241&perks=
-dimwishlist:item=-4193661297&perks=
-dimwishlist:item=-684264976&perks=
+dimwishlist:item=-3733988413&perks=
+dimwishlist:item=-1827058652&perks=
+dimwishlist:item=-3681280908&perks=
+dimwishlist:item=-1066598837&perks=
 
 
 //Belisarius-D
@@ -773,6 +771,8 @@ dimwishlist:item=-2185327324&perks=
 dimwishlist:item=-2307365&perks=
 dimwishlist:item=-2653171212&perks=
 dimwishlist:item=-825554997&perks=
+dimwishlist:item=-51129316&perks=
+dimwishlist:item=-2330860573&perks=
 
 
 //Ragnhild-D

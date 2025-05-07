@@ -14,6 +14,8 @@ dimwishlist:item=-2185327324&perks=
 dimwishlist:item=-2307365&perks=
 dimwishlist:item=-2653171212&perks=
 dimwishlist:item=-825554997&perks=
+dimwishlist:item=-51129316&perks=
+dimwishlist:item=-2330860573&perks=
 
 
 //Ragnhild-D
