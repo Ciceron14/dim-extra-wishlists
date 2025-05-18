@@ -152,20 +152,17 @@ dimwishlist:item=-1973107014&perks=
 dimwishlist:item=-2314610827&perks=
 
 
+//Judgement
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
+dimwishlist:item=-1987644603&perks=
+dimwishlist:item=-3329218848&perks=
+
+
 //Something New
 //notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
 dimwishlist:item=-1856262127&perks=
 dimwishlist:item=-3240434620&perks=
 dimwishlist:item=-586671776&perks=
-
-
-//Judgment
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
-dimwishlist:item=-1476654960&perks=
-dimwishlist:item=-2850415209&perks=
-dimwishlist:item=-2969415423&perks=
-dimwishlist:item=-2226572694&perks=
-dimwishlist:item=-1773934241&perks=
 
 
 //Eyasluna
@@ -331,7 +328,7 @@ dimwishlist:item=-358788212&perks=
 
 
 //Insidious
-//notes:D Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+//notes:D Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion, Cruel Mercy
 dimwishlist:item=-3428521585&perks=
 dimwishlist:item=-786352912&perks=
 
@@ -342,6 +339,12 @@ dimwishlist:item=-2221264583&perks=
 dimwishlist:item=-3407395594&perks=
 
 
+//Aisha's Care
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
+dimwishlist:item=-3969379530&perks=
+dimwishlist:item=-3332125295&perks=
+
+
 //Syncopation-53
 //notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Pulses
 dimwishlist:item=-2856514843&perks=
@@ -350,16 +353,6 @@ dimwishlist:item=-2856514843&perks=
 //New Purpose
 //notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Pulses
 dimwishlist:item=-1780464822&perks=
-
-
-//Relentless
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
-dimwishlist:item=-1187594590&perks=
-dimwishlist:item=-435821041&perks=
-dimwishlist:item=-3733988413&perks=
-dimwishlist:item=-1827058652&perks=
-dimwishlist:item=-3681280908&perks=
-dimwishlist:item=-1066598837&perks=
 
 
 //Belisarius-D
@@ -402,7 +395,7 @@ dimwishlist:item=-1674742470&perks=
 
 
 //The Third Axiom
-//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion, Cruel Mercy
 dimwishlist:item=-4156253727&perks=
 
 
@@ -412,7 +405,7 @@ dimwishlist:item=-2276328320&perks=
 
 
 //Scalar Potential
-//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion, Cruel Mercy
 dimwishlist:item=-2563668388&perks=
 
 
@@ -433,7 +426,7 @@ dimwishlist:item=-2050789284&perks=
 
 
 //Horror's Least
-//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion, Cruel Mercy
 dimwishlist:item=-216983039&perks=
 dimwishlist:item=-1924276978&perks=
 dimwishlist:item=-1071542914&perks=
@@ -452,7 +445,7 @@ dimwishlist:item=-4425887&perks=
 
 
 //Jian 7 Rifle
-//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion
+//notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion, Cruel Mercy
 dimwishlist:item=-625672050&perks=
 dimwishlist:item=-1162247618&perks=
 
@@ -546,7 +539,7 @@ dimwishlist:item=-542573208&perks=
 
 
 //Pleiades Corrector
-//notes:F Tier. Aegis Recommended alternative(s): Trustee, Vision of Confluence
+//notes:F Tier. Aegis Recommended alternative(s): Trustee, Vision of Confluence, Nature Reclaimed
 dimwishlist:item=-3556999246&perks=
 dimwishlist:item=-1342668638&perks=
 
@@ -675,7 +668,7 @@ dimwishlist:item=-811403305&perks=
 
 
 //Borrowed Time
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar SMGs
+//notes:E Tier. Aegis Recommended alternative(s): No Survivors
 dimwishlist:item=-875848769&perks=
 
 
@@ -718,7 +711,7 @@ dimwishlist:item=-1339362514&perks=
 
 
 //Death Adder
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar SMGs
+//notes:F Tier. Aegis Recommended alternative(s): No Survivors
 dimwishlist:item=-2742490609&perks=
 dimwishlist:item=-2517599010&perks=
 
@@ -765,23 +758,13 @@ dimwishlist:item=-1764868900&perks=
 dimwishlist:item=-557165046&perks=
 
 
-//The Inquisitor
-//notes:D Tier. Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
-dimwishlist:item=-2185327324&perks=
-dimwishlist:item=-2307365&perks=
-dimwishlist:item=-2653171212&perks=
-dimwishlist:item=-825554997&perks=
-dimwishlist:item=-51129316&perks=
-dimwishlist:item=-2330860573&perks=
-
-
 //Ragnhild-D
 //notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
 dimwishlist:item=-4225322581&perks=
 
 
 //Scavenger's Fate
-//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Basso Ostinato, The Deicide
 dimwishlist:item=-2913577176&perks=
 
 
@@ -854,7 +837,7 @@ dimwishlist:item=-2782847179&perks=
 
 
 //Bonechiller
-//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Basso Ostinato, The Deicide
 dimwishlist:item=-4037745684&perks=
 
 
@@ -1122,7 +1105,7 @@ dimwishlist:item=-2060863616&perks=
 
 
 //Orewing's Maul
-//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Wilderflight
 dimwishlist:item=-1870979911&perks=
 dimwishlist:item=-2108920981&perks=
 
@@ -1133,7 +1116,7 @@ dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton
+//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton, Wilderflight
 dimwishlist:item=-1946491241&perks=
 dimwishlist:item=-3252697558&perks=
 dimwishlist:item=-447296102&perks=
@@ -1159,7 +1142,7 @@ dimwishlist:item=-2187717691&perks=
 
 
 //Seventh Seraph SAW
-//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye, Terminus Horizon
 dimwishlist:item=-2582755344&perks=
 
 
@@ -1169,7 +1152,7 @@ dimwishlist:item=-1766088024&perks=
 
 
 //THE SWARM
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye, Terminus Horizon
 dimwishlist:item=-47772649&perks=
 dimwishlist:item=-3836861464&perks=
 dimwishlist:item=-2759590322&perks=
@@ -1177,7 +1160,7 @@ dimwishlist:item=-566740455&perks=
 
 
 //Eleatic Principle
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye, Terminus Horizon
 dimwishlist:item=-105306149&perks=
 
 

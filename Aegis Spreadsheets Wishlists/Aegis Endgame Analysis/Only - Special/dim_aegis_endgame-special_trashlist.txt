@@ -8,23 +8,13 @@ dimwishlist:item=-1764868900&perks=
 dimwishlist:item=-557165046&perks=
 
 
-//The Inquisitor
-//notes:D Tier. Aegis Recommended alternative(s): Dead Weight, Arcane Embrace
-dimwishlist:item=-2185327324&perks=
-dimwishlist:item=-2307365&perks=
-dimwishlist:item=-2653171212&perks=
-dimwishlist:item=-825554997&perks=
-dimwishlist:item=-51129316&perks=
-dimwishlist:item=-2330860573&perks=
-
-
 //Ragnhild-D
 //notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Imperial Decree, Heritage, Wastelander M5, One Small Step
 dimwishlist:item=-4225322581&perks=
 
 
 //Scavenger's Fate
-//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Basso Ostinato, The Deicide
 dimwishlist:item=-2913577176&perks=
 
 
@@ -97,7 +87,7 @@ dimwishlist:item=-2782847179&perks=
 
 
 //Bonechiller
-//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, Basso Ostinato, The Deicide
+//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Basso Ostinato, The Deicide
 dimwishlist:item=-4037745684&perks=
 
 
@@ -365,7 +355,7 @@ dimwishlist:item=-2060863616&perks=
 
 
 //Orewing's Maul
-//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Wilderflight
 dimwishlist:item=-1870979911&perks=
 dimwishlist:item=-2108920981&perks=
 
@@ -376,7 +366,7 @@ dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton
+//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton, Wilderflight
 dimwishlist:item=-1946491241&perks=
 dimwishlist:item=-3252697558&perks=
 dimwishlist:item=-447296102&perks=

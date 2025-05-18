@@ -13,7 +13,7 @@ dimwishlist:item=-2187717691&perks=
 
 
 //Seventh Seraph SAW
-//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye, Terminus Horizon
 dimwishlist:item=-2582755344&perks=
 
 
@@ -23,7 +23,7 @@ dimwishlist:item=-1766088024&perks=
 
 
 //THE SWARM
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye, Terminus Horizon
 dimwishlist:item=-47772649&perks=
 dimwishlist:item=-3836861464&perks=
 dimwishlist:item=-2759590322&perks=
@@ -31,7 +31,7 @@ dimwishlist:item=-566740455&perks=
 
 
 //Eleatic Principle
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Watchful Eye, Terminus Horizon
 dimwishlist:item=-105306149&perks=
 
 
