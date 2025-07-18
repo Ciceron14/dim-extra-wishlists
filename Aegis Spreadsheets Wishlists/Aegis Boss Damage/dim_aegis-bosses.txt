@@ -5,11 +5,13 @@ description:Listing the most relevant Boss Damage tools at the moment.
 //notes:Aegis Boss Damage Shopping #1 -> Solid damage super with great ranged burst
 dimwishlist:item=1667080810&perks=,,,
 dimwishlist:item=1321354573&perks=,,,
+dimwishlist:item=3960926756&perks=,,,
 
 
 //Cuirass of the Falling Star
 //notes:Aegis Boss Damage Shopping #1 -> Zero effort for best damage super in the game
 dimwishlist:item=2321120637&perks=,,,
+dimwishlist:item=4057875770&perks=,,,
 
 
 //Ergo Sum
@@ -44,6 +46,18 @@ dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,3078487919
 dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,3744057135
 dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,1089671869
 dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,496047945
+dimwishlist:item=2265407516&perks=3525010810,274905539,3643424744,3078487919
+dimwishlist:item=2265407516&perks=3525010810,274905539,3643424744,3744057135
+dimwishlist:item=2265407516&perks=3525010810,274905539,3643424744,1089671869
+dimwishlist:item=2265407516&perks=3525010810,274905539,3643424744,496047945
+dimwishlist:item=2265407516&perks=3525010810,274905539,2682205016,3078487919
+dimwishlist:item=2265407516&perks=3525010810,274905539,2682205016,3744057135
+dimwishlist:item=2265407516&perks=3525010810,274905539,2682205016,1089671869
+dimwishlist:item=2265407516&perks=3525010810,274905539,2682205016,496047945
+dimwishlist:item=2265407516&perks=3525010810,274905539,1275731761,3078487919
+dimwishlist:item=2265407516&perks=3525010810,274905539,1275731761,3744057135
+dimwishlist:item=2265407516&perks=3525010810,274905539,1275731761,1089671869
+dimwishlist:item=2265407516&perks=3525010810,274905539,1275731761,496047945
 dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,3078487919
 dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,3744057135
 dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,1089671869
@@ -56,12 +70,25 @@ dimwishlist:item=3623686757&perks=3525010810,3796465595,1275731761,3078487919
 dimwishlist:item=3623686757&perks=3525010810,3796465595,1275731761,3744057135
 dimwishlist:item=3623686757&perks=3525010810,3796465595,1275731761,1089671869
 dimwishlist:item=3623686757&perks=3525010810,3796465595,1275731761,496047945
+dimwishlist:item=3623686757&perks=3525010810,274905539,3643424744,3078487919
+dimwishlist:item=3623686757&perks=3525010810,274905539,3643424744,3744057135
+dimwishlist:item=3623686757&perks=3525010810,274905539,3643424744,1089671869
+dimwishlist:item=3623686757&perks=3525010810,274905539,3643424744,496047945
+dimwishlist:item=3623686757&perks=3525010810,274905539,2682205016,3078487919
+dimwishlist:item=3623686757&perks=3525010810,274905539,2682205016,3744057135
+dimwishlist:item=3623686757&perks=3525010810,274905539,2682205016,1089671869
+dimwishlist:item=3623686757&perks=3525010810,274905539,2682205016,496047945
+dimwishlist:item=3623686757&perks=3525010810,274905539,1275731761,3078487919
+dimwishlist:item=3623686757&perks=3525010810,274905539,1275731761,3744057135
+dimwishlist:item=3623686757&perks=3525010810,274905539,1275731761,1089671869
+dimwishlist:item=3623686757&perks=3525010810,274905539,1275731761,496047945
 
 
 //Sanguine Alchemy
 //notes:Aegis Boss Damage Shopping #1 -> Best damage armor exotic, free 10% for doing nothing
 dimwishlist:item=2422973183&perks=,,,
 dimwishlist:item=3070555693&perks=,,,
+dimwishlist:item=2966741808&perks=,,,
 
 
 //Solipsism
@@ -107,11 +134,28 @@ dimwishlist:item=694275488&perks=3525010810,3796465595,461595545,1089671869
 dimwishlist:item=694275488&perks=3525010810,3796465595,461595545,496047945
 dimwishlist:item=694275488&perks=3525010810,3796465595,461595545,2319119708
 dimwishlist:item=694275488&perks=3525010810,3796465595,461595545,2140591236
+dimwishlist:item=694275488&perks=3525010810,274905539,3643424744,1089671869
+dimwishlist:item=694275488&perks=3525010810,274905539,3643424744,496047945
+dimwishlist:item=694275488&perks=3525010810,274905539,3643424744,2319119708
+dimwishlist:item=694275488&perks=3525010810,274905539,3643424744,2140591236
+dimwishlist:item=694275488&perks=3525010810,274905539,2682205016,1089671869
+dimwishlist:item=694275488&perks=3525010810,274905539,2682205016,496047945
+dimwishlist:item=694275488&perks=3525010810,274905539,2682205016,2319119708
+dimwishlist:item=694275488&perks=3525010810,274905539,2682205016,2140591236
+dimwishlist:item=694275488&perks=3525010810,274905539,1523832109,1089671869
+dimwishlist:item=694275488&perks=3525010810,274905539,1523832109,496047945
+dimwishlist:item=694275488&perks=3525010810,274905539,1523832109,2319119708
+dimwishlist:item=694275488&perks=3525010810,274905539,1523832109,2140591236
+dimwishlist:item=694275488&perks=3525010810,274905539,461595545,1089671869
+dimwishlist:item=694275488&perks=3525010810,274905539,461595545,496047945
+dimwishlist:item=694275488&perks=3525010810,274905539,461595545,2319119708
+dimwishlist:item=694275488&perks=3525010810,274905539,461595545,2140591236
 
 
 //Edge of Action
 //notes:Aegis Boss Damage Shopping #2 -> Free 5% buff and great refreshable protection for glaive/sword damage
 dimwishlist:item=2535142413&perks=594346985,3721627275,1067908860,
+dimwishlist:item=2535142413&perks=2364577709,3721627275,1067908860,
 
 
 //Edge Transit
@@ -214,6 +258,7 @@ dimwishlist:item=3211806999&perks=,,,
 //notes:Aegis Boss Damage Shopping #2 -> Decent for final stands, might be bugged right now
 dimwishlist:item=1667080811&perks=,,,
 dimwishlist:item=1321354572&perks=,,,
+dimwishlist:item=3960926757&perks=,,,
 
 
 //Liturgy
@@ -222,6 +267,11 @@ dimwishlist:item=2599338624&perks=3525010810,3301904089,3987942396,2978966579
 dimwishlist:item=2599338624&perks=3525010810,3301904089,3987942396,344235611
 dimwishlist:item=2599338624&perks=3525010810,3301904089,2817499044,2978966579
 dimwishlist:item=2599338624&perks=3525010810,3301904089,2817499044,344235611
+
+
+//Lord of Wolves
+//notes:Aegis Boss Damage Shopping #2 -> Excellent melee range special weapon total damage with consistent crit access
+dimwishlist:item=3413860063&perks=,,,
 
 
 //Lost Signal
@@ -241,6 +291,7 @@ dimwishlist:item=3512014804&perks=,,,
 //notes:Aegis Boss Damage Shopping #2 -> Easy to provide reload boost and exotic is swappable
 dimwishlist:item=2954558332&perks=,,,
 dimwishlist:item=4136768282&perks=,,,
+dimwishlist:item=418363297&perks=,,,
 
 
 //No Hesitation
@@ -374,6 +425,7 @@ dimwishlist:item=266021826&perks=,,1476923953,1476923956
 //notes:Aegis Boss Damage Shopping #2 -> Still relevant for BoW grapple melee boosts or for glaive damage
 dimwishlist:item=1035680666&perks=,,,
 dimwishlist:item=241462142&perks=,,,
+dimwishlist:item=2002759681&perks=,,,
 
 
 //The Queenbreaker
@@ -501,6 +553,18 @@ dimwishlist:item=1851777734&perks=3525010810,3796465595,2039302152,3078487919
 dimwishlist:item=1851777734&perks=3525010810,3796465595,2039302152,3744057135
 dimwishlist:item=1851777734&perks=3525010810,3796465595,2039302152,3708227201
 dimwishlist:item=1851777734&perks=3525010810,3796465595,2039302152,781192741
+dimwishlist:item=1851777734&perks=3525010810,274905539,1523832109,3078487919
+dimwishlist:item=1851777734&perks=3525010810,274905539,1523832109,3744057135
+dimwishlist:item=1851777734&perks=3525010810,274905539,1523832109,3708227201
+dimwishlist:item=1851777734&perks=3525010810,274905539,1523832109,781192741
+dimwishlist:item=1851777734&perks=3525010810,274905539,461595545,3078487919
+dimwishlist:item=1851777734&perks=3525010810,274905539,461595545,3744057135
+dimwishlist:item=1851777734&perks=3525010810,274905539,461595545,3708227201
+dimwishlist:item=1851777734&perks=3525010810,274905539,461595545,781192741
+dimwishlist:item=1851777734&perks=3525010810,274905539,2039302152,3078487919
+dimwishlist:item=1851777734&perks=3525010810,274905539,2039302152,3744057135
+dimwishlist:item=1851777734&perks=3525010810,274905539,2039302152,3708227201
+dimwishlist:item=1851777734&perks=3525010810,274905539,2039302152,781192741
 
 
 //Barrow-Dyad
@@ -528,6 +592,7 @@ dimwishlist:item=2599338625&perks=3525010810,3301904089,2817499044,331667533
 //Briarbinds
 //notes:Aegis Boss Damage Shopping #3 -> Best ability-based debuff extension in the game
 dimwishlist:item=3234692237&perks=,,,
+dimwishlist:item=768145972&perks=,,,
 
 
 //Cloudstrike
@@ -566,6 +631,7 @@ dimwishlist:item=3284383335&perks=,,,
 //Felwinter's Helm
 //notes:Aegis Boss Damage Shopping #3 -> One of the only sources of extendable 30% debuff
 dimwishlist:item=2822465023&perks=,,,
+dimwishlist:item=728668916&perks=,,,
 
 
 //Geodetic HSm
@@ -576,6 +642,7 @@ dimwishlist:item=3637669759&perks=3666208348,269888150,1749209109,3913600130
 //Hazardous Propulsion
 //notes:Aegis Boss Damage Shopping #3 -> 35% buff is a little overrated, but the free volley damage isn't bad
 dimwishlist:item=1909305643&perks=,,,
+dimwishlist:item=3050442980&perks=,,,
 
 
 //Hullabaloo
@@ -649,6 +716,7 @@ dimwishlist:item=2812324400&perks=,,,
 //Rain of Fire
 //notes:Aegis Boss Damage Shopping #3 -> Overshadowed by Sanguine + Envious, but still important to use in some cases
 dimwishlist:item=1624882687&perks=,,,
+dimwishlist:item=511709874&perks=,,,
 
 
 //Scatter Signal
@@ -884,6 +952,7 @@ dimwishlist:item=1508896098&perks=,,,
 //notes:Aegis Boss Damage Shopping #3 -> Good in certain scenarios, like Atheon/Rhulk, otherwise Sanguine is much better
 dimwishlist:item=2897117448&perks=,,,
 dimwishlist:item=2428181146&perks=,,,
+dimwishlist:item=2553961985&perks=,,,
 
 
 //VS Velocity Baton
@@ -932,6 +1001,7 @@ dimwishlist:item=2357297366&perks=,,,
 //notes:Aegis Boss Damage Shopping #3 -> Best burst melee exotic until Guile gets a meter
 dimwishlist:item=809007411&perks=,,,
 dimwishlist:item=1734844651&perks=,,,
+dimwishlist:item=1203306856&perks=,,,
 
 
 //Ager's Scepter
@@ -948,11 +1018,13 @@ dimwishlist:item=2350354266&perks=,,,
 //notes:Aegis Boss Damage Shopping #4 -> Used in speedruns to give teammates abilities back, otherwise Solipsism variant is much more relevant
 dimwishlist:item=3897389303&perks=,,,
 dimwishlist:item=1096253259&perks=,,,
+dimwishlist:item=132452792&perks=,,,
 
 
 //Boots of the Assembler
 //notes:Aegis Boss Damage Shopping #4 -> Annoying way to get 5s Lumina buff, inconsistent generally
 dimwishlist:item=3045642045&perks=,,,
+dimwishlist:item=597039524&perks=,,,
 
 
 //Cataphract GL3
@@ -979,6 +1051,8 @@ dimwishlist:item=874623537&perks=3525010810,3301904089,424370782,331667533
 //notes:Aegis Boss Damage Shopping #4 -> Still usable for burst, but Overflow on Hezen is much better
 dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919
 dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3194351027
+dimwishlist:item=839786290&perks=3525010810,274905539,968510818,3078487919
+dimwishlist:item=839786290&perks=3525010810,274905539,968510818,3194351027
 
 
 //Conditional Finality
@@ -1020,6 +1094,26 @@ dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,3194351027
 dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,2275087323
 dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,3708227201
 dimwishlist:item=1719687748&perks=3525010810,3796465595,3563868667,781192741
+dimwishlist:item=1719687748&perks=3525010810,274905539,3161816588,3194351027
+dimwishlist:item=1719687748&perks=3525010810,274905539,3161816588,2275087323
+dimwishlist:item=1719687748&perks=3525010810,274905539,3161816588,3708227201
+dimwishlist:item=1719687748&perks=3525010810,274905539,3161816588,781192741
+dimwishlist:item=1719687748&perks=3525010810,274905539,1523832109,3194351027
+dimwishlist:item=1719687748&perks=3525010810,274905539,1523832109,2275087323
+dimwishlist:item=1719687748&perks=3525010810,274905539,1523832109,3708227201
+dimwishlist:item=1719687748&perks=3525010810,274905539,1523832109,781192741
+dimwishlist:item=1719687748&perks=3525010810,274905539,461595545,3194351027
+dimwishlist:item=1719687748&perks=3525010810,274905539,461595545,2275087323
+dimwishlist:item=1719687748&perks=3525010810,274905539,461595545,3708227201
+dimwishlist:item=1719687748&perks=3525010810,274905539,461595545,781192741
+dimwishlist:item=1719687748&perks=3525010810,274905539,2284787283,3194351027
+dimwishlist:item=1719687748&perks=3525010810,274905539,2284787283,2275087323
+dimwishlist:item=1719687748&perks=3525010810,274905539,2284787283,3708227201
+dimwishlist:item=1719687748&perks=3525010810,274905539,2284787283,781192741
+dimwishlist:item=1719687748&perks=3525010810,274905539,3563868667,3194351027
+dimwishlist:item=1719687748&perks=3525010810,274905539,3563868667,2275087323
+dimwishlist:item=1719687748&perks=3525010810,274905539,3563868667,3708227201
+dimwishlist:item=1719687748&perks=3525010810,274905539,3563868667,781192741
 
 
 //Dead Weight
@@ -1060,6 +1154,7 @@ dimwishlist:item=331231237&perks=,,,
 //notes:Aegis Boss Damage Shopping #4 -> Less relevant than Relativism equivalent, but still used sometimes
 dimwishlist:item=1667080809&perks=,,,
 dimwishlist:item=896224899&perks=,,,
+dimwishlist:item=671504994&perks=,,,
 
 
 //Grand Overture
@@ -1083,6 +1178,7 @@ dimwishlist:item=495442100&perks=3525010810,3301904089,424370782,781192741
 //notes:Aegis Boss Damage Shopping #4 -> Relatively niche in current sandbox, but still usable
 dimwishlist:item=1245809812&perks=,,,
 dimwishlist:item=193869522&perks=,,,
+dimwishlist:item=2405271939&perks=,,,
 
 
 //Malfeasance
@@ -1093,6 +1189,7 @@ dimwishlist:item=204878059&perks=,,,
 //Mask of Bakris
 //notes:Aegis Boss Damage Shopping #4 -> 4x surges for two weapon types, can be useful in some niche scenarios
 dimwishlist:item=1619425569&perks=,,,
+dimwishlist:item=508515818&perks=,,,
 
 
 //Microcosm
@@ -1129,8 +1226,12 @@ dimwishlist:item=2069224589&perks=,,,
 //notes:Aegis Boss Damage Shopping #4 -> Any CtM glaive works here
 dimwishlist:item=2298039571&perks=594346985,3721627275,,1782407750
 dimwishlist:item=2298039571&perks=594346985,3721627275,,2241043034
+dimwishlist:item=2298039571&perks=2364577709,3721627275,,1782407750
+dimwishlist:item=2298039571&perks=2364577709,3721627275,,2241043034
 dimwishlist:item=3997086838&perks=594346985,3721627275,,1782407750
 dimwishlist:item=3997086838&perks=594346985,3721627275,,2241043034
+dimwishlist:item=3997086838&perks=2364577709,3721627275,,1782407750
+dimwishlist:item=3997086838&perks=2364577709,3721627275,,2241043034
 
 
 //Regnant
@@ -1166,6 +1267,7 @@ dimwishlist:item=1821724780&perks=1300023272,791862061,3300816228,1546637391
 //Star-Eater Scales
 //notes:Aegis Boss Damage Shopping #4 -> For use with supers like Gathering Storm and Silence and Squall
 dimwishlist:item=1001356380&perks=,,,
+dimwishlist:item=1006498763&perks=,,,
 
 
 //Supercluster
@@ -1206,6 +1308,7 @@ dimwishlist:item=92459755&perks=1840239774,791862061,4071163871,331667533
 //notes:Aegis Boss Damage Shopping #4 -> Can be useful with weapons like The Fourth Horseman in fast dump rotations
 dimwishlist:item=419976108&perks=,,,
 dimwishlist:item=2766109874&perks=,,,
+dimwishlist:item=368733541&perks=,,,
 
 
 //The Supremacy
@@ -1226,15 +1329,24 @@ dimwishlist:item=3009199534&perks=3525010810,3796465595,3987942396,3078487919
 dimwishlist:item=3009199534&perks=3525010810,3796465595,3987942396,3744057135
 dimwishlist:item=3009199534&perks=3525010810,3796465595,2817499044,3078487919
 dimwishlist:item=3009199534&perks=3525010810,3796465595,2817499044,3744057135
+dimwishlist:item=3009199534&perks=3525010810,274905539,3987942396,3078487919
+dimwishlist:item=3009199534&perks=3525010810,274905539,3987942396,3744057135
+dimwishlist:item=3009199534&perks=3525010810,274905539,2817499044,3078487919
+dimwishlist:item=3009199534&perks=3525010810,274905539,2817499044,3744057135
 dimwishlist:item=303107619&perks=3525010810,3796465595,3987942396,3078487919
 dimwishlist:item=303107619&perks=3525010810,3796465595,3987942396,3744057135
 dimwishlist:item=303107619&perks=3525010810,3796465595,2817499044,3078487919
 dimwishlist:item=303107619&perks=3525010810,3796465595,2817499044,3744057135
+dimwishlist:item=303107619&perks=3525010810,274905539,3987942396,3078487919
+dimwishlist:item=303107619&perks=3525010810,274905539,3987942396,3744057135
+dimwishlist:item=303107619&perks=3525010810,274905539,2817499044,3078487919
+dimwishlist:item=303107619&perks=3525010810,274905539,2817499044,3744057135
 
 
 //Triton Vice
 //notes:Aegis Boss Damage Shopping #4 -> Synthoceps-equivalent glaive melee booster for hunter
 dimwishlist:item=3093309525&perks=,,,
+dimwishlist:item=1304266146&perks=,,,
 
 
 //Unloved
@@ -1264,6 +1376,7 @@ dimwishlist:item=1983149589&perks=1840239774,3177308360,777589559,1067908860
 //notes:Aegis Boss Damage Shopping #4 -> Best burst damage option for Winterbite, but very niche and restrictive
 dimwishlist:item=1862800745&perks=,,,
 dimwishlist:item=3844826443&perks=,,,
+dimwishlist:item=900910756&perks=,,,
 
 
 //Without Remorse

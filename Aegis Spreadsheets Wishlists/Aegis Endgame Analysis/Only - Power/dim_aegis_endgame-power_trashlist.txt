@@ -2,7 +2,7 @@ title:Aegis's Endgame Analysis -> Power (Trash List)
 description:Power weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Qullim's Terminus
-//notes:D Tier. Aegis Recommended alternative(s): Archon's Thunder
+//notes:D Tier. Aegis Recommended alternative(s): Ulterior Observation, Archon's Thunder
 dimwishlist:item=-1321506184&perks=
 dimwishlist:item=-3248429089&perks=
 
@@ -18,7 +18,7 @@ dimwishlist:item=-2582755344&perks=
 
 
 //Thermal Erosion
-//notes:E Tier. Aegis Recommended alternative(s): Avalanche, Speleologist, Unwavering Duty
+//notes:E Tier. Aegis Recommended alternative(s): Unwavering Duty, Avalanche, Speleologist
 dimwishlist:item=-1766088024&perks=
 
 
@@ -36,7 +36,7 @@ dimwishlist:item=-105306149&perks=
 
 
 //Love and Death
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
+//notes:D Tier. Aegis Recommended alternative(s): Outrageous Fortune
 dimwishlist:item=-3690523502&perks=
 
 
@@ -58,18 +58,13 @@ dimwishlist:item=-3568377122&perks=
 
 
 //Cry Mutiny
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
+//notes:E Tier. Aegis Recommended alternative(s): Outrageous Fortune
 dimwishlist:item=-616582330&perks=
 
 
 //Canis Major
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
+//notes:E Tier. Aegis Recommended alternative(s): Outrageous Fortune
 dimwishlist:item=-2066434718&perks=
-
-
-//Outrageous Fortune
-//notes:F Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar HGLs
-dimwishlist:item=-4146702548&perks=
 
 
 //Tarnation
@@ -105,7 +100,7 @@ dimwishlist:item=-3257091166&perks=
 
 
 //Caretaker
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
+//notes:D Tier. Aegis Recommended alternative(s): Synanceia
 dimwishlist:item=-2508948099&perks=
 
 
@@ -116,7 +111,7 @@ dimwishlist:item=-2857348871&perks=
 
 
 //Eternity's Edge
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
+//notes:D Tier. Aegis Recommended alternative(s): Synanceia
 dimwishlist:item=-2782325301&perks=
 dimwishlist:item=-1180270693&perks=
 
@@ -128,7 +123,7 @@ dimwishlist:item=-1180270694&perks=
 
 
 //Throne-Cleaver
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
+//notes:D Tier. Aegis Recommended alternative(s): Synanceia
 dimwishlist:item=-3371413059&perks=
 dimwishlist:item=-569799273&perks=
 
@@ -139,7 +134,7 @@ dimwishlist:item=-3668817296&perks=
 
 
 //Sola's Scar
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Solar Swords
+//notes:E Tier. Aegis Recommended alternative(s): Synanceia
 dimwishlist:item=-1313528549&perks=
 dimwishlist:item=-3847137620&perks=
 
@@ -202,7 +197,7 @@ dimwishlist:item=-42351395&perks=
 
 
 //Sailspy Pitchglass
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc LFRs
+//notes:D Tier. Aegis Recommended alternative(s): Boomslang-4fr
 dimwishlist:item=-1184309824&perks=
 
 
@@ -217,7 +212,7 @@ dimwishlist:item=-3075224551&perks=
 
 
 //Tarantula
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Arc LFRs
+//notes:E Tier. Aegis Recommended alternative(s): Boomslang-4fr
 dimwishlist:item=-3335343363&perks=
 dimwishlist:item=-2502422775&perks=
 

@@ -14,7 +14,7 @@ dimwishlist:item=-4225322581&perks=
 
 
 //Scavenger's Fate
-//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Basso Ostinato, The Deicide
+//notes:D Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Precipial, Pure Recollection, Basso Ostinato, The Deicide
 dimwishlist:item=-2913577176&perks=
 
 
@@ -33,12 +33,12 @@ dimwishlist:item=-487361141&perks=
 
 
 //Fractethyst
-//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Shotguns
+//notes:D Tier. Aegis Recommended alternative(s): Trachinus
 dimwishlist:item=-3184681056&perks=
 
 
 //No Reprieve
-//notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis Shotguns
+//notes:E Tier. Aegis Recommended alternative(s): Trachinus
 dimwishlist:item=-2531963421&perks=
 
 
@@ -87,7 +87,7 @@ dimwishlist:item=-2782847179&perks=
 
 
 //Bonechiller
-//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Basso Ostinato, The Deicide
+//notes:F Tier. Aegis Recommended alternative(s): Unvoiced, A Sudden Death, Precipial, Pure Recollection, Basso Ostinato, The Deicide
 dimwishlist:item=-4037745684&perks=
 
 
@@ -110,6 +110,11 @@ dimwishlist:item=-3503019618&perks=
 //Father's Sins
 //notes:D Tier. Aegis Recommended alternative(s): Veleda-F, Sovereignty
 dimwishlist:item=-3865728990&perks=
+
+
+//Shoreline Dissident
+//notes:D Tier. Aegis Recommended alternative(s): Veleda-F, Sovereignty
+dimwishlist:item=-1193318082&perks=
 
 
 //A Distant Pull
@@ -266,7 +271,7 @@ dimwishlist:item=-1289796511&perks=
 
 
 //Burden of Guilt
-//notes:D Tier. Aegis Recommended alternative(s): Riptide
+//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide
 dimwishlist:item=-933455006&perks=
 dimwishlist:item=-2002522739&perks=
 
@@ -307,7 +312,7 @@ dimwishlist:item=-4114929480&perks=
 
 
 //Aurvandil FR6
-//notes:E Tier. Aegis Recommended alternative(s): Riptide
+//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide
 dimwishlist:item=-963710795&perks=
 
 
@@ -372,11 +377,10 @@ dimwishlist:item=-3252697558&perks=
 dimwishlist:item=-447296102&perks=
 
 
-//Incisor
+//Ribbontail
 //notes:D Tier. Aegis Recommended alternative(s): Unsworn
-dimwishlist:item=-4248997900&perks=
-dimwishlist:item=-2421180981&perks=
-dimwishlist:item=-1711056134&perks=
-dimwishlist:item=-2839600459&perks=
+dimwishlist:item=-3576134513&perks=
+dimwishlist:item=-407150810&perks=
+dimwishlist:item=-407150811&perks=
 
 

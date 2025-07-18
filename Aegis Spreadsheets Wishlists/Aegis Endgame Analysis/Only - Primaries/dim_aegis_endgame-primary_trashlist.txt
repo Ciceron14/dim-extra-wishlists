@@ -106,12 +106,12 @@ dimwishlist:item=-3762467078&perks=
 
 
 //Imperial Needle
-//notes:D Tier. Aegis Recommended alternative(s): Anamnesis, Fortunate Star
+//notes:D Tier. Aegis Recommended alternative(s): Fortunate Star, Anamnesis
 dimwishlist:item=-3460122497&perks=
 
 
 //Lethophobia
-//notes:D Tier. Aegis Recommended alternative(s): Anamnesis, Fortunate Star
+//notes:D Tier. Aegis Recommended alternative(s): Fortunate Star, Anamnesis
 dimwishlist:item=-3710082365&perks=
 
 
@@ -145,16 +145,21 @@ dimwishlist:item=-2848549302&perks=
 
 
 //Igneous Hammer
-//notes:D Tier. Aegis Recommended alternative(s): Zaouli's Bane
+//notes:D Tier. Aegis Recommended alternative(s): Agape, Zaouli's Bane
 dimwishlist:item=-2351180975&perks=
 dimwishlist:item=-2527666306&perks=
 dimwishlist:item=-1973107014&perks=
 dimwishlist:item=-2314610827&perks=
 
 
-//Judgement
+//Judgment
 //notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis HCs
+dimwishlist:item=-1476654960&perks=
+dimwishlist:item=-2850415209&perks=
+dimwishlist:item=-2969415423&perks=
+dimwishlist:item=-2226572694&perks=
 dimwishlist:item=-1987644603&perks=
+dimwishlist:item=-1773934241&perks=
 dimwishlist:item=-3329218848&perks=
 
 
@@ -193,7 +198,7 @@ dimwishlist:item=-2034215657&perks=
 
 
 //Rose
-//notes:E Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:E Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-2429822976&perks=
 dimwishlist:item=-882778888&perks=
 
@@ -215,13 +220,13 @@ dimwishlist:item=-1731355324&perks=
 
 
 //Austringer
-//notes:E Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:E Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-3055790362&perks=
 dimwishlist:item=-2429822977&perks=
 
 
 //Malediction
-//notes:E Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:E Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-3337727085&perks=
 
 
@@ -231,54 +236,54 @@ dimwishlist:item=-1046651176&perks=
 
 
 //Crimil's Dagger
-//notes:E Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:E Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-3649055823&perks=
 dimwishlist:item=-4292849692&perks=
 dimwishlist:item=-198854575&perks=
 
 
 //True Prophecy
-//notes:E Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:E Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-408440598&perks=
 dimwishlist:item=-2742838700&perks=
 
 
 //Annual Skate
-//notes:E Tier. Aegis Recommended alternative(s): Zaouli's Bane
+//notes:E Tier. Aegis Recommended alternative(s): Agape, Zaouli's Bane
 dimwishlist:item=-6857689&perks=
 dimwishlist:item=-2145476623&perks=
 
 
 //D.F.A.
-//notes:E Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:E Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-575830664&perks=
 dimwishlist:item=-2006308129&perks=
 dimwishlist:item=-4238497225&perks=
 
 
 //Seventh Seraph Officer Revolver
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-3037520408&perks=
 dimwishlist:item=-1555959830&perks=
 
 
 //Frontier's Cry
-//notes:F Tier. Aegis Recommended alternative(s): Zaouli's Bane
+//notes:F Tier. Aegis Recommended alternative(s): Agape, Zaouli's Bane
 dimwishlist:item=-1141547457&perks=
 
 
 //Survivor's Epitaph
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-310708513&perks=
 
 
 //Loud Lullaby
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-3924212056&perks=
 
 
 //Spare Rations
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-3116356268&perks=
 dimwishlist:item=-3236112986&perks=
 
@@ -301,18 +306,18 @@ dimwishlist:item=-701922966&perks=
 
 
 //Pure Poetry
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-2671639706&perks=
 
 
 //Dire Promise
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-582335600&perks=
 dimwishlist:item=-2742838701&perks=
 
 
 //The Steady Hand
-//notes:F Tier. Aegis Recommended alternative(s): Midnight Coup, Fatebringer
+//notes:F Tier. Aegis Recommended alternative(s): Aureus Neutralizer, Midnight Coup, Fatebringer
 dimwishlist:item=-2220884262&perks=
 dimwishlist:item=-1189790632&perks=
 
@@ -355,6 +360,11 @@ dimwishlist:item=-2856514843&perks=
 dimwishlist:item=-1780464822&perks=
 
 
+//Last Thursday
+//notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
+dimwishlist:item=-3813721211&perks=
+
+
 //Belisarius-D
 //notes:E Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Strand Pulses
 dimwishlist:item=-2313726158&perks=
@@ -366,7 +376,7 @@ dimwishlist:item=-3016891299&perks=
 
 
 //Ogma PR6
-//notes:E Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+//notes:E Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative, Stars in Shadow
 dimwishlist:item=-2342054803&perks=
 
 
@@ -378,7 +388,7 @@ dimwishlist:item=-1974641289&perks=
 
 
 //Outlast
-//notes:E Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+//notes:E Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative, Stars in Shadow
 dimwishlist:item=-299665907&perks=
 dimwishlist:item=-1678205741&perks=
 
@@ -421,8 +431,9 @@ dimwishlist:item=-558794124&perks=
 
 
 //Stars in Shadow
-//notes:F Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+//notes:A Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative, Stars in Shadow
 dimwishlist:item=-2050789284&perks=
+dimwishlist:item=-3602242905&perks=
 
 
 //Horror's Least
@@ -457,7 +468,7 @@ dimwishlist:item=-1760543913&perks=
 
 
 //Forge's Pledge
-//notes:F Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative
+//notes:F Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative, Stars in Shadow
 dimwishlist:item=-1076810832&perks=
 
 
@@ -485,14 +496,8 @@ dimwishlist:item=-222606050&perks=
 
 
 //Pointed Inquiry
-//notes:D Tier. Aegis Recommended alternative(s): Vouchsafe, Doom of Chelchis
+//notes:D Tier. Aegis Recommended alternative(s): Aisha's Embrace, Vouchsafe, Doom of Chelchis
 dimwishlist:item=-297296830&perks=
-
-
-//Aisha's Embrace
-//notes:D Tier. Aegis Recommended alternative(s): Vouchsafe, Doom of Chelchis
-dimwishlist:item=-2638190703&perks=
-dimwishlist:item=-3245493570&perks=
 
 
 //Night Watch
@@ -517,7 +522,7 @@ dimwishlist:item=-2625782213&perks=
 
 
 //Royal Chase
-//notes:E Tier. Aegis Recommended alternative(s): Vouchsafe, Doom of Chelchis
+//notes:E Tier. Aegis Recommended alternative(s): Aisha's Embrace, Vouchsafe, Doom of Chelchis
 dimwishlist:item=-2776503072&perks=
 
 
@@ -590,7 +595,7 @@ dimwishlist:item=-3854037061&perks=
 
 
 //The Last Dance
-//notes:E Tier. Aegis Recommended alternative(s): Division, Anonymous Autumn, Brigand's Law
+//notes:E Tier. Aegis Recommended alternative(s): Forgiveness, Division, Anonymous Autumn, Brigand's Law
 dimwishlist:item=-3967155859&perks=
 dimwishlist:item=-1699493316&perks=
 dimwishlist:item=-2009277538&perks=
@@ -605,12 +610,6 @@ dimwishlist:item=-2566006935&perks=
 //notes:E Tier. Aegis Recommended alternative(s): Heliocentric QSc, Drang (Baroque)
 dimwishlist:item=-65611680&perks=
 dimwishlist:item=-3424403076&perks=
-
-
-//Forgiveness
-//notes:F Tier. Aegis Recommended alternative(s): Division, Anonymous Autumn, Brigand's Law
-dimwishlist:item=-2345794502&perks=
-dimwishlist:item=-2405619467&perks=
 
 
 //Empirical Evidence
@@ -636,6 +635,11 @@ dimwishlist:item=-2510526114&perks=
 //Blood Feud
 //notes:D Tier. Weak Combo: Aegis has not listed A or S tier alternatives for Stasis SMGs
 dimwishlist:item=-1509167284&perks=
+
+
+//Qua Nilus II
+//notes:D Tier. Aegis Recommended alternative(s): Imminence
+dimwishlist:item=-190747610&perks=
 
 
 //Unforgiven
@@ -668,7 +672,7 @@ dimwishlist:item=-811403305&perks=
 
 
 //Borrowed Time
-//notes:E Tier. Aegis Recommended alternative(s): No Survivors
+//notes:E Tier. Aegis Recommended alternative(s): Yeartide Apex, No Survivors
 dimwishlist:item=-875848769&perks=
 
 
@@ -711,7 +715,7 @@ dimwishlist:item=-1339362514&perks=
 
 
 //Death Adder
-//notes:F Tier. Aegis Recommended alternative(s): No Survivors
+//notes:F Tier. Aegis Recommended alternative(s): Yeartide Apex, No Survivors
 dimwishlist:item=-2742490609&perks=
 dimwishlist:item=-2517599010&perks=
 
