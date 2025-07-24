@@ -430,12 +430,6 @@ dimwishlist:item=-1216130969&perks=
 dimwishlist:item=-558794124&perks=
 
 
-//Stars in Shadow
-//notes:A Tier. Aegis Recommended alternative(s): Nullify, Jurassic Green, Darkest Before, Adhortative, Stars in Shadow
-dimwishlist:item=-2050789284&perks=
-dimwishlist:item=-3602242905&perks=
-
-
 //Horror's Least
 //notes:F Tier. Aegis Recommended alternative(s): Vantage Point, Oversoul Edict, Corrasion, Cruel Mercy
 dimwishlist:item=-216983039&perks=
