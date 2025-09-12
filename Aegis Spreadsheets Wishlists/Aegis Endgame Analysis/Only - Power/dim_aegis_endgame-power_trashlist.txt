@@ -2,60 +2,60 @@ title:Aegis's Endgame Analysis -> Power (Trash List)
 description:Power weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Love and Death
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-3690523502&perks=
 
 
 //Swarm of the Raven
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-1972985595&perks=
 dimwishlist:item=-433905699&perks=
 
 
 //Interference VI
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-1443049976&perks=
 dimwishlist:item=-2257180473&perks=
 
 
 //Typhon GL5
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-3568377122&perks=
 
 
 //Cry Mutiny
-//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-616582330&perks=
 
 
 //Canis Major
-//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-2066434718&perks=
 
 
 //Tarnation
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-2721157927&perks=
 
 
 //Memory Interdict
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-3165547384&perks=
 dimwishlist:item=-3329842376&perks=
 
 
 //Blast Battue
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-2453357042&perks=
 
 
 //Crowd Pleaser
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-3565520715&perks=
 
 
 //Berenger's Memory
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version
 dimwishlist:item=-407621213&perks=
 dimwishlist:item=-1983332562&perks=
 
@@ -121,61 +121,61 @@ dimwishlist:item=-105306149&perks=
 
 
 //Code Duello
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-2496242052&perks=
 
 
 //Roar of the Bear
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-4009352833&perks=
 dimwishlist:item=-2231910050&perks=
 dimwishlist:item=-308332265&perks=
 
 
 //Palmyra-B
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-3489657138&perks=
 
 
 //Hoosegow
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-3669616453&perks=
 dimwishlist:item=-417474224&perks=
 
 
 //Bad Omens
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-991314988&perks=
 
 
 //Red Herring
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-3175851496&perks=
 
 
 //Heretic
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-3067821200&perks=
 
 
 //Royal Entry
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-2448907086&perks=
 
 
 //Ascendancy
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-725408022&perks=
 
 
 //Shining Sphere
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-432716552&perks=
 dimwishlist:item=-136525518&perks=
 
 
 //Subzero Salvo
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer, Haliaetus
 dimwishlist:item=-42351395&perks=
 
 

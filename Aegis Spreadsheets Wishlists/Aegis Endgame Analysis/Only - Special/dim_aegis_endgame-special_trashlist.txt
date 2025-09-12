@@ -2,28 +2,28 @@ title:Aegis's Endgame Analysis -> Special (Trash List)
 description:Special weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Salvager's Salvo
-//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-2060863616&perks=
 
 
 //Empty Vessel
-//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-4255586669&perks=
 
 
 //Orewing's Maul
-//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-1870979911&perks=
 dimwishlist:item=-2108920981&perks=
 
 
 //Prodigal Return
-//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-1946491241&perks=
 dimwishlist:item=-3252697558&perks=
 dimwishlist:item=-447296102&perks=
@@ -32,12 +32,6 @@ dimwishlist:item=-447296102&perks=
 //Aurvandil FR6
 //notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-963710795&perks=
-
-
-//Burden of Guilt
-//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
-dimwishlist:item=-933455006&perks=
-dimwishlist:item=-2002522739&perks=
 
 
 //Exile's Curse
