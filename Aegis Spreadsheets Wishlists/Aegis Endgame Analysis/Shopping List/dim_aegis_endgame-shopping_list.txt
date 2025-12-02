@@ -40,10 +40,6 @@ dimwishlist:item=3698448090&perks=1931951169,
 dimwishlist:item=3698448090&perks=1931951170,
 
 
-//The Queenbreaker
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic total heavy
-
-
 //VS Velocity Baton
 //notes:Aegis Endgame Shopping {high Priority}  - Role: orb gen GL
 dimwishlist:item=1762785663&perks=776531651,2048641572

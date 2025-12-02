@@ -2,57 +2,57 @@ title:Aegis's Endgame Analysis -> Special (Trash List)
 description:Special weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Salvager's Salvo
-//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Motif-41, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-2060863616&perks=
 
 
 //Empty Vessel
-//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Motif-41, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-4255586669&perks=
 
 
 //Orewing's Maul
-//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Motif-41, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-1870979911&perks=
 dimwishlist:item=-2108920981&perks=
 
 
 //Prodigal Return
-//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:E Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Motif-41, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-268260373&perks=
 
 
 //Truthteller
-//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
+//notes:F Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Motif-41, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Tusk of the Boar, Forbearance: BRAVE version
 dimwishlist:item=-1946491241&perks=
 dimwishlist:item=-3252697558&perks=
 dimwishlist:item=-447296102&perks=
 
 
 //Aurvandil FR6
-//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-963710795&perks=
 
 
 //Exile's Curse
-//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-276080079&perks=
 dimwishlist:item=-679281855&perks=
 
 
 //Iterative Loop
-//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-1289796511&perks=
 
 
 //Hollow Words
-//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-607191995&perks=
 dimwishlist:item=-342027677&perks=
 
 
 //The Wizened Rebuke
-//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-1999697514&perks=
 dimwishlist:item=-2290416&perks=
 dimwishlist:item=-2961807684&perks=
@@ -60,49 +60,49 @@ dimwishlist:item=-930590127&perks=
 
 
 //Iota Draconis
-//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-3044460004&perks=
 
 
 //Dream Breaker
-//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-2931957300&perks=
 
 
 //Snorri FR5
-//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-4114929480&perks=
 
 
 //Likely Suspect
-//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-1994645182&perks=
 
 
 //Trinary System
-//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-3258665412&perks=
 
 
 //Main Ingredient
-//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-3445437901&perks=
 dimwishlist:item=-253196586&perks=
 
 
 //Timelines' Vertex
-//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-1006783454&perks=
 dimwishlist:item=-3055192515&perks=
 
 
 //Coriolis Force
-//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-3512349612&perks=
 
 
 //The Epicurean
-//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Scatter Signal, Finite Maybe, Riptide, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-2263839058&perks=
 dimwishlist:item=-4124357815&perks=
 
@@ -143,6 +143,15 @@ dimwishlist:item=-51129316&perks=
 dimwishlist:item=-2330860573&perks=
 
 
+//Astral Horizon
+//notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Unvoiced, IKELOS_SG_v1.0.3, Until Its Return, A Sudden Death: RotN version, Imperial Decree, Pure Recollection, Heritage, Found Verdict
+dimwishlist:item=-532746994&perks=
+dimwishlist:item=-2653171213&perks=
+dimwishlist:item=-854379020&perks=
+dimwishlist:item=-1697682876&perks=
+dimwishlist:item=-2269779982&perks=
+
+
 //Fractethyst
 //notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Unvoiced, IKELOS_SG_v1.0.3, Until Its Return, A Sudden Death: RotN version, Imperial Decree, Pure Recollection, Heritage, Found Verdict
 dimwishlist:item=-3184681056&perks=
@@ -157,14 +166,6 @@ dimwishlist:item=-2531963421&perks=
 //notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Unvoiced, IKELOS_SG_v1.0.3, Until Its Return, A Sudden Death: RotN version, Imperial Decree, Pure Recollection, Heritage, Found Verdict
 dimwishlist:item=-755130877&perks=
 dimwishlist:item=-4287947559&perks=
-
-
-//Astral Horizon
-//notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Unvoiced, IKELOS_SG_v1.0.3, Until Its Return, A Sudden Death: RotN version, Imperial Decree, Pure Recollection, Heritage, Found Verdict
-dimwishlist:item=-532746994&perks=
-dimwishlist:item=-2653171213&perks=
-dimwishlist:item=-854379020&perks=
-dimwishlist:item=-1697682876&perks=
 
 
 //Mindbender's Ambition
@@ -208,125 +209,125 @@ dimwishlist:item=-3216652511&perks=
 
 
 //Frozen Orbit
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3473290087&perks=
 
 
 //Tranquility
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1645386487&perks=
 
 
 //Defiance of Yasmin
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3228096719&perks=
 dimwishlist:item=-3503019618&perks=
 
 
 //Locus Locutus
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-4132072834&perks=
 
 
 //Volta Bracket
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3920310144&perks=
 
 
 //Thoughtless
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-4067556514&perks=
 
 
 //The Long Walk
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3326850591&perks=
 dimwishlist:item=-174804902&perks=
 
 
 //Occluded Finality
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-852551895&perks=
 dimwishlist:item=-3434507093&perks=
 
 
 //Mechabre
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1280894514&perks=
 dimwishlist:item=-3871226707&perks=
 dimwishlist:item=-2477980485&perks=
 
 
 //Silicon Neuroma
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3355385170&perks=
 dimwishlist:item=-1387987271&perks=
 dimwishlist:item=-990416096&perks=
 
 
 //Luna Regolith III
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1948035256&perks=
 
 
 //Far Future
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-893527433&perks=
 
 
 //Albruna-D
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-676270382&perks=
 
 
 //Bite of the Fox
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1403800851&perks=
 dimwishlist:item=-3169616514&perks=
 
 
 //Last Foray
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1106635211&perks=
 
 
 //Adored
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-4184808992&perks=
 
 
 //Beloved
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3107853529&perks=
 dimwishlist:item=-4190932264&perks=
 
 
 //Persuader
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-2290863050&perks=
 dimwishlist:item=-4083045006&perks=
 dimwishlist:item=-781498181&perks=
 
 
 //Gallu RR3
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-617501162&perks=
 
 
 //Sole Survivor
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1115104187&perks=
 dimwishlist:item=-1150492185&perks=
 
 
 //Shepherd's Watch
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3743729616&perks=
 dimwishlist:item=-3312073053&perks=
 
 
 //Eye of Sol
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3637570176&perks=
 dimwishlist:item=-3164743584&perks=
 dimwishlist:item=-1401300690&perks=
@@ -336,34 +337,34 @@ dimwishlist:item=-1321626661&perks=
 
 
 //Mercurial Overreach
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-2073794990&perks=
 
 
 //Widow's Bite
-//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1271343896&perks=
 dimwishlist:item=-3312073055&perks=
 
 
 //1000 Yard Stare
-//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-4164201232&perks=
 
 
 //Long Shadow
-//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3745990145&perks=
 
 
 //The Domino
-//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-4272442416&perks=
 dimwishlist:item=-2800870005&perks=
 
 
 //Apostate
-//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
+//notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-2164448701&perks=
 
 
