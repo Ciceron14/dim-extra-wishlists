@@ -87,23 +87,23 @@ dimwishlist:item=-2714022207&perks=
 
 
 //Qullim's Terminus
-//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Bitter End, Terminus Horizon: RotN version, Qua Vinctus IV, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-1321506184&perks=
 dimwishlist:item=-3248429089&perks=
 
 
 //Circular Logic
-//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Bitter End, Terminus Horizon: RotN version, Qua Vinctus IV, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-2187717691&perks=
 
 
 //Seventh Seraph SAW
-//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Bitter End, Terminus Horizon: RotN version, Qua Vinctus IV, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-2582755344&perks=
 
 
 //THE SWARM
-//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Bitter End, Terminus Horizon: RotN version, Qua Vinctus IV, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-47772649&perks=
 dimwishlist:item=-3836861464&perks=
 dimwishlist:item=-2759590322&perks=
@@ -111,12 +111,12 @@ dimwishlist:item=-566740455&perks=
 
 
 //Thermal Erosion
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Bitter End, Terminus Horizon: RotN version, Qua Vinctus IV, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-1766088024&perks=
 
 
 //Eleatic Principle
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Bitter End, Terminus Horizon: RotN version, Qua Vinctus IV, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-105306149&perks=
 
 

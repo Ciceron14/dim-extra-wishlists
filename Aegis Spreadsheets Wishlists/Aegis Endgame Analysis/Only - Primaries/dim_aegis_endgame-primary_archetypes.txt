@@ -332,7 +332,7 @@ dimwishlist:item=2838279629&perks=617966211,1549370717
 
 
 //Corundum Hammer
-//notes:Aegis Top Adaptive HC: A Tier. Best With 'Fleet-Footed' Origin Trait.
+//notes:Aegis Top Adaptive HC: A Tier. Best With 'Fleet Footed' Origin Trait.
 dimwishlist:item=2263462407&perks=3824105627,960997401
 dimwishlist:item=2263462407&perks=3824105627,3244229373
 dimwishlist:item=2263462407&perks=3824105627,3038247973
@@ -510,7 +510,7 @@ dimwishlist:item=3830941962&perks=2785334058,717070634
 
 
 //The Martlet
-//notes:Aegis Top Lightweight Pulse: S Tier. Best With 'Fleet-Footed' Origin Trait.
+//notes:Aegis Top Lightweight Pulse: S Tier. Best With 'Fleet Footed' Origin Trait.
 dimwishlist:item=877384&perks=3824105627,2048641572
 dimwishlist:item=877384&perks=3824105627,1926441324
 dimwishlist:item=877384&perks=1183436451,2048641572
@@ -998,7 +998,7 @@ dimwishlist:item=55393445&perks=4071163871,781192741
 
 
 //Peculiar Charm
-//notes:Aegis Top Aggressive Burst SMG: A Tier. Best With 'Field-Tested' Origin Trait.
+//notes:Aegis Top Aggressive Burst SMG: S Tier.
 dimwishlist:item=3620277039&perks=243981275,3891536761
 dimwishlist:item=3620277039&perks=243981275,1549370717
 dimwishlist:item=3620277039&perks=243981275,2289534249

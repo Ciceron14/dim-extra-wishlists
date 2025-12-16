@@ -2,139 +2,130 @@ title:Aegis's Endgame Analysis -> Primaries (Trash List)
 description:Primary weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
 //Rufus's Fury
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-484515708&perks=
 dimwishlist:item=-342514437&perks=
 
 
 //Lethal Abundance
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2189073092&perks=
 dimwishlist:item=-3428407746&perks=
 
 
 //Come to Pass
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-927567426&perks=
 
 
 //Old Sterling
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-3678653083&perks=
 
 
 //Sweet Sorrow
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-1248372789&perks=
 
 
 //The Last Breath
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-507038823&perks=
 dimwishlist:item=-1503609584&perks=
 
 
 //Arctic Haze
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-20935540&perks=
 
 
 //Perpetualis
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-392008588&perks=
 
 
 //Chrysura Melo
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-1337707096&perks=
 
 
 //The Forward Path
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-1690783811&perks=
 dimwishlist:item=-2014642399&perks=
 
 
 //Seventh Seraph Carbine
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-1561006927&perks=
 dimwishlist:item=-4070357005&perks=
 
 
-//Duty Bound
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
-dimwishlist:item=-435216110&perks=
-dimwishlist:item=-1135050595&perks=
-dimwishlist:item=-1457979868&perks=
-dimwishlist:item=-260532765&perks=
-dimwishlist:item=-89693562&perks=
-
-
 //Sorrow's Verse
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2496875173&perks=
 
 
 //Arc Logic
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2723909519&perks=
 
 
 //Lodbrok-C
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2328531378&perks=
 
 
 //Gnawing Hunger
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-821154603&perks=
 
 
 //Firefright
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2778013407&perks=
 
 
 //The Number
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2492081469&perks=
 dimwishlist:item=-3854359821&perks=
 
 
 //Scathelocke
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Adamantite, Reckless Oracle, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant
+//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-602618796&perks=
 dimwishlist:item=-3762467078&perks=
 
 
 //Imperial Needle
-//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-3460122497&perks=
 
 
 //Lunulata-4B
-//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-2513965917&perks=
 
 
 //Biting Winds
-//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-1621657423&perks=
 
 
 //Lethophobia
-//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-3710082365&perks=
 
 
 //Whispering Slab
-//notes:E Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:E Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-211938782&perks=
 dimwishlist:item=-690341468&perks=
 
 
 //Whistler's Whim
-//notes:E Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:E Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-1574601402&perks=
 dimwishlist:item=-711889599&perks=
 dimwishlist:item=-3165143747&perks=
@@ -142,7 +133,7 @@ dimwishlist:item=-161675590&perks=
 
 
 //Neoptolemus II
-//notes:E Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, Tyranny of Heaven, Mercury-A
+//notes:E Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
 dimwishlist:item=-2848549302&perks=
 
 
@@ -532,113 +523,113 @@ dimwishlist:item=-2478792241&perks=
 
 
 //Allied Demand
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-1532276803&perks=
 dimwishlist:item=-3166250992&perks=
 dimwishlist:item=-982229638&perks=
 
 
 //Lonesome
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-2199171672&perks=
 
 
 //Enigma's Draw
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-2581162758&perks=
 dimwishlist:item=-1723380073&perks=
 
 
 //The Last Dance
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-3967155859&perks=
 dimwishlist:item=-1699493316&perks=
 dimwishlist:item=-2009277538&perks=
 
 
 //Controlling Vision
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-48361212&perks=
 dimwishlist:item=-423343404&perks=
 
 
 //Spoiler Alert
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-2588048270&perks=
 dimwishlist:item=-819358961&perks=
 
 
 //Redback-5SI
-//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:D Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-1687353095&perks=
 
 
 //Farewell
-//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-541188001&perks=
 
 
 //A Swift Verdict
-//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-1626503676&perks=
 dimwishlist:item=-3854037061&perks=
 
 
 //Fioritura-59
-//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-2566006935&perks=
 
 
 //The Fool's Remedy
-//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:E Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-65611680&perks=
 dimwishlist:item=-3424403076&perks=
 
 
 //Empirical Evidence
-//notes:F Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:F Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-2607304614&perks=
 
 
 //High Albedo
-//notes:F Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Anonymous Autumn, Brigand's Law, Drang (Baroque)
+//notes:F Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
 dimwishlist:item=-1197486957&perks=
 
 
 //Yarovit MG4
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-3959549446&perks=
 
 
 //Prolonged Engagement
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2349907931&perks=
 
 
 //Unending Tempest
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2510526114&perks=
 
 
 //Blood Feud
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1509167284&perks=
 
 
 //Unforgiven
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-3000847393&perks=
 
 
 //Cold Front
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1506719573&perks=
 dimwishlist:item=-2814093983&perks=
 dimwishlist:item=-3206190066&perks=
 
 
 //Mirror Imago
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-3234363830&perks=
 dimwishlist:item=-302039451&perks=
 dimwishlist:item=-3877448149&perks=
@@ -646,91 +637,91 @@ dimwishlist:item=-4116546788&perks=
 
 
 //Synchronic Roulette
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-811403305&perks=
 
 
 //Borrowed Time
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-875848769&perks=
 
 
 //Forensic Nightmare
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1526296434&perks=
 
 
 //Submission
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-3886416794&perks=
 dimwishlist:item=-1941816543&perks=
 
 
 //Funnelweb
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-3341893443&perks=
 
 
 //Out of Bounds
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2988121501&perks=
 
 
 //Escape Velocity
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1459443448&perks=
 dimwishlist:item=-1786797708&perks=
 
 
 //Boondoggle Mk. 55
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-32287609&perks=
 
 
 //Death Adder
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2742490609&perks=
 dimwishlist:item=-2517599010&perks=
 
 
 //Stochastic Variable
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2272470786&perks=
 dimwishlist:item=-1339362514&perks=
 
 
 //Rapacious Appetite
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1081724548&perks=
 
 
 //Extraordinary Rendition
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1097616550&perks=
 
 
 //Pizzicato-22
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-4100775158&perks=
 
 
 //Enyo-D
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1601177201&perks=
 
 
 //Friction Fire
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-1513993763&perks=
 
 
 //Seventh Seraph VY-7
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-766323545&perks=
 
 
 //Every Waking Moment
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, The Recluse, MIDA Mini-Tool, Antedate, The Title, Peculiar Charm, Gunburn, Imminence, No Survivors: RotN version, M-17 "Fast Talker", Shayura's Wrath, Noxious Vetiver
+//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-4277547616&perks=
 
 
