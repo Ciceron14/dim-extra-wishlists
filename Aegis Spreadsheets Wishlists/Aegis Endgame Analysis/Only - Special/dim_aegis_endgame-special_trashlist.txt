@@ -30,29 +30,29 @@ dimwishlist:item=-447296102&perks=
 
 
 //Aurvandil FR6
-//notes:D Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-963710795&perks=
 
 
 //Exile's Curse
-//notes:D Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-276080079&perks=
 dimwishlist:item=-679281855&perks=
 
 
 //Iterative Loop
-//notes:D Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1289796511&perks=
 
 
 //Hollow Words
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-607191995&perks=
 dimwishlist:item=-342027677&perks=
 
 
 //The Wizened Rebuke
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1999697514&perks=
 dimwishlist:item=-2290416&perks=
 dimwishlist:item=-2961807684&perks=
@@ -60,49 +60,49 @@ dimwishlist:item=-930590127&perks=
 
 
 //Iota Draconis
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3044460004&perks=
 
 
 //Dream Breaker
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-2931957300&perks=
 
 
 //Snorri FR5
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-4114929480&perks=
 
 
 //Likely Suspect
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1994645182&perks=
 
 
 //Trinary System
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3258665412&perks=
 
 
 //Main Ingredient
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3445437901&perks=
 dimwishlist:item=-253196586&perks=
 
 
 //Timelines' Vertex
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1006783454&perks=
 dimwishlist:item=-3055192515&perks=
 
 
 //Coriolis Force
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3512349612&perks=
 
 
 //The Epicurean
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-2263839058&perks=
 dimwishlist:item=-4124357815&perks=
 

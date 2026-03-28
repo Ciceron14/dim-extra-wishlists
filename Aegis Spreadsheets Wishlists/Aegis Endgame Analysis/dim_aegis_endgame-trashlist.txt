@@ -138,167 +138,167 @@ dimwishlist:item=-2848549302&perks=
 
 
 //Something New
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1856262127&perks=
 dimwishlist:item=-3240434620&perks=
 dimwishlist:item=-586671776&perks=
 
 
 //Eyasluna
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-235827225&perks=
 
 
 //Finite Impactor
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3813153080&perks=
 dimwishlist:item=-701922966&perks=
 dimwishlist:item=-1917334929&perks=
 
 
 //Spare Rations
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3116356268&perks=
 dimwishlist:item=-3236112986&perks=
 
 
 //Better Devils
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1048266744&perks=
 dimwishlist:item=-153979397&perks=
 dimwishlist:item=-4152016199&perks=
 
 
 //Targeted Redaction
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3890055324&perks=
 
 
 //Combined Action
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1331824604&perks=
 
 
 //Round Robin
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-2034215657&perks=
 
 
 //Rose
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-2429822976&perks=
 dimwishlist:item=-882778888&perks=
 
 
 //Cantata-57
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-372697604&perks=
 
 
 //Optative
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-2138599001&perks=
 dimwishlist:item=-2817683783&perks=
 
 
 //IKELOS_HC_V1.0.3
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1731355324&perks=
 
 
 //Malediction
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3337727085&perks=
 
 
 //Bottom Dollar
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1046651176&perks=
 
 
 //Crimil's Dagger
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3649055823&perks=
 dimwishlist:item=-4292849692&perks=
 dimwishlist:item=-198854575&perks=
 
 
 //True Prophecy
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-408440598&perks=
 dimwishlist:item=-2742838700&perks=
 
 
 //Annual Skate
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-6857689&perks=
 dimwishlist:item=-2145476623&perks=
 
 
 //D.F.A.
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-575830664&perks=
 dimwishlist:item=-2006308129&perks=
 dimwishlist:item=-4238497225&perks=
 
 
 //Seventh Seraph Officer Revolver
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3037520408&perks=
 dimwishlist:item=-1555959830&perks=
 
 
 //Frontier's Cry
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1141547457&perks=
 
 
 //Survivor's Epitaph
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-310708513&perks=
 
 
 //Austringer
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3055790362&perks=
 dimwishlist:item=-2429822977&perks=
 
 
 //Loud Lullaby
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-3924212056&perks=
 
 
 //Nature of the Beast
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1835747805&perks=
 dimwishlist:item=-468276817&perks=
 
 
 //Crisis Inverted
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-2888266564&perks=
 
 
 //Pure Poetry
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-2671639706&perks=
 
 
 //Dire Promise
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-582335600&perks=
 dimwishlist:item=-2742838701&perks=
 
 
 //The Steady Hand
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-2220884262&perks=
 dimwishlist:item=-1189790632&perks=
 
 
 //Kept Confidence
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
+//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Posterity, Modified B-7 Pistol, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Triple Laureate, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1875512595&perks=
 
 
@@ -754,29 +754,29 @@ dimwishlist:item=-447296102&perks=
 
 
 //Aurvandil FR6
-//notes:D Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-963710795&perks=
 
 
 //Exile's Curse
-//notes:D Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-276080079&perks=
 dimwishlist:item=-679281855&perks=
 
 
 //Iterative Loop
-//notes:D Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:D Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1289796511&perks=
 
 
 //Hollow Words
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-607191995&perks=
 dimwishlist:item=-342027677&perks=
 
 
 //The Wizened Rebuke
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1999697514&perks=
 dimwishlist:item=-2290416&perks=
 dimwishlist:item=-2961807684&perks=
@@ -784,49 +784,49 @@ dimwishlist:item=-930590127&perks=
 
 
 //Iota Draconis
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3044460004&perks=
 
 
 //Dream Breaker
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-2931957300&perks=
 
 
 //Snorri FR5
-//notes:E Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:E Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-4114929480&perks=
 
 
 //Likely Suspect
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1994645182&perks=
 
 
 //Trinary System
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3258665412&perks=
 
 
 //Main Ingredient
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3445437901&perks=
 dimwishlist:item=-253196586&perks=
 
 
 //Timelines' Vertex
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1006783454&perks=
 dimwishlist:item=-3055192515&perks=
 
 
 //Coriolis Force
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-3512349612&perks=
 
 
 //The Epicurean
-//notes:F Tier. Aegis Recommended alternative(s): Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
+//notes:F Tier. Aegis Recommended alternative(s): The Beacon, Riptide, Lionfish-4fr, Scatter Signal, Finite Maybe, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-2263839058&perks=
 dimwishlist:item=-4124357815&perks=
 
