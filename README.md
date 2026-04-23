@@ -37,7 +37,7 @@ If you want more control over what shows in your DIM Wishlist, more information 
 
 ## Endgame Analysis Split Wishlists
 ### Weapon Types
-Wishlists for the Endgame Analysis Spreadsheet can be split per Ammo Type. Use the folders to find them.
+Wishlists for the Endgame Analysis Spreadsheet can be split per Ammo Type. Use the [folders](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis) to find them.
 You can use the combined ones from the root of the Endgame Analysis folder to get all slots in one wishlist instead.
 
 ### Exclusivity
@@ -49,19 +49,19 @@ Each slot in the Endgame Analysis section contains a Trash List that can be used
 
 Note that it would be possible for a gun to be in the Trash List but still have a roll in the Combo or Archetype lists (see below). Example: if some day the highest rate "Lightweight Scout" or "Strand SMG" etc. is only D Tier.
 
-[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt) or grab an ammo type-specific one from the folders.
+[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt) or grab an ammo type-specific one from the [folders](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis).
 ### Combo Lists
 The Endgame Analysis sections contain Combo Wishlists that can be used for collection purposes. They list the highest rated weapon for each type & element (for example, best Stasis Shotgun, etc.)
 
-[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt) or grab an ammo type-specific one from the folders.
+[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt) or grab an ammo type-specific one from the [folders](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis).
 ### Archetypes Lists
 The Endgame Analysis sections contain Archetype Wishlists that can be used for collection purposes. They list the highest rated weapon for each type & archetype (for example, best Slug Shotgun, etc.)
 
-[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt) or grab an ammo type-specific one from the folders.
+[Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt) or grab an ammo type-specific one from the [folders](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis).
 
 
 ## Boss Damage & Speedrun Lists Information
 ### Perks
-While Endgame wishlists will only look at "Major Perks" aka the two main traits of a weapon, (as this is what Aegis lists in the Endgame Spreadsheet), the Speedrunner's Shopping List and Boss Damage sheets do list barrels and mags.
+While Endgame wishlists will only look at "Major Perks" aka the two main traits of a weapon, (as this is what Aegis lists in the Endgame Spreadsheet), the [Speedrunner's Shopping List](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning) and [Boss Damage](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage) sheets do list barrels and mags.
 
 As a result, you can choose the standard wishlist for these, or a less grindy "Major Perks" version that only takes into account major perks.
