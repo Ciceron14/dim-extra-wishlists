@@ -1,241 +1,154 @@
 title:Aegis's Endgame Analysis -> Power (Trash List)
 description:Power weapons rated D tier or lower are marked as Trash. S or A tier alternatives are given if they exist.
 
-//Love and Death
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
-dimwishlist:item=-3690523502&perks=
+//Cry Mutiny
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
+dimwishlist:item=-616582330&perks=
+dimwishlist:item=-768696858&perks=
 
 
 //Swarm of the Raven
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-1972985595&perks=
 dimwishlist:item=-433905699&perks=
 
 
 //Interference VI
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-1443049976&perks=
 dimwishlist:item=-2257180473&perks=
 
 
 //Typhon GL5
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-3568377122&perks=
 
 
-//Cry Mutiny
-//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
-dimwishlist:item=-616582330&perks=
-
-
-//Canis Major
-//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
-dimwishlist:item=-2066434718&perks=
-
-
-//Tarnation
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
-dimwishlist:item=-2721157927&perks=
-
-
 //Memory Interdict
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-3165547384&perks=
 dimwishlist:item=-3329842376&perks=
 
 
 //Blast Battue
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-2453357042&perks=
 
 
 //Crowd Pleaser
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-3565520715&perks=
 
 
 //Berenger's Memory
-//notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
+//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
 dimwishlist:item=-407621213&perks=
 dimwishlist:item=-1983332562&perks=
 
 
 //Sailspy Pitchglass
-//notes:D Tier. Aegis Recommended alternative(s): Scintillation, Mistral Lift, Boomslang-4fr, Doomed Petitioner, Cataclysmic, Briar's Contempt
+//notes:D Tier. Aegis Recommended alternative(s): Eyes Unveiled, Cataclysmic, Briar's Contempt, Scintillation, Mistral Lift, Stormchaser, Boomslang-4fr, Doomed Petitioner
 dimwishlist:item=-1184309824&perks=
 
 
 //Laser Painter
-//notes:D Tier. Aegis Recommended alternative(s): Scintillation, Mistral Lift, Boomslang-4fr, Doomed Petitioner, Cataclysmic, Briar's Contempt
+//notes:D Tier. Aegis Recommended alternative(s): Eyes Unveiled, Cataclysmic, Briar's Contempt, Scintillation, Mistral Lift, Stormchaser, Boomslang-4fr, Doomed Petitioner
 dimwishlist:item=-3221722018&perks=
+dimwishlist:item=-1439354195&perks=
 
 
 //Threaded Needle
-//notes:D Tier. Aegis Recommended alternative(s): Scintillation, Mistral Lift, Boomslang-4fr, Doomed Petitioner, Cataclysmic, Briar's Contempt
+//notes:D Tier. Aegis Recommended alternative(s): Eyes Unveiled, Cataclysmic, Briar's Contempt, Scintillation, Mistral Lift, Stormchaser, Boomslang-4fr, Doomed Petitioner
 dimwishlist:item=-3075224551&perks=
 
 
 //Tarantula
-//notes:E Tier. Aegis Recommended alternative(s): Scintillation, Mistral Lift, Boomslang-4fr, Doomed Petitioner, Cataclysmic, Briar's Contempt
+//notes:E Tier. Aegis Recommended alternative(s): Eyes Unveiled, Cataclysmic, Briar's Contempt, Scintillation, Mistral Lift, Stormchaser, Boomslang-4fr, Doomed Petitioner
 dimwishlist:item=-3335343363&perks=
 dimwishlist:item=-2502422775&perks=
 
 
 //Corsair's Wrath
-//notes:E Tier. Aegis Recommended alternative(s): Scintillation, Mistral Lift, Boomslang-4fr, Doomed Petitioner, Cataclysmic, Briar's Contempt
+//notes:E Tier. Aegis Recommended alternative(s): Eyes Unveiled, Cataclysmic, Briar's Contempt, Scintillation, Mistral Lift, Stormchaser, Boomslang-4fr, Doomed Petitioner
 dimwishlist:item=-2714022207&perks=
 
 
-//Qullim's Terminus
-//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Qua Vinctus IV, Pro Memoria, Ulterior Observation, Corrective Measure, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
-dimwishlist:item=-1321506184&perks=
-dimwishlist:item=-3248429089&perks=
-
-
-//Circular Logic
-//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Qua Vinctus IV, Pro Memoria, Ulterior Observation, Corrective Measure, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
-dimwishlist:item=-2187717691&perks=
-
-
-//Seventh Seraph SAW
-//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Qua Vinctus IV, Pro Memoria, Ulterior Observation, Corrective Measure, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
-dimwishlist:item=-2582755344&perks=
-
-
 //THE SWARM
-//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Qua Vinctus IV, Pro Memoria, Ulterior Observation, Corrective Measure, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yût, Qua Vinctus IV, Thermal Erosion, Pro Memoria, Circular Logic, Ulterior Observation, Corrective Measure, Chain of Command, Bane of Sorrow, Qullim's Terminus, Terminus Horizon: RotN version, Seventh Seraph SAW, Terminus Horizon, Commemoration, DIABLERETS 06, Avalanche, Unwavering Duty, Temporal Clause, Hammerhead, Dawn Far Off, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-47772649&perks=
 dimwishlist:item=-3836861464&perks=
 dimwishlist:item=-2759590322&perks=
 dimwishlist:item=-566740455&perks=
 
 
-//Thermal Erosion
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Qua Vinctus IV, Pro Memoria, Ulterior Observation, Corrective Measure, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
-dimwishlist:item=-1766088024&perks=
-
-
 //Eleatic Principle
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Qua Vinctus IV, Pro Memoria, Ulterior Observation, Corrective Measure, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
+//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yût, Qua Vinctus IV, Thermal Erosion, Pro Memoria, Circular Logic, Ulterior Observation, Corrective Measure, Chain of Command, Bane of Sorrow, Qullim's Terminus, Terminus Horizon: RotN version, Seventh Seraph SAW, Terminus Horizon, Commemoration, DIABLERETS 06, Avalanche, Unwavering Duty, Temporal Clause, Hammerhead, Dawn Far Off, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-105306149&perks=
 
 
 //Code Duello
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, Cynosure, The Hothead, The When and Where, Crux Celeritas IV, Bellowing Giant, Roar of the Bear, Apex Predator, Cold Comfort: RotN version, Heretic, Tomorrow's Answer, Bad Omens, Red Herring, Cold Comfort
 dimwishlist:item=-2496242052&perks=
 
 
-//Roar of the Bear
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-4009352833&perks=
-dimwishlist:item=-2231910050&perks=
-dimwishlist:item=-308332265&perks=
-
-
 //Palmyra-B
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, Cynosure, The Hothead, The When and Where, Crux Celeritas IV, Bellowing Giant, Roar of the Bear, Apex Predator, Cold Comfort: RotN version, Heretic, Tomorrow's Answer, Bad Omens, Red Herring, Cold Comfort
 dimwishlist:item=-3489657138&perks=
 
 
 //Hoosegow
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, Cynosure, The Hothead, The When and Where, Crux Celeritas IV, Bellowing Giant, Roar of the Bear, Apex Predator, Cold Comfort: RotN version, Heretic, Tomorrow's Answer, Bad Omens, Red Herring, Cold Comfort
 dimwishlist:item=-3669616453&perks=
 dimwishlist:item=-417474224&perks=
 
 
-//Bad Omens
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-991314988&perks=
-
-
-//Red Herring
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-3175851496&perks=
-
-
-//Heretic
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-3067821200&perks=
-
-
 //Royal Entry
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, Cynosure, The Hothead, The When and Where, Crux Celeritas IV, Bellowing Giant, Roar of the Bear, Apex Predator, Cold Comfort: RotN version, Heretic, Tomorrow's Answer, Bad Omens, Red Herring, Cold Comfort
 dimwishlist:item=-2448907086&perks=
 
 
-//Ascendancy
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-725408022&perks=
-
-
 //Shining Sphere
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, Cynosure, The Hothead, The When and Where, Crux Celeritas IV, Bellowing Giant, Roar of the Bear, Apex Predator, Cold Comfort: RotN version, Heretic, Tomorrow's Answer, Bad Omens, Red Herring, Cold Comfort
 dimwishlist:item=-432716552&perks=
 dimwishlist:item=-136525518&perks=
 
 
-//Subzero Salvo
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-42351395&perks=
-
-
 //Caretaker
-//notes:D Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:D Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-2508948099&perks=
 
 
 //Honor's Edge
-//notes:D Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:D Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-2276266837&perks=
 dimwishlist:item=-2857348871&perks=
 
 
 //Eternity's Edge
-//notes:D Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:D Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-2782325301&perks=
 dimwishlist:item=-1180270693&perks=
 
 
 //Throne-Cleaver
-//notes:D Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:D Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-3371413059&perks=
 dimwishlist:item=-569799273&perks=
 
 
-//Dragoncult Sickle
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-3668817296&perks=
-
-
-//Sola's Scar
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-1313528549&perks=
-dimwishlist:item=-3847137620&perks=
-
-
 //Quickfang
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:E Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-2782325300&perks=
 dimwishlist:item=-1180270692&perks=
 
 
 //Razor's Edge
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:E Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-1796949035&perks=
 
 
-//Hero of Ages
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-2139640995&perks=
-
-
 //Thin Precipice
-//notes:F Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
+//notes:F Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-4066778670&perks=
-
-
-//Chivalric Fire
-//notes:F Tier. Aegis Recommended alternative(s): Synanceia, The Slammer, Sullen Claw, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Eighty-Six, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-3438139008&perks=
 
 
