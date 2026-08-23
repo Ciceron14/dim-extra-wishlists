@@ -1,35 +1,48 @@
 Collection of DIM Wishlists based on [Aegis](https://linktr.ee/TheAegisRelic)'s Spreadsheets
 
-## Wishlist Sources
+# Wishlist Sources
 Endgame Analysis Wishlists -> [Endgame Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/)
 
 Speedrun Wishlists -> [Speedrunner's Shopping List](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/)
 
-## Importing into DIM
+# Importing into DIM
 To import the wishlists in this repo, or any other, you need to grab the "raw" URL of the one(s) you want.
 
 The raw URL can be found by opening any wishlist's .txt file, then pressing the "raw" button found in the github header above the file. Then simply copy the URL and paste it in DIM's "Settings/Wish List/Add another wish list"
 
-## Quick Start - Recommended File Collections
+# Quick Start - Recommended File Collections
 Not looking to mess around with the different folders and just want something quick? 
 
 Select one of the options below, Copy it, and Paste it to DIM Settings. You can always remove parts of them, or add to them later!
 
-#### Everything Good
+### Everything Good
 _A & S Tier Endgame Weapons + Endgame Shopping List_
+
 ```
 https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt
 ```
-#### Only The Greats
+> Or, ignore Barrels and Mags for less grind:
+> ```
+> https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-> wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame_major-perks.txt
+> ```
+### Only The Greats
 _S Tier Endgame Weapons + Endgame Shopping List_
 ```
 https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-exclusive.txt
 ```
-#### Hoarder's Package
-_A & S Tier Endgame Weapons + Endgame Shopping List + Best in Element&Type + Best in Archetype + Trash List_
+> Or, ignore Barrels and Mags for less grind:
+> ```
+>https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-exclusive_major-perks.txt
+>```
+### Hoarder's Package
+_A & S Tier Endgame Weapons + Endgame Shopping List + Speedrun Shopping List + Best in Element&Type + Best in Archetype + Trash List_
 ```
 https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt
 ```
+> Or, ignore Barrels and Mags for less grind:
+> ```
+>https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun_major-perks.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos_major-perks.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes_major-perks.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame_major-perks.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt
+>```
 
 If you want more control over what shows in your DIM Wishlist, more information on the files available can be found in the following sections of the README. They should allow you to curate your preferred sources with precision.
 
@@ -57,7 +70,6 @@ The Endgame Analysis sections contain Archetype Wishlists that can be used for c
 
 [Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt) or grab an ammo type-specific one from the [folders](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis).
 
-
 ## Barrels and Mags
-Default links in this README use the full wishlists that include Barrels and Mags.
-If you are looking for less grindy wishlists, you can replace any or all of them with their "Major Perks" version. You can find them in the folders next to the standard ones.
+If you are looking for less grindy wishlists, you can replace any of them with their "Major Perks" version. You can find them in the folders next to the standard ones.
+Note that Endgame Shopping List does not list Barrels and Mags in the sheet so this one is always Major Perks only.
