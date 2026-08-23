@@ -5,8 +5,6 @@ Endgame Analysis Wishlists -> [Endgame Analysis Spreadsheet](https://docs.google
 
 Speedrun Wishlists -> [Speedrunner's Shopping List](https://docs.google.com/spreadsheets/d/1is4sNUesy--7Zm6SCCWEP9PAXomxaSj5xlJGCsSj_qs/)
 
-Boss Damage Wishlists -> [Boss Damage Spreadsheet](https://docs.google.com/spreadsheets/d/1_5wtBjRYHHxuF4oJKDb_iOGZs-wTkzB6RYbnyNLbuz4/)
-
 ## Importing into DIM
 To import the wishlists in this repo, or any other, you need to grab the "raw" URL of the one(s) you want.
 
@@ -18,19 +16,19 @@ Not looking to mess around with the different folders and just want something qu
 Select one of the options below, Copy it, and Paste it to DIM Settings. You can always remove parts of them, or add to them later!
 
 #### Everything Good
-_A & S Tier Endgame Weapons + Boss Damage Equipment + Endgame Shopping List_
+_A & S Tier Endgame Weapons + Endgame Shopping List_
 ```
-https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt
+https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt
 ```
 #### Only The Greats
-_S Tier Endgame Weapons + Boss Damage Equipment + Endgame Shopping List_
+_S Tier Endgame Weapons + Endgame Shopping List_
 ```
-https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-exclusive.txt
+https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-exclusive.txt
 ```
 #### Hoarder's Package
-_A & S Tier Endgame Weapons + Boss Damage Equipment + Endgame Shopping List + Best in Element&Type + Best in Archetype + Trash List_
+_A & S Tier Endgame Weapons + Endgame Shopping List + Best in Element&Type + Best in Archetype + Trash List_
 ```
-https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage/dim_aegis-bosses.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt
+https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning/dim_aegis-speedrun.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-combos.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-trashlist.txt
 ```
 
 If you want more control over what shows in your DIM Wishlist, more information on the files available can be found in the following sections of the README. They should allow you to curate your preferred sources with precision.
@@ -60,8 +58,6 @@ The Endgame Analysis sections contain Archetype Wishlists that can be used for c
 [Get the full one here](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame-archetypes.txt) or grab an ammo type-specific one from the [folders](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis).
 
 
-## Boss Damage & Speedrun Lists Information
-### Perks
-While Endgame wishlists will only look at "Major Perks" aka the two main traits of a weapon, (as this is what Aegis lists in the Endgame Spreadsheet), the [Speedrunner's Shopping List](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Speedrunning) and [Boss Damage](https://github.com/Ciceron14/dim-extra-wishlists/tree/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Boss%20Damage) sheets do list barrels and mags.
-
-As a result, you can choose the standard wishlist for these, or a less grindy "Major Perks" version that only takes into account major perks.
+## Barrels and Mags
+Default links in this README use the full wishlists that include Barrels and Mags.
+If you are looking for less grindy wishlists, you can replace any or all of them with their "Major Perks" version. You can find them in the folders next to the standard ones.
