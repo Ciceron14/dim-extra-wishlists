@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spr
 ```
 > Or, ignore Barrels and Mags for less grind:
 > ```
-> https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-> wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame_major-perks.txt
+> https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list.txt|https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/dim_aegis_endgame_major-perks.txt
 > ```
 ### Only The Greats
 _S Tier Endgame Weapons + Endgame Shopping List_
