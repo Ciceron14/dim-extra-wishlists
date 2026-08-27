@@ -10,6 +10,8 @@ To import the wishlists in this repo, or any other, you need to grab the "raw" U
 
 The raw URL can be found by opening any wishlist's .txt file, then pressing the "raw" button found in the github header above the file. Then simply copy the URL and paste it in DIM's "Settings/Wish List/Add another wish list"
 
+_**IMPORTANT - MOBILE APP USERS**_: You may have issues using the Quick Start options below. If you do, please import the files for the collection you are interested in one by one using the instructions just above (about copying raw URLs), instead of copying collections from the following section.
+
 # Quick Start - Recommended File Collections
 Not looking to mess around with the different folders and just want something quick? 
 
