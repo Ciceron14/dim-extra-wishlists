@@ -79,3 +79,7 @@ The Endgame Analysis sections contain Archetype Wishlists that can be used for c
 ## Barrels and Mags
 If you are looking for less grindy wishlists, you can replace any of them with their "Major Perks" version. You can find them in the folders next to the standard ones.
 Note that Endgame Shopping List does not list Barrels and Mags in the sheet so this one is always Major Perks only.
+
+## Current limitations
+- Ergo Sum (Speedrunner Shopping List) fails to generate wishes due to "Wave Frame" in source (it needs "Wave Sword Frame")
+- Long Arm (RotN version) does not get added to Trashlist due to the script filtering variants by perks, and trashlist not having perks. Due to this, having this version in trash list would also put the other version (ranked B Tier) in it.
