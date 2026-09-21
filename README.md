@@ -57,6 +57,10 @@ You can use the combined ones from the root of the Endgame Analysis folder to ge
 Wishlists that have "exclusive" in their name only look at S tier rated weapons. Use them if you do not want to see A tier weapons in your wishlist.
 
 ## More Endgame Specific Wishlists
+### Shopping List - Alternative Options
+This should be used with the main Shopping List wishlist. It will add thumbs ups to Alternative weapons, and mention in the Notes what weapon & role they are alternatives for. Note that due to the information not being present in the source Shopping List, these weapons will not be looking for specific Perks for the thumbs ups. Instead, read the Notes to know the kind of perks that were recommended for the main option, then try and find similar ones for your Alternative.
+
+[Get the Shopping List - Alternative Options expansion](https://raw.githubusercontent.com/Ciceron14/dim-extra-wishlists/refs/heads/main/Aegis%20Spreadsheets%20Wishlists/Aegis%20Endgame%20Analysis/Shopping%20List/dim_aegis_endgame-shopping_list-alternatives.txt)
 ### Trash Lists
 Each slot in the Endgame Analysis section contains a Trash List that can be used to highlight the weapons you own that are rated D or lower. They will have a comment recommending alternatives in the same weapon type & energy, if any has been rated A or S.
 
