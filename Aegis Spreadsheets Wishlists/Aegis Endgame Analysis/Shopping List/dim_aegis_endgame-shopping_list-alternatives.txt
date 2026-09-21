@@ -1,0 +1,960 @@
+title:Aegis's Endgame Shopping List - Alternatives
+description:Listing the alternatives for the recommended Endgame Weapons from the Shopping List.
+
+//Oryx's Memory
+//notes:Alternative to Crystocrene {high priority} - Role: ammo generation. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Pantheon Resplendent
+//notes:Alternative to Crystocrene {high priority} - Role: ammo generation. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Cyberserpent Null
+//notes:Alternative to Crystocrene {high priority} - Role: ammo generation. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//TM Custom
+//notes:Alternative to Atheon's Memory {high priority} - Role: damage augmentation. Look for Powerhouse + class or similar.
+
+
+//Smoke Jumper
+//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//AION Adapter
+//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Yearning Echo
+//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Fortune's Favor
+//notes:Alternative to Celestial Nighthawk {high priority} - Role: hunter DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=4010324161&perks=,
+
+
+//Shards of Galanor
+//notes:Alternative to Celestial Nighthawk {high priority} - Role: hunter DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=1098931325&perks=,
+dimwishlist:item=691578979&perks=,
+dimwishlist:item=3883286570&perks=,
+
+
+//Speedloader Slacks
+//notes:Alternative to Celestial Nighthawk {high priority} - Role: hunter DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=2390471904&perks=,
+dimwishlist:item=1793346751&perks=,
+
+
+//The Hothead
+//notes:Alternative to Hezen Vengeance {high priority} - Role: DPS rocket. Look for Cluster Bomb/Auto-Loading Holster/Overflow + Aggregate Charge/Elemental Honing/Bipod or similar.
+dimwishlist:item=4255171531&perks=,
+dimwishlist:item=1866778462&perks=,
+dimwishlist:item=1692372662&perks=,
+dimwishlist:item=3960301269&perks=,
+
+
+//Cynosure
+//notes:Alternative to Hezen Vengeance {high priority} - Role: DPS rocket. Look for Cluster Bomb/Auto-Loading Holster/Overflow + Aggregate Charge/Elemental Honing/Bipod or similar.
+dimwishlist:item=694275488&perks=,
+dimwishlist:item=2827141087&perks=,
+dimwishlist:item=2511482352&perks=,
+
+
+//The When and Where
+//notes:Alternative to Hezen Vengeance {high priority} - Role: DPS rocket. Look for Cluster Bomb/Auto-Loading Holster/Overflow + Aggregate Charge/Elemental Honing/Bipod or similar.
+dimwishlist:item=1090936013&perks=,
+
+
+//Praedyth’s Revenge
+//notes:Alternative to Conspiracy Honed {high priority} - Role: kinetic DPS sniper. Look for Vorpal Weapon + Bait and Switch/Firing Line or similar.
+dimwishlist:item=3653573172&perks=,
+dimwishlist:item=1987769101&perks=,
+dimwishlist:item=3844610113&perks=,
+dimwishlist:item=2362652544&perks=,
+
+
+//Something Something
+//notes:Alternative to Conspiracy Honed {high priority} - Role: kinetic DPS sniper. Look for Vorpal Weapon + Bait and Switch/Firing Line or similar.
+dimwishlist:item=3421075982&perks=,
+dimwishlist:item=690412397&perks=,
+
+
+//Lance Ephemeral
+//notes:Alternative to Conspiracy Honed {high priority} - Role: kinetic DPS sniper. Look for Vorpal Weapon + Bait and Switch/Firing Line or similar.
+dimwishlist:item=688593230&perks=,
+
+
+//Psi Aeterna IV
+//notes:Alternative to Veillantif-D {high priority} - Role: energy rocket pulse. Look for Air Trigger/Heal Clip/Blast Distributor + Incandescent/Desperate Measures/Burning Ambition or similar.
+dimwishlist:item=3556730800&perks=,
+dimwishlist:item=135971347&perks=,
+
+
+//Merciless
+//notes:Alternative to Still Hunt {high priority} - Role: exotic burst special
+dimwishlist:item=4190156464&perks=,
+
+
+//The Fourth Horseman
+//notes:Alternative to Still Hunt {high priority} - Role: exotic burst special
+dimwishlist:item=1665952087&perks=,
+
+
+//Izanagi's Burden
+//notes:Alternative to Still Hunt {high priority} - Role: exotic burst special
+dimwishlist:item=3211806999&perks=,
+
+
+//Divinity
+//notes:Alternative to Tractor Cannon {high priority} - Role: exotic debuff
+dimwishlist:item=4103414242&perks=,
+
+
+//Fafnir
+//notes:Alternative to Tractor Cannon {high priority} - Role: exotic debuff
+dimwishlist:item=2197778303&perks=,
+
+
+//Hierarchy of Needs
+//notes:Alternative to Gjallarhorn {high priority} - Role: exotic DPS buff
+dimwishlist:item=4174431791&perks=,
+
+
+//D.A.R.C.I.
+//notes:Alternative to Gjallarhorn {high priority} - Role: exotic DPS buff
+dimwishlist:item=3141979346&perks=,
+
+
+//Ergo Sum
+//notes:Alternative to Gjallarhorn {high priority} - Role: exotic DPS buff
+dimwishlist:item=1681583613&perks=,
+
+
+//Praxic Blade
+//notes:Alternative to Choir of One {high priority} - Role: exotic roam. Look for Onslaught or similar.
+dimwishlist:item=3049715579&perks=,
+
+
+//Dead Messenger
+//notes:Alternative to Choir of One {high priority} - Role: exotic roam. Look for Onslaught or similar.
+dimwishlist:item=2812324401&perks=,
+dimwishlist:item=46125926&perks=,
+
+
+//Gjallarhorn
+//notes:Alternative to Choir of One {high priority} - Role: exotic roam. Look for Onslaught or similar.
+dimwishlist:item=1363886209&perks=,
+
+
+//Leviathan's Breath
+//notes:Alternative to Truth {high priority} - Role: exotic sustained heavy
+dimwishlist:item=2591746970&perks=,
+
+
+//One Thousand Voices
+//notes:Alternative to Truth {high priority} - Role: exotic sustained heavy
+dimwishlist:item=2069224589&perks=,
+
+
+//CODA
+//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
+
+
+//Sage Protector
+//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
+
+
+//Luminopotent
+//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
+
+
+//CODA
+//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
+
+
+//Deep Explorer
+//notes:Alternative to Exodus Down {medium priority} - Role: general DR (4 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Techeun's Regalia
+//notes:Alternative to Exodus Down {medium priority} - Role: general DR (4 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Gifted Conviction
+//notes:Alternative to Relativism {medium priority} - Role: hunter roam. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+dimwishlist:item=1627691271&perks=,
+dimwishlist:item=1446374842&perks=,
+
+
+//Radiant Dance Machines
+//notes:Alternative to Relativism {medium priority} - Role: hunter roam. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+dimwishlist:item=1702288800&perks=,
+dimwishlist:item=1709794165&perks=,
+
+
+//Fortune's Favor
+//notes:Alternative to Celestial Nighthawk {high priority} - Role: hunter DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=4010324161&perks=,
+
+
+//Synthoceps
+//notes:Alternative to Wormgod Caress {medium priority} - Role: titan roam. Look for Skirmisher/Paragon + super or similar.
+dimwishlist:item=1035680666&perks=,
+dimwishlist:item=241462142&perks=,
+dimwishlist:item=2002759681&perks=,
+
+
+//Point-Contact Cannon Brace
+//notes:Alternative to Wormgod Caress {medium priority} - Role: titan roam. Look for Skirmisher/Paragon + super or similar.
+dimwishlist:item=1703598057&perks=,
+dimwishlist:item=308767728&perks=,
+
+
+//Stoicism
+//notes:Alternative to Wormgod Caress {medium priority} - Role: titan roam. Look for Skirmisher/Paragon + super or similar.
+dimwishlist:item=266021826&perks=,
+
+
+//Winter's Guile
+//notes:Alternative to Verity's Brow {medium priority} - Role: warlock roam. Look for Gunner + super or similar.
+dimwishlist:item=1862800745&perks=,
+dimwishlist:item=3844826443&perks=,
+dimwishlist:item=900910756&perks=,
+
+
+//Dawn Chorus
+//notes:Alternative to Verity's Brow {medium priority} - Role: warlock roam. Look for Gunner + super or similar.
+dimwishlist:item=2316914168&perks=,
+dimwishlist:item=3767088557&perks=,
+
+
+//Boots of the Assembler
+//notes:Alternative to Verity's Brow {medium priority} - Role: warlock roam. Look for Gunner + super or similar.
+dimwishlist:item=3045642045&perks=,
+dimwishlist:item=597039524&perks=,
+
+
+//Boots of the Assembler
+//notes:Alternative to Verity's Brow {medium priority} - Role: warlock roam. Look for Gunner + super or similar.
+dimwishlist:item=3045642045&perks=,
+dimwishlist:item=597039524&perks=,
+
+
+//Winter's Guile
+//notes:Alternative to Verity's Brow {medium priority} - Role: warlock roam. Look for Gunner + super or similar.
+dimwishlist:item=1862800745&perks=,
+dimwishlist:item=3844826443&perks=,
+dimwishlist:item=900910756&perks=,
+
+
+//Mataiodoxía
+//notes:Alternative to Sanguine Alchemy {medium priority} - Role: warlock DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=1955548646&perks=,
+dimwishlist:item=1003391927&perks=,
+
+
+//Submersion
+//notes:Alternative to A Good Shout {medium priority} - Role: DPS crossbow. Look for Envious Arsenal + High Ground/Box Breathing or similar.
+dimwishlist:item=3524386983&perks=,
+dimwishlist:item=1724104236&perks=,
+
+
+//Heritage
+//notes:Alternative to Threat Level {medium priority} - Role: kinetic DPS shotgun. Look for Cascade Point/One-Two Punch/Lead from Gold + All-Star/Trench Barrel/Chaos Reshaped or similar.
+dimwishlist:item=4248569242&perks=,
+
+
+//Perfect Paradox
+//notes:Alternative to Threat Level {medium priority} - Role: kinetic DPS shotgun. Look for Cascade Point/One-Two Punch/Lead from Gold + All-Star/Trench Barrel/Chaos Reshaped or similar.
+dimwishlist:item=2248667690&perks=,
+dimwishlist:item=3393519051&perks=,
+dimwishlist:item=1298672084&perks=,
+dimwishlist:item=4108648762&perks=,
+
+
+//Until Its Return
+//notes:Alternative to Threat Level {medium priority} - Role: kinetic DPS shotgun. Look for Cascade Point/One-Two Punch/Lead from Gold + All-Star/Trench Barrel/Chaos Reshaped or similar.
+dimwishlist:item=2883484461&perks=,
+
+
+//Unvoiced
+//notes:Alternative to Found Verdict {medium priority} - Role: energy DPS shotgun. Look for Aggregate Charge/Discord/Rewind Rounds + Trench Barrel/One-Two Punch/Gear Shift or similar.
+dimwishlist:item=3360937899&perks=,
+dimwishlist:item=2213885190&perks=,
+
+
+//Felwinter's Lie
+//notes:Alternative to Found Verdict {medium priority} - Role: energy DPS shotgun. Look for Aggregate Charge/Discord/Rewind Rounds + Trench Barrel/One-Two Punch/Gear Shift or similar.
+dimwishlist:item=1179141605&perks=,
+dimwishlist:item=218787950&perks=,
+
+
+//A Sudden Death
+//notes:Alternative to Found Verdict {medium priority} - Role: energy DPS shotgun. Look for Aggregate Charge/Discord/Rewind Rounds + Trench Barrel/One-Two Punch/Gear Shift or similar.
+dimwishlist:item=2855157553&perks=,
+dimwishlist:item=1879212552&perks=,
+dimwishlist:item=4097972038&perks=,
+dimwishlist:item=1976481399&perks=,
+dimwishlist:item=1626437786&perks=,
+dimwishlist:item=1904170910&perks=,
+dimwishlist:item=2764074355&perks=,
+dimwishlist:item=2489016648&perks=,
+
+
+//Tinasha's Mastery
+//notes:Alternative to High Albedo {medium priority} - Role: kinetic rocket sidearm. Look for Bewildering Burst/Lead from Gold/Stopping Power + Kinetic Tremors/Desperate Measures/Ancillary Ordinance or similar.
+dimwishlist:item=480368036&perks=,
+dimwishlist:item=247984828&perks=,
+
+
+//The Call
+//notes:Alternative to High Albedo {medium priority} - Role: kinetic rocket sidearm. Look for Bewildering Burst/Lead from Gold/Stopping Power + Kinetic Tremors/Desperate Measures/Ancillary Ordinance or similar.
+dimwishlist:item=3947966653&perks=,
+
+
+//Returned Memory
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy rocket sidearm. Look for Repulsor Brace/Air Trigger/Shoot to Loot + Destabilizing Rounds/Surrounded/Withering Gaze or similar.
+dimwishlist:item=4049127142&perks=,
+
+
+//Indebted Kindness
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy rocket sidearm. Look for Repulsor Brace/Air Trigger/Shoot to Loot + Destabilizing Rounds/Surrounded/Withering Gaze or similar.
+dimwishlist:item=3381450498&perks=,
+dimwishlist:item=2554513694&perks=,
+
+
+//Aberrant Action
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy rocket sidearm. Look for Repulsor Brace/Air Trigger/Shoot to Loot + Destabilizing Rounds/Surrounded/Withering Gaze or similar.
+dimwishlist:item=2198166292&perks=,
+
+
+//Service Revolver
+//notes:Alternative to Vulpecula {medium priority} - Role: kinetic StL primary. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=2171006181&perks=,
+dimwishlist:item=834081972&perks=,
+dimwishlist:item=3796682229&perks=,
+dimwishlist:item=59060498&perks=,
+
+
+//Seventh Seraph Officer Revolver
+//notes:Alternative to Vulpecula {medium priority} - Role: kinetic StL primary. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=3037520408&perks=,
+dimwishlist:item=1555959830&perks=,
+dimwishlist:item=3490736392&perks=,
+
+
+//Corundum Hammer
+//notes:Alternative to Vulpecula {medium priority} - Role: kinetic StL primary. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=2263462407&perks=,
+
+
+//Apostate
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy StL special. Look for Shoot to Loot + Withering Gaze/Destabilizing Rounds or similar.
+dimwishlist:item=2164448701&perks=,
+dimwishlist:item=846241149&perks=,
+
+
+//Chronophage
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy StL special. Look for Shoot to Loot + Withering Gaze/Destabilizing Rounds or similar.
+dimwishlist:item=1886840007&perks=,
+
+
+//Retraced Path
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy StL special. Look for Shoot to Loot + Withering Gaze/Destabilizing Rounds or similar.
+dimwishlist:item=548958835&perks=,
+
+
+//Incisor
+//notes:Alternative to Unsworn {medium priority} - Role: kinetic trace. Look for Shoot to Loot/Tear + Chaos Reshaped/Hatchling/Detonator Beam or similar.
+dimwishlist:item=4248997900&perks=,
+dimwishlist:item=2421180981&perks=,
+dimwishlist:item=1711056134&perks=,
+dimwishlist:item=2839600459&perks=,
+
+
+//Action Item
+//notes:Alternative to Unsworn {medium priority} - Role: kinetic trace. Look for Shoot to Loot/Tear + Chaos Reshaped/Hatchling/Detonator Beam or similar.
+dimwishlist:item=527989828&perks=,
+dimwishlist:item=437854391&perks=,
+dimwishlist:item=437854390&perks=,
+dimwishlist:item=437854389&perks=,
+dimwishlist:item=437854388&perks=,
+
+
+//Hollow Denial
+//notes:Alternative to Chronophage {medium priority} - Role: energy trace. Look for Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Desperate Measures or similar.
+dimwishlist:item=2323544076&perks=,
+
+
+//Retraced Path
+//notes:Alternative to Lotus-Eater {medium priority} - Role: energy StL special. Look for Shoot to Loot + Withering Gaze/Destabilizing Rounds or similar.
+dimwishlist:item=548958835&perks=,
+
+
+//Acasia's Dejection
+//notes:Alternative to Chronophage {medium priority} - Role: energy trace. Look for Repulsor Brace/Shoot to Loot + Destabilizing Rounds/Desperate Measures or similar.
+dimwishlist:item=1471212226&perks=,
+dimwishlist:item=3493494807&perks=,
+
+
+//Theodolite
+//notes:Alternative to Gizmo Weft {medium priority} - Role: movement GL. Look for Air Trigger + Bipod or similar.
+dimwishlist:item=4146673635&perks=,
+
+
+//The Slammer
+//notes:Alternative to Falling Guillotine
+BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+dimwishlist:item=2889501828&perks=,
+dimwishlist:item=1354727549&perks=,
+dimwishlist:item=2466028274&perks=,
+dimwishlist:item=189854537&perks=,
+
+
+//False Idols
+//notes:Alternative to Falling Guillotine
+BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+dimwishlist:item=4207120603&perks=,
+
+
+//Sullen Claw
+//notes:Alternative to Falling Guillotine
+BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+dimwishlist:item=1085743380&perks=,
+
+
+//Whirling Ovation
+//notes:Alternative to Parasite {medium priority} - Role: exotic burst heavy
+dimwishlist:item=1202007252&perks=,
+
+
+//Grand Overture
+//notes:Alternative to Parasite {medium priority} - Role: exotic burst heavy
+dimwishlist:item=1763584999&perks=,
+
+
+//Iron Battalion
+//notes:Alternative to Nezarec's Nightmare {low priority} - Role: miscellaneous neutral
+
+
+//Iron Panoply
+//notes:Alternative to Nezarec's Nightmare {low priority} - Role: miscellaneous neutral
+
+
+//Sage Protector
+//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
+
+
+//Smoke Jumper
+//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
+
+
+//Techsec
+//notes:Alternative to Legacy's Oath {low priority} - Role: melee survivability
+
+
+//Swordmaster
+//notes:Alternative to Legacy's Oath {low priority} - Role: melee survivability
+
+
+//Hallowfire Heart
+//notes:Alternative to Cuirass of the Falling Star {low priority} - Role: titan DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=458095282&perks=,
+dimwishlist:item=1192890598&perks=,
+dimwishlist:item=2094927311&perks=,
+
+
+//Armamentarium
+//notes:Alternative to Cuirass of the Falling Star {low priority} - Role: titan DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=2829609851&perks=,
+dimwishlist:item=3874247549&perks=,
+dimwishlist:item=2999866952&perks=,
+
+
+//Hazardous Propulsion
+//notes:Alternative to Cuirass of the Falling Star {low priority} - Role: titan DPS. Look for Powerhouse + class or similar.
+dimwishlist:item=1909305643&perks=,
+dimwishlist:item=3050442980&perks=,
+
+
+//Basso Ostinato
+//notes:Alternative to Perfect Paradox {low priority} - Role: 12P shotgun. Look for Pugilist/Stopping Power/Threat Detector + One-Two Punch/Trench Barrel/All-Star or similar.
+dimwishlist:item=2573900604&perks=,
+dimwishlist:item=2353274446&perks=,
+
+
+//IKELOS_SG_v1.0.3
+//notes:Alternative to Perfect Paradox {low priority} - Role: 12P shotgun. Look for Pugilist/Stopping Power/Threat Detector + One-Two Punch/Trench Barrel/All-Star or similar.
+dimwishlist:item=1168625549&perks=,
+
+
+//One Small Step
+//notes:Alternative to Perfect Paradox {low priority} - Role: 12P shotgun. Look for Pugilist/Stopping Power/Threat Detector + One-Two Punch/Trench Barrel/All-Star or similar.
+dimwishlist:item=1016668089&perks=,
+dimwishlist:item=2527058296&perks=,
+
+
+//Apex Predator
+//notes:Alternative to Bellowing Giant {low priority} - Role: add clear rocket. Look for Air Trigger/Overflow + Bipod or similar.
+dimwishlist:item=2545083870&perks=,
+dimwishlist:item=1851777734&perks=,
+
+
+//The When and Where
+//notes:Alternative to Hezen Vengeance {high priority} - Role: DPS rocket. Look for Cluster Bomb/Auto-Loading Holster/Overflow + Aggregate Charge/Elemental Honing/Bipod or similar.
+dimwishlist:item=1090936013&perks=,
+
+
+//Pyroclastic Flow
+//notes:Alternative to Bellowing Giant {low priority} - Role: add clear rocket. Look for Air Trigger/Overflow + Bipod or similar.
+dimwishlist:item=1289324202&perks=,
+dimwishlist:item=3161496501&perks=,
+
+
+//VS Chill Inhibitor
+//notes:Alternative to Edge Transit {low priority} - Role: DPS drum GL. Look for Cascade Point/Envious Arsenal/Chain Reaction + Explosive Light/Bait and Switch/Elemental Honing or similar.
+dimwishlist:item=1762785662&perks=,
+dimwishlist:item=2452936817&perks=,
+
+
+//The Ever-Present
+//notes:Alternative to Edge Transit {low priority} - Role: DPS drum GL. Look for Cascade Point/Envious Arsenal/Chain Reaction + Explosive Light/Bait and Switch/Elemental Honing or similar.
+dimwishlist:item=3177074192&perks=,
+
+
+//Koraxis's Distress
+//notes:Alternative to Edge Transit {low priority} - Role: DPS drum GL. Look for Cascade Point/Envious Arsenal/Chain Reaction + Explosive Light/Bait and Switch/Elemental Honing or similar.
+dimwishlist:item=2972949637&perks=,
+dimwishlist:item=495442100&perks=,
+
+
+//Synanceia
+//notes:Alternative to Bequest {low priority} - Role: DPS sword. Look for Relentless Strikes/Jolting Feedback + Elemental Honing/Surrounded/Redirection or similar.
+dimwishlist:item=1823308496&perks=,
+dimwishlist:item=2765451291&perks=,
+dimwishlist:item=2765451290&perks=,
+dimwishlist:item=2765451289&perks=,
+dimwishlist:item=2765451288&perks=,
+
+
+//Sullen Claw
+//notes:Alternative to Falling Guillotine
+BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+dimwishlist:item=1085743380&perks=,
+
+
+//Wolfsbane
+//notes:Alternative to Bequest {low priority} - Role: DPS sword. Look for Relentless Strikes/Jolting Feedback + Elemental Honing/Surrounded/Redirection or similar.
+dimwishlist:item=1753923263&perks=,
+
+
+//Gunnora's Axe
+//notes:Alternative to Pure Recollection {low priority} - Role: fast death. Look for Envious Arsenal + Withering Gaze or similar.
+dimwishlist:item=411397829&perks=,
+dimwishlist:item=94729174&perks=,
+dimwishlist:item=2326716489&perks=,
+dimwishlist:item=487361141&perks=,
+dimwishlist:item=218787951&perks=,
+
+
+//New Land Beyond
+//notes:Alternative to The Helmsman {low priority} - Role: precision roam. Look for Discord/Light Touch/Snapshot Sights + Elemental Honing/Gear Shift/Vorpal Weapon or similar.
+dimwishlist:item=2581676735&perks=,
+
+
+//Refurbished A499
+//notes:Alternative to The Helmsman {low priority} - Role: precision roam. Look for Discord/Light Touch/Snapshot Sights + Elemental Honing/Gear Shift/Vorpal Weapon or similar.
+dimwishlist:item=3661051060&perks=,
+dimwishlist:item=593808239&perks=,
+
+
+//Festival Flight
+//notes:Alternative to Ouster Engine {low priority} - Role: kinetic area denial. Look for Air Trigger/Auto-Loading Holster/Rimestealer + Chain Reaction/Aggregate Charge/Crystalline Corpsebloom or similar.
+dimwishlist:item=4019651319&perks=,
+dimwishlist:item=3977654524&perks=,
+
+
+//Lost Signal
+//notes:Alternative to Ouster Engine {low priority} - Role: kinetic area denial. Look for Air Trigger/Auto-Loading Holster/Rimestealer + Chain Reaction/Aggregate Charge/Crystalline Corpsebloom or similar.
+dimwishlist:item=1197771438&perks=,
+
+
+//Psychopomp
+//notes:Alternative to VS Velocity Baton {low priority} - Role: energy area denial. Look for Repulsor Brace/Demolitionist/Unrelenting + Destabilizing Rounds/Chain Reaction/Attrition Orbs or similar.
+dimwishlist:item=4028298892&perks=,
+dimwishlist:item=2553380021&perks=,
+dimwishlist:item=3840794631&perks=,
+dimwishlist:item=704410186&perks=,
+dimwishlist:item=1835232052&perks=,
+
+
+//Motif-41
+//notes:Alternative to VS Velocity Baton {low priority} - Role: energy area denial. Look for Repulsor Brace/Demolitionist/Unrelenting + Destabilizing Rounds/Chain Reaction/Attrition Orbs or similar.
+dimwishlist:item=1685533876&perks=,
+
+
+//Multimach CCX
+//notes:Alternative to Modified B-7 Pistol {low priority} - Role: kinetic legendary primary. Look for Firefly + Headstone/Crystalline Corpsebloom or similar.
+dimwishlist:item=3717177717&perks=,
+dimwishlist:item=4265183314&perks=,
+dimwishlist:item=3211624072&perks=,
+dimwishlist:item=3026836571&perks=,
+
+
+//Submission
+//notes:Alternative to Modified B-7 Pistol {low priority} - Role: kinetic legendary primary. Look for Firefly + Headstone/Crystalline Corpsebloom or similar.
+dimwishlist:item=3886416794&perks=,
+dimwishlist:item=1941816543&perks=,
+
+
+//Scathelocke
+//notes:Alternative to Modified B-7 Pistol {low priority} - Role: kinetic legendary primary. Look for Firefly + Headstone/Crystalline Corpsebloom or similar.
+dimwishlist:item=602618796&perks=,
+dimwishlist:item=3762467078&perks=,
+dimwishlist:item=3332538050&perks=,
+
+
+//Reckless Oracle
+//notes:Alternative to Compact Defender {low priority} - Role: energy legendary primary. Look for Destabilizing Rounds + Repulsor Brace or similar.
+dimwishlist:item=3385326721&perks=,
+dimwishlist:item=1992309064&perks=,
+dimwishlist:item=4158265643&perks=,
+dimwishlist:item=1802315656&perks=,
+
+
+//IRONWOOD 03
+//notes:Alternative to Compact Defender {low priority} - Role: energy legendary primary. Look for Destabilizing Rounds + Repulsor Brace or similar.
+dimwishlist:item=2041617874&perks=,
+
+
+//Bug-Out Bag
+//notes:Alternative to Compact Defender {low priority} - Role: energy legendary primary. Look for Destabilizing Rounds + Repulsor Brace or similar.
+dimwishlist:item=2744715540&perks=,
+dimwishlist:item=2832639510&perks=,
+dimwishlist:item=3327901954&perks=,
+
+
+//DECATUR 02
+//notes:Alternative to Adamantite {low priority} - Role: kinetic support auto. Look for Slice + Attrition Orbs or similar.
+dimwishlist:item=1850748385&perks=,
+
+
+//Cusp Sempiternal
+//notes:Alternative to No Hesitation {low priority} - Role: energy support auto. Look for Physic + Chaos Reshaped/Attrition Orbs or similar.
+dimwishlist:item=2579693381&perks=,
+
+
+//Chrysura Melo
+//notes:Alternative to No Hesitation {low priority} - Role: energy support auto. Look for Physic + Chaos Reshaped/Attrition Orbs or similar.
+dimwishlist:item=1337707096&perks=,
+dimwishlist:item=1750388538&perks=,
+
+
+//Cusp Sempiternal
+//notes:Alternative to No Hesitation {low priority} - Role: energy support auto. Look for Physic + Chaos Reshaped/Attrition Orbs or similar.
+dimwishlist:item=2579693381&perks=,
+
+
+//Aisha's Embrace
+//notes:Alternative to Vouchsafe {low priority} - Role: Withering Gaze primary. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=2638190703&perks=,
+dimwishlist:item=3245493570&perks=,
+dimwishlist:item=3709368142&perks=,
+
+
+//Joxer's Longsword
+//notes:Alternative to Vouchsafe {low priority} - Role: Withering Gaze primary. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=157601190&perks=,
+dimwishlist:item=2150012406&perks=,
+dimwishlist:item=3538003989&perks=,
+
+
+//Glacioclasm
+//notes:Alternative to Lotus-Eater {low priority} - Role: Withering Gaze special. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=1030895163&perks=,
+dimwishlist:item=3573686365&perks=,
+dimwishlist:item=2728851518&perks=,
+dimwishlist:item=1183116657&perks=,
+
+
+//Wilderflight
+//notes:Alternative to Lotus-Eater {low priority} - Role: Withering Gaze special. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=2306182339&perks=,
+dimwishlist:item=1206729100&perks=,
+dimwishlist:item=559523765&perks=,
+dimwishlist:item=2982006965&perks=,
+dimwishlist:item=2477408004&perks=,
+dimwishlist:item=408862798&perks=,
+
+
+//Father's Sins
+//notes:Alternative to Lotus-Eater {low priority} - Role: Withering Gaze special. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=3865728990&perks=,
+
+
+//Ice Breaker
+//notes:Alternative to Alethonym {low priority} - Role: ammo generator
+dimwishlist:item=1111334348&perks=,
+
+
+//Necrochasm
+//notes:Alternative to Khvostov 7G-0X {low priority} - Role: exotic kinetic primary
+dimwishlist:item=1034055198&perks=,
+
+
+//Osteo Striga
+//notes:Alternative to Khvostov 7G-0X {low priority} - Role: exotic kinetic primary
+dimwishlist:item=46524085&perks=,
+
+
+//The Huckleberry
+//notes:Alternative to Khvostov 7G-0X {low priority} - Role: exotic kinetic primary
+dimwishlist:item=2286143274&perks=,
+
+
+//Finality's Auger
+//notes:Alternative to Anarchy {low priority} - Role: exotic tick heavy
+dimwishlist:item=331231237&perks=,
+
+
+//Hammerhead
+//notes:Alternative to Corrective Measure {niche priority} - Role: add clear LMG. Look for Demolitionist/Destabilizing Rounds/Redirection + Killing Tally/Demoralize/One for All or similar.
+dimwishlist:item=603242241&perks=,
+dimwishlist:item=1896309757&perks=,
+dimwishlist:item=211732170&perks=,
+dimwishlist:item=1346714574&perks=,
+dimwishlist:item=850999853&perks=,
+
+
+//Song of Ir Yût
+//notes:Alternative to Corrective Measure {niche priority} - Role: add clear LMG. Look for Demolitionist/Destabilizing Rounds/Redirection + Killing Tally/Demoralize/One for All or similar.
+dimwishlist:item=2828278545&perks=,
+dimwishlist:item=407511664&perks=,
+
+
+//Pro Memoria
+//notes:Alternative to Corrective Measure {niche priority} - Role: add clear LMG. Look for Demolitionist/Destabilizing Rounds/Redirection + Killing Tally/Demoralize/One for All or similar.
+dimwishlist:item=3605603507&perks=,
+
+
+//Wilderflight
+//notes:Alternative to Lotus-Eater {low priority} - Role: Withering Gaze special. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=2306182339&perks=,
+dimwishlist:item=1206729100&perks=,
+dimwishlist:item=559523765&perks=,
+dimwishlist:item=2982006965&perks=,
+dimwishlist:item=2477408004&perks=,
+dimwishlist:item=408862798&perks=,
+
+
+//Liturgy
+//notes:Alternative to Lingering Dread {niche priority} - Role: blinding GL. Look for Auto-Loading Holster + Bipod/Chill Clip or similar.
+dimwishlist:item=2599338624&perks=,
+dimwishlist:item=3377522331&perks=,
+
+
+//The Militia's Birthright
+//notes:Alternative to Lingering Dread {niche priority} - Role: blinding GL. Look for Auto-Loading Holster + Bipod/Chill Clip or similar.
+dimwishlist:item=40394833&perks=,
+dimwishlist:item=2378101424&perks=,
+dimwishlist:item=1854753405&perks=,
+dimwishlist:item=4162642204&perks=,
+dimwishlist:item=3745974521&perks=,
+
+
+//Cartesian Coordinate
+//notes:Alternative to Chivalric Fire {niche priority} - Role: Collective Demolition. Look for Collective Demolition + Collective Action/Attrition Orbs/Eager Edge or similar.
+dimwishlist:item=2481881293&perks=,
+dimwishlist:item=2502422772&perks=,
+dimwishlist:item=3719824177&perks=,
+
+
+//Techeun Force
+//notes:Alternative to Chivalric Fire {niche priority} - Role: Collective Demolition. Look for Collective Demolition + Collective Action/Attrition Orbs/Eager Edge or similar.
+dimwishlist:item=4094657108&perks=,
+dimwishlist:item=3591141932&perks=,
+
+
+//Hezen Vengeance
+//notes:Alternative to Chivalric Fire {niche priority} - Role: Collective Demolition. Look for Collective Demolition + Collective Action/Attrition Orbs/Eager Edge or similar.
+dimwishlist:item=4050645223&perks=,
+dimwishlist:item=1921159786&perks=,
+dimwishlist:item=2265407516&perks=,
+dimwishlist:item=3623686757&perks=,
+
+
+//Dimensional Hypotrochoid
+//notes:Alternative to Love and Death {niche priority} - Role: compressed wave. Look for Cascade Point/Envious Arsenal/Impromptu Ammunition + Aggregate Charge/Bait and Switch/Chain Reaction or similar.
+dimwishlist:item=1311684613&perks=,
+
+
+//Hullabaloo
+//notes:Alternative to Love and Death {niche priority} - Role: compressed wave. Look for Cascade Point/Envious Arsenal/Impromptu Ammunition + Aggregate Charge/Bait and Switch/Chain Reaction or similar.
+dimwishlist:item=657927352&perks=,
+dimwishlist:item=2666273249&perks=,
+dimwishlist:item=2449096504&perks=,
+
+
+//Wilderflight
+//notes:Alternative to Lotus-Eater {low priority} - Role: Withering Gaze special. Look for Shoot to Loot + Withering Gaze or similar.
+dimwishlist:item=2306182339&perks=,
+dimwishlist:item=1206729100&perks=,
+dimwishlist:item=559523765&perks=,
+dimwishlist:item=2982006965&perks=,
+dimwishlist:item=2477408004&perks=,
+dimwishlist:item=408862798&perks=,
+
+
+//Salvager's Salvo
+//notes:Alternative to Gizmo Weft {niche priority} - Role: DPS breech GL. Look for Envious Arsenal + Aggregate Charge/Elemental Honing/Bait and Switch or similar.
+dimwishlist:item=2060863616&perks=,
+dimwishlist:item=1692109318&perks=,
+dimwishlist:item=2461640837&perks=,
+
+
+//Liturgy
+//notes:Alternative to Lingering Dread {niche priority} - Role: blinding GL. Look for Auto-Loading Holster + Bipod/Chill Clip or similar.
+dimwishlist:item=2599338624&perks=,
+dimwishlist:item=3377522331&perks=,
+
+
+//Cataclysmic
+//notes:Alternative to Eyes Unveiled {niche priority} - Role: DPS linear. Look for Fourth Time's the Charm/Mega Kill Clip + Elemental Honing/Sword Logic or similar.
+dimwishlist:item=999767358&perks=,
+dimwishlist:item=2886339027&perks=,
+
+
+//Taipan-4fr
+//notes:Alternative to Eyes Unveiled {niche priority} - Role: DPS linear. Look for Fourth Time's the Charm/Mega Kill Clip + Elemental Honing/Sword Logic or similar.
+dimwishlist:item=1911060537&perks=,
+
+
+//Rapid Growth
+//notes:Alternative to Omniscient Eye {niche priority} - Role: energy DPS sniper. Look for Fourth Time's the Charm/Lead from Gold + Elemental Honing/Precision Instrument or similar.
+dimwishlist:item=3856342856&perks=,
+dimwishlist:item=3448712083&perks=,
+
+
+//Embraced Identity
+//notes:Alternative to Omniscient Eye {niche priority} - Role: energy DPS sniper. Look for Fourth Time's the Charm/Lead from Gold + Elemental Honing/Precision Instrument or similar.
+dimwishlist:item=2821677368&perks=,
+
+
+//Adored
+//notes:Alternative to Omniscient Eye {niche priority} - Role: energy DPS sniper. Look for Fourth Time's the Charm/Lead from Gold + Elemental Honing/Precision Instrument or similar.
+dimwishlist:item=4184808992&perks=,
+dimwishlist:item=1405095983&perks=,
+dimwishlist:item=891765152&perks=,
+
+
+//Unsworn
+//notes:Alternative to Volta Bracket {niche priority} - Role: kinetic StL special. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=1303313141&perks=,
+dimwishlist:item=3462679024&perks=,
+
+
+//Vouchsafe
+//notes:Alternative to Kindled Orchid {niche priority} - Role: energy StL primary. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=3242168339&perks=,
+dimwishlist:item=355922321&perks=,
+dimwishlist:item=3218302023&perks=,
+
+
+//Nature Reclaimed
+//notes:Alternative to Kindled Orchid {niche priority} - Role: energy StL primary. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=2639921391&perks=,
+
+
+//Tarnished Mettle
+//notes:Alternative to Kindled Orchid {niche priority} - Role: energy StL primary. Look for Shoot to Loot + Explosive Payload or similar.
+dimwishlist:item=2218569744&perks=,
+
+
+//Rake Angle
+//notes:Alternative to Refusal of the Call {niche priority} - Role: kinetic glaive. Look for Slice/Close to Melee/Chain Reaction + Chaos Reshaped/Replenishing Aegis or similar.
+dimwishlist:item=2298039571&perks=,
+dimwishlist:item=3997086838&perks=,
+dimwishlist:item=2201323795&perks=,
+
+
+//The Heron
+//notes:Alternative to Ecliptic Distaff {niche priority} - Role: energy glaive. Look for Repulsor Brace/Disruption Break/Immovable Object + Chaos Reshaped/Close to Melee/Withering Gaze or similar.
+dimwishlist:item=2246386812&perks=,
+dimwishlist:item=617566159&perks=,
+dimwishlist:item=617566158&perks=,
+dimwishlist:item=617566157&perks=,
+dimwishlist:item=617566156&perks=,
+
+
+//Lubrae's Ruin
+//notes:Alternative to Ecliptic Distaff {niche priority} - Role: energy glaive. Look for Repulsor Brace/Disruption Break/Immovable Object + Chaos Reshaped/Close to Melee/Withering Gaze or similar.
+dimwishlist:item=2534546147&perks=,
+dimwishlist:item=1466006054&perks=,
+
+
+//Judgment of Kelgorath
+//notes:Alternative to Ecliptic Distaff {niche priority} - Role: energy glaive. Look for Repulsor Brace/Disruption Break/Immovable Object + Chaos Reshaped/Close to Melee/Withering Gaze or similar.
+dimwishlist:item=2978226043&perks=,
+
+
+//Permafrost
+//notes:Alternative to New Pacific Epitaph {niche priority} - Role: kinetic wave frame. Look for Chain Reaction/Unrelenting/Air Trigger + Redirection/Crystalline Corpsebloom/Reaper's Tithe or similar.
+dimwishlist:item=2922964484&perks=,
+dimwishlist:item=2316331767&perks=,
+
+
+//Tusk of the Boar
+//notes:Alternative to New Pacific Epitaph {niche priority} - Role: kinetic wave frame. Look for Chain Reaction/Unrelenting/Air Trigger + Redirection/Crystalline Corpsebloom/Reaper's Tithe or similar.
+dimwishlist:item=1218113510&perks=,
+dimwishlist:item=491956886&perks=,
+
+
+//Romantic Death
+//notes:Alternative to Forbearance
+BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
+dimwishlist:item=4169082039&perks=,
+dimwishlist:item=2979965244&perks=,
+dimwishlist:item=2979965245&perks=,
+dimwishlist:item=2979965246&perks=,
+dimwishlist:item=2979965247&perks=,
+
+
+//Forbearance
+//notes:Alternative to Forbearance
+BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
+dimwishlist:item=613334176&perks=,
+dimwishlist:item=4038592169&perks=,
+dimwishlist:item=568611921&perks=,
+dimwishlist:item=2480074702&perks=,
+dimwishlist:item=3736001860&perks=,
+
+
+//Martyr's Retribution
+//notes:Alternative to Forbearance
+BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
+dimwishlist:item=3850168899&perks=,
+dimwishlist:item=2584830733&perks=,
+
+
+//The Navigator
+//notes:Alternative to Bastion {niche priority} - Role: exotic melee buff
+dimwishlist:item=1441805468&perks=,
+
+
+//Graviton Lance
+//notes:Alternative to Collective Obligation {niche priority} - Role: exotic energy primary
+dimwishlist:item=3628991658&perks=,
+
+
+//Vex Mythoclast
+//notes:Alternative to Collective Obligation {niche priority} - Role: exotic energy primary
+dimwishlist:item=4289226715&perks=,
+
+
+//Skyburner's Oath
+//notes:Alternative to Collective Obligation {niche priority} - Role: exotic energy primary
+dimwishlist:item=4255268456&perks=,
+
+
