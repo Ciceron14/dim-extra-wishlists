@@ -291,11 +291,6 @@ dimwishlist:item=-3409645497&perks=
 dimwishlist:item=-1760543913&perks=
 
 
-//Long Arm
-RotN version
-//notes:D Tier. Aegis Recommended alternative(s): Voltaic Shade, Unworthy, No Feelings
-
-
 //Night Watch
 //notes:D Tier. Aegis Recommended alternative(s): Hung Jury SR4
 dimwishlist:item=-3504336176&perks=

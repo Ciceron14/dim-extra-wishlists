@@ -1,34 +1,6 @@
 title:Aegis's Endgame Shopping List - Alternatives
 description:Listing the alternatives for the recommended Endgame Weapons from the Shopping List.
 
-//Oryx's Memory
-//notes:Alternative to Crystocrene {high priority} - Role: ammo generation. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//Pantheon Resplendent
-//notes:Alternative to Crystocrene {high priority} - Role: ammo generation. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//Cyberserpent Null
-//notes:Alternative to Crystocrene {high priority} - Role: ammo generation. Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//TM Custom
-//notes:Alternative to Atheon's Memory {high priority} - Role: damage augmentation. Look for Powerhouse + class or similar.
-
-
-//Smoke Jumper
-//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//AION Adapter
-//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//Yearning Echo
-//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
 //Fortune's Favor
 //notes:Alternative to Celestial Nighthawk {high priority} - Role: hunter DPS. Look for Powerhouse + class or similar.
 dimwishlist:item=4010324161&perks=,
@@ -156,30 +128,6 @@ dimwishlist:item=2591746970&perks=,
 //One Thousand Voices
 //notes:Alternative to Truth {high priority} - Role: exotic sustained heavy
 dimwishlist:item=2069224589&perks=,
-
-
-//CODA
-//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
-
-
-//Sage Protector
-//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
-
-
-//Luminopotent
-//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
-
-
-//CODA
-//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
-
-
-//Deep Explorer
-//notes:Alternative to Exodus Down {medium priority} - Role: general DR (4 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//Techeun's Regalia
-//notes:Alternative to Exodus Down {medium priority} - Role: general DR (4 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
 
 
 //Gifted Conviction
@@ -405,8 +353,7 @@ dimwishlist:item=4146673635&perks=,
 
 
 //The Slammer
-//notes:Alternative to Falling Guillotine
-BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+//notes:Alternative to Falling Guillotine BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
 dimwishlist:item=2889501828&perks=,
 dimwishlist:item=1354727549&perks=,
 dimwishlist:item=2466028274&perks=,
@@ -414,14 +361,12 @@ dimwishlist:item=189854537&perks=,
 
 
 //False Idols
-//notes:Alternative to Falling Guillotine
-BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+//notes:Alternative to Falling Guillotine BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
 dimwishlist:item=4207120603&perks=,
 
 
 //Sullen Claw
-//notes:Alternative to Falling Guillotine
-BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+//notes:Alternative to Falling Guillotine BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
 dimwishlist:item=1085743380&perks=,
 
 
@@ -433,30 +378,6 @@ dimwishlist:item=1202007252&perks=,
 //Grand Overture
 //notes:Alternative to Parasite {medium priority} - Role: exotic burst heavy
 dimwishlist:item=1763584999&perks=,
-
-
-//Iron Battalion
-//notes:Alternative to Nezarec's Nightmare {low priority} - Role: miscellaneous neutral
-
-
-//Iron Panoply
-//notes:Alternative to Nezarec's Nightmare {low priority} - Role: miscellaneous neutral
-
-
-//Sage Protector
-//notes:Alternative to Yearning Echo {medium priority} - Role: ability regen. Look for Powerhouse + grenade or similar.
-
-
-//Smoke Jumper
-//notes:Alternative to Promised {high priority} - Role: general DR (2 pcs.). Look for Specialist/Gunner/Skirmisher/Powerhouse or similar.
-
-
-//Techsec
-//notes:Alternative to Legacy's Oath {low priority} - Role: melee survivability
-
-
-//Swordmaster
-//notes:Alternative to Legacy's Oath {low priority} - Role: melee survivability
 
 
 //Hallowfire Heart
@@ -540,8 +461,7 @@ dimwishlist:item=2765451288&perks=,
 
 
 //Sullen Claw
-//notes:Alternative to Falling Guillotine
-BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
+//notes:Alternative to Falling Guillotine BRAVE version {medium priority} - Role: movement sword. Look for Attrition Orbs/Relentless Strikes/Frenzy + Eager Edge/Elemental Honing/Surrounded or similar.
 dimwishlist:item=1085743380&perks=,
 
 
@@ -912,8 +832,7 @@ dimwishlist:item=491956886&perks=,
 
 
 //Romantic Death
-//notes:Alternative to Forbearance
-BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
+//notes:Alternative to Forbearance BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
 dimwishlist:item=4169082039&perks=,
 dimwishlist:item=2979965244&perks=,
 dimwishlist:item=2979965245&perks=,
@@ -922,8 +841,7 @@ dimwishlist:item=2979965247&perks=,
 
 
 //Forbearance
-//notes:Alternative to Forbearance
-BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
+//notes:Alternative to Forbearance BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
 dimwishlist:item=613334176&perks=,
 dimwishlist:item=4038592169&perks=,
 dimwishlist:item=568611921&perks=,
@@ -932,8 +850,7 @@ dimwishlist:item=3736001860&perks=,
 
 
 //Martyr's Retribution
-//notes:Alternative to Forbearance
-BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
+//notes:Alternative to Forbearance BRAVE version {niche priority} - Role: energy wave frame. Look for Redirection/Air Trigger/Unrelenting + Chain Reaction/Desperate Measures/Voltshot or similar.
 dimwishlist:item=3850168899&perks=,
 dimwishlist:item=2584830733&perks=,
 

@@ -1,24 +1,15 @@
 title:Aegis's Endgame Shopping List
 description:Listing the most relevant Endgame Weapons at the moment.
 
-//Crystocrene
-//notes:Aegis Endgame Shopping {high Priority}  - Role: ammo generation
-
-
-//Atheon's Memory
-//notes:Aegis Endgame Shopping {high Priority}  - Role: damage augmentation
-
-
-//Promised
-//notes:Aegis Endgame Shopping {high Priority}  - Role: general DR (2 pcs.)
-
-
 //Celestial Nighthawk
-//notes:Aegis Endgame Shopping {high Priority}  - Role: hunter DPS
+//notes:Aegis Endgame Shopping {high Priority} - Role: hunter DPS
+dimwishlist:item=1667080810&perks=544009373,
+dimwishlist:item=1321354573&perks=544009373,
+dimwishlist:item=3960926756&perks=544009373,
 
 
 //Refurbished A499
-//notes:Aegis Endgame Shopping {high Priority}  - Role: heavy DPS sniper
+//notes:Aegis Endgame Shopping {high Priority} - Role: heavy DPS sniper
 dimwishlist:item=3661051060&perks=957782887,3764420437
 dimwishlist:item=3661051060&perks=957782887,968510818
 dimwishlist:item=3661051060&perks=2579169598,3764420437
@@ -34,7 +25,7 @@ dimwishlist:item=593808239&perks=1365187766,968510818
 
 
 //Hezen Vengeance
-//notes:Aegis Endgame Shopping {high Priority}  - Role: DPS rocket
+//notes:Aegis Endgame Shopping {high Priority} - Role: DPS rocket
 dimwishlist:item=2265407516&perks=1275731761,3764420437
 dimwishlist:item=2265407516&perks=1275731761,1089671869
 dimwishlist:item=2265407516&perks=1275731761,1439600632
@@ -56,13 +47,13 @@ dimwishlist:item=3623686757&perks=3643424744,1439600632
 
 
 //Conspiracy Honed
-//notes:Aegis Endgame Shopping {high Priority}  - Role: kinetic DPS sniper
+//notes:Aegis Endgame Shopping {high Priority} - Role: kinetic DPS sniper
 dimwishlist:item=4062069077&perks=1546637391,3078487919
 dimwishlist:item=4062069077&perks=1546637391,1771339417
 
 
 //Mint Retrograde
-//notes:Aegis Endgame Shopping {high Priority}  - Role: kinetic rocket pulse
+//notes:Aegis Endgame Shopping {high Priority} - Role: kinetic rocket pulse
 dimwishlist:item=42435996&perks=2859149211,3081867624
 dimwishlist:item=42435996&perks=2859149211,2396489472
 dimwishlist:item=42435996&perks=2859149211,923806249
@@ -91,7 +82,7 @@ dimwishlist:item=1715391576&perks=,2396489472
 
 
 //Veillantif-D
-//notes:Aegis Endgame Shopping {high Priority}  - Role: energy rocket pulse
+//notes:Aegis Endgame Shopping {high Priority} - Role: energy rocket pulse
 dimwishlist:item=1361871430&perks=1421772400,4293542123
 dimwishlist:item=1361871430&perks=1421772400,2109543898
 dimwishlist:item=1361871430&perks=1421772400,2890807135
@@ -113,55 +104,66 @@ dimwishlist:item=406384293&perks=1017229899,2890807135
 
 
 //Still Hunt
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic burst special
+//notes:Aegis Endgame Shopping {high Priority} - Role: exotic burst special
 dimwishlist:item=2905188646&perks=,
 
 
 //Tractor Cannon
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic debuff
+//notes:Aegis Endgame Shopping {high Priority} - Role: exotic debuff
 dimwishlist:item=3580904581&perks=,
 
 
 //Gjallarhorn
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic DPS buff
+//notes:Aegis Endgame Shopping {high Priority} - Role: exotic DPS buff
 dimwishlist:item=1363886209&perks=,
 
 
 //Choir of One
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic roam
+//notes:Aegis Endgame Shopping {high Priority} - Role: exotic roam
 
 
 //Truth
-//notes:Aegis Endgame Shopping {high Priority}  - Role: exotic sustained heavy
+//notes:Aegis Endgame Shopping {high Priority} - Role: exotic sustained heavy
 dimwishlist:item=1201830623&perks=,
 
 
-//Yearning Echo
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: ability regen
-
-
-//Exodus Down
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: general DR (4 pcs.)
-
-
 //Relativism
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: hunter roam
+//notes:Aegis Endgame Shopping {medium Priority} - Role: hunter roam
+dimwishlist:item=2809120022&perks=2230428468,
+dimwishlist:item=2809120022&perks=1807652646,
+dimwishlist:item=2809120022&perks=1687144140,
+dimwishlist:item=2809120022&perks=544009373,
 
 
 //Wormgod Caress
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: titan roam
+//notes:Aegis Endgame Shopping {medium Priority} - Role: titan roam
+dimwishlist:item=809007411&perks=1687144140,
+dimwishlist:item=809007411&perks=1619668808,
+dimwishlist:item=809007411&perks=4227065942,
+dimwishlist:item=1734844651&perks=1687144140,
+dimwishlist:item=1734844651&perks=1619668808,
+dimwishlist:item=1734844651&perks=4227065942,
+dimwishlist:item=1203306856&perks=1687144140,
+dimwishlist:item=1203306856&perks=1619668808,
+dimwishlist:item=1203306856&perks=4227065942,
 
 
 //Verity's Brow
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: warlock roam
+//notes:Aegis Endgame Shopping {medium Priority} - Role: warlock roam
+dimwishlist:item=2897117448&perks=1807652646,
+dimwishlist:item=2428181146&perks=1807652646,
+dimwishlist:item=2553961985&perks=1807652646,
 
 
 //Sanguine Alchemy
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: warlock DPS
+//notes:Aegis Endgame Shopping {medium Priority} - Role: warlock DPS
+dimwishlist:item=2422973183&perks=544009373,
+dimwishlist:item=3070555693&perks=544009373,
+dimwishlist:item=2966741808&perks=544009373,
 
 
 //A Good Shout
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: DPS crossbow
+//notes:Aegis Endgame Shopping {medium Priority} - Role: DPS crossbow
 dimwishlist:item=3615748501&perks=3987942396,2319119708
 dimwishlist:item=3615748501&perks=3987942396,2551157718
 dimwishlist:item=649691506&perks=3987942396,2319119708
@@ -169,7 +171,7 @@ dimwishlist:item=649691506&perks=3987942396,2551157718
 
 
 //Threat Level
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: kinetic DPS shotgun
+//notes:Aegis Endgame Shopping {medium Priority} - Role: kinetic DPS shotgun
 dimwishlist:item=1523151869&perks=3751912585,1226351311
 dimwishlist:item=1523151869&perks=3751912585,2360754333
 dimwishlist:item=1523151869&perks=3751912585,3640170453
@@ -191,7 +193,7 @@ dimwishlist:item=950894542&perks=1556840489,3640170453
 
 
 //Found Verdict
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: energy DPS shotgun
+//notes:Aegis Endgame Shopping {medium Priority} - Role: energy DPS shotgun
 dimwishlist:item=3197270240&perks=3418782618,2679249093
 dimwishlist:item=631439337&perks=3418782618,2679249093
 dimwishlist:item=694500607&perks=3764420437,2360754333
@@ -215,7 +217,7 @@ dimwishlist:item=851296754&perks=3418782618,654512643
 
 
 //High Albedo
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: kinetic rocket sidearm
+//notes:Aegis Endgame Shopping {medium Priority} - Role: kinetic rocket sidearm
 dimwishlist:item=2662459958&perks=2289534249,3891536761
 dimwishlist:item=2662459958&perks=2289534249,2109543898
 dimwishlist:item=2662459958&perks=2289534249,1202584452
@@ -228,7 +230,7 @@ dimwishlist:item=2662459958&perks=1517798362,1202584452
 
 
 //Lotus-Eater
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: energy rocket sidearm
+//notes:Aegis Endgame Shopping {medium Priority} - Role: energy rocket sidearm
 dimwishlist:item=3922217119&perks=776531651,2048641572
 dimwishlist:item=3922217119&perks=776531651,1134488199
 dimwishlist:item=3922217119&perks=3700496672,2048641572
@@ -252,13 +254,13 @@ dimwishlist:item=837298567&perks=1421772400,1134488199
 
 
 //Vulpecula
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: kinetic StL primary
+//notes:Aegis Endgame Shopping {medium Priority} - Role: kinetic StL primary
 dimwishlist:item=1622998472&perks=3700496672,3038247973
 dimwishlist:item=3245446311&perks=3700496672,3038247973
 
 
 //Lotus-Eater
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: energy StL special
+//notes:Aegis Endgame Shopping {medium Priority} - Role: energy StL special
 dimwishlist:item=3922217119&perks=3700496672,1134488199
 dimwishlist:item=3922217119&perks=3700496672,2048641572
 dimwishlist:item=2697143634&perks=3700496672,1134488199
@@ -266,7 +268,7 @@ dimwishlist:item=2697143634&perks=3700496672,2048641572
 
 
 //Unsworn
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: kinetic trace
+//notes:Aegis Endgame Shopping {medium Priority} - Role: kinetic trace
 dimwishlist:item=1303313141&perks=3700496672,831391274
 dimwishlist:item=1303313141&perks=3700496672,4198902903
 dimwishlist:item=1303313141&perks=960997401,831391274
@@ -280,7 +282,7 @@ dimwishlist:item=3462679024&perks=960997401,4198902903
 
 
 //Chronophage
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: energy trace
+//notes:Aegis Endgame Shopping {medium Priority} - Role: energy trace
 dimwishlist:item=1886840007&perks=776531651,2048641572
 dimwishlist:item=1886840007&perks=776531651,2109543898
 dimwishlist:item=1886840007&perks=3700496672,2048641572
@@ -288,13 +290,13 @@ dimwishlist:item=1886840007&perks=3700496672,2109543898
 
 
 //Gizmo Weft
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: movement GL
+//notes:Aegis Endgame Shopping {medium Priority} - Role: movement GL
 dimwishlist:item=4069880346&perks=1421772400,1439600632
 dimwishlist:item=1572604081&perks=1421772400,1439600632
 
 
 //Falling Guillotine
-//notes:Aegis Endgame Shopping {medium Priority}  (BRAVE version) - Role: movement sword
+//notes:Aegis Endgame Shopping {medium Priority} (BRAVE version) - Role: movement sword
 dimwishlist:item=614426548&perks=1749209109,3708227201
 dimwishlist:item=1815105249&perks=243981275,2077819806
 dimwishlist:item=1815105249&perks=243981275,3708227201
@@ -320,24 +322,18 @@ dimwishlist:item=2480871539&perks=4104185692,3708227201
 
 
 //Parasite
-//notes:Aegis Endgame Shopping {medium Priority}  - Role: exotic burst heavy
+//notes:Aegis Endgame Shopping {medium Priority} - Role: exotic burst heavy
 dimwishlist:item=2812324400&perks=,
 
 
-//Nezarec's Nightmare
-//notes:Aegis Endgame Shopping {low Priority}  - Role: miscellaneous neutral
-
-
-//Legacy's Oath
-//notes:Aegis Endgame Shopping {low Priority}  - Role: melee survivability
-
-
 //Cuirass of the Falling Star
-//notes:Aegis Endgame Shopping {low Priority}  - Role: titan DPS
+//notes:Aegis Endgame Shopping {low Priority} - Role: titan DPS
+dimwishlist:item=2321120637&perks=544009373,
+dimwishlist:item=4057875770&perks=544009373,
 
 
 //Perfect Paradox
-//notes:Aegis Endgame Shopping {low Priority}  - Role: 12P shotgun
+//notes:Aegis Endgame Shopping {low Priority} - Role: 12P shotgun
 dimwishlist:item=3393519051&perks=4071163871,2679249093
 dimwishlist:item=3393519051&perks=4071163871,2360754333
 dimwishlist:item=1298672084&perks=691659142,2679249093
@@ -356,7 +352,7 @@ dimwishlist:item=4108648762&perks=4071163871,1226351311
 
 
 //Bellowing Giant
-//notes:Aegis Endgame Shopping {low Priority}  - Role: add clear rocket
+//notes:Aegis Endgame Shopping {low Priority} - Role: add clear rocket
 dimwishlist:item=412265080&perks=1421772400,1439600632
 dimwishlist:item=412265080&perks=3643424744,1439600632
 dimwishlist:item=1889005379&perks=1421772400,1439600632
@@ -364,7 +360,7 @@ dimwishlist:item=1889005379&perks=3643424744,1439600632
 
 
 //Edge Transit
-//notes:Aegis Endgame Shopping {low Priority}  - Role: DPS drum GL
+//notes:Aegis Endgame Shopping {low Priority} - Role: DPS drum GL
 dimwishlist:item=568611923&perks=3751912585,3194351027
 dimwishlist:item=568611923&perks=3751912585,3078487919
 dimwishlist:item=568611923&perks=2396489472,3194351027
@@ -385,7 +381,7 @@ dimwishlist:item=3736001863&perks=2396489472,1089671869
 
 
 //Bequest
-//notes:Aegis Endgame Shopping {low Priority}  - Role: DPS sword
+//notes:Aegis Endgame Shopping {low Priority} - Role: DPS sword
 dimwishlist:item=3366545721&perks=1749209109,1089671869
 dimwishlist:item=3366545721&perks=1749209109,3708227201
 dimwishlist:item=3366545721&perks=1749209109,3201496230
@@ -395,12 +391,12 @@ dimwishlist:item=3366545721&perks=3966416502,3201496230
 
 
 //Pure Recollection
-//notes:Aegis Endgame Shopping {low Priority}  - Role: fast death
+//notes:Aegis Endgame Shopping {low Priority} - Role: fast death
 dimwishlist:item=1956186483&perks=3987942396,1134488199
 
 
 //The Helmsman
-//notes:Aegis Endgame Shopping {low Priority}  - Role: precision roam
+//notes:Aegis Endgame Shopping {low Priority} - Role: precision roam
 dimwishlist:item=2325078119&perks=3978468247,1089671869
 dimwishlist:item=2325078119&perks=3978468247,654512643
 dimwishlist:item=2325078119&perks=3978468247,1546637391
@@ -422,7 +418,7 @@ dimwishlist:item=3215649176&perks=957782887,1546637391
 
 
 //Ouster Engine
-//notes:Aegis Endgame Shopping {low Priority}  - Role: kinetic area denial
+//notes:Aegis Endgame Shopping {low Priority} - Role: kinetic area denial
 dimwishlist:item=2223968549&perks=1421772400,2396489472
 dimwishlist:item=2223968549&perks=1421772400,3764420437
 dimwishlist:item=2223968549&perks=1421772400,2922950962
@@ -444,7 +440,7 @@ dimwishlist:item=3718184802&perks=1955165503,2922950962
 
 
 //VS Velocity Baton
-//notes:Aegis Endgame Shopping {low Priority}  - Role: energy area denial
+//notes:Aegis Endgame Shopping {low Priority} - Role: energy area denial
 dimwishlist:item=1762785663&perks=776531651,2048641572
 dimwishlist:item=1762785663&perks=776531651,243981275
 dimwishlist:item=1762785663&perks=3523296417,2048641572
@@ -463,7 +459,7 @@ dimwishlist:item=2452936816&perks=3108830275,243981275
 
 
 //Modified B-7 Pistol
-//notes:Aegis Endgame Shopping {low Priority}  - Role: kinetic legendary primary
+//notes:Aegis Endgame Shopping {low Priority} - Role: kinetic legendary primary
 dimwishlist:item=3146657388&perks=3824105627,124408337
 dimwishlist:item=3146657388&perks=3824105627,2922950962
 dimwishlist:item=1872906663&perks=3824105627,124408337
@@ -471,13 +467,13 @@ dimwishlist:item=1872906663&perks=3824105627,2922950962
 
 
 //Compact Defender
-//notes:Aegis Endgame Shopping {low Priority}  - Role: energy legendary primary
+//notes:Aegis Endgame Shopping {low Priority} - Role: energy legendary primary
 dimwishlist:item=2819552809&perks=2048641572,776531651
 dimwishlist:item=2659286158&perks=2048641572,776531651
 
 
 //Adamantite
-//notes:Aegis Endgame Shopping {low Priority}  - Role: kinetic support auto
+//notes:Aegis Endgame Shopping {low Priority} - Role: kinetic support auto
 dimwishlist:item=3229982889&perks=923806249,243981275
 dimwishlist:item=3485029080&perks=923806249,243981275
 dimwishlist:item=2987244302&perks=923806249,243981275
@@ -485,39 +481,39 @@ dimwishlist:item=601574723&perks=923806249,243981275
 
 
 //No Hesitation
-//notes:Aegis Endgame Shopping {low Priority}  - Role: energy support auto
+//notes:Aegis Endgame Shopping {low Priority} - Role: energy support auto
 dimwishlist:item=1801007332&perks=2980589453,3640170453
 dimwishlist:item=1801007332&perks=2980589453,243981275
 
 
 //Vouchsafe
-//notes:Aegis Endgame Shopping {low Priority}  - Role: Withering Gaze primary
+//notes:Aegis Endgame Shopping {low Priority} - Role: Withering Gaze primary
 dimwishlist:item=3218302023&perks=3700496672,1134488199
 
 
 //Lotus-Eater
-//notes:Aegis Endgame Shopping {low Priority}  - Role: Withering Gaze special
+//notes:Aegis Endgame Shopping {low Priority} - Role: Withering Gaze special
 dimwishlist:item=3922217119&perks=3700496672,1134488199
 dimwishlist:item=2697143634&perks=3700496672,1134488199
 
 
 //Alethonym
-//notes:Aegis Endgame Shopping {low Priority}  - Role: ammo generator
+//notes:Aegis Endgame Shopping {low Priority} - Role: ammo generator
 dimwishlist:item=2350354266&perks=,
 
 
 //Khvostov 7G-0X
-//notes:Aegis Endgame Shopping {low Priority}  - Role: exotic kinetic primary
+//notes:Aegis Endgame Shopping {low Priority} - Role: exotic kinetic primary
 dimwishlist:item=4129629253&perks=,
 
 
 //Anarchy
-//notes:Aegis Endgame Shopping {low Priority}  - Role: exotic tick heavy
+//notes:Aegis Endgame Shopping {low Priority} - Role: exotic tick heavy
 dimwishlist:item=2376481550&perks=,
 
 
 //Corrective Measure
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: add clear LMG
+//notes:Aegis Endgame Shopping {niche Priority} - Role: add clear LMG
 dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=3796510434&perks=3523296417,4049631843
 dimwishlist:item=3654744298&perks=3523296417,557221067
@@ -541,21 +537,21 @@ dimwishlist:item=2334480463&perks=3201496230,4049631843
 
 
 //Lingering Dread
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: blinding GL
+//notes:Aegis Endgame Shopping {niche Priority} - Role: blinding GL
 dimwishlist:item=2026087437&perks=3300816228,2978966579
 dimwishlist:item=1745368385&perks=3300816228,1439600632
 dimwishlist:item=1745368385&perks=3300816228,2978966579
 
 
 //Chivalric Fire
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: Collective Demolition
+//notes:Aegis Endgame Shopping {niche Priority} - Role: Collective Demolition
 dimwishlist:item=938936806&perks=4019266109,3324494224
 dimwishlist:item=938936806&perks=4019266109,243981275
 dimwishlist:item=938936806&perks=4019266109,2077819806
 
 
 //Love and Death
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: compressed wave
+//notes:Aegis Endgame Shopping {niche Priority} - Role: compressed wave
 dimwishlist:item=3482299617&perks=3751912585,3764420437
 dimwishlist:item=3482299617&perks=3751912585,3078487919
 dimwishlist:item=3482299617&perks=3751912585,2396489472
@@ -568,7 +564,7 @@ dimwishlist:item=3482299617&perks=2360347339,2396489472
 
 
 //Gizmo Weft
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: DPS breech GL
+//notes:Aegis Endgame Shopping {niche Priority} - Role: DPS breech GL
 dimwishlist:item=4069880346&perks=3987942396,3764420437
 dimwishlist:item=4069880346&perks=3987942396,1089671869
 dimwishlist:item=4069880346&perks=3987942396,3078487919
@@ -578,7 +574,7 @@ dimwishlist:item=1572604081&perks=3987942396,3078487919
 
 
 //Eyes Unveiled
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: DPS linear
+//notes:Aegis Endgame Shopping {niche Priority} - Role: DPS linear
 dimwishlist:item=4147428506&perks=1354429876,1089671869
 dimwishlist:item=4147428506&perks=1354429876,31345821
 dimwishlist:item=4147428506&perks=2305480722,1089671869
@@ -586,7 +582,7 @@ dimwishlist:item=4147428506&perks=2305480722,31345821
 
 
 //Omniscient Eye
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: energy DPS sniper
+//notes:Aegis Endgame Shopping {niche Priority} - Role: energy DPS sniper
 dimwishlist:item=147444292&perks=1354429876,1089671869
 dimwishlist:item=147444292&perks=1354429876,555281244
 dimwishlist:item=147444292&perks=1556840489,1089671869
@@ -594,18 +590,18 @@ dimwishlist:item=147444292&perks=1556840489,555281244
 
 
 //Volta Bracket
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: kinetic StL special
+//notes:Aegis Endgame Shopping {niche Priority} - Role: kinetic StL special
 dimwishlist:item=3920310144&perks=3700496672,3038247973
 
 
 //Kindled Orchid
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: energy StL primary
+//notes:Aegis Endgame Shopping {niche Priority} - Role: energy StL primary
 dimwishlist:item=3961462214&perks=3700496672,3038247973
 dimwishlist:item=334964261&perks=3700496672,3038247973
 
 
 //Refusal of the Call
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: kinetic glaive
+//notes:Aegis Endgame Shopping {niche Priority} - Role: kinetic glaive
 dimwishlist:item=3269398063&perks=1782407750,1966281507
 dimwishlist:item=25228802&perks=1782407750,1966281507
 dimwishlist:item=2671849376&perks=1782407750,1966281507
@@ -619,7 +615,7 @@ dimwishlist:item=1541324871&perks=2396489472,1966281507
 
 
 //Ecliptic Distaff
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: energy glaive
+//notes:Aegis Endgame Shopping {niche Priority} - Role: energy glaive
 dimwishlist:item=3001205424&perks=3800201097,1782407750
 dimwishlist:item=1942143745&perks=776531651,3640170453
 dimwishlist:item=1942143745&perks=776531651,1782407750
@@ -633,7 +629,7 @@ dimwishlist:item=1942143745&perks=3800201097,1134488199
 
 
 //New Pacific Epitaph
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: kinetic wave frame
+//notes:Aegis Endgame Shopping {niche Priority} - Role: kinetic wave frame
 dimwishlist:item=1125217994&perks=3108830275,3201496230
 dimwishlist:item=2059741649&perks=3108830275,3201496230
 dimwishlist:item=233402416&perks=3108830275,3201496230
@@ -651,7 +647,7 @@ dimwishlist:item=2988180391&perks=1421772400,113508675
 
 
 //Forbearance
-//notes:Aegis Endgame Shopping {niche Priority}  (BRAVE version) - Role: energy wave frame
+//notes:Aegis Endgame Shopping {niche Priority} (BRAVE version) - Role: energy wave frame
 dimwishlist:item=613334176&perks=3108830275,2396489472
 dimwishlist:item=4038592169&perks=3108830275,2396489472
 dimwishlist:item=568611921&perks=3108830275,2396489472
@@ -670,12 +666,12 @@ dimwishlist:item=3736001860&perks=3108830275,2173046394
 
 
 //Bastion
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: exotic melee buff
+//notes:Aegis Endgame Shopping {niche Priority} - Role: exotic melee buff
 dimwishlist:item=2415517654&perks=,
 
 
 //Collective Obligation
-//notes:Aegis Endgame Shopping {niche Priority}  - Role: exotic energy primary
+//notes:Aegis Endgame Shopping {niche Priority} - Role: exotic energy primary
 dimwishlist:item=3505113722&perks=,
 
 
