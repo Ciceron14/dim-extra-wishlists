@@ -120,6 +120,7 @@ dimwishlist:item=1363886209&perks=,
 
 //Choir of One
 //notes:Aegis Endgame Shopping {high Priority} - Role: exotic roam
+dimwishlist:item=3698448090&perks=1931951170,
 
 
 //Truth

@@ -81,6 +81,7 @@ dimwishlist:item=1979417829&perks=4132187021,2077819806
 
 //Praxic Blade
 //notes:Aegis Speedrun Shopping #1 (Universal use) -> Movement
+dimwishlist:item=3049715579&perks=3268768926,1808259051
 
 
 //Pure Recollection
@@ -168,6 +169,7 @@ dimwishlist:item=2353274446&perks=3523296417,2360754333
 
 //Choir of One
 //notes:Aegis Speedrun Shopping #2 (Universal use) -> Add clear
+dimwishlist:item=3698448090&perks=1931951170,
 
 
 //Chronophage
@@ -919,6 +921,7 @@ dimwishlist:item=1202007252&perks=,
 
 //Wolfsbane
 //notes:Aegis Speedrun Shopping #3 (CE use) -> Burst damage
+dimwishlist:item=1753923263&perks=3865920555,
 
 
 //Xenophage
