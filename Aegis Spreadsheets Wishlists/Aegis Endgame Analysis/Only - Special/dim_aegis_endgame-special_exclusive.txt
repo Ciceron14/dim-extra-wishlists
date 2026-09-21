@@ -35,7 +35,7 @@ dimwishlist:item=3462679024&perks=1840239774,2749775325,960997401,4198902903
 
 
 //Threat Level
-//notes:Aegis Endgame S Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Handling or Reload
+//notes:Aegis Endgame S Tier. Best With 'Forge's Kin' Origin Trait. MW: Handling or Reload
 dimwishlist:item=1523151869&perks=1300023272,106909392,3751912585,1226351311
 dimwishlist:item=1523151869&perks=1300023272,106909392,3751912585,2360754333
 dimwishlist:item=1523151869&perks=1300023272,106909392,3751912585,3640170453

@@ -2,7 +2,7 @@ title:Aegis's Endgame Analysis -> Special (Exclusive) (Major Perks only)
 description:Special weapons rated S tier.
 
 //VS Velocity Baton
-//notes:Aegis Endgame S Tier. Best With 'Bray Legacy' Origin Trait. MW: Reload or Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Bray Legacy' Origin Trait. MW: Reload or Handling
 dimwishlist:item=1762785663&perks=776531651,2048641572
 dimwishlist:item=1762785663&perks=776531651,243981275
 dimwishlist:item=1762785663&perks=3523296417,2048641572
@@ -21,7 +21,7 @@ dimwishlist:item=2452936816&perks=3108830275,243981275
 
 
 //Unsworn
-//notes:Aegis Endgame S Tier. Best With 'Subjugation' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Subjugation' Origin Trait. MW: Reload
 dimwishlist:item=1303313141&perks=3700496672,831391274
 dimwishlist:item=1303313141&perks=3700496672,4198902903
 dimwishlist:item=1303313141&perks=960997401,831391274
@@ -35,7 +35,7 @@ dimwishlist:item=3462679024&perks=960997401,4198902903
 
 
 //Threat Level
-//notes:Aegis Endgame S Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Handling or Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Forge's Kin' Origin Trait. MW: Handling or Reload
 dimwishlist:item=1523151869&perks=3751912585,1226351311
 dimwishlist:item=1523151869&perks=3751912585,2360754333
 dimwishlist:item=1523151869&perks=3751912585,3640170453
@@ -57,7 +57,7 @@ dimwishlist:item=950894542&perks=1556840489,3640170453
 
 
 //The Wizened Rebuke
-//notes:Aegis Endgame S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Charge Time
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Charge Time
 dimwishlist:item=293709641&perks=3643424744,2594592626
 dimwishlist:item=293709641&perks=3643424744,1427256713
 dimwishlist:item=293709641&perks=3978468247,2594592626
@@ -65,7 +65,7 @@ dimwishlist:item=293709641&perks=3978468247,1427256713
 
 
 //The Heron
-//notes:Aegis Endgame S Tier. Best With 'Nail, Meet Hammer' Origin Trait. MW: Shield Duration
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Nail, Meet Hammer' Origin Trait. MW: Shield Duration
 dimwishlist:item=2246386812&perks=776531651,3201496230
 dimwishlist:item=2246386812&perks=776531651,1782407750
 dimwishlist:item=2246386812&perks=776531651,3108830275
@@ -114,7 +114,7 @@ dimwishlist:item=617566156&perks=3643424744,3108830275
 
 
 //The Helmsman
-//notes:Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
 dimwishlist:item=2325078119&perks=3978468247,1089671869
 dimwishlist:item=2325078119&perks=3978468247,654512643
 dimwishlist:item=2325078119&perks=3978468247,1546637391
@@ -136,7 +136,7 @@ dimwishlist:item=3215649176&perks=957782887,1546637391
 
 
 //Something Something
-//notes:Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
 dimwishlist:item=3421075982&perks=3400784728,1089671869
 dimwishlist:item=3421075982&perks=3400784728,1226351311
 dimwishlist:item=3421075982&perks=3400784728,3201496230
@@ -152,7 +152,7 @@ dimwishlist:item=690412397&perks=3978468247,3201496230
 
 
 //Returned Memory
-//notes:Aegis Endgame S Tier. Best With 'Tenacity' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Tenacity' Origin Trait. MW: Reload
 dimwishlist:item=4049127142&perks=3017780555,3201496230
 dimwishlist:item=4049127142&perks=3017780555,4293542123
 dimwishlist:item=4049127142&perks=3017780555,2890807135
@@ -165,7 +165,7 @@ dimwishlist:item=4049127142&perks=1556840489,2890807135
 
 
 //Refusal of the Call
-//notes:Aegis Endgame S Tier. Best With 'Heretical Behavior' Origin Trait. MW: Shield Duration
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Heretical Behavior' Origin Trait. MW: Shield Duration
 dimwishlist:item=3269398063&perks=1782407750,1966281507
 dimwishlist:item=25228802&perks=1782407750,1966281507
 dimwishlist:item=2671849376&perks=1782407750,1966281507
@@ -179,7 +179,7 @@ dimwishlist:item=1541324871&perks=2396489472,1966281507
 
 
 //Rake Angle
-//notes:Aegis Endgame S Tier. Best With 'Problem Solver' Origin Trait. MW: Shield Duration
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Problem Solver' Origin Trait. MW: Shield Duration
 dimwishlist:item=2298039571&perks=3643424744,2978966579
 dimwishlist:item=2298039571&perks=3643424744,1782407750
 dimwishlist:item=2298039571&perks=1556840489,2978966579
@@ -201,7 +201,7 @@ dimwishlist:item=2201323795&perks=1955165503,1782407750
 
 
 //Psychopomp
-//notes:Aegis Endgame S Tier. Best With 'Heretical Behavior' Origin Trait. MW: Reload or Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Heretical Behavior' Origin Trait. MW: Reload or Handling
 dimwishlist:item=1835232052&perks=3300816228,3764420437
 dimwishlist:item=1835232052&perks=3300816228,2173046394
 dimwishlist:item=1835232052&perks=3300816228,654512643
@@ -214,7 +214,7 @@ dimwishlist:item=1835232052&perks=3218042543,654512643
 
 
 //Praedyth's Revenge
-//notes:Aegis Endgame S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Handling
 dimwishlist:item=3844610113&perks=1354429876,1089671869
 dimwishlist:item=3844610113&perks=1354429876,1226351311
 dimwishlist:item=3844610113&perks=1354429876,555281244
@@ -236,7 +236,7 @@ dimwishlist:item=2362652544&perks=3978468247,555281244
 
 
 //Perfect Paradox
-//notes:Aegis Endgame S Tier. Best With 'Cast No Shadows' Origin Trait. MW: Handling or Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cast No Shadows' Origin Trait. MW: Handling or Reload
 dimwishlist:item=3393519051&perks=4071163871,2679249093
 dimwishlist:item=3393519051&perks=4071163871,2360754333
 dimwishlist:item=1298672084&perks=691659142,2679249093
@@ -255,7 +255,7 @@ dimwishlist:item=4108648762&perks=4071163871,1226351311
 
 
 //Ouster Engine
-//notes:Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload or Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload or Handling
 dimwishlist:item=2223968549&perks=1421772400,2396489472
 dimwishlist:item=2223968549&perks=1421772400,3764420437
 dimwishlist:item=2223968549&perks=1421772400,2922950962
@@ -277,7 +277,7 @@ dimwishlist:item=3718184802&perks=1955165503,2922950962
 
 
 //Lotus-Eater
-//notes:Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=3922217119&perks=776531651,2048641572
 dimwishlist:item=3922217119&perks=776531651,1134488199
 dimwishlist:item=3922217119&perks=3700496672,2048641572
@@ -301,7 +301,7 @@ dimwishlist:item=837298567&perks=1421772400,1134488199
 
 
 //Loaded Question
-//notes:Aegis Endgame S Tier. Best With 'Problem Solver' Origin Trait. MW: Charge Time
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Problem Solver' Origin Trait. MW: Charge Time
 dimwishlist:item=580961571&perks=3300816228,1427256713
 dimwishlist:item=3125454907&perks=3643424744,2594592626
 dimwishlist:item=3125454907&perks=3643424744,1427256713
@@ -324,7 +324,7 @@ dimwishlist:item=852069910&perks=968510818,1427256713
 
 
 //Indebted Kindness
-//notes:Aegis Endgame S Tier. Best With 'Sundering' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Sundering' Origin Trait. MW: Reload
 dimwishlist:item=2554513694&perks=1421772400,2173046394
 dimwishlist:item=2554513694&perks=1421772400,2396489472
 dimwishlist:item=2554513694&perks=1421772400,243981275
@@ -340,7 +340,7 @@ dimwishlist:item=2554513694&perks=960810156,243981275
 
 
 //High Albedo
-//notes:Aegis Endgame S Tier. Best With 'Winterized Gear' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Winterized Gear' Origin Trait. MW: Reload
 dimwishlist:item=2662459958&perks=2289534249,3891536761
 dimwishlist:item=2662459958&perks=2289534249,1226351311
 dimwishlist:item=2662459958&perks=2289534249,1202584452
@@ -353,7 +353,7 @@ dimwishlist:item=2662459958&perks=1517798362,1202584452
 
 
 //Heritage
-//notes:Aegis Endgame S Tier. Best With 'Bray Inheritance' Origin Trait. MW: Handling or Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Bray Inheritance' Origin Trait. MW: Handling or Reload
 dimwishlist:item=4248569242&perks=3201496230,3751912585
 dimwishlist:item=4248569242&perks=3201496230,3764420437
 dimwishlist:item=4248569242&perks=3201496230,469285294
@@ -363,14 +363,14 @@ dimwishlist:item=4248569242&perks=1523832109,469285294
 
 
 //Glacioclasm
-//notes:Aegis Endgame S Tier. Best With 'Dawning Surprise' Origin Trait. MW: Charge Time
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Dawning Surprise' Origin Trait. MW: Charge Time
 dimwishlist:item=2728851518&perks=3643424744,2594592626
 dimwishlist:item=1183116657&perks=3643424744,2594592626
 dimwishlist:item=1183116657&perks=3643424744,1134488199
 
 
 //Gizmo Weft
-//notes:Aegis Endgame S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload or Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload or Handling
 dimwishlist:item=4069880346&perks=1421772400,1439600632
 dimwishlist:item=4069880346&perks=1421772400,3764420437
 dimwishlist:item=4069880346&perks=1421772400,2396489472
@@ -392,7 +392,7 @@ dimwishlist:item=1572604081&perks=923806249,2396489472
 
 
 //Found Verdict
-//notes:Aegis Endgame S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Handling or Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Handling or Reload
 dimwishlist:item=3197270240&perks=3418782618,2679249093
 dimwishlist:item=631439337&perks=3418782618,2679249093
 dimwishlist:item=694500607&perks=3764420437,2360754333
@@ -416,7 +416,7 @@ dimwishlist:item=851296754&perks=3418782618,654512643
 
 
 //Forthcoming Deviance
-//notes:Aegis Endgame S Tier. Best With 'Collective Purpose' Origin Trait. MW: Shield Duration
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Collective Purpose' Origin Trait. MW: Shield Duration
 dimwishlist:item=535198113&perks=776531651,3640170453
 dimwishlist:item=535198113&perks=776531651,1782407750
 dimwishlist:item=535198113&perks=776531651,2048641572
@@ -438,7 +438,7 @@ dimwishlist:item=3123651616&perks=1523832109,2048641572
 
 
 //Festival Flight
-//notes:Aegis Endgame S Tier. Best With 'Dream Work' Origin Trait. MW: Reload or Handling
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Dream Work' Origin Trait. MW: Reload or Handling
 dimwishlist:item=4019651319&perks=923806249,243981275
 dimwishlist:item=4019651319&perks=923806249,4049631843
 dimwishlist:item=4019651319&perks=923806249,831391274
@@ -460,7 +460,7 @@ dimwishlist:item=3977654524&perks=3987942396,831391274
 
 
 //Ecliptic Distaff
-//notes:Aegis Endgame S Tier. Best With 'Vanguard Determination' Origin Trait. MW: Shield Duration
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Vanguard Determination' Origin Trait. MW: Shield Duration
 dimwishlist:item=3001205424&perks=3800201097,1782407750
 dimwishlist:item=1942143745&perks=776531651,3640170453
 dimwishlist:item=1942143745&perks=776531651,1782407750
@@ -474,13 +474,13 @@ dimwishlist:item=1942143745&perks=3800201097,1134488199
 
 
 //Conspiracy Honed
-//notes:Aegis Endgame S Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=4062069077&perks=1546637391,3078487919
 dimwishlist:item=4062069077&perks=1546637391,1771339417
 
 
 //Chronophage
-//notes:Aegis Endgame S Tier. Best With 'Radiolaria Transposer' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Radiolaria Transposer' Origin Trait. MW: Reload
 dimwishlist:item=1886840007&perks=776531651,2048641572
 dimwishlist:item=1886840007&perks=776531651,2109543898
 dimwishlist:item=1886840007&perks=3700496672,2048641572
@@ -488,7 +488,7 @@ dimwishlist:item=1886840007&perks=3700496672,2109543898
 
 
 //Basso Ostinato
-//notes:Aegis Endgame S Tier. Best With 'Nanotech Tracer Missiles' Origin Trait. MW: Handling or Reload
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Nanotech Tracer Missiles' Origin Trait. MW: Handling or Reload
 dimwishlist:item=2573900604&perks=1631667848,2679249093
 dimwishlist:item=2573900604&perks=1631667848,2360754333
 dimwishlist:item=2353274446&perks=1631667848,2679249093

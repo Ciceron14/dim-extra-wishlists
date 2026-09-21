@@ -2,7 +2,7 @@ title:Aegis's Endgame Analysis -> Primaries (Type & Element Combos) (Major Perks
 description:Highest rated Primary weapon for each 'Type + Element' combo.
 
 //Zaouli's Bane
-//notes:(Pantheon version) - Aegis Top Solar HC: S Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Reload
+//notes:-Perks Only- (Pantheon version) - Aegis Top Solar HC: S Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Reload
 dimwishlist:item=431721920&perks=3038247973,657025441
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=431721920&perks=3038247973,3640170453
@@ -30,7 +30,7 @@ dimwishlist:item=3066945855&perks=2890807135,3640170453
 
 
 //Yeartide Apex
-//notes:Aegis Top Solar SMG: S Tier. Best With 'Tex Balanced Stock' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Solar SMG: S Tier. Best With 'Tex Balanced Stock' Origin Trait. MW: Reload
 dimwishlist:item=3293207827&perks=243981275,4293542123
 dimwishlist:item=3293207827&perks=243981275,3640170453
 dimwishlist:item=3293207827&perks=243981275,2890807135
@@ -46,14 +46,14 @@ dimwishlist:item=2965080304&perks=3017780555,2890807135
 
 
 //VS Pyroelectric Propellant
-//notes:Aegis Top Arc Auto: A Tier. Best With 'Bray Legacy' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Arc Auto: A Tier. Best With 'Bray Legacy' Origin Trait. MW: Reload
 dimwishlist:item=4232480042&perks=243981275,3966416502
 dimwishlist:item=2460368549&perks=243981275,3966416502
 dimwishlist:item=2460368549&perks=243981275,654512643
 
 
 //Vouchsafe
-//notes:Aegis Top Void Scout: S Tier. Best With 'Advanced Reflexes' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Void Scout: S Tier. Best With 'Advanced Reflexes' Origin Trait. MW: Reload
 dimwishlist:item=355922321&perks=776531651,2048641572
 dimwishlist:item=355922321&perks=776531651,3038247973
 dimwishlist:item=3218302023&perks=776531651,2048641572
@@ -68,7 +68,7 @@ dimwishlist:item=3218302023&perks=3700496672,1134488199
 
 
 //Voltaic Shade
-//notes:Aegis Top Arc Scout: S Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Top Arc Scout: S Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=71057630&perks=3966416502,657025441
 dimwishlist:item=71057630&perks=3966416502,2173046394
 dimwishlist:item=71057630&perks=3700496672,657025441
@@ -76,7 +76,7 @@ dimwishlist:item=71057630&perks=3700496672,2173046394
 
 
 //Vengeful Whisper
-//notes:Aegis Top Strand Bow: A Tier. Best With 'Sundering' Origin Trait. MW: Draw Time
+//notes:-Perks Only- Aegis Top Strand Bow: A Tier. Best With 'Sundering' Origin Trait. MW: Draw Time
 dimwishlist:item=839344841&perks=923806249,831391274
 dimwishlist:item=839344841&perks=3365897133,831391274
 dimwishlist:item=1054567917&perks=960997401,657025441
@@ -91,7 +91,7 @@ dimwishlist:item=1054567917&perks=3365897133,3414324643
 
 
 //Unforgiven
-//notes:Aegis Top Void SMG: S Tier. Best With 'Bitterspite' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Void SMG: S Tier. Best With 'Bitterspite' Origin Trait. MW: Reload
 dimwishlist:item=234411205&perks=2048641572,776531651
 dimwishlist:item=234411205&perks=2048641572,3640170453
 dimwishlist:item=234411205&perks=2048641572,3182497402
@@ -101,7 +101,7 @@ dimwishlist:item=234411205&perks=243981275,3182497402
 
 
 //Trustee
-//notes:Aegis Top Solar Scout: S Tier. Best With 'Bray Inheritance' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Solar Scout: S Tier. Best With 'Bray Inheritance' Origin Trait. MW: Reload
 dimwishlist:item=1392919471&perks=3017780555,4293542123
 dimwishlist:item=1392919471&perks=3017780555,657025441
 dimwishlist:item=1392919471&perks=3017780555,2890807135
@@ -111,13 +111,13 @@ dimwishlist:item=1392919471&perks=1523832109,2890807135
 
 
 //The Time-Worn Spire
-//notes:Aegis Top Stasis Pulse: A Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Stasis Pulse: A Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
 dimwishlist:item=2204165992&perks=3824105627,124408337
 dimwishlist:item=2204165992&perks=3824105627,2922950962
 
 
 //The Spiteful Fang
-//notes:Aegis Top Stasis Bow: S Tier. Best With 'Forge's Kin' Origin Trait. MW: Draw Time
+//notes:-Perks Only- Aegis Top Stasis Bow: S Tier. Best With 'Forge's Kin' Origin Trait. MW: Draw Time
 dimwishlist:item=1094998581&perks=124408337,3824105627
 dimwishlist:item=1094998581&perks=124408337,2922950962
 dimwishlist:item=1094998581&perks=1955165503,3824105627
@@ -129,7 +129,7 @@ dimwishlist:item=1704597062&perks=1955165503,2922950962
 
 
 //Service Revolver
-//notes:Aegis Top Kinetic HC: A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Kinetic HC: A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=3796682229&perks=3700496672,3038247973
 dimwishlist:item=3796682229&perks=3700496672,3891536761
 dimwishlist:item=3796682229&perks=1517798362,3038247973
@@ -141,7 +141,7 @@ dimwishlist:item=59060498&perks=1517798362,3891536761
 
 
 //Scathelocke
-//notes:Aegis Top Kinetic Auto: A Tier. Best With 'Veteran's Wisdom' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Kinetic Auto: A Tier. Best With 'Veteran's Wisdom' Origin Trait. MW: Reload
 dimwishlist:item=3332538050&perks=243981275,3891536761
 dimwishlist:item=3332538050&perks=243981275,1202584452
 dimwishlist:item=3332538050&perks=3700496672,3891536761
@@ -149,7 +149,7 @@ dimwishlist:item=3332538050&perks=3700496672,1202584452
 
 
 //Red Tape
-//notes:Aegis Top Stasis Scout: C Tier. Best With 'Dark Ether Reaper' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Stasis Scout: C Tier. Best With 'Dark Ether Reaper' Origin Trait. MW: Reload
 dimwishlist:item=3423493037&perks=1955165503,124408337
 dimwishlist:item=3423493037&perks=1955165503,3038247973
 dimwishlist:item=3423493037&perks=243981275,124408337
@@ -161,13 +161,13 @@ dimwishlist:item=736362511&perks=243981275,3038247973
 
 
 //Point of the Stag
-//notes:Aegis Top Arc Bow: S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Draw Time
+//notes:-Perks Only- Aegis Top Arc Bow: S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Draw Time
 dimwishlist:item=911019136&perks=2848615171,2173046394
 dimwishlist:item=911019136&perks=2848615171,3414324643
 
 
 //Peacebond
-//notes:Aegis Top Stasis Sidearm: A Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Stasis Sidearm: A Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
 dimwishlist:item=3437370193&perks=124408337,1955165503
 dimwishlist:item=3437370193&perks=124408337,1015611457
 dimwishlist:item=3437370193&perks=124408337,2109543898
@@ -177,7 +177,7 @@ dimwishlist:item=247984829&perks=124408337,2109543898
 
 
 //Oversoul Edict
-//notes:Aegis Top Arc Pulse: A Tier. Best With 'Cursed Thrall' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Arc Pulse: A Tier. Best With 'Cursed Thrall' Origin Trait. MW: Reload
 dimwishlist:item=1098171824&perks=3218042543,2173046394
 dimwishlist:item=1098171824&perks=3218042543,3966416502
 dimwishlist:item=1098171824&perks=3218042543,654512643
@@ -187,7 +187,7 @@ dimwishlist:item=578105049&perks=3218042543,654512643
 
 
 //Nullify
-//notes:Aegis Top Solar Pulse: S Tier. Best With 'Collective Purpose' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Solar Pulse: S Tier. Best With 'Collective Purpose' Origin Trait. MW: Reload
 dimwishlist:item=859869931&perks=3017780555,4293542123
 dimwishlist:item=859869931&perks=3017780555,657025441
 dimwishlist:item=859869931&perks=3017780555,3640170453
@@ -209,12 +209,12 @@ dimwishlist:item=892183998&perks=2890807135,3640170453
 
 
 //Noxious Vetiver
-//notes:Aegis Top Arc SMG: A Tier. Best With 'Dark Ether Reaper' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Arc SMG: A Tier. Best With 'Dark Ether Reaper' Origin Trait. MW: Reload
 dimwishlist:item=825495813&perks=243981275,3966416502
 
 
 //No Hesitation
-//notes:Aegis Top Solar Auto: S Tier. Best With 'Dealer's Choice' Origin Trait. MW: Range
+//notes:-Perks Only- Aegis Top Solar Auto: S Tier. Best With 'Dealer's Choice' Origin Trait. MW: Range
 dimwishlist:item=1801007332&perks=2980589453,3640170453
 dimwishlist:item=1801007332&perks=2980589453,243981275
 dimwishlist:item=1801007332&perks=2980589453,4293542123
@@ -224,7 +224,7 @@ dimwishlist:item=1801007332&perks=2890807135,4293542123
 
 
 //Nation of Beasts
-//notes:Aegis Top Arc HC: A Tier. Best With 'Explosive Pact' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Arc HC: A Tier. Best With 'Explosive Pact' Origin Trait. MW: Reload
 dimwishlist:item=70083888&perks=654512643,3966416502
 dimwishlist:item=70083888&perks=654512643,3038247973
 dimwishlist:item=70083888&perks=654512643,2173046394
@@ -234,7 +234,7 @@ dimwishlist:item=70083888&perks=2848615171,2173046394
 
 
 //Mykel's Reverence
-//notes:Aegis Top Strand Sidearm: B Tier. Best With 'Harmonic Resonance' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Strand Sidearm: B Tier. Best With 'Harmonic Resonance' Origin Trait. MW: Reload
 dimwishlist:item=231031173&perks=923806249,831391274
 dimwishlist:item=231031173&perks=923806249,3081867624
 dimwishlist:item=231031173&perks=4019266109,831391274
@@ -246,7 +246,7 @@ dimwishlist:item=1986287028&perks=4019266109,3081867624
 
 
 //Multimach CCX
-//notes:Aegis Top Kinetic SMG: S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Kinetic SMG: S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
 dimwishlist:item=3211624072&perks=243981275,3891536761
 dimwishlist:item=3026836571&perks=243981275,3891536761
 dimwishlist:item=3026836571&perks=2289534249,3891536761
@@ -254,7 +254,7 @@ dimwishlist:item=3026836571&perks=1517798362,3891536761
 
 
 //Modified B-7 Pistol
-//notes:Aegis Top Stasis HC: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Top Stasis HC: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=3146657388&perks=3824105627,124408337
 dimwishlist:item=3146657388&perks=3824105627,2922950962
 dimwishlist:item=1872906663&perks=3824105627,124408337
@@ -262,13 +262,13 @@ dimwishlist:item=1872906663&perks=3824105627,2922950962
 
 
 //M-17 "Fast Talker"
-//notes:Aegis Top Stasis SMG: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Top Stasis SMG: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=1419158093&perks=243981275,2922950962
 dimwishlist:item=2770035786&perks=243981275,2922950962
 
 
 //Kindled Orchid
-//notes:Aegis Top Void HC: S Tier. Best With 'Forge's Kin' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Void HC: S Tier. Best With 'Forge's Kin' Origin Trait. MW: Reload
 dimwishlist:item=2575506895&perks=1015611457,3038247973
 dimwishlist:item=3961462214&perks=776531651,2048641572
 dimwishlist:item=3961462214&perks=776531651,3038247973
@@ -291,7 +291,7 @@ dimwishlist:item=334964261&perks=1015611457,1464081238
 
 
 //Joxer's Longsword
-//notes:Aegis Top Void Pulse: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Void Pulse: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=157601190&perks=776531651,2048641572
 dimwishlist:item=157601190&perks=776531651,1134488199
 dimwishlist:item=157601190&perks=2848615171,2048641572
@@ -319,7 +319,7 @@ dimwishlist:item=3538003989&perks=3700496672,1015611457
 
 
 //Imminence
-//notes:Aegis Top Strand SMG: A Tier. Best With 'Collective Purpose' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Strand SMG: A Tier. Best With 'Collective Purpose' Origin Trait. MW: Reload
 dimwishlist:item=1258168956&perks=960997401,3640170453
 dimwishlist:item=1258168956&perks=960997401,831391274
 dimwishlist:item=1258168956&perks=960997401,3824105627
@@ -335,7 +335,7 @@ dimwishlist:item=3951511045&perks=923806249,3824105627
 
 
 //Hush
-//notes:Aegis Top Solar Bow: A Tier. Best With 'Gun and Run' Origin Trait. MW: Draw Time
+//notes:-Perks Only- Aegis Top Solar Bow: A Tier. Best With 'Gun and Run' Origin Trait. MW: Draw Time
 dimwishlist:item=3638723317&perks=2890807135,4293542123
 dimwishlist:item=3638723317&perks=2890807135,657025441
 dimwishlist:item=3638723317&perks=2890807135,3414324643
@@ -345,7 +345,7 @@ dimwishlist:item=3638723317&perks=3824105627,3414324643
 
 
 //Hung Jury SR4
-//notes:Aegis Top Kinetic Scout: A Tier. Best With 'Indomitability' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Kinetic Scout: A Tier. Best With 'Indomitability' Origin Trait. MW: Reload
 dimwishlist:item=3832743906&perks=3700496672,3824105627
 dimwishlist:item=2883684343&perks=3700496672,3824105627
 dimwishlist:item=772231794&perks=3700496672,3824105627
@@ -369,7 +369,7 @@ dimwishlist:item=697459665&perks=3700496672,3038247973
 
 
 //Fortunate Star
-//notes:Aegis Top Void Bow: A Tier. Best With 'Veist Stinger' Origin Trait. MW: Draw Time
+//notes:-Perks Only- Aegis Top Void Bow: A Tier. Best With 'Veist Stinger' Origin Trait. MW: Draw Time
 dimwishlist:item=2326578623&perks=776531651,2048641572
 dimwishlist:item=2326578623&perks=776531651,3414324643
 dimwishlist:item=2631466936&perks=776531651,2048641572
@@ -393,7 +393,7 @@ dimwishlist:item=591672323&perks=2360347339,3414324643
 
 
 //Fang of Ir Yût
-//notes:Aegis Top Strand Scout: A Tier. Best With 'Cursed Thrall' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Strand Scout: A Tier. Best With 'Cursed Thrall' Origin Trait. MW: Reload
 dimwishlist:item=1432682459&perks=960997401,657025441
 dimwishlist:item=1432682459&perks=960997401,831391274
 dimwishlist:item=1432682459&perks=923806249,657025441
@@ -409,7 +409,7 @@ dimwishlist:item=128782990&perks=3700496672,831391274
 
 
 //Evening SI4
-//notes:Aegis Top Solar Sidearm: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Solar Sidearm: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=1763361847&perks=3017780555,4293542123
 dimwishlist:item=1763361847&perks=3017780555,2890807135
 dimwishlist:item=1763361847&perks=2360347339,4293542123
@@ -421,12 +421,12 @@ dimwishlist:item=3618823368&perks=2360347339,2890807135
 
 
 //Empirical Evidence
-//notes:Aegis Top Kinetic Sidearm: A Tier. Best With 'Psychohack' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Kinetic Sidearm: A Tier. Best With 'Psychohack' Origin Trait. MW: Reload
 dimwishlist:item=2607304614&perks=3828510309,3891536761
 
 
 //DECATUR 02
-//notes:Aegis Top Stasis Auto: S Tier. Best With 'Carrion Munitions' Origin Trait. MW: Range
+//notes:-Perks Only- Aegis Top Stasis Auto: S Tier. Best With 'Carrion Munitions' Origin Trait. MW: Range
 dimwishlist:item=1850748385&perks=2980589453,692399809
 dimwishlist:item=1850748385&perks=2980589453,3081867624
 dimwishlist:item=1850748385&perks=2980589453,3201496230
@@ -439,7 +439,7 @@ dimwishlist:item=1850748385&perks=243981275,3201496230
 
 
 //Cusp Sempiternal
-//notes:Aegis Top Void Auto: S Tier. Best With 'Frame of Reference' Origin Trait. MW: Range
+//notes:-Perks Only- Aegis Top Void Auto: S Tier. Best With 'Frame of Reference' Origin Trait. MW: Range
 dimwishlist:item=2579693381&perks=692399809,1134488199
 dimwishlist:item=2579693381&perks=692399809,2048641572
 dimwishlist:item=2579693381&perks=692399809,3081867624
@@ -452,7 +452,7 @@ dimwishlist:item=2579693381&perks=243981275,3081867624
 
 
 //Corundum Hammer
-//notes:Aegis Top Strand HC: A Tier. Best With 'Fleet Footed' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Strand HC: A Tier. Best With 'Fleet Footed' Origin Trait. MW: Reload
 dimwishlist:item=2263462407&perks=3824105627,960997401
 dimwishlist:item=2263462407&perks=3824105627,3038247973
 dimwishlist:item=2263462407&perks=3700496672,960997401
@@ -462,13 +462,13 @@ dimwishlist:item=2263462407&perks=923806249,3038247973
 
 
 //Compact Defender
-//notes:Aegis Top Void Sidearm: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Top Void Sidearm: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=2819552809&perks=2048641572,776531651
 dimwishlist:item=2659286158&perks=2048641572,776531651
 
 
 //Chattering Bone
-//notes:(Pantheon version) - Aegis Top Kinetic Pulse: A Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Reload
+//notes:-Perks Only- (Pantheon version) - Aegis Top Kinetic Pulse: A Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Reload
 dimwishlist:item=501329015&perks=1015611457,3891536761
 dimwishlist:item=501329015&perks=2289534249,1202584452
 dimwishlist:item=830651379&perks=1015611457,3891536761
@@ -492,19 +492,19 @@ dimwishlist:item=4157371152&perks=2289534249,1202584452
 
 
 //Biting Winds
-//notes:Aegis Top Kinetic Bow: S Tier. Best With 'Winterized Gear' Origin Trait. MW: Draw Time
+//notes:-Perks Only- Aegis Top Kinetic Bow: S Tier. Best With 'Winterized Gear' Origin Trait. MW: Draw Time
 dimwishlist:item=2485400469&perks=2289534249,3891536761
 dimwishlist:item=2485400469&perks=2360347339,3891536761
 
 
 //Anonymous Autumn
-//notes:Aegis Top Arc Sidearm: A Tier. Best With 'Field-Tested' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Arc Sidearm: A Tier. Best With 'Field-Tested' Origin Trait. MW: Reload
 dimwishlist:item=1051949956&perks=243981275,2173046394
 dimwishlist:item=1644501332&perks=243981275,2173046394
 
 
 //All or Nothing
-//notes:Aegis Top Strand Pulse: A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Top Strand Pulse: A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=3984776322&perks=3824105627,960997401
 dimwishlist:item=3984776322&perks=3824105627,831391274
 dimwishlist:item=3984776322&perks=923806249,960997401
@@ -516,23 +516,31 @@ dimwishlist:item=2023002233&perks=923806249,831391274
 
 
 //Adamantite
-//notes:Aegis Top Strand Auto: A Tier. Best With 'Heretical Behavior' Origin Trait. MW: Range
+//notes:-Perks Only- Aegis Top Strand Auto: A Tier. Best With 'Heretical Behavior' Origin Trait. MW: Range
 dimwishlist:item=3229982889&perks=692399809,831391274
 dimwishlist:item=3229982889&perks=692399809,960997401
+dimwishlist:item=3229982889&perks=692399809,243981275
 dimwishlist:item=3229982889&perks=923806249,831391274
 dimwishlist:item=3229982889&perks=923806249,960997401
+dimwishlist:item=3229982889&perks=923806249,243981275
 dimwishlist:item=3485029080&perks=692399809,831391274
 dimwishlist:item=3485029080&perks=692399809,960997401
+dimwishlist:item=3485029080&perks=692399809,243981275
 dimwishlist:item=3485029080&perks=923806249,831391274
 dimwishlist:item=3485029080&perks=923806249,960997401
+dimwishlist:item=3485029080&perks=923806249,243981275
 dimwishlist:item=2987244302&perks=692399809,831391274
 dimwishlist:item=2987244302&perks=692399809,960997401
+dimwishlist:item=2987244302&perks=692399809,243981275
 dimwishlist:item=2987244302&perks=923806249,831391274
 dimwishlist:item=2987244302&perks=923806249,960997401
+dimwishlist:item=2987244302&perks=923806249,243981275
 dimwishlist:item=601574723&perks=692399809,831391274
 dimwishlist:item=601574723&perks=692399809,960997401
+dimwishlist:item=601574723&perks=692399809,243981275
 dimwishlist:item=601574723&perks=923806249,831391274
 dimwishlist:item=601574723&perks=923806249,960997401
+dimwishlist:item=601574723&perks=923806249,243981275
 dimwishlist:item=621450049&perks=692399809,831391274
 dimwishlist:item=621450049&perks=692399809,960997401
 dimwishlist:item=621450049&perks=3201496230,831391274
