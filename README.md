@@ -84,4 +84,3 @@ Note that Endgame Shopping List does not list Barrels and Mags in the sheet so t
 - Ergo Sum (Speedrunner Shopping List) fails to generate wishes due to "Wave Frame" in source (it needs "Wave Sword Frame")
 - Long Arm (RotN version) does not get added to Trashlist due to the script filtering variants by perks, and trashlist not having perks. Due to this, having this version in trash list would also put the other version (ranked B Tier) in it.
 - Alternatives found in Notes instead of directly inside a Cell for Endgame Shopping List are not picked up
-- [Investigating] Mint Retrograde generates incomplete wishes (it should filter them out for the variant that does not have the perk)
