@@ -112,6 +112,22 @@ dimwishlist:item=407511664&perks=3108830275,2305480722
 dimwishlist:item=407511664&perks=3108830275,3751912585
 
 
+//Refurbished A499
+//notes:-Perks Only- Aegis Top Kinetic Heavy Snipe: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=3661051060&perks=957782887,3764420437
+dimwishlist:item=3661051060&perks=957782887,968510818
+dimwishlist:item=3661051060&perks=2579169598,3764420437
+dimwishlist:item=3661051060&perks=2579169598,968510818
+dimwishlist:item=3661051060&perks=1365187766,3764420437
+dimwishlist:item=3661051060&perks=1365187766,968510818
+dimwishlist:item=593808239&perks=957782887,3764420437
+dimwishlist:item=593808239&perks=957782887,968510818
+dimwishlist:item=593808239&perks=2579169598,3764420437
+dimwishlist:item=593808239&perks=2579169598,968510818
+dimwishlist:item=593808239&perks=1365187766,3764420437
+dimwishlist:item=593808239&perks=1365187766,968510818
+
+
 //Reed's Regret
 //notes:-Perks Only- Aegis Top Stasis LFR: A Tier. Best With 'Veist Stinger' Origin Trait. MW: Charge Time
 dimwishlist:item=1399243961&perks=3400784728,2896038713
@@ -136,6 +152,19 @@ dimwishlist:item=4176551594&perks=923806249,657025441
 dimwishlist:item=4176551594&perks=923806249,960997401
 dimwishlist:item=4176551594&perks=831391274,657025441
 dimwishlist:item=4176551594&perks=831391274,960997401
+
+
+//Opaque Hourglass
+//notes:-Perks Only- Aegis Top Arc Crossbo: C Tier. Best With 'Frame of Reference' Origin Trait. MW: Handling
+dimwishlist:item=1553681400&perks=951095735,1089671869
+dimwishlist:item=1553681400&perks=951095735,2848615171
+dimwishlist:item=1553681400&perks=951095735,3081867624
+dimwishlist:item=1553681400&perks=3824105627,1089671869
+dimwishlist:item=1553681400&perks=3824105627,2848615171
+dimwishlist:item=1553681400&perks=3824105627,3081867624
+dimwishlist:item=1553681400&perks=4042220767,1089671869
+dimwishlist:item=1553681400&perks=4042220767,2848615171
+dimwishlist:item=1553681400&perks=4042220767,3081867624
 
 
 //Nasreddin
@@ -391,5 +420,21 @@ dimwishlist:item=2599520828&perks=923806249,3708227201
 dimwishlist:item=2599520828&perks=2244851822,3201496230
 dimwishlist:item=2599520828&perks=2244851822,1089671869
 dimwishlist:item=2599520828&perks=2244851822,3708227201
+
+
+//A Good Shout
+//notes:-Perks Only- Aegis Top Void Crossbo: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2551157718
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2551157718
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2551157718
+dimwishlist:item=649691506&perks=3987942396,2319119708
+dimwishlist:item=649691506&perks=3987942396,2551157718
+dimwishlist:item=649691506&perks=4042220767,2319119708
+dimwishlist:item=649691506&perks=4042220767,2551157718
+dimwishlist:item=649691506&perks=1134488199,2319119708
+dimwishlist:item=649691506&perks=1134488199,2551157718
 
 

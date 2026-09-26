@@ -53,6 +53,22 @@ dimwishlist:item=2881109029&perks=3194351027,113508675
 dimwishlist:item=2881109029&perks=3194351027,1439600632
 
 
+//Refurbished A499
+//notes:-Perks Only- Aegis Top Disruption Heavy Snipe: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=3661051060&perks=957782887,3764420437
+dimwishlist:item=3661051060&perks=957782887,968510818
+dimwishlist:item=3661051060&perks=2579169598,3764420437
+dimwishlist:item=3661051060&perks=2579169598,968510818
+dimwishlist:item=3661051060&perks=1365187766,3764420437
+dimwishlist:item=3661051060&perks=1365187766,968510818
+dimwishlist:item=593808239&perks=957782887,3764420437
+dimwishlist:item=593808239&perks=957782887,968510818
+dimwishlist:item=593808239&perks=2579169598,3764420437
+dimwishlist:item=593808239&perks=2579169598,968510818
+dimwishlist:item=593808239&perks=1365187766,3764420437
+dimwishlist:item=593808239&perks=1365187766,968510818
+
+
 //Qua Vinctus IV
 //notes:-Perks Only- Aegis Top High-Impact LMG: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload,Handling
 dimwishlist:item=337893613&perks=3523296417,657025441
@@ -354,5 +370,21 @@ dimwishlist:item=2599520828&perks=923806249,3708227201
 dimwishlist:item=2599520828&perks=2244851822,3201496230
 dimwishlist:item=2599520828&perks=2244851822,1089671869
 dimwishlist:item=2599520828&perks=2244851822,3708227201
+
+
+//A Good Shout
+//notes:-Perks Only- Aegis Top High-Impact Crossbo: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2551157718
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2551157718
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2551157718
+dimwishlist:item=649691506&perks=3987942396,2319119708
+dimwishlist:item=649691506&perks=3987942396,2551157718
+dimwishlist:item=649691506&perks=4042220767,2319119708
+dimwishlist:item=649691506&perks=4042220767,2551157718
+dimwishlist:item=649691506&perks=1134488199,2319119708
+dimwishlist:item=649691506&perks=1134488199,2551157718
 
 

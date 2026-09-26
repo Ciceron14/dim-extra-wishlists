@@ -1,6 +1,79 @@
 title:Aegis's Endgame Analysis -> Special (Major Perks only)
 description:Special weapons rated A or S.
 
+//Veillantif-D
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
+dimwishlist:item=1361871430&perks=1421772400,4293542123
+dimwishlist:item=1361871430&perks=1421772400,2109543898
+dimwishlist:item=1361871430&perks=1421772400,2890807135
+dimwishlist:item=1361871430&perks=3017780555,4293542123
+dimwishlist:item=1361871430&perks=3017780555,2109543898
+dimwishlist:item=1361871430&perks=3017780555,2890807135
+dimwishlist:item=1361871430&perks=1017229899,4293542123
+dimwishlist:item=1361871430&perks=1017229899,2109543898
+dimwishlist:item=1361871430&perks=1017229899,2890807135
+dimwishlist:item=406384293&perks=1421772400,4293542123
+dimwishlist:item=406384293&perks=1421772400,2109543898
+dimwishlist:item=406384293&perks=1421772400,2890807135
+dimwishlist:item=406384293&perks=3017780555,4293542123
+dimwishlist:item=406384293&perks=3017780555,2109543898
+dimwishlist:item=406384293&perks=3017780555,2890807135
+dimwishlist:item=406384293&perks=1017229899,4293542123
+dimwishlist:item=406384293&perks=1017229899,2109543898
+dimwishlist:item=406384293&perks=1017229899,2890807135
+
+
+//Mint Retrograde
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=42435996&perks=2859149211,3081867624
+dimwishlist:item=42435996&perks=2859149211,2396489472
+dimwishlist:item=42435996&perks=2859149211,923806249
+dimwishlist:item=42435996&perks=831391274,3081867624
+dimwishlist:item=42435996&perks=831391274,2396489472
+dimwishlist:item=42435996&perks=831391274,923806249
+dimwishlist:item=42435996&perks=,3081867624
+dimwishlist:item=42435996&perks=,2396489472
+dimwishlist:item=42435996&perks=,923806249
+dimwishlist:item=3285784871&perks=2869569095,3081867624
+dimwishlist:item=3285784871&perks=2869569095,2396489472
+dimwishlist:item=3285784871&perks=2859149211,3081867624
+dimwishlist:item=3285784871&perks=2859149211,2396489472
+dimwishlist:item=3285784871&perks=831391274,3081867624
+dimwishlist:item=3285784871&perks=831391274,2396489472
+dimwishlist:item=3285784871&perks=,3081867624
+dimwishlist:item=3285784871&perks=,2396489472
+dimwishlist:item=1715391576&perks=2869569095,3081867624
+dimwishlist:item=1715391576&perks=2869569095,2396489472
+dimwishlist:item=1715391576&perks=2859149211,3081867624
+dimwishlist:item=1715391576&perks=2859149211,2396489472
+dimwishlist:item=1715391576&perks=831391274,3081867624
+dimwishlist:item=1715391576&perks=831391274,2396489472
+dimwishlist:item=1715391576&perks=,3081867624
+dimwishlist:item=1715391576&perks=,2396489472
+
+
+//Psi Aeterna IV
+//notes:-Perks Only- Aegis Endgame A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=3556730800&perks=1115162408,4049631843
+dimwishlist:item=3556730800&perks=1115162408,11612903
+dimwishlist:item=3556730800&perks=1115162408,3218042543
+dimwishlist:item=3556730800&perks=1017229899,4049631843
+dimwishlist:item=3556730800&perks=1017229899,11612903
+dimwishlist:item=3556730800&perks=1017229899,3218042543
+dimwishlist:item=3556730800&perks=2859149211,4049631843
+dimwishlist:item=3556730800&perks=2859149211,11612903
+dimwishlist:item=3556730800&perks=2859149211,3218042543
+dimwishlist:item=135971347&perks=1115162408,4049631843
+dimwishlist:item=135971347&perks=1115162408,11612903
+dimwishlist:item=135971347&perks=1115162408,3218042543
+dimwishlist:item=135971347&perks=1017229899,4049631843
+dimwishlist:item=135971347&perks=1017229899,11612903
+dimwishlist:item=135971347&perks=1017229899,3218042543
+dimwishlist:item=135971347&perks=2859149211,4049631843
+dimwishlist:item=135971347&perks=2859149211,11612903
+dimwishlist:item=135971347&perks=2859149211,3218042543
+
+
 //VS Velocity Baton
 //notes:-Perks Only- Aegis Endgame S Tier. Best With 'Bray Legacy' Origin Trait. MW: Reload or Handling
 dimwishlist:item=1762785663&perks=776531651,2048641572

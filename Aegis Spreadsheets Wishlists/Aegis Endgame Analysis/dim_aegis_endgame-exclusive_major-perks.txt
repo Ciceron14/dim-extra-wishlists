@@ -679,6 +679,28 @@ dimwishlist:item=2452936816&perks=3108830275,2396489472
 dimwishlist:item=2452936816&perks=3108830275,243981275
 
 
+//Veillantif-D
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
+dimwishlist:item=1361871430&perks=1421772400,4293542123
+dimwishlist:item=1361871430&perks=1421772400,2109543898
+dimwishlist:item=1361871430&perks=1421772400,2890807135
+dimwishlist:item=1361871430&perks=3017780555,4293542123
+dimwishlist:item=1361871430&perks=3017780555,2109543898
+dimwishlist:item=1361871430&perks=3017780555,2890807135
+dimwishlist:item=1361871430&perks=1017229899,4293542123
+dimwishlist:item=1361871430&perks=1017229899,2109543898
+dimwishlist:item=1361871430&perks=1017229899,2890807135
+dimwishlist:item=406384293&perks=1421772400,4293542123
+dimwishlist:item=406384293&perks=1421772400,2109543898
+dimwishlist:item=406384293&perks=1421772400,2890807135
+dimwishlist:item=406384293&perks=3017780555,4293542123
+dimwishlist:item=406384293&perks=3017780555,2109543898
+dimwishlist:item=406384293&perks=3017780555,2890807135
+dimwishlist:item=406384293&perks=1017229899,4293542123
+dimwishlist:item=406384293&perks=1017229899,2109543898
+dimwishlist:item=406384293&perks=1017229899,2890807135
+
+
 //Unsworn
 //notes:-Perks Only- Aegis Endgame S Tier. Best With 'Subjugation' Origin Trait. MW: Reload
 dimwishlist:item=1303313141&perks=3700496672,831391274
@@ -933,6 +955,35 @@ dimwishlist:item=3718184802&perks=3300816228,2922950962
 dimwishlist:item=3718184802&perks=1955165503,2396489472
 dimwishlist:item=3718184802&perks=1955165503,3764420437
 dimwishlist:item=3718184802&perks=1955165503,2922950962
+
+
+//Mint Retrograde
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=42435996&perks=2859149211,3081867624
+dimwishlist:item=42435996&perks=2859149211,2396489472
+dimwishlist:item=42435996&perks=2859149211,923806249
+dimwishlist:item=42435996&perks=831391274,3081867624
+dimwishlist:item=42435996&perks=831391274,2396489472
+dimwishlist:item=42435996&perks=831391274,923806249
+dimwishlist:item=42435996&perks=,3081867624
+dimwishlist:item=42435996&perks=,2396489472
+dimwishlist:item=42435996&perks=,923806249
+dimwishlist:item=3285784871&perks=2869569095,3081867624
+dimwishlist:item=3285784871&perks=2869569095,2396489472
+dimwishlist:item=3285784871&perks=2859149211,3081867624
+dimwishlist:item=3285784871&perks=2859149211,2396489472
+dimwishlist:item=3285784871&perks=831391274,3081867624
+dimwishlist:item=3285784871&perks=831391274,2396489472
+dimwishlist:item=3285784871&perks=,3081867624
+dimwishlist:item=3285784871&perks=,2396489472
+dimwishlist:item=1715391576&perks=2869569095,3081867624
+dimwishlist:item=1715391576&perks=2869569095,2396489472
+dimwishlist:item=1715391576&perks=2859149211,3081867624
+dimwishlist:item=1715391576&perks=2859149211,2396489472
+dimwishlist:item=1715391576&perks=831391274,3081867624
+dimwishlist:item=1715391576&perks=831391274,2396489472
+dimwishlist:item=1715391576&perks=,3081867624
+dimwishlist:item=1715391576&perks=,2396489472
 
 
 //Lotus-Eater
@@ -1260,6 +1311,22 @@ dimwishlist:item=407511664&perks=3108830275,2305480722
 dimwishlist:item=407511664&perks=3108830275,3751912585
 
 
+//Refurbished A499
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=3661051060&perks=957782887,3764420437
+dimwishlist:item=3661051060&perks=957782887,968510818
+dimwishlist:item=3661051060&perks=2579169598,3764420437
+dimwishlist:item=3661051060&perks=2579169598,968510818
+dimwishlist:item=3661051060&perks=1365187766,3764420437
+dimwishlist:item=3661051060&perks=1365187766,968510818
+dimwishlist:item=593808239&perks=957782887,3764420437
+dimwishlist:item=593808239&perks=957782887,968510818
+dimwishlist:item=593808239&perks=2579169598,3764420437
+dimwishlist:item=593808239&perks=2579169598,968510818
+dimwishlist:item=593808239&perks=1365187766,3764420437
+dimwishlist:item=593808239&perks=1365187766,968510818
+
+
 //Qua Vinctus IV
 //notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload or Handling
 dimwishlist:item=337893613&perks=3523296417,657025441
@@ -1560,5 +1627,21 @@ dimwishlist:item=2601084711&perks=3182497402,557221067
 dimwishlist:item=2601084711&perks=2048641572,657025441
 dimwishlist:item=2601084711&perks=2048641572,2305480722
 dimwishlist:item=2601084711&perks=2048641572,557221067
+
+
+//A Good Shout
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2551157718
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2551157718
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2551157718
+dimwishlist:item=649691506&perks=3987942396,2319119708
+dimwishlist:item=649691506&perks=3987942396,2551157718
+dimwishlist:item=649691506&perks=4042220767,2319119708
+dimwishlist:item=649691506&perks=4042220767,2551157718
+dimwishlist:item=649691506&perks=1134488199,2319119708
+dimwishlist:item=649691506&perks=1134488199,2551157718
 
 

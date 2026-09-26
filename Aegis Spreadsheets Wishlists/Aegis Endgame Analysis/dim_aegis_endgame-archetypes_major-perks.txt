@@ -566,6 +566,28 @@ dimwishlist:item=2452936816&perks=3108830275,2396489472
 dimwishlist:item=2452936816&perks=3108830275,243981275
 
 
+//Veillantif-D
+//notes:-Perks Only- Aegis Top Micro-Missile Rocket Puls: S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
+dimwishlist:item=1361871430&perks=1421772400,4293542123
+dimwishlist:item=1361871430&perks=1421772400,2109543898
+dimwishlist:item=1361871430&perks=1421772400,2890807135
+dimwishlist:item=1361871430&perks=3017780555,4293542123
+dimwishlist:item=1361871430&perks=3017780555,2109543898
+dimwishlist:item=1361871430&perks=3017780555,2890807135
+dimwishlist:item=1361871430&perks=1017229899,4293542123
+dimwishlist:item=1361871430&perks=1017229899,2109543898
+dimwishlist:item=1361871430&perks=1017229899,2890807135
+dimwishlist:item=406384293&perks=1421772400,4293542123
+dimwishlist:item=406384293&perks=1421772400,2109543898
+dimwishlist:item=406384293&perks=1421772400,2890807135
+dimwishlist:item=406384293&perks=3017780555,4293542123
+dimwishlist:item=406384293&perks=3017780555,2109543898
+dimwishlist:item=406384293&perks=3017780555,2890807135
+dimwishlist:item=406384293&perks=1017229899,4293542123
+dimwishlist:item=406384293&perks=1017229899,2109543898
+dimwishlist:item=406384293&perks=1017229899,2890807135
+
+
 //Unfall
 //notes:-Perks Only- Aegis Top Together Forever Rocket Sidearm: A Tier. Best With 'Vanguard Determination' Origin Trait. MW: Reload
 dimwishlist:item=738446555&perks=1556840489,3081867624
@@ -574,6 +596,18 @@ dimwishlist:item=738446555&perks=951095735,3081867624
 dimwishlist:item=738446555&perks=951095735,3966416502
 dimwishlist:item=738446555&perks=1683379515,3081867624
 dimwishlist:item=738446555&perks=1683379515,3966416502
+
+
+//Uncivil Discourse
+//notes:-Perks Only- Aegis Top Dynamic Special Hand Canno: B Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+dimwishlist:item=3146657389&perks=1421772400,555281244
+dimwishlist:item=3146657389&perks=1421772400,2109543898
+dimwishlist:item=3146657389&perks=3932949589,555281244
+dimwishlist:item=3146657389&perks=3932949589,2109543898
+dimwishlist:item=2462965802&perks=1421772400,555281244
+dimwishlist:item=2462965802&perks=1421772400,2109543898
+dimwishlist:item=2462965802&perks=3932949589,555281244
+dimwishlist:item=2462965802&perks=3932949589,2109543898
 
 
 //Trachinus
@@ -1062,6 +1096,22 @@ dimwishlist:item=2881109029&perks=3194351027,113508675
 dimwishlist:item=2881109029&perks=3194351027,1439600632
 
 
+//Refurbished A499
+//notes:-Perks Only- Aegis Top Disruption Heavy Snipe: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+dimwishlist:item=3661051060&perks=957782887,3764420437
+dimwishlist:item=3661051060&perks=957782887,968510818
+dimwishlist:item=3661051060&perks=2579169598,3764420437
+dimwishlist:item=3661051060&perks=2579169598,968510818
+dimwishlist:item=3661051060&perks=1365187766,3764420437
+dimwishlist:item=3661051060&perks=1365187766,968510818
+dimwishlist:item=593808239&perks=957782887,3764420437
+dimwishlist:item=593808239&perks=957782887,968510818
+dimwishlist:item=593808239&perks=2579169598,3764420437
+dimwishlist:item=593808239&perks=2579169598,968510818
+dimwishlist:item=593808239&perks=1365187766,3764420437
+dimwishlist:item=593808239&perks=1365187766,968510818
+
+
 //Qua Vinctus IV
 //notes:-Perks Only- Aegis Top High-Impact LMG: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload,Handling
 dimwishlist:item=337893613&perks=3523296417,657025441
@@ -1363,5 +1413,21 @@ dimwishlist:item=2599520828&perks=923806249,3708227201
 dimwishlist:item=2599520828&perks=2244851822,3201496230
 dimwishlist:item=2599520828&perks=2244851822,1089671869
 dimwishlist:item=2599520828&perks=2244851822,3708227201
+
+
+//A Good Shout
+//notes:-Perks Only- Aegis Top High-Impact Crossbo: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+dimwishlist:item=3615748501&perks=3987942396,2319119708
+dimwishlist:item=3615748501&perks=3987942396,2551157718
+dimwishlist:item=3615748501&perks=4042220767,2319119708
+dimwishlist:item=3615748501&perks=4042220767,2551157718
+dimwishlist:item=3615748501&perks=1134488199,2319119708
+dimwishlist:item=3615748501&perks=1134488199,2551157718
+dimwishlist:item=649691506&perks=3987942396,2319119708
+dimwishlist:item=649691506&perks=3987942396,2551157718
+dimwishlist:item=649691506&perks=4042220767,2319119708
+dimwishlist:item=649691506&perks=4042220767,2551157718
+dimwishlist:item=649691506&perks=1134488199,2319119708
+dimwishlist:item=649691506&perks=1134488199,2551157718
 
 
