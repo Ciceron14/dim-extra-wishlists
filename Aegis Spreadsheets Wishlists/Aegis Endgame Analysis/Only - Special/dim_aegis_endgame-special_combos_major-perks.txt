@@ -21,7 +21,7 @@ dimwishlist:item=2452936816&perks=3108830275,243981275
 
 
 //Veillantif-D
-//notes:-Perks Only- Aegis Top Solar Rocket Puls: S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Solar Rocket Pulse: S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
 dimwishlist:item=1361871430&perks=1421772400,4293542123
 dimwishlist:item=1361871430&perks=1421772400,2109543898
 dimwishlist:item=1361871430&perks=1421772400,2890807135
@@ -67,7 +67,7 @@ dimwishlist:item=3462679024&perks=960997401,4198902903
 
 
 //Uncivil Discourse
-//notes:-Perks Only- Aegis Top Arc Special Hand Canno: B Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+//notes:-Perks Only- Aegis Top Arc Special Hand Cannon: B Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=3146657389&perks=1421772400,555281244
 dimwishlist:item=3146657389&perks=1421772400,2109543898
 dimwishlist:item=3146657389&perks=3932949589,555281244
@@ -288,7 +288,7 @@ dimwishlist:item=1835232052&perks=3218042543,654512643
 
 
 //Psi Aeterna IV
-//notes:-Perks Only- Aegis Top Arc Rocket Puls: A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Arc Rocket Pulse: A Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=3556730800&perks=1115162408,4049631843
 dimwishlist:item=3556730800&perks=1115162408,11612903
 dimwishlist:item=3556730800&perks=1115162408,3218042543
@@ -369,32 +369,25 @@ dimwishlist:item=1685533876&perks=3300816228,243981275
 
 
 //Mint Retrograde
-//notes:-Perks Only- Aegis Top Strand Rocket Puls: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:-Perks Only- Aegis Top Strand Rocket Pulse: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=42435996&perks=2859149211,3081867624
 dimwishlist:item=42435996&perks=2859149211,2396489472
 dimwishlist:item=42435996&perks=2859149211,923806249
 dimwishlist:item=42435996&perks=831391274,3081867624
 dimwishlist:item=42435996&perks=831391274,2396489472
 dimwishlist:item=42435996&perks=831391274,923806249
-dimwishlist:item=42435996&perks=,3081867624
-dimwishlist:item=42435996&perks=,2396489472
-dimwishlist:item=42435996&perks=,923806249
 dimwishlist:item=3285784871&perks=2869569095,3081867624
 dimwishlist:item=3285784871&perks=2869569095,2396489472
 dimwishlist:item=3285784871&perks=2859149211,3081867624
 dimwishlist:item=3285784871&perks=2859149211,2396489472
 dimwishlist:item=3285784871&perks=831391274,3081867624
 dimwishlist:item=3285784871&perks=831391274,2396489472
-dimwishlist:item=3285784871&perks=,3081867624
-dimwishlist:item=3285784871&perks=,2396489472
 dimwishlist:item=1715391576&perks=2869569095,3081867624
 dimwishlist:item=1715391576&perks=2869569095,2396489472
 dimwishlist:item=1715391576&perks=2859149211,3081867624
 dimwishlist:item=1715391576&perks=2859149211,2396489472
 dimwishlist:item=1715391576&perks=831391274,3081867624
 dimwishlist:item=1715391576&perks=831391274,2396489472
-dimwishlist:item=1715391576&perks=,3081867624
-dimwishlist:item=1715391576&perks=,2396489472
 
 
 //Lubrae's Ruin

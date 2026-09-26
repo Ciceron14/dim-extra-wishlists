@@ -235,7 +235,7 @@ dimwishlist:item=407511664&perks=1840239774,2420895100,3108830275,3751912585
 
 
 //Refurbished A499
-//notes:Aegis Top Kinetic Heavy Snipe: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:Aegis Top Kinetic Heavy Sniper: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=3661051060&perks=1840239774,3230963543,957782887,3764420437
 dimwishlist:item=3661051060&perks=1840239774,3230963543,957782887,968510818
 dimwishlist:item=3661051060&perks=1840239774,3230963543,2579169598,3764420437
@@ -313,7 +313,7 @@ dimwishlist:item=4176551594&perks=1840239774,2420895100,831391274,960997401
 
 
 //Opaque Hourglass
-//notes:Aegis Top Arc Crossbo: C Tier. Best With 'Frame of Reference' Origin Trait. MW: Handling
+//notes:Aegis Top Arc Crossbow: C Tier. Best With 'Frame of Reference' Origin Trait. MW: Handling
 dimwishlist:item=1553681400&perks=1220787353,1202133695,951095735,1089671869
 dimwishlist:item=1553681400&perks=1220787353,1202133695,951095735,2848615171
 dimwishlist:item=1553681400&perks=1220787353,1202133695,951095735,3081867624
@@ -889,7 +889,7 @@ dimwishlist:item=2599520828&perks=938542991,2349202967,2244851822,3708227201
 
 
 //A Good Shout
-//notes:Aegis Top Void Crossbo: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+//notes:Aegis Top Void Crossbow: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
 dimwishlist:item=3615748501&perks=1220787353,1202133695,3987942396,2319119708
 dimwishlist:item=3615748501&perks=1220787353,1202133695,3987942396,2551157718
 dimwishlist:item=3615748501&perks=1220787353,1202133695,4042220767,2319119708

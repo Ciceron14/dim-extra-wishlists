@@ -49,7 +49,7 @@ dimwishlist:item=2452936816&perks=3525010810,2822142346,3108830275,243981275
 
 
 //Veillantif-D
-//notes:Aegis Top Micro-Missile Rocket Puls: S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
+//notes:Aegis Top Micro-Missile Rocket Pulse: S Tier. Best With 'Häkke Breach Armaments' Origin Trait. MW: Reload
 dimwishlist:item=1361871430&perks=3525010810,2420895100,1421772400,4293542123
 dimwishlist:item=1361871430&perks=3525010810,2420895100,1421772400,2109543898
 dimwishlist:item=1361871430&perks=3525010810,2420895100,1421772400,2890807135
@@ -141,7 +141,7 @@ dimwishlist:item=738446555&perks=1478423395,1380253176,1683379515,3966416502
 
 
 //Uncivil Discourse
-//notes:Aegis Top Dynamic Special Hand Canno: B Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
+//notes:Aegis Top Dynamic Special Hand Cannon: B Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,555281244
 dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,2109543898
 dimwishlist:item=3146657389&perks=1840239774,807993149,3932949589,555281244

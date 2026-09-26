@@ -120,13 +120,13 @@ dimwishlist:item=2158575991&perks=436053704,2349202967,776531651,3913600130
 
 
 //Roar of the Bear
-//notes:Aegis Top High-Impact Rocket: A Tier. Best With 'Skulking Wolf' Origin Trait. MW: Handling,Reload
+//notes:Aegis Top High-Impact Rocket: A Tier. Best With 'Skulking Wolf' Origin Trait. MW: Handling or Reload
 dimwishlist:item=2881109029&perks=3525010810,3796465595,3194351027,113508675
 dimwishlist:item=2881109029&perks=3525010810,3796465595,3194351027,1439600632
 
 
 //Refurbished A499
-//notes:Aegis Top Disruption Heavy Snipe: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
+//notes:Aegis Top Disruption Heavy Sniper: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=3661051060&perks=1840239774,3230963543,957782887,3764420437
 dimwishlist:item=3661051060&perks=1840239774,3230963543,957782887,968510818
 dimwishlist:item=3661051060&perks=1840239774,3230963543,2579169598,3764420437
@@ -142,7 +142,7 @@ dimwishlist:item=593808239&perks=1840239774,3230963543,1365187766,968510818
 
 
 //Qua Vinctus IV
-//notes:Aegis Top High-Impact LMG: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload,Handling
+//notes:Aegis Top High-Impact LMG: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload or Handling
 dimwishlist:item=337893613&perks=839105230,1431678320,3523296417,657025441
 dimwishlist:item=337893613&perks=839105230,1431678320,3523296417,960997401
 dimwishlist:item=337893613&perks=839105230,1431678320,923806249,657025441
@@ -194,7 +194,7 @@ dimwishlist:item=4176551594&perks=1840239774,2420895100,831391274,960997401
 
 
 //Pyroclastic Flow
-//notes:Aegis Top Precision Rocket: B Tier. Best With 'Fail-deadly' Origin Trait. MW: Handling,Reload
+//notes:Aegis Top Precision Rocket: B Tier. Best With 'Fail-deadly' Origin Trait. MW: Handling or Reload
 dimwishlist:item=3161496501&perks=3525010810,3796465595,1275731761,1439600632
 dimwishlist:item=3161496501&perks=3525010810,3796465595,1275731761,3764420437
 dimwishlist:item=3161496501&perks=3525010810,3796465595,1275731761,3708227201
@@ -220,7 +220,7 @@ dimwishlist:item=3482299617&perks=3525010810,2822142346,2360347339,2396489472
 
 
 //Hezen Vengeance
-//notes:Aegis Top Aggressive Rocket: S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Handling,Reload
+//notes:Aegis Top Aggressive Rocket: S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Handling or Reload
 dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,3764420437
 dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,1089671869
 dimwishlist:item=2265407516&perks=3525010810,3796465595,1275731761,1439600632
@@ -242,7 +242,7 @@ dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,1439600632
 
 
 //Hammerhead
-//notes:Aegis Top Adaptive LMG: S Tier. Best With 'Forge's Kin' Origin Trait. MW: Reload,Handling
+//notes:Aegis Top Adaptive LMG: S Tier. Best With 'Forge's Kin' Origin Trait. MW: Reload or Handling
 dimwishlist:item=1896309757&perks=839105230,1431678320,3425386926,2109543898
 dimwishlist:item=1896309757&perks=839105230,1431678320,2048641572,2109543898
 dimwishlist:item=1896309757&perks=839105230,1561002382,3425386926,2109543898
@@ -518,7 +518,7 @@ dimwishlist:item=3736001863&perks=3525010810,3373736292,2396489472,1089671869
 
 
 //DIABLERETS 06
-//notes:Aegis Top Rapid LMG: S Tier. Best With 'Carrion Munitions' Origin Trait. MW: Reload,Handling
+//notes:Aegis Top Rapid LMG: S Tier. Best With 'Carrion Munitions' Origin Trait. MW: Reload or Handling
 dimwishlist:item=1120206506&perks=839105230,1431678320,831391274,657025441
 dimwishlist:item=1120206506&perks=839105230,1431678320,831391274,3201496230
 dimwishlist:item=1120206506&perks=839105230,1431678320,831391274,557221067
@@ -576,7 +576,7 @@ dimwishlist:item=1120206506&perks=1840239774,2420895100,1820235745,557221067
 
 
 //Corrective Measure
-//notes:Aegis Top Aggressive LMG: S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Reload,Handling
+//notes:Aegis Top Aggressive LMG: S Tier. Best With 'Timelost Magazine' Origin Trait. MW: Reload or Handling
 dimwishlist:item=471518543&perks=839105230,1431678320,3523296417,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,1431678320,3523296417,4049631843
@@ -710,7 +710,7 @@ dimwishlist:item=2890082420&perks=839105230,2680121939,3418782618,3708227201
 
 
 //Bitter End
-//notes:Aegis Top Balanced LMG: B Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Reload,Handling
+//notes:Aegis Top Balanced LMG: B Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Reload or Handling
 dimwishlist:item=954563454&perks=839105230,1080094173,1115162408,3966416502
 dimwishlist:item=954563454&perks=839105230,1080094173,1115162408,557221067
 dimwishlist:item=954563454&perks=839105230,1080094173,1115162408,3218042543
@@ -760,7 +760,7 @@ dimwishlist:item=3366545721&perks=3666208348,269888150,3966416502,3201496230
 
 
 //Bellowing Giant
-//notes:Aegis Top Adaptive Rocket: A Tier. Best With 'Forge's Kin' Origin Trait. MW: Handling,Reload
+//notes:Aegis Top Adaptive Rocket: A Tier. Best With 'Forge's Kin' Origin Trait. MW: Handling or Reload
 dimwishlist:item=412265080&perks=3525010810,3796465595,3927722942,113508675
 dimwishlist:item=412265080&perks=3525010810,3796465595,3927722942,3764420437
 dimwishlist:item=412265080&perks=3525010810,3796465595,3927722942,1439600632
@@ -966,7 +966,7 @@ dimwishlist:item=2599520828&perks=938542991,2349202967,2244851822,3708227201
 
 
 //A Good Shout
-//notes:Aegis Top High-Impact Crossbo: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
+//notes:Aegis Top High-Impact Crossbow: S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Handling
 dimwishlist:item=3615748501&perks=1220787353,1202133695,3987942396,2319119708
 dimwishlist:item=3615748501&perks=1220787353,1202133695,3987942396,2551157718
 dimwishlist:item=3615748501&perks=1220787353,1202133695,4042220767,2319119708

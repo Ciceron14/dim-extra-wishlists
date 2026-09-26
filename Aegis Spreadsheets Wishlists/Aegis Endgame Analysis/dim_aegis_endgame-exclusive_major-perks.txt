@@ -2,7 +2,7 @@ title:Aegis's Endgame Analysis -> Only the best weapons
 description:Lists all weapons rated S (Major Perks Only).
 
 //Zaouli's Bane
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Runneth Over
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Runneth Over' Origin Trait. MW: Reload
 dimwishlist:item=431721920&perks=3201496230,4293542123
 dimwishlist:item=431721920&perks=3201496230,657025441
 dimwishlist:item=431721920&perks=3201496230,3640170453
@@ -24,7 +24,7 @@ dimwishlist:item=3066945855&perks=3038247973,3640170453
 
 
 //Zaouli's Bane
-//notes:-Perks Only- (Pantheon version) - Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Elliptical Orbit
+//notes:-Perks Only- (Pantheon version) - Aegis Endgame S Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Reload
 dimwishlist:item=431721920&perks=3038247973,657025441
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=431721920&perks=3038247973,3640170453
@@ -52,7 +52,7 @@ dimwishlist:item=3066945855&perks=2890807135,3640170453
 
 
 //Yeartide Apex
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Tex Balanced Stock
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Tex Balanced Stock' Origin Trait. MW: Reload
 dimwishlist:item=3293207827&perks=243981275,4293542123
 dimwishlist:item=3293207827&perks=243981275,3640170453
 dimwishlist:item=3293207827&perks=243981275,2890807135
@@ -68,27 +68,23 @@ dimwishlist:item=2965080304&perks=3017780555,2890807135
 
 
 //Word of Crota
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Cursed Thrall
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cursed Thrall' Origin Trait. MW: Reload
 dimwishlist:item=120706239&perks=776531651,2048641572
 dimwishlist:item=120706239&perks=776531651,3081867624
 dimwishlist:item=120706239&perks=2848615171,2048641572
 dimwishlist:item=120706239&perks=2848615171,3081867624
 dimwishlist:item=120706239&perks=4019266109,2048641572
 dimwishlist:item=120706239&perks=4019266109,3081867624
-dimwishlist:item=120706239&perks=,2048641572
-dimwishlist:item=120706239&perks=,3081867624
 dimwishlist:item=3926103986&perks=776531651,2048641572
 dimwishlist:item=3926103986&perks=776531651,3081867624
 dimwishlist:item=3926103986&perks=2848615171,2048641572
 dimwishlist:item=3926103986&perks=2848615171,3081867624
 dimwishlist:item=3926103986&perks=4019266109,2048641572
 dimwishlist:item=3926103986&perks=4019266109,3081867624
-dimwishlist:item=3926103986&perks=,2048641572
-dimwishlist:item=3926103986&perks=,3081867624
 
 
 //Vouchsafe
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Advanced Reflexes
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Advanced Reflexes' Origin Trait. MW: Reload
 dimwishlist:item=355922321&perks=776531651,2048641572
 dimwishlist:item=355922321&perks=776531651,3038247973
 dimwishlist:item=3218302023&perks=776531651,2048641572
@@ -103,7 +99,7 @@ dimwishlist:item=3218302023&perks=3700496672,1134488199
 
 
 //Voltaic Shade
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cooling Efficiency' Origin Trait. MW: Imperial Allegiance
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=71057630&perks=3966416502,657025441
 dimwishlist:item=71057630&perks=3966416502,2173046394
 dimwishlist:item=71057630&perks=3700496672,657025441
@@ -111,7 +107,7 @@ dimwishlist:item=71057630&perks=3700496672,2173046394
 
 
 //Veles-X
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Vanguard Determination
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Vanguard Determination' Origin Trait. MW: Reload
 dimwishlist:item=438540299&perks=776531651,2048641572
 dimwishlist:item=438540299&perks=776531651,1134488199
 dimwishlist:item=438540299&perks=776531651,3824105627
@@ -121,14 +117,14 @@ dimwishlist:item=438540299&perks=1464081238,3824105627
 
 
 //Unworthy
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Subjugation
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Subjugation' Origin Trait. MW: Reload
 dimwishlist:item=2226158470&perks=3824105627,2173046394
 dimwishlist:item=1700366811&perks=3824105627,2173046394
 dimwishlist:item=1700366811&perks=3824105627,654512643
 
 
 //Unforgiven
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Bitterspite
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Bitterspite' Origin Trait. MW: Reload
 dimwishlist:item=234411205&perks=2048641572,776531651
 dimwishlist:item=234411205&perks=2048641572,3640170453
 dimwishlist:item=234411205&perks=2048641572,3182497402
@@ -138,7 +134,7 @@ dimwishlist:item=234411205&perks=243981275,3182497402
 
 
 //Trustee
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Bray Inheritance
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Bray Inheritance' Origin Trait. MW: Reload
 dimwishlist:item=1392919471&perks=3017780555,4293542123
 dimwishlist:item=1392919471&perks=3017780555,657025441
 dimwishlist:item=1392919471&perks=3017780555,2890807135
@@ -148,7 +144,7 @@ dimwishlist:item=1392919471&perks=1523832109,2890807135
 
 
 //The Spiteful Fang
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Draw Time' Origin Trait. MW: Forge's Kin
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Forge's Kin' Origin Trait. MW: Draw Time
 dimwishlist:item=1094998581&perks=124408337,3824105627
 dimwishlist:item=1094998581&perks=124408337,2922950962
 dimwishlist:item=1094998581&perks=1955165503,3824105627
@@ -160,7 +156,7 @@ dimwishlist:item=1704597062&perks=1955165503,2922950962
 
 
 //The Riposte
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: 
+//notes:-Perks Only- Aegis Endgame S Tier.
 dimwishlist:item=3754408118&perks=776531651,2048641572
 dimwishlist:item=3754408118&perks=776531651,2109543898
 dimwishlist:item=866434750&perks=776531651,2048641572
@@ -172,7 +168,7 @@ dimwishlist:item=866434750&perks=1464081238,2109543898
 
 
 //The Recluse
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Indomitability
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Indomitability' Origin Trait. MW: Reload
 dimwishlist:item=1050806815&perks=776531651,2048641572
 dimwishlist:item=3098328572&perks=776531651,2048641572
 dimwishlist:item=3257283337&perks=776531651,2048641572
@@ -182,7 +178,7 @@ dimwishlist:item=3257283337&perks=3182497402,3640170453
 
 
 //The Martlet
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Fleet Footed
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Fleet Footed' Origin Trait. MW: Reload
 dimwishlist:item=877384&perks=776531651,2048641572
 dimwishlist:item=877384&perks=776531651,1134488199
 dimwishlist:item=877384&perks=776531651,2109543898
@@ -192,13 +188,13 @@ dimwishlist:item=877384&perks=3824105627,2109543898
 
 
 //Submission
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Souldrinker
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Souldrinker' Origin Trait. MW: Reload
 dimwishlist:item=3886416794&perks=3891536761,3640170453
 dimwishlist:item=1941816543&perks=3891536761,3640170453
 
 
 //Seventh Seraph SI-2
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Eyes Up
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Eyes Up' Origin Trait. MW: Reload
 dimwishlist:item=453798564&perks=2048641572,776531651
 dimwishlist:item=453798564&perks=2048641572,657025441
 dimwishlist:item=453798564&perks=2048641572,3708227201
@@ -208,7 +204,7 @@ dimwishlist:item=453798564&perks=3182497402,3708227201
 
 
 //Reghusk's Pledge
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Skulking Wolf
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
 dimwishlist:item=2370525224&perks=2048641572,776531651
 dimwishlist:item=2370525224&perks=2048641572,243981275
 dimwishlist:item=2370525224&perks=2048641572,2610012052
@@ -218,7 +214,7 @@ dimwishlist:item=2370525224&perks=2360347339,2610012052
 
 
 //Reckless Oracle
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Photoinhibition
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Photoinhibition' Origin Trait. MW: Reload
 dimwishlist:item=1992309064&perks=2048641572,776531651
 dimwishlist:item=1992309064&perks=3182497402,776531651
 dimwishlist:item=4158265643&perks=2048641572,776531651
@@ -228,7 +224,7 @@ dimwishlist:item=1802315656&perks=3182497402,776531651
 
 
 //Reckless Oracle
-//notes:-Perks Only- (Pantheon version) - Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Elliptical Orbit
+//notes:-Perks Only- (Pantheon version) - Aegis Endgame S Tier. Best With 'Elliptical Orbit' Origin Trait. MW: Reload
 dimwishlist:item=1992309064&perks=2048641572,776531651
 dimwishlist:item=1992309064&perks=3182497402,776531651
 dimwishlist:item=4158265643&perks=2048641572,776531651
@@ -252,7 +248,7 @@ dimwishlist:item=1802315656&perks=4019266109,1134488199
 
 
 //Punching Out
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=1469372193&perks=3017780555,4293542123
 dimwishlist:item=1469372193&perks=3017780555,657025441
 dimwishlist:item=1409524486&perks=3017780555,4293542123
@@ -260,7 +256,7 @@ dimwishlist:item=1409524486&perks=3017780555,657025441
 
 
 //Premonition
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Loss
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Loss' Origin Trait. MW: Reload
 dimwishlist:item=1969802090&perks=776531651,2048641572
 dimwishlist:item=1969802090&perks=776531651,657025441
 dimwishlist:item=1969802090&perks=776531651,1134488199
@@ -273,7 +269,7 @@ dimwishlist:item=1969802090&perks=1464081238,1134488199
 
 
 //Positive Outlook
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=3625635456&perks=776531651,2048641572
 dimwishlist:item=3625635456&perks=776531651,2305480722
 dimwishlist:item=3625635456&perks=1134488199,2048641572
@@ -285,13 +281,13 @@ dimwishlist:item=1832481283&perks=1134488199,2305480722
 
 
 //Point of the Stag
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Draw Time' Origin Trait. MW: Skulking Wolf
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Draw Time
 dimwishlist:item=911019136&perks=2848615171,2173046394
 dimwishlist:item=911019136&perks=2848615171,3414324643
 
 
 //Nullify
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Collective Purpose
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Collective Purpose' Origin Trait. MW: Reload
 dimwishlist:item=859869931&perks=3017780555,4293542123
 dimwishlist:item=859869931&perks=3017780555,657025441
 dimwishlist:item=859869931&perks=3017780555,3640170453
@@ -313,7 +309,7 @@ dimwishlist:item=892183998&perks=2890807135,3640170453
 
 
 //Non-Denouement
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Draw Time' Origin Trait. MW: Collective Purpose
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Collective Purpose' Origin Trait. MW: Draw Time
 dimwishlist:item=1770490683&perks=2848615171,2173046394
 dimwishlist:item=1770490683&perks=2848615171,3640170453
 dimwishlist:item=1770490683&perks=2848615171,657025441
@@ -335,7 +331,7 @@ dimwishlist:item=1039915310&perks=3700496672,657025441
 
 
 //No Hesitation
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Range' Origin Trait. MW: Dealer's Choice
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Dealer's Choice' Origin Trait. MW: Range
 dimwishlist:item=1801007332&perks=2980589453,3640170453
 dimwishlist:item=1801007332&perks=2980589453,243981275
 dimwishlist:item=1801007332&perks=2980589453,4293542123
@@ -345,7 +341,7 @@ dimwishlist:item=1801007332&perks=2890807135,4293542123
 
 
 //Multimach CCX
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Skulking Wolf
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
 dimwishlist:item=3211624072&perks=243981275,3891536761
 dimwishlist:item=3026836571&perks=243981275,3891536761
 dimwishlist:item=3026836571&perks=2289534249,3891536761
@@ -353,7 +349,7 @@ dimwishlist:item=3026836571&perks=1517798362,3891536761
 
 
 //Modified B-7 Pistol
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cooling Efficiency' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=3146657388&perks=3824105627,124408337
 dimwishlist:item=3146657388&perks=3824105627,2922950962
 dimwishlist:item=1872906663&perks=3824105627,124408337
@@ -361,7 +357,7 @@ dimwishlist:item=1872906663&perks=3824105627,2922950962
 
 
 //MIDA Mini-Tool
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Vanguard Determination
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Vanguard Determination' Origin Trait. MW: Reload
 dimwishlist:item=3946054154&perks=243981275,4293542123
 dimwishlist:item=3946054154&perks=243981275,2890807135
 dimwishlist:item=3946054154&perks=3017780555,4293542123
@@ -369,13 +365,13 @@ dimwishlist:item=3946054154&perks=3017780555,2890807135
 
 
 //M-17 "Fast Talker"
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cooling Efficiency' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=1419158093&perks=243981275,2922950962
 dimwishlist:item=2770035786&perks=243981275,2922950962
 
 
 //Kindled Orchid
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Forge's Kin
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Forge's Kin' Origin Trait. MW: Reload
 dimwishlist:item=2575506895&perks=1015611457,3038247973
 dimwishlist:item=3961462214&perks=776531651,2048641572
 dimwishlist:item=3961462214&perks=776531651,3038247973
@@ -398,7 +394,7 @@ dimwishlist:item=334964261&perks=1015611457,1464081238
 
 
 //Joxer's Longsword
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=157601190&perks=776531651,2048641572
 dimwishlist:item=157601190&perks=776531651,1134488199
 dimwishlist:item=157601190&perks=2848615171,2048641572
@@ -426,7 +422,7 @@ dimwishlist:item=3538003989&perks=3700496672,1015611457
 
 
 //IRONWOOD 03
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Carrion Munitions
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Carrion Munitions' Origin Trait. MW: Reload
 dimwishlist:item=2041617874&perks=776531651,2048641572
 dimwishlist:item=2041617874&perks=776531651,3708227201
 dimwishlist:item=2041617874&perks=776531651,3324494224
@@ -439,7 +435,7 @@ dimwishlist:item=2041617874&perks=3523296417,3324494224
 
 
 //Insurmountable
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Dark Ether Reaper
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Dark Ether Reaper' Origin Trait. MW: Reload
 dimwishlist:item=414045521&perks=776531651,2048641572
 dimwishlist:item=414045521&perks=776531651,2109543898
 dimwishlist:item=414045521&perks=776531651,3708227201
@@ -461,7 +457,7 @@ dimwishlist:item=2596736862&perks=1421772400,3708227201
 
 
 //High Tyrant
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cooling Efficiency' Origin Trait. MW: Imperial Allegiance
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Imperial Allegiance' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=2873508409&perks=776531651,657025441
 dimwishlist:item=2873508409&perks=776531651,1464081238
 dimwishlist:item=2873508409&perks=776531651,1134488199
@@ -471,7 +467,7 @@ dimwishlist:item=2873508409&perks=2048641572,1134488199
 
 
 //Heliocentric QSc
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Nadir Focus
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Nadir Focus' Origin Trait. MW: Reload
 dimwishlist:item=3998080529&perks=3017780555,4293542123
 dimwishlist:item=3998080529&perks=3017780555,3708227201
 dimwishlist:item=1291040555&perks=3017780555,4293542123
@@ -479,7 +475,7 @@ dimwishlist:item=1291040555&perks=3017780555,3708227201
 
 
 //Gridskipper
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Splicer Surge
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Splicer Surge' Origin Trait. MW: Reload
 dimwishlist:item=3433930495&perks=776531651,2048641572
 dimwishlist:item=3433930495&perks=776531651,2109543898
 dimwishlist:item=3176697589&perks=776531651,2048641572
@@ -489,7 +485,7 @@ dimwishlist:item=3176697589&perks=1464081238,2109543898
 
 
 //Gnawing Hunger
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Gun and Run
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Gun and Run' Origin Trait. MW: Reload
 dimwishlist:item=214545213&perks=776531651,2048641572
 dimwishlist:item=214545213&perks=776531651,3081867624
 dimwishlist:item=214545213&perks=1134488199,2048641572
@@ -497,7 +493,7 @@ dimwishlist:item=214545213&perks=1134488199,3081867624
 
 
 //Eyasluna
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Unburied Treasure
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Unburied Treasure' Origin Trait. MW: Reload
 dimwishlist:item=386864872&perks=3824105627,124408337
 dimwishlist:item=386864872&perks=3824105627,2922950962
 dimwishlist:item=386864872&perks=3824105627,3640170453
@@ -507,7 +503,7 @@ dimwishlist:item=386864872&perks=657025441,3640170453
 
 
 //Exalted Truth
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Fleet Footed
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Fleet Footed' Origin Trait. MW: Reload
 dimwishlist:item=3436626079&perks=2048641572,776531651
 dimwishlist:item=3436626079&perks=1134488199,776531651
 dimwishlist:item=1201528146&perks=2048641572,776531651
@@ -517,7 +513,7 @@ dimwishlist:item=2776092653&perks=1134488199,776531651
 
 
 //Evening SI4
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Reload
 dimwishlist:item=1763361847&perks=3017780555,4293542123
 dimwishlist:item=1763361847&perks=3017780555,2890807135
 dimwishlist:item=1763361847&perks=2360347339,4293542123
@@ -529,7 +525,7 @@ dimwishlist:item=3618823368&perks=2360347339,2890807135
 
 
 //Epochal Integration
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Nanotech Tracer Missiles
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Nanotech Tracer Missiles' Origin Trait. MW: Reload
 dimwishlist:item=3851394887&perks=3038247973,657025441
 dimwishlist:item=3851394887&perks=3038247973,4293542123
 dimwishlist:item=3851394887&perks=3038247973,3640170453
@@ -539,7 +535,7 @@ dimwishlist:item=3851394887&perks=3017780555,3640170453
 
 
 //Elsie's Rifle
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Indomitability
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Indomitability' Origin Trait. MW: Reload
 dimwishlist:item=2372514509&perks=776531651,2048641572
 dimwishlist:item=2372514509&perks=776531651,2109543898
 dimwishlist:item=3851176026&perks=776531651,2048641572
@@ -553,41 +549,35 @@ dimwishlist:item=381446446&perks=3182497402,2109543898
 
 
 //Drang
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Vanguard Determination
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Vanguard Determination' Origin Trait. MW: Reload
 dimwishlist:item=358190158&perks=3017780555,4293542123
 dimwishlist:item=358190158&perks=3017780555,2890807135
 
 
 //Doom of Chelchis
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Runneth Over
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Runneth Over' Origin Trait. MW: Reload
 dimwishlist:item=1937552980&perks=2048641572,776531651
 dimwishlist:item=1937552980&perks=2048641572,657025441
 dimwishlist:item=1937552980&perks=2048641572,1134488199
-dimwishlist:item=1937552980&perks=2048641572,
 dimwishlist:item=1937552980&perks=3824105627,776531651
 dimwishlist:item=1937552980&perks=3824105627,657025441
 dimwishlist:item=1937552980&perks=3824105627,1134488199
-dimwishlist:item=1937552980&perks=3824105627,
 dimwishlist:item=1937552980&perks=1464081238,776531651
 dimwishlist:item=1937552980&perks=1464081238,657025441
 dimwishlist:item=1937552980&perks=1464081238,1134488199
-dimwishlist:item=1937552980&perks=1464081238,
 dimwishlist:item=1184692845&perks=2048641572,776531651
 dimwishlist:item=1184692845&perks=2048641572,657025441
 dimwishlist:item=1184692845&perks=2048641572,1134488199
-dimwishlist:item=1184692845&perks=2048641572,
 dimwishlist:item=1184692845&perks=3824105627,776531651
 dimwishlist:item=1184692845&perks=3824105627,657025441
 dimwishlist:item=1184692845&perks=3824105627,1134488199
-dimwishlist:item=1184692845&perks=3824105627,
 dimwishlist:item=1184692845&perks=1464081238,776531651
 dimwishlist:item=1184692845&perks=1464081238,657025441
 dimwishlist:item=1184692845&perks=1464081238,1134488199
-dimwishlist:item=1184692845&perks=1464081238,
 
 
 //DECATUR 02
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Range' Origin Trait. MW: Carrion Munitions
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Carrion Munitions' Origin Trait. MW: Range
 dimwishlist:item=1850748385&perks=2980589453,692399809
 dimwishlist:item=1850748385&perks=2980589453,3081867624
 dimwishlist:item=1850748385&perks=2980589453,3201496230
@@ -600,7 +590,7 @@ dimwishlist:item=1850748385&perks=243981275,3201496230
 
 
 //Cusp Sempiternal
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Range' Origin Trait. MW: Frame of Reference
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Frame of Reference' Origin Trait. MW: Range
 dimwishlist:item=2579693381&perks=692399809,1134488199
 dimwishlist:item=2579693381&perks=692399809,2048641572
 dimwishlist:item=2579693381&perks=692399809,3081867624
@@ -613,13 +603,13 @@ dimwishlist:item=2579693381&perks=243981275,3081867624
 
 
 //Compact Defender
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Cooling Efficiency' Origin Trait. MW: Accelerated Assault
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Accelerated Assault' Origin Trait. MW: Cooling Efficiency
 dimwishlist:item=2819552809&perks=2048641572,776531651
 dimwishlist:item=2659286158&perks=2048641572,776531651
 
 
 //Claws of the Wolf
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Skulking Wolf
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Skulking Wolf' Origin Trait. MW: Reload
 dimwishlist:item=1505862304&perks=776531651,2048641572
 dimwishlist:item=1505862304&perks=776531651,3425386926
 dimwishlist:item=1505862304&perks=776531651,243981275
@@ -629,7 +619,7 @@ dimwishlist:item=3634548599&perks=776531651,243981275
 
 
 //Bug-Out Bag
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Gun and Run
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Gun and Run' Origin Trait. MW: Reload
 dimwishlist:item=3327901954&perks=776531651,2048641572
 dimwishlist:item=3327901954&perks=776531651,3324494224
 dimwishlist:item=3327901954&perks=243981275,2048641572
@@ -637,7 +627,7 @@ dimwishlist:item=3327901954&perks=243981275,3324494224
 
 
 //Brass Attacks
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Land Tank
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Land Tank' Origin Trait. MW: Reload
 dimwishlist:item=1291040554&perks=776531651,2048641572
 dimwishlist:item=1291040554&perks=776531651,1464081238
 dimwishlist:item=1291040554&perks=776531651,3425386926
@@ -647,13 +637,13 @@ dimwishlist:item=1291040554&perks=2360347339,3425386926
 
 
 //Biting Winds
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Draw Time' Origin Trait. MW: Winterized Gear
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Winterized Gear' Origin Trait. MW: Draw Time
 dimwishlist:item=2485400469&perks=2289534249,3891536761
 dimwishlist:item=2485400469&perks=2360347339,3891536761
 
 
 //Age-Old Bond
-//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Reload' Origin Trait. MW: Explosive Pact
+//notes:-Perks Only- Aegis Endgame S Tier. Best With 'Explosive Pact' Origin Trait. MW: Reload
 dimwishlist:item=424291879&perks=776531651,2048641572
 dimwishlist:item=424291879&perks=776531651,3324494224
 dimwishlist:item=424291879&perks=657025441,2048641572
@@ -965,25 +955,18 @@ dimwishlist:item=42435996&perks=2859149211,923806249
 dimwishlist:item=42435996&perks=831391274,3081867624
 dimwishlist:item=42435996&perks=831391274,2396489472
 dimwishlist:item=42435996&perks=831391274,923806249
-dimwishlist:item=42435996&perks=,3081867624
-dimwishlist:item=42435996&perks=,2396489472
-dimwishlist:item=42435996&perks=,923806249
 dimwishlist:item=3285784871&perks=2869569095,3081867624
 dimwishlist:item=3285784871&perks=2869569095,2396489472
 dimwishlist:item=3285784871&perks=2859149211,3081867624
 dimwishlist:item=3285784871&perks=2859149211,2396489472
 dimwishlist:item=3285784871&perks=831391274,3081867624
 dimwishlist:item=3285784871&perks=831391274,2396489472
-dimwishlist:item=3285784871&perks=,3081867624
-dimwishlist:item=3285784871&perks=,2396489472
 dimwishlist:item=1715391576&perks=2869569095,3081867624
 dimwishlist:item=1715391576&perks=2869569095,2396489472
 dimwishlist:item=1715391576&perks=2859149211,3081867624
 dimwishlist:item=1715391576&perks=2859149211,2396489472
 dimwishlist:item=1715391576&perks=831391274,3081867624
 dimwishlist:item=1715391576&perks=831391274,2396489472
-dimwishlist:item=1715391576&perks=,3081867624
-dimwishlist:item=1715391576&perks=,2396489472
 
 
 //Lotus-Eater
